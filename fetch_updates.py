@@ -22,9 +22,17 @@ from datetime import datetime, timezone
 from html import unescape
 
 FEEDS = [
-    {"url": "https://www.rbi.org.in/pressreleases_rss.xml", "source": "RBI Press Release", "category": "banking"},
-    {"url": "https://www.rbi.org.in/notifications_rss.xml", "source": "RBI Notification", "category": "banking"},
-    {"url": "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1", "source": "PIB (Govt. of India)", "category": "general"},
+    {"url": "https://www.rbi.org.in/pressreleases_rss.xml", "source": "RBI Press Release", "category": "banking", "always_include": False},
+    {"url": "https://www.rbi.org.in/notifications_rss.xml", "source": "RBI Notification", "category": "banking", "always_include": False},
+    {"url": "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1", "source": "PIB (Govt. of India)", "category": "general", "always_include": False},
+    # Economic Times — these are already topic-dedicated feeds (editorially curated by ET
+    # for that specific subject), so we trust them and skip keyword filtering entirely.
+    {"url": "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms", "source": "Economic Times - GST", "category": "gst", "always_include": True},
+    {"url": "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119912.cms", "source": "Economic Times - Income Tax", "category": "income-tax", "always_include": True},
+    {"url": "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms", "source": "Economic Times - Personal Finance", "category": "general", "always_include": True},
+    # Banking/Finance Industry is broader (covers company results, strategy etc. too),
+    # so it still goes through the keyword filter below.
+    {"url": "https://economictimes.indiatimes.com/rssfeeds/13358259.cms", "source": "Economic Times - Banking/Finance", "category": "banking", "always_include": False},
 ]
 
 # Keep items whose title matches at least one of these (case-insensitive)
@@ -46,7 +54,7 @@ EXCLUDE_PATTERNS = [
     "forward premia", "reference rate for us", "developmental and regulatory policies",
 ]
 
-MAX_ITEMS = 20
+MAX_ITEMS = 30
 OUTPUT_PATH = "updates-feed.json"
 
 
@@ -63,7 +71,7 @@ def is_relevant(title):
     return any(kw in t for kw in INCLUDE_KEYWORDS)
 
 
-def parse_rss(xml_bytes, source, category):
+def parse_rss(xml_bytes, source, category, always_include=False):
     items = []
     try:
         root = ET.fromstring(xml_bytes)
@@ -87,7 +95,7 @@ def parse_rss(xml_bytes, source, category):
                 continue
         if not title or not link:
             continue
-        if not is_relevant(title):
+        if not always_include and not is_relevant(title):
             continue
         items.append({
             "title": title,
@@ -111,7 +119,7 @@ def main():
     for feed in FEEDS:
         try:
             raw = fetch(feed["url"])
-            items = parse_rss(raw, feed["source"], feed["category"])
+            items = parse_rss(raw, feed["source"], feed["category"], feed.get("always_include", False))
             all_items.extend(items)
             print(f"OK  {feed['url']} -> {len(items)} relevant item(s)")
         except Exception as e:
