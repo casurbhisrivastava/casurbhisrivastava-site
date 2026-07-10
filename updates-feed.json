@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-07-10T13:11:44+00:00",
+  "generated_at": "2026-07-10T13:43:32+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
-    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1"
+    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1",
+    "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms",
+    "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119912.cms",
+    "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms",
+    "https://economictimes.indiatimes.com/rssfeeds/13358259.cms"
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
@@ -17,59 +21,206 @@
       "category": "banking"
     },
     {
-      "title": "Foreign Exchange Management (Deposit) (Sixth Amendment) Regulations, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13553&Mode=0",
-      "date": "2026-06-29",
-      "source": "RBI Notification",
+      "title": "Confused about ITR forms? Check the right ITR for salaried, pensioners, students and other taxpayers",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/confused-about-itr-forms-check-the-right-itr-for-salaried-pensioners-students-and-other-taxpayers/articleshow/132305711.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Forgot your Income Tax e-filing password? Here's how to reset it without access to your registered mobile number",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-for-fy-25-26-income-tax-return-forgot-your-e-filing-password-heres-how-to-reset-it-without-registered-mobile-number/articleshow/132305780.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Child education allowance tax benefit in ITR filing for FY 25-26: Know when you can claim it",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/child-education-allowance-income-tax-benefit-in-itr-filing-for-fy-25-26-know-when-you-can-claim-it/articleshow/132303558.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Invested in foreign shares? Know how to file ITR with ‘relevant accounting period’ for reporting foreign assets in Schedule FA?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/invested-in-foreign-shares-know-how-to-file-itr-with-relevant-accounting-period-for-reporting-foreign-assets-in-schedule-fa/articleshow/132303195.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Foreign tax data to be included in Form 26AS",
+      "link": "https://economictimes.indiatimes.com/wealth/personal-finance-news/foreign-tax-data-to-be-included-in-form-26as/articleshow/132297832.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Personal Finance",
+      "category": "general"
+    },
+    {
+      "title": "RBI is right to act on digital payment fraud. But some safeguards need sharper design",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-is-right-to-act-on-digital-payment-fraud-but-some-safeguards-need-sharper-design/articleshow/132309496.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Master Direction – Reserve Bank of India (Credit Derivatives) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13552&Mode=0",
-      "date": "2026-06-25",
-      "source": "RBI Notification",
+      "title": "Shriram Finance taps foreign banks for cheaper debt",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/shriram-finance-taps-foreign-banks-for-cheaper-debt/articleshow/132297670.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Review of Circulars issued under Foreign Exchange Management Act, 1999 (FEMA)",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13551&Mode=0",
-      "date": "2026-06-24",
-      "source": "RBI Notification",
+      "title": "Have foreign income or assets? AIS to soon show foreign assets and income details shared by foreign countries",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/have-foreign-income-or-assets-ais-to-soon-show-foreign-assets-and-income-details-shared-by-foreign-countries/articleshow/132287959.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Claiming Section 80G tax deduction? You must report these additional details when filing your ITR for AY 2026-2027",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-2026-claiming-section-80g-tax-deduction-you-must-report-these-additional-details-when-filing-your-itr-for-ay-2026-2027/articleshow/132284802.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing 2026: NRIs need to file Schedule FA in ITR to declare foreign asset for AY 2026-2027 in this case",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-nris-need-to-file-schedule-fa-in-itr-to-declare-foreign-asset-for-ay-2026-2027-in-this-case/articleshow/132277940.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing 2026: Rs 15 lakh, Rs 20 lakh, and Rs 25 lakh salary; how much tax you could pay under new vs old tax regime?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-rs-15-lakh-rs-20-lakh-and-rs-25-lakh-salary-how-much-tax-you-could-pay-under-new-vs-old-tax-regime/articleshow/132277391.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Section 234B interest on updated ITRs: CPC's computation logic appears contrary to law",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/section-234b-interest-on-updated-itrs-cpcs-computation-logic-appears-contrary-to-law/articleshow/132261984.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Evolving nature of digital payment system in India",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/evolving-nature-of-digital-payment-system-in-india/articleshow/132288276.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Reserve Bank of India (Rural Co-operative Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13549&Mode=0",
-      "date": "2026-06-24",
-      "source": "RBI Notification",
+      "title": "Bank credit growth to ease as corporates tap bond markets, overseas funding: CareEdge",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-to-ease-as-corporates-tap-bond-markets-overseas-funding-careedge/articleshow/132287238.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Reserve Bank of India (Urban Co-operative Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13548&Mode=0",
-      "date": "2026-06-24",
-      "source": "RBI Notification",
+      "title": "DBS Bank India profit jumps 49% on lower costs, better asset quality",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dbs-bank-india-profit-jumps-49-on-lower-costs-better-asset-quality/articleshow/132285846.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Reserve Bank of India (Regional Rural Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13547&Mode=0",
-      "date": "2026-06-24",
-      "source": "RBI Notification",
+      "title": "Italian corporate bank lending in May posts fastest growth since September 2022",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/italian-corporate-bank-lending-in-may-posts-fastest-growth-since-september-2022/articleshow/132282145.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Reserve Bank of India (Local Area Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13546&Mode=0",
-      "date": "2026-06-24",
-      "source": "RBI Notification",
+      "title": "State Bank of India draws over $1.5 billion in forex deposits",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/state-bank-of-india-draws-over-1-5-billion-in-forex-deposits/articleshow/132278756.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Reserve Bank of India (Payments Banks - Responsible Business Conduct) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13545&Mode=0",
-      "date": "2026-06-24",
-      "source": "RBI Notification",
+      "title": "Private banks may lead PSU peers in Q1 PAT show amid macro pressures",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/private-banks-may-lead-psu-peers-in-q1-pat-show-amid-macro-pressures/articleshow/132272062.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Axis Bank loses three senior executives amid leadership reshuffle",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-loses-three-senior-executives-amid-leadership-reshuffle/articleshow/132272107.cms",
+      "date": "2026-07-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "ITR filing 2026: Step-by-step guide to filing ITR-2 online on the income tax portal",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-step-by-step-guide-to-filing-itr-2-online-on-the-income-tax-portal/articleshow/132259491.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Filing ITR for FY 2025-26? Income Tax Department shares 10 mistakes to avoid and tips to follow",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-for-fy-2025-26-ay-26-27-income-tax-department-shares-10-filing-tips-check-tax-regime-ais-form-26as-and-more/articleshow/132259422.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Opting for presumptive taxation while filing ITR? You may have to face tax audit; here's what you must know",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/opting-for-presumptive-taxation-while-filing-itr-you-may-have-to-face-tax-audit-heres-what-you-must-know/articleshow/132256154.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Gifted a house to your spouse? You may still have to pay tax on the rental income: Know 7 key things before filing ITR for AY 2026-27",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/gifted-a-house-to-your-spouse-you-may-still-have-to-pay-tax-on-the-rental-income-know-7-key-things-before-filing-itr-for-ay-2026-27/articleshow/132254877.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Filing ITR for easy loans, visas, and scholarships - sounds strange? Know why filing ITR is more important than you think",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/filing-itr-for-easy-loans-visas-and-scholarships-sounds-strange-know-why-filing-itr-is-more-important-than-you-think/articleshow/132255474.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing 2026: Is AIS enough to report stock and mutual fund capital gains?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-is-ais-enough-to-report-stock-and-mutual-fund-capital-gains/articleshow/132235815.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "RBI approves Mahesh M Pai as new MD at South Indian Bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/south-indian-bank-names-canara-banks-mahesh-pai-as-ceo/articleshow/132266988.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Punjab & Sind Bank gets approval to set up IFSC banking unit at GIFT City",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-sind-bank-gets-approval-to-set-up-ifsc-banking-unit-at-gift-city/articleshow/132262665.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "South Indian Bank says RBI approves Mahesh Muralidhar Pai's appointment as MD, CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/south-indian-bank-says-rbi-approves-mahesh-muralidhar-pais-appointment-as-md-ceo/articleshow/132258550.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Credit cards are losing ground to small personal loans, TransUnion CIBIL data shows",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/credit-cards-are-losing-ground-to-small-personal-loans-transunion-cibil-data-shows/articleshow/132256978.cms",
+      "date": "2026-07-08",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     }
   ]
