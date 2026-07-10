@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-07-10T13:11:44+00:00",
+  "sources": [
+    "https://www.rbi.org.in/pressreleases_rss.xml",
+    "https://www.rbi.org.in/notifications_rss.xml",
+    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1"
+  ],
+  "errors": [
+    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
+  ],
+  "items": [
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63122",
+      "date": "2026-07-10",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "Foreign Exchange Management (Deposit) (Sixth Amendment) Regulations, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13553&Mode=0",
+      "date": "2026-06-29",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Master Direction – Reserve Bank of India (Credit Derivatives) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13552&Mode=0",
+      "date": "2026-06-25",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Review of Circulars issued under Foreign Exchange Management Act, 1999 (FEMA)",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13551&Mode=0",
+      "date": "2026-06-24",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13549&Mode=0",
+      "date": "2026-06-24",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13548&Mode=0",
+      "date": "2026-06-24",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13547&Mode=0",
+      "date": "2026-06-24",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13546&Mode=0",
+      "date": "2026-06-24",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks - Responsible Business Conduct) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13545&Mode=0",
+      "date": "2026-06-24",
+      "source": "RBI Notification",
+      "category": "banking"
+    }
+  ]
+}
