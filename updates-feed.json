@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T13:43:32+00:00",
+  "generated_at": "2026-07-11T10:37:24+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,20 @@
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "title": "How to check Annual Information Statement (AIS) before filing ITR: Step-by-step guide",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-check-annual-information-statement-ais-before-filing-itr-step-by-step-guide/articleshow/132327704.cms",
+      "date": "2026-07-11",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "NRI sells his Bangalore property for Rs 2.63 crore, declares Rs 16.33 lakh LTCG, gets tax notice; he fights and wins partial relief from ITAT for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-sells-his-bangalore-property-for-rs-2-63-crore-declares-rs-16-33-lakh-ltcg-gets-tax-notice-he-fights-and-wins-partial-relief-from-itat-for-this-reason/articleshow/132311044.cms",
+      "date": "2026-07-11",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
     {
       "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63122",
@@ -54,6 +68,34 @@
       "date": "2026-07-10",
       "source": "Economic Times - Personal Finance",
       "category": "general"
+    },
+    {
+      "title": "Indian Bank drops capital raising plan on lower ECL hit",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132317739.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Kotak Mahindra Bank to pursue acquisitions alongside organic growth",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-bank-to-pursue-acquisitions-alongside-organic-growth/articleshow/132316661.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Bank credit growth at two-year high at 18.6% as debt market turns costlier",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-growth-at-two-year-high-at-18-6-as-debt-market-turns-costlier/articleshow/132315763.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "FM Nirmala Sitharaman to meets heads of PSU banks on Mon, review foreign currency deposit mobilisation",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fm-nirmala-sitharaman-to-meets-heads-of-psu-banks-on-mon-review-foreign-currency-deposit-mobilisation/articleshow/132314136.cms",
+      "date": "2026-07-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
     },
     {
       "title": "RBI is right to act on digital payment fraud. But some safeguards need sharper design",
@@ -180,48 +222,6 @@
       "date": "2026-07-08",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
-    },
-    {
-      "title": "Filing ITR for easy loans, visas, and scholarships - sounds strange? Know why filing ITR is more important than you think",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/filing-itr-for-easy-loans-visas-and-scholarships-sounds-strange-know-why-filing-itr-is-more-important-than-you-think/articleshow/132255474.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR filing 2026: Is AIS enough to report stock and mutual fund capital gains?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-is-ais-enough-to-report-stock-and-mutual-fund-capital-gains/articleshow/132235815.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "RBI approves Mahesh M Pai as new MD at South Indian Bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/south-indian-bank-names-canara-banks-mahesh-pai-as-ceo/articleshow/132266988.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Punjab & Sind Bank gets approval to set up IFSC banking unit at GIFT City",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-sind-bank-gets-approval-to-set-up-ifsc-banking-unit-at-gift-city/articleshow/132262665.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "South Indian Bank says RBI approves Mahesh Muralidhar Pai's appointment as MD, CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/south-indian-bank-says-rbi-approves-mahesh-muralidhar-pais-appointment-as-md-ceo/articleshow/132258550.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Credit cards are losing ground to small personal loans, TransUnion CIBIL data shows",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/credit-cards-are-losing-ground-to-small-personal-loans-transunion-cibil-data-shows/articleshow/132256978.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
     }
   ]
 }
