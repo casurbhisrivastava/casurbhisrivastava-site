@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T10:37:24+00:00",
+  "generated_at": "2026-07-12T11:00:07+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,20 @@
   ],
   "items": [
     {
+      "title": "Indian Bank aims to recover Rs 5,500 from bad loans during FY27: MD Binod Kumar",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-aims-to-recover-rs-5500-from-bad-loans-during-fy27-md-binod-kumar/articleshow/132341143.cms",
+      "date": "2026-07-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "FM Sitharaman to meet PSB chiefs to review foreign currency deposit drive",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fm-sitharaman-to-meet-psb-chiefs-to-review-foreign-currency-deposit-drive/articleshow/132340976.cms",
+      "date": "2026-07-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
       "title": "How to check Annual Information Statement (AIS) before filing ITR: Step-by-step guide",
       "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-check-annual-information-statement-ais-before-filing-itr-step-by-step-guide/articleshow/132327704.cms",
       "date": "2026-07-11",
@@ -26,6 +40,34 @@
       "date": "2026-07-11",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
+    },
+    {
+      "title": "HDFC Bank redeploys backend employees to customer-facing roles",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-redeploys-backend-employees-to-customer-facing-roles/articleshow/132335364.cms",
+      "date": "2026-07-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "HDFC Bank ex-chairman Atanu Chakraborty's FY26 earnings rise 3.5% despite early exit",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ex-chairman-atanu-chakrabortys-fy26-earnings-rise-3-5-despite-early-exit/articleshow/132333811.cms",
+      "date": "2026-07-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "HDFC Bank MD: Chakraborty's abrupt exit a 'challenging event' that raised governance questions",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-md-chakrabortys-abrupt-exit-a-challenging-event-that-raised-governance-questions/articleshow/132331320.cms",
+      "date": "2026-07-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "HDFC Bank redeploys staff to customer-facing roles as tech efficiencies take hold: CEO Jagdishan",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-redeploys-staff-to-customer-facing-roles-as-tech-efficiencies-take-hold-ceo-jagdishan/articleshow/132329090.cms",
+      "date": "2026-07-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
     },
     {
       "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
@@ -180,48 +222,6 @@
       "date": "2026-07-09",
       "source": "Economic Times - Banking/Finance",
       "category": "banking"
-    },
-    {
-      "title": "Private banks may lead PSU peers in Q1 PAT show amid macro pressures",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/private-banks-may-lead-psu-peers-in-q1-pat-show-amid-macro-pressures/articleshow/132272062.cms",
-      "date": "2026-07-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Axis Bank loses three senior executives amid leadership reshuffle",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-loses-three-senior-executives-amid-leadership-reshuffle/articleshow/132272107.cms",
-      "date": "2026-07-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "ITR filing 2026: Step-by-step guide to filing ITR-2 online on the income tax portal",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-step-by-step-guide-to-filing-itr-2-online-on-the-income-tax-portal/articleshow/132259491.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Filing ITR for FY 2025-26? Income Tax Department shares 10 mistakes to avoid and tips to follow",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-for-fy-2025-26-ay-26-27-income-tax-department-shares-10-filing-tips-check-tax-regime-ais-form-26as-and-more/articleshow/132259422.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Opting for presumptive taxation while filing ITR? You may have to face tax audit; here's what you must know",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/opting-for-presumptive-taxation-while-filing-itr-you-may-have-to-face-tax-audit-heres-what-you-must-know/articleshow/132256154.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Gifted a house to your spouse? You may still have to pay tax on the rental income: Know 7 key things before filing ITR for AY 2026-27",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/gifted-a-house-to-your-spouse-you-may-still-have-to-pay-tax-on-the-rental-income-know-7-key-things-before-filing-itr-for-ay-2026-27/articleshow/132254877.cms",
-      "date": "2026-07-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
     }
   ]
 }
