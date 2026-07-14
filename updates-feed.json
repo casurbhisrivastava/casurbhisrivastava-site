@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:40:41+00:00",
+  "generated_at": "2026-07-14T11:12:41+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,69 @@
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "title": "Bengaluru landowner sells 17 apartments, earns Rs 11.8 crore LTCG, pays no tax; I-T dept sends notices; he contests and wins in ITAT Bangalore",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/bengaluru-landowner-sells-17-apartments-earns-rs-11-8-crore-ltcg-pays-no-tax-i-t-dept-sends-notices-he-contests-and-wins-in-itat-bangalore/articleshow/132382371.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR 2026: Increased disclosure requirements for overseas investments and foreign assets—are Indian taxpayers ready?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-2026-increased-disclosure-requirements-for-overseas-investments-and-foreign-assetsare-indian-taxpayers-ready/articleshow/132381649.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "What happens if you miss July 31, 2026, ITR filing deadline? Why you should not miss this due date",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/incometaxindia-july-31-2026-itr-filing-deadline-for-fy-25-26-what-happens-if-you-miss-this-due-date/articleshow/132379796.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Will filing your ITR early get you a faster income tax refund? Here's what really determines the processing time",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/will-filing-your-itr-early-get-you-a-faster-income-tax-refund-heres-what-really-determines-the-processing-time/articleshow/132366171.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "The Rs 7.50 lakh myth: Why employer's NPS contribution must be included in salary for claiming deduction under Section 80CCD(2)",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/the-rs-7-50-lakh-myth-why-employers-nps-contribution-must-be-included-in-salary-for-claiming-deduction-under-section-80ccd2/articleshow/132362111.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Insurance distribution boosts fee income at most public sector banks in FY26",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/public-sector-banks-surge-in-insurance-commissions-for-fy26-sbi-leads-with-1926-growth/articleshow/132388608.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Education-loan AUM of NBFCs seen up 20 pc despite slower US biz: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/education-loan-aum-of-nbfcs-seen-up-20-pc-despite-slower-us-biz-report/articleshow/132386472.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "7,700 jobs down: India’s top private banks’ workforce reduce as tech wonder gets busy",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-top-banks-cut-7700-jobs-the-rise-of-automation-and-ai-in-banking-workforce/articleshow/132361791.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "India nears accepting sweetened Fairfax offer for IDBI Bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-nears-accepting-sweetened-fairfax-offer-for-idbi-bank/articleshow/132380562.cms",
+      "date": "2026-07-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
     {
       "title": "Reserve Bank convenes Third Annual Conference of Internal Ombudsmen",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63137",
@@ -37,20 +100,6 @@
     {
       "title": "RBI imposes monetary penalty on The Sambalpur District Co-operative Central Bank Limited, Odisha",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63134",
-      "date": "2026-07-13",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on The Nawada Central Co-operative Bank Limited, Bihar",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63133",
-      "date": "2026-07-13",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on The Chikhli Urban Co-operative Bank Limited, Chikhli, Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63132",
       "date": "2026-07-13",
       "source": "RBI Press Release",
       "category": "banking"
@@ -96,6 +145,13 @@
       "date": "2026-07-13",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
+    },
+    {
+      "title": "HDFC Bank's total workforce witnesses reduction of 3,343 employees in FY26",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-banks-total-workforce-witnesses-reduction-of-3343-employees-in-fy26/articleshow/132369373.cms",
+      "date": "2026-07-13",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
     },
     {
       "title": "FCNR inflows may reduce banks' reliance on CD market in Q2 FY27: Report",
@@ -164,62 +220,6 @@
       "title": "How to check Annual Information Statement (AIS) before filing ITR: Step-by-step guide",
       "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-check-annual-information-statement-ais-before-filing-itr-step-by-step-guide/articleshow/132327704.cms",
       "date": "2026-07-11",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "NRI sells his Bangalore property for Rs 2.63 crore, declares Rs 16.33 lakh LTCG, gets tax notice; he fights and wins partial relief from ITAT for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-sells-his-bangalore-property-for-rs-2-63-crore-declares-rs-16-33-lakh-ltcg-gets-tax-notice-he-fights-and-wins-partial-relief-from-itat-for-this-reason/articleshow/132311044.cms",
-      "date": "2026-07-11",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "HDFC Bank redeploys backend employees to customer-facing roles",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-redeploys-backend-employees-to-customer-facing-roles/articleshow/132335364.cms",
-      "date": "2026-07-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "HDFC Bank ex-chairman Atanu Chakraborty's FY26 earnings rise 3.5% despite early exit",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ex-chairman-atanu-chakrabortys-fy26-earnings-rise-3-5-despite-early-exit/articleshow/132333811.cms",
-      "date": "2026-07-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "HDFC Bank MD: Chakraborty's abrupt exit a 'challenging event' that raised governance questions",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-md-chakrabortys-abrupt-exit-a-challenging-event-that-raised-governance-questions/articleshow/132331320.cms",
-      "date": "2026-07-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "HDFC Bank redeploys staff to customer-facing roles as tech efficiencies take hold: CEO Jagdishan",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-redeploys-staff-to-customer-facing-roles-as-tech-efficiencies-take-hold-ceo-jagdishan/articleshow/132329090.cms",
-      "date": "2026-07-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Confused about ITR forms? Check the right ITR for salaried, pensioners, students and other taxpayers",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/confused-about-itr-forms-check-the-right-itr-for-salaried-pensioners-students-and-other-taxpayers/articleshow/132305711.cms",
-      "date": "2026-07-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Forgot your Income Tax e-filing password? Here's how to reset it without access to your registered mobile number",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-for-fy-25-26-income-tax-return-forgot-your-e-filing-password-heres-how-to-reset-it-without-registered-mobile-number/articleshow/132305780.cms",
-      "date": "2026-07-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Child education allowance tax benefit in ITR filing for FY 25-26: Know when you can claim it",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/child-education-allowance-income-tax-benefit-in-itr-filing-for-fy-25-26-know-when-you-can-claim-it/articleshow/132303558.cms",
-      "date": "2026-07-10",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
     }
