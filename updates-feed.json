@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T11:17:16+00:00",
+  "generated_at": "2026-07-16T11:56:00+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,31 +14,108 @@
   ],
   "items": [
     {
-      "title": "RBI cancels Certificate of Registration of 192 NBFCs",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63154",
-      "date": "2026-07-15",
-      "source": "RBI Press Release",
+      "title": "Cost Inflation Index (CII) for Tax Year 2026-27 notified: Here's what it means for capital gains tax",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/cost-inflation-index-cii-for-tax-year-2026-27-notified-heres-what-it-means-for-capital-gains-tax/articleshow/132437210.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Have an inactive foreign bank account? You may still need to disclose it in your ITR for AY 2026-27",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/have-an-inactive-foreign-bank-account-you-may-still-need-to-disclose-it-in-your-itr-for-ay-2026-27/articleshow/132435467.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "NRI woman sold her property in Gujarat for Rs 21 lakh, tax dept sent notices, she missed them as she lived abroad; later she files case and wins in ITAT Ahmedabad",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-woman-sold-her-property-in-gujarat-for-rs-21-lakh-tax-dept-sent-notices-she-missed-them-as-she-lived-abroad-later-she-files-case-and-wins-in-itat-ahmedabad/articleshow/132434487.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR 2026: Common income tax return filing mistakes that cost employees lakhs",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-2026-common-income-tax-return-filing-mistakes-that-cost-employees-lakhs/articleshow/132431223.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing: Should you keep printouts of all your tax documents, or are digital copies enough?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-should-you-keep-printouts-of-all-your-tax-documents-or-are-digital-copies-enough/articleshow/132415676.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Foreign assets in AIS: CBDT sets the stage for Foreign Assets of Small Taxpayers Disclosure Scheme",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-assets-in-ais-cbdt-sets-the-stage-for-foreign-assets-of-small-taxpayers-disclosure-scheme/articleshow/132413293.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Selling Gold? Your tax bill depends on how you own it; ETFs, SGBs, jewellery and digital gold compared",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/selling-gold-your-tax-bill-depends-on-how-you-own-it-etfs-sgbs-jewellery-and-digital-gold-compared/articleshow/132413012.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Exim Bank India presents Rs 428 cr dividend cheque to FM Sitharaman for FY26",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/exim-bank-india-presents-rs-428-cr-dividend-cheque-to-fm-sitharaman-for-fy26/articleshow/132437978.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "18 NBFCs surrender their Certificate of Registration to the RBI",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63153",
-      "date": "2026-07-15",
-      "source": "RBI Press Release",
+      "title": "RBI proposes stricter data governance framework for banks, NBFCs; seeks feedback by Aug 17",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-stricter-data-governance-framework-for-banks-nbfcs-seeks-feedback-by-aug-17/articleshow/132432196.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Scheduled Banks’ Statement of Position in India as on June 30, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63152",
-      "date": "2026-07-15",
-      "source": "RBI Press Release",
+      "title": "Himachal Pradesh State Cooperative Bank to suspend digital banking services from July 17-22 for core banking system upgrade",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/himachal-pradesh-state-cooperative-bank-to-suspend-digital-banking-services-from-july-17-22-for-core-banking-system-upgrade/articleshow/132430435.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "Exclusion of “Indian Mercantile Co-operative Bank Ltd., Lucknow” from the Second Schedule to the Reserve Bank of India Act, 1934",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63151",
+      "title": "Reserve Bank of India (Urban Cooperative Banks – Credit Facilities) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13563&Mode=0",
       "date": "2026-07-15",
-      "source": "RBI Press Release",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions – Credit Facilities) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13562&Mode=0",
+      "date": "2026-07-15",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13561&Mode=0",
+      "date": "2026-07-15",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Credit Facilities) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13560&Mode=0",
+      "date": "2026-07-15",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Credit Facilities) Fifth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13559&Mode=0",
+      "date": "2026-07-15",
+      "source": "RBI Notification",
       "category": "banking"
     },
     {
@@ -56,7 +133,7 @@
       "category": "income-tax"
     },
     {
-      "title": "Received cash, property or shares as gifts? You may have to pay tax as per ITR reporting rules in these cases",
+      "title": "Income tax on gifts: Received cash, property or shares? You may have to pay tax and report it in your ITR in these cases",
       "link": "https://economictimes.indiatimes.com/wealth/tax/received-cash-property-or-shares-as-gifts-you-may-have-to-pay-tax-as-per-itr-reporting-rules-in-these-cases/articleshow/132410313.cms",
       "date": "2026-07-15",
       "source": "Economic Times - Income Tax",
@@ -84,6 +161,20 @@
       "category": "income-tax"
     },
     {
+      "title": "Jana SFB targets 80:20 secured-unsecured loan mix; expects TVS partnership to boost two-wheeler financing",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/jana-sfb-targets-2080-secured-unsecured-loan-mix-expects-tvs-partnership-to-boost-two-wheeler-financing/articleshow/132419465.cms",
+      "date": "2026-07-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "HDFC Bank gets RBI nod to appoint Rajiv Kumar as part-time chairman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-gets-rbi-nod-to-appoint-rajiv-kumar-as-part-time-chairman/articleshow/132415516.cms",
+      "date": "2026-07-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
       "title": "Lending, deposit rates likely to ease gradually as funding costs soften: CareEdge",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lending-deposit-rates-likely-to-ease-gradually-as-funding-costs-soften-careedge/articleshow/132411310.cms",
       "date": "2026-07-15",
@@ -95,27 +186,6 @@
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfax-to-acquire-idbi-bank-stake-in-5-5-billion-deal-biggest-foreign-investment-in-indian-bank/articleshow/132400419.cms",
       "date": "2026-07-15",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Governor, Reserve Bank of India meets MD & CEOs of Public Sector Banks and select Private Sector Banks",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63147",
-      "date": "2026-07-14",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI Issues Amendment Directions on ‘Matters to be placed before the Boards of the Banks’",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63146",
-      "date": "2026-07-14",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI invites public comments on the draft “Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026”",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63145",
-      "date": "2026-07-14",
-      "source": "RBI Press Release",
       "category": "banking"
     },
     {
@@ -150,76 +220,6 @@
       "title": "Bengaluru landowner sells 17 apartments, earns Rs 11.8 crore LTCG, pays no tax; I-T dept sends notices; he contests and wins in ITAT Bangalore",
       "link": "https://economictimes.indiatimes.com/wealth/tax/bengaluru-landowner-sells-17-apartments-earns-rs-11-8-crore-ltcg-pays-no-tax-i-t-dept-sends-notices-he-contests-and-wins-in-itat-bangalore/articleshow/132382371.cms",
       "date": "2026-07-14",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR 2026: Increased disclosure requirements for overseas investments and foreign assets—are Indian taxpayers ready?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-2026-increased-disclosure-requirements-for-overseas-investments-and-foreign-assetsare-indian-taxpayers-ready/articleshow/132381649.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "What happens if you miss July 31, 2026, ITR filing deadline? Why you should not miss this due date",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/incometaxindia-july-31-2026-itr-filing-deadline-for-fy-25-26-what-happens-if-you-miss-this-due-date/articleshow/132379796.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Will filing your ITR early get you a faster income tax refund? Here's what really determines the processing time",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/will-filing-your-itr-early-get-you-a-faster-income-tax-refund-heres-what-really-determines-the-processing-time/articleshow/132366171.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "The Rs 7.50 lakh myth: Why employer's NPS contribution must be included in salary for claiming deduction under Section 80CCD(2)",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/the-rs-7-50-lakh-myth-why-employers-nps-contribution-must-be-included-in-salary-for-claiming-deduction-under-section-80ccd2/articleshow/132362111.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "RBI amends bank board governance norms, new rules to kick in from Oct 1",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-amends-bank-board-governance-norms-new-rules-to-kick-in-from-oct-1/articleshow/132397014.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Insurance distribution boosts fee income at most public sector banks in FY26",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/public-sector-banks-surge-in-insurance-commissions-for-fy26-sbi-leads-with-1926-growth/articleshow/132388608.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Education-loan AUM of NBFCs seen up 20 pc despite slower US biz: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/education-loan-aum-of-nbfcs-seen-up-20-pc-despite-slower-us-biz-report/articleshow/132386472.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "7,700 jobs down: India’s top private banks’ workforce reduce as tech wonder gets busy",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-top-banks-cut-7700-jobs-the-rise-of-automation-and-ai-in-banking-workforce/articleshow/132361791.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "India nears accepting sweetened Fairfax offer for IDBI Bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-nears-accepting-sweetened-fairfax-offer-for-idbi-bank/articleshow/132380562.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Income tax guide: Allowance and reimbursement exemption limits every salaried employee should know",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-guide-allowance-and-reimbursement-exemption-limits-every-salaried-employee-should-know/articleshow/132361905.cms",
-      "date": "2026-07-13",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
     }
