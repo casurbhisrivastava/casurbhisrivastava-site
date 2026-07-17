@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T11:56:00+00:00",
+  "generated_at": "2026-07-17T11:09:48+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,7 +14,84 @@
   ],
   "items": [
     {
-      "title": "Cost Inflation Index (CII) for Tax Year 2026-27 notified: Here's what it means for capital gains tax",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63168",
+      "date": "2026-07-17",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13580&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13579&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks – Income Recognition, Asset Classification and Provisioning) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13578&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Cooperative Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13577&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13576&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Non-Banking Financial Companies Income Recognition, Asset Classification and Provisioning) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13575&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13574&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13573&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks – Resolution of Stressed Assets) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13572&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Resolution of Stressed Assets) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13571&Mode=0",
+      "date": "2026-07-16",
+      "source": "RBI Notification",
+      "category": "banking"
+    },
+    {
+      "title": "Cost Inflation Index: How it can help you file your income tax return",
       "link": "https://economictimes.indiatimes.com/wealth/tax/cost-inflation-index-cii-for-tax-year-2026-27-notified-heres-what-it-means-for-capital-gains-tax/articleshow/132437210.cms",
       "date": "2026-07-16",
       "source": "Economic Times - Income Tax",
@@ -63,6 +140,13 @@
       "category": "income-tax"
     },
     {
+      "title": "RBI bars banks, NBFCs from selling acquired stressed assets back to defaulting borrowers, related parties",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-bars-banks-nbfcs-from-selling-acquired-stressed-assets-back-to-defaulting-borrowers-related-parties/articleshow/132441216.cms",
+      "date": "2026-07-16",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
       "title": "Exim Bank India presents Rs 428 cr dividend cheque to FM Sitharaman for FY26",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/exim-bank-india-presents-rs-428-cr-dividend-cheque-to-fm-sitharaman-for-fy26/articleshow/132437978.cms",
       "date": "2026-07-16",
@@ -81,41 +165,6 @@
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/himachal-pradesh-state-cooperative-bank-to-suspend-digital-banking-services-from-july-17-22-for-core-banking-system-upgrade/articleshow/132430435.cms",
       "date": "2026-07-16",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Urban Cooperative Banks – Credit Facilities) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13563&Mode=0",
-      "date": "2026-07-15",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (All India Financial Institutions – Credit Facilities) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13562&Mode=0",
-      "date": "2026-07-15",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13561&Mode=0",
-      "date": "2026-07-15",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks – Credit Facilities) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13560&Mode=0",
-      "date": "2026-07-15",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Credit Facilities) Fifth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13559&Mode=0",
-      "date": "2026-07-15",
-      "source": "RBI Notification",
       "category": "banking"
     },
     {
@@ -173,55 +222,6 @@
       "date": "2026-07-15",
       "source": "Economic Times - Banking/Finance",
       "category": "banking"
-    },
-    {
-      "title": "Lending, deposit rates likely to ease gradually as funding costs soften: CareEdge",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lending-deposit-rates-likely-to-ease-gradually-as-funding-costs-soften-careedge/articleshow/132411310.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Fairfax to acquire IDBI Bank stake in $5.5 billion deal, biggest foreign investment in Indian bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfax-to-acquire-idbi-bank-stake-in-5-5-billion-deal-biggest-foreign-investment-in-indian-bank/articleshow/132400419.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Payments Banks – Governance) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13558&Mode=0",
-      "date": "2026-07-14",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks – Governance) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13557&Mode=0",
-      "date": "2026-07-14",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks – Governance) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13556&Mode=0",
-      "date": "2026-07-14",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Governance) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13555&Mode=0",
-      "date": "2026-07-14",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Bengaluru landowner sells 17 apartments, earns Rs 11.8 crore LTCG, pays no tax; I-T dept sends notices; he contests and wins in ITAT Bangalore",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/bengaluru-landowner-sells-17-apartments-earns-rs-11-8-crore-ltcg-pays-no-tax-i-t-dept-sends-notices-he-contests-and-wins-in-itat-bangalore/articleshow/132382371.cms",
-      "date": "2026-07-14",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
     }
   ]
 }
