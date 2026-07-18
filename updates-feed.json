@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T11:09:48+00:00",
+  "generated_at": "2026-07-18T10:46:47+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,10 +14,94 @@
   ],
   "items": [
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63168",
+      "title": "Employee wrongly reported Rs 65.21 lakh VRS payout in ITR, lost tax relief; ITAT Pune rules the amount is not taxable and grants him relief",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/employee-wrongly-reported-rs-65-21-lakh-vrs-payout-in-itr-lost-tax-relief-itat-pune-rules-the-amount-is-not-taxable-and-grants-him-relief/articleshow/132476175.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "These property sellers may need to re-compute advance tax after delayed release of Cost Inflation Index for tax year 2026-27; here’s what to do",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/these-property-sellers-may-need-to-re-compute-advance-tax-after-delayed-release-of-cost-inflation-index-for-tax-year-2026-27-heres-what-to-do/articleshow/132475671.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Name appearing in builder's records showing cash payment: Will you need to pay income tax for such property purchase? Here’s what ITAT said",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/name-appearing-in-builders-records-showing-cash-payment-will-you-need-to-pay-income-tax-for-such-property-purchase-heres-what-itat-said/articleshow/132474005.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "UPI MDR could raise business costs, hurt consumption if introduced: Experts",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-could-raise-business-costs-hurt-consumption-if-introduced-experts/articleshow/132476082.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "IDBI Bank ups FCNR ante with 16% on offer",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idbi-bank-ups-fcnr-ante-with-16-on-offer/articleshow/132469436.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Banks seek RBI clarity on collateral-free loans up to Rs 20 lakh for small businesses",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-seek-rbi-clarity-on-collateral-free-loans-up-to-rs-20-lakh-for-small-businesses/articleshow/132468732.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Directions under Section 35 A read with section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – Padmashri Dr. Vithalrao Vikhe Patil Co-operative Bank Ltd. Nashik",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63183",
       "date": "2026-07-17",
       "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Satya MicroCapital Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63181",
+      "date": "2026-07-17",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on PAN Emami Cosmed Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63180",
+      "date": "2026-07-17",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Dhani Loans and Services Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63179",
+      "date": "2026-07-17",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Muthoot Vehicle and Asset Finance Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63178",
+      "date": "2026-07-17",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Avail Financial Services Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63177",
+      "date": "2026-07-17",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes penalties on Muthoot Finance, 5 others for compliance violations",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-imposes-penalties-on-muthoot-finance-5-others-for-compliance-violations/articleshow/132466010.cms",
+      "date": "2026-07-17",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
@@ -84,13 +168,6 @@
       "category": "banking"
     },
     {
-      "title": "Reserve Bank of India (Regional Rural Banks – Resolution of Stressed Assets) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13571&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
       "title": "Cost Inflation Index: How it can help you file your income tax return",
       "link": "https://economictimes.indiatimes.com/wealth/tax/cost-inflation-index-cii-for-tax-year-2026-27-notified-heres-what-it-means-for-capital-gains-tax/articleshow/132437210.cms",
       "date": "2026-07-16",
@@ -143,83 +220,6 @@
       "title": "RBI bars banks, NBFCs from selling acquired stressed assets back to defaulting borrowers, related parties",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-bars-banks-nbfcs-from-selling-acquired-stressed-assets-back-to-defaulting-borrowers-related-parties/articleshow/132441216.cms",
       "date": "2026-07-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Exim Bank India presents Rs 428 cr dividend cheque to FM Sitharaman for FY26",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/exim-bank-india-presents-rs-428-cr-dividend-cheque-to-fm-sitharaman-for-fy26/articleshow/132437978.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "RBI proposes stricter data governance framework for banks, NBFCs; seeks feedback by Aug 17",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-stricter-data-governance-framework-for-banks-nbfcs-seeks-feedback-by-aug-17/articleshow/132432196.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Himachal Pradesh State Cooperative Bank to suspend digital banking services from July 17-22 for core banking system upgrade",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/himachal-pradesh-state-cooperative-bank-to-suspend-digital-banking-services-from-july-17-22-for-core-banking-system-upgrade/articleshow/132430435.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Did you claim a minimum Rs 10,000 income tax refund for your car bought in FY26? Here's how to claim your 1% TCS now",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/tcs-refund-on-car-purchase-itr-filing-2026-did-you-claim-a-minimum-rs-10000-income-tax-refund-for-your-car-bought-in-fy26-heres-how-to-claim-your-1-tcs-now/articleshow/132407844.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Home loan interest column for self-occupied house disabled in ITR utility? Know what to do while ITR filing for AY 2026-2027",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/home-loan-interest-column-for-self-occupied-house-disabled-in-itr-utility-know-what-to-do-while-itr-filing-for-ay-2026-2027/articleshow/132410910.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Income tax on gifts: Received cash, property or shares? You may have to pay tax and report it in your ITR in these cases",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/received-cash-property-or-shares-as-gifts-you-may-have-to-pay-tax-as-per-itr-reporting-rules-in-these-cases/articleshow/132410313.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR filing 2026: How to download interest certificate from SBI, HDFC Bank, ICICI Bank, Axis Bank and India Post",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-how-to-download-interest-certificate-from-sbi-hdfc-bank-icici-bank-axis-bank-and-india-post/articleshow/132406129.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Salaried employee earning Rs 68 lakh donates Rs 12 lakh to political party, claims tax deduction; I-T dept denies it; he contests but loses in ITAT Ahmedabad",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/salaried-employee-earning-rs-68-lakh-donates-rs-12-lakh-to-political-party-claims-tax-deduction-i-t-dept-denies-it-he-contests-but-loses-in-itat-ahmedabad/articleshow/132406788.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Filed your ITR but did not get your income tax refund? Here's how to check your ITR status online and resolve common delays",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/filed-your-itr-but-did-not-get-your-income-tax-refund-heres-how-to-check-your-itr-status-online-and-resolve-common-delays/articleshow/132388670.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Jana SFB targets 80:20 secured-unsecured loan mix; expects TVS partnership to boost two-wheeler financing",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/jana-sfb-targets-2080-secured-unsecured-loan-mix-expects-tvs-partnership-to-boost-two-wheeler-financing/articleshow/132419465.cms",
-      "date": "2026-07-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "HDFC Bank gets RBI nod to appoint Rajiv Kumar as part-time chairman",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-gets-rbi-nod-to-appoint-rajiv-kumar-as-part-time-chairman/articleshow/132415516.cms",
-      "date": "2026-07-15",
       "source": "Economic Times - Banking/Finance",
       "category": "banking"
     }
