@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T10:46:47+00:00",
+  "generated_at": "2026-07-19T10:58:53+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,20 @@
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "title": "India’s private lenders bet on corporate loan revival for growth",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-private-lenders-bet-on-corporate-loan-revival-for-growth/articleshow/132490915.cms",
+      "date": "2026-07-19",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Trade, NBFC credit to remain fastest-growing lending segments: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/trade-nbfc-credit-to-remain-fastest-growing-lending-segments-report/articleshow/132490027.cms",
+      "date": "2026-07-19",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
     {
       "title": "Employee wrongly reported Rs 65.21 lakh VRS payout in ITR, lost tax relief; ITAT Pune rules the amount is not taxable and grants him relief",
       "link": "https://economictimes.indiatimes.com/wealth/tax/employee-wrongly-reported-rs-65-21-lakh-vrs-payout-in-itr-lost-tax-relief-itat-pune-rules-the-amount-is-not-taxable-and-grants-him-relief/articleshow/132476175.cms",
@@ -33,6 +47,20 @@
       "date": "2026-07-18",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
+    },
+    {
+      "title": "PNB mobilises $419 million in FCNR(B) deposits, on track to meet $2.5 billion target: Executive Director",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-mobilises-419-million-in-fcnrb-deposits-on-track-to-meet-2-5-billion-target-executive-director/articleshow/132482534.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Axis Bank appoints ex-Bandhan Bank CFO Rajeev Mantri as finance chief",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-appoints-ex-bandhan-bank-cfo-rajeev-mantri-as-finance-chief/articleshow/132478660.cms",
+      "date": "2026-07-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
     },
     {
       "title": "UPI MDR could raise business costs, hurt consumption if introduced: Experts",
@@ -194,34 +222,6 @@
       "date": "2026-07-16",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
-    },
-    {
-      "title": "ITR filing: Should you keep printouts of all your tax documents, or are digital copies enough?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-should-you-keep-printouts-of-all-your-tax-documents-or-are-digital-copies-enough/articleshow/132415676.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Foreign assets in AIS: CBDT sets the stage for Foreign Assets of Small Taxpayers Disclosure Scheme",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-assets-in-ais-cbdt-sets-the-stage-for-foreign-assets-of-small-taxpayers-disclosure-scheme/articleshow/132413293.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Selling Gold? Your tax bill depends on how you own it; ETFs, SGBs, jewellery and digital gold compared",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/selling-gold-your-tax-bill-depends-on-how-you-own-it-etfs-sgbs-jewellery-and-digital-gold-compared/articleshow/132413012.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "RBI bars banks, NBFCs from selling acquired stressed assets back to defaulting borrowers, related parties",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-bars-banks-nbfcs-from-selling-acquired-stressed-assets-back-to-defaulting-borrowers-related-parties/articleshow/132441216.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
     }
   ]
 }
