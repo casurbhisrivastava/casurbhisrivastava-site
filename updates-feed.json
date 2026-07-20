@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:58:53+00:00",
+  "generated_at": "2026-07-20T13:25:30+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,118 @@
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63198",
+      "date": "2026-07-20",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The United Puri-Nimapara Central Co-operative Bank Limited, Odisha",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63195",
+      "date": "2026-07-20",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Manmad Urban Co-operative Bank Ltd., Manmad, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63194",
+      "date": "2026-07-20",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Kolhapur District Central Co-op Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63193",
+      "date": "2026-07-20",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "ITR filing 2026: Step-by-step guide to filing ITR-1 for AY 2026-27 before the July 31 deadline",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-step-by-step-guide-to-filing-itr-1-for-ay-2026-27-before-the-july-31-deadline/articleshow/132508214.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "7 big income tax changes for 2026-27 that may reduce penalties for small mistakes",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/7-big-income-tax-changes-for-2026-27-that-may-reduce-penalties-for-small-mistakes/articleshow/132507349.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR-4 or ITR-3? Know which ITR form to file under presumptive taxation scheme and the documents required",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-4-or-itr-3-know-which-itr-form-to-file-under-presumptive-taxation-scheme-and-the-documents-required/articleshow/132507161.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Income tax return: How to report capital gains correctly to avoid ITR filing mistakes",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-return-how-to-report-capital-gains-correctly-to-avoid-itr-filing-mistakes/articleshow/132467173.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing: How Bitcoin, NFTs, airdrops, gifted crypto, and overseas wallets are taxed in India and how to report them",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-how-bitcoin-nfts-airdrops-gifted-crypto-and-overseas-wallets-are-taxed-in-india-and-how-to-report-them/articleshow/132466756.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Credit-deposit gap to persist as loan demand dynamics have changed, says SBI Research",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/credit-deposit-gap-to-persist-as-loan-demand-dynamics-have-changed-says-sbi-research/articleshow/132515889.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "HDFC Bank CEO reappointment delayed by board review, sources say",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-reappointment-delayed-by-board-review-sources-say/articleshow/132514846.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Lagging on FCNR(B) deposit collections, banks pin hopes on September-end rush",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lagging-on-fcnrb-deposit-collections-banks-pin-hopes-on-september-end-rush/articleshow/132513589.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Corporate loan growth outpaces retail advances at top private banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/corporate-loan-growth-outpaces-retail-advances-at-top-private-banks/articleshow/132513402.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Axis Bank weighs raising stake in its insurance venture to 30%",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-weighs-raising-stake-in-its-insurance-venture-to-30/articleshow/132501165.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "RBI asks banks to clear old trade and payment mismatches",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-asks-banks-to-clear-old-trade-and-payment-mismatches/articleshow/132501120.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Regional conflict-driven curbs weigh on flow: FCNR(B) inflows may miss initial estimates, says HDFC Bank CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-conflict-driven-curbs-weigh-on-flow-fcnrb-inflows-may-miss-initial-estimates-says-hdfc-bank-ceo/articleshow/132500939.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
     {
       "title": "India’s private lenders bet on corporate loan revival for growth",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-private-lenders-bet-on-corporate-loan-revival-for-growth/articleshow/132490915.cms",
@@ -49,8 +161,8 @@
       "category": "income-tax"
     },
     {
-      "title": "PNB mobilises $419 million in FCNR(B) deposits, on track to meet $2.5 billion target: Executive Director",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-mobilises-419-million-in-fcnrb-deposits-on-track-to-meet-2-5-billion-target-executive-director/articleshow/132482534.cms",
+      "title": "Punjab National Bank scouting for partner to build its M&A financing portfolio: CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-national-bank-scouting-for-partner-to-build-its-ma-financing-portfolio-ceo/articleshow/132482534.cms",
       "date": "2026-07-18",
       "source": "Economic Times - Banking/Finance",
       "category": "banking"
@@ -84,48 +196,6 @@
       "category": "banking"
     },
     {
-      "title": "Directions under Section 35 A read with section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – Padmashri Dr. Vithalrao Vikhe Patil Co-operative Bank Ltd. Nashik",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63183",
-      "date": "2026-07-17",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Satya MicroCapital Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63181",
-      "date": "2026-07-17",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on PAN Emami Cosmed Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63180",
-      "date": "2026-07-17",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Dhani Loans and Services Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63179",
-      "date": "2026-07-17",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Muthoot Vehicle and Asset Finance Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63178",
-      "date": "2026-07-17",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Avail Financial Services Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63177",
-      "date": "2026-07-17",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
       "title": "RBI imposes penalties on Muthoot Finance, 5 others for compliance violations",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-imposes-penalties-on-muthoot-finance-5-others-for-compliance-violations/articleshow/132466010.cms",
       "date": "2026-07-17",
@@ -152,76 +222,6 @@
       "date": "2026-07-16",
       "source": "RBI Notification",
       "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Urban Cooperative Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13577&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (All India Financial Institutions – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13576&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Non-Banking Financial Companies Income Recognition, Asset Classification and Provisioning) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13575&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13574&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13573&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks – Resolution of Stressed Assets) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13572&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Cost Inflation Index: How it can help you file your income tax return",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/cost-inflation-index-cii-for-tax-year-2026-27-notified-heres-what-it-means-for-capital-gains-tax/articleshow/132437210.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Have an inactive foreign bank account? You may still need to disclose it in your ITR for AY 2026-27",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/have-an-inactive-foreign-bank-account-you-may-still-need-to-disclose-it-in-your-itr-for-ay-2026-27/articleshow/132435467.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "NRI woman sold her property in Gujarat for Rs 21 lakh, tax dept sent notices, she missed them as she lived abroad; later she files case and wins in ITAT Ahmedabad",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-woman-sold-her-property-in-gujarat-for-rs-21-lakh-tax-dept-sent-notices-she-missed-them-as-she-lived-abroad-later-she-files-case-and-wins-in-itat-ahmedabad/articleshow/132434487.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR 2026: Common income tax return filing mistakes that cost employees lakhs",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-2026-common-income-tax-return-filing-mistakes-that-cost-employees-lakhs/articleshow/132431223.cms",
-      "date": "2026-07-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
     }
   ]
 }
