@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:25:30+00:00",
+  "generated_at": "2026-07-21T12:09:31+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,29 +14,57 @@
   ],
   "items": [
     {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63202",
+      "date": "2026-07-21",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "INR exchange rate while filing ITR to report foreign assets: Use this reference rate to convert foreign currency into INR as prescribed under income tax rules",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/inr-exchange-rate-while-filing-itr-to-report-foreign-assets-use-this-reference-rate-to-convert-foreign-currency-into-inr-as-prescribed-under-income-tax-rules/articleshow/132532960.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing: Got Section 143(1) intimation after filing your income tax return? Here’s what it means",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-2027-got-section-1431-intimation-after-filing-your-income-tax-return-heres-what-it-means/articleshow/132532231.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing 2026: CBDT takes these steps to prevent portal glitches before July 31 deadline",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/efiling-of-income-tax-portal-itr-filing-2026-deadline-what-has-cbdt-done-to-make-sure-itr-portal-does-not-glitch-show-error/articleshow/132531861.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ESOPs, Crypto and two other disclosures you must make in Schedule FA of the ITR for AY 2026-2027",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-shares-overseas-bank-accounts-and-three-other-disclosures-you-must-make-in-schedule-fa-of-the-itr-for-ay-2026-2027/articleshow/132528336.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Punjab National Bank to foray in acquisition finance in third quarter: MD Chandra",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-to-foray-in-acquisition-finance-in-third-quarter-md-chandra/articleshow/132535536.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "India's private banks draw thinner margins on tepid credit growth",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/private-lenders-like-hdfc-bank-kotak-mahindra-axis-bank-draw-thinner-margins-on-tepid-credit-growth/articleshow/132523357.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
       "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63198",
-      "date": "2026-07-20",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on The United Puri-Nimapara Central Co-operative Bank Limited, Odisha",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63195",
-      "date": "2026-07-20",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Manmad Urban Co-operative Bank Ltd., Manmad, Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63194",
-      "date": "2026-07-20",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Kolhapur District Central Co-op Bank Ltd., Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63193",
       "date": "2026-07-20",
       "source": "RBI Press Release",
       "category": "banking"
@@ -75,6 +103,27 @@
       "date": "2026-07-20",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
+    },
+    {
+      "title": "Indian Overseas Bank eyes $650 million foreign deposits by September",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-overseas-bank-eyes-650-million-foreign-deposits-by-september/articleshow/132517516.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Nearly 55.49 crore UPI users onboarded by June 2026",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nearly-55-49-crore-upi-users-onboarded-by-june-2026/articleshow/132517263.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Indian banks mobilise $20.7 billion under RBI's special incentive window",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-says-20-billion-mobilised-under-the-special-foreign-currency-scheme/articleshow/132516735.cms",
+      "date": "2026-07-20",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
     },
     {
       "title": "Credit-deposit gap to persist as loan demand dynamics have changed, says SBI Research",
@@ -172,55 +221,6 @@
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-appoints-ex-bandhan-bank-cfo-rajeev-mantri-as-finance-chief/articleshow/132478660.cms",
       "date": "2026-07-18",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "UPI MDR could raise business costs, hurt consumption if introduced: Experts",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-could-raise-business-costs-hurt-consumption-if-introduced-experts/articleshow/132476082.cms",
-      "date": "2026-07-18",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "IDBI Bank ups FCNR ante with 16% on offer",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idbi-bank-ups-fcnr-ante-with-16-on-offer/articleshow/132469436.cms",
-      "date": "2026-07-18",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Banks seek RBI clarity on collateral-free loans up to Rs 20 lakh for small businesses",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-seek-rbi-clarity-on-collateral-free-loans-up-to-rs-20-lakh-for-small-businesses/articleshow/132468732.cms",
-      "date": "2026-07-18",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes penalties on Muthoot Finance, 5 others for compliance violations",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-imposes-penalties-on-muthoot-finance-5-others-for-compliance-violations/articleshow/132466010.cms",
-      "date": "2026-07-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13580&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Regional Rural Banks – Income Recognition, Asset Classification and Provisioning) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13579&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
-      "category": "banking"
-    },
-    {
-      "title": "Reserve Bank of India (Rural Co-operative Banks – Income Recognition, Asset Classification and Provisioning) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13578&Mode=0",
-      "date": "2026-07-16",
-      "source": "RBI Notification",
       "category": "banking"
     }
   ]
