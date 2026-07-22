@@ -19,7 +19,7 @@
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
   body{margin:0;background:var(--paper);color:var(--ink);font-family:'Barlow',sans-serif;-webkit-font-smoothing:antialiased;}
-  h1,h2,h3{font-family:'Fjalla One',sans-serif;font-weight:600;margin:0;color:var(--ink);}
+  h1,h2,h3{font-family:'Fjalla One',sans-serif;font-weight:400;margin:0;color:var(--ink);}
   .mono{font-family:'IBM Plex Mono',monospace;}
   a{color:inherit;} img,svg{display:block;max-width:100%;}
   .wrap{max-width:1180px;margin:0 auto;padding:0 28px;}
@@ -35,7 +35,7 @@
   /* Header */
   header{position:sticky;top:0;z-index:50;background:rgba(15,35,64,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule);}
   .nav{display:flex;align-items:center;justify-content:space-between;padding:14px 0;}
-  .brand{display:flex;align-items:center;gap:12px;font-family:'Fjalla One',sans-serif;font-weight:600;font-size:17px;}
+  .brand{display:flex;align-items:center;gap:12px;font-family:'Fjalla One',sans-serif;font-weight:400;font-size:17px;}
   .brand .seal{width:32px;height:32px;flex:none;}
   .navlinks{display:flex;gap:22px;font-size:14px;font-weight:500;}
   .navlinks a{text-decoration:none;color:var(--ink-soft);position:relative;padding-bottom:4px;white-space:nowrap;}
@@ -73,14 +73,14 @@
 
   .ledger-card{background:var(--card);border:1px solid var(--rule);box-shadow:6px 6px 0 var(--paper-2);padding:24px 22px 18px;}
   .ledger-head{display:flex;justify-content:space-between;align-items:baseline;border-bottom:2px solid var(--ink);padding-bottom:10px;margin-bottom:6px;}
-  .ledger-head span:first-child{font-family:'Fjalla One',sans-serif;font-weight:600;font-size:14.5px;}
+  .ledger-head span:first-child{font-family:'Fjalla One',sans-serif;font-weight:400;font-size:14.5px;}
   .ledger-head span:last-child{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--ink-soft);}
   .ledger-row{display:flex;justify-content:space-between;align-items:center;padding:11px 0;border-bottom:1px dashed var(--rule);font-size:13.5px;}
   .ledger-row:last-of-type{border-bottom:none;}
   .ledger-row .label{color:var(--ink-soft);}
   .ledger-row .value{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:14.5px;}
   .ledger-total{display:flex;justify-content:space-between;align-items:baseline;margin-top:12px;padding-top:12px;border-top:2px solid var(--ink);}
-  .ledger-total .label{font-family:'Fjalla One',sans-serif;font-weight:600;font-size:14px;}
+  .ledger-total .label{font-family:'Fjalla One',sans-serif;font-weight:400;font-size:14px;}
   .ledger-total .value{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:17px;color:var(--oxblood);}
   .hero-photo{position:relative;}
   .hero-photo img{width:100%;height:500px;object-fit:cover;border:1px solid var(--rule);}
@@ -138,7 +138,7 @@
   .bulletin-item{background:var(--card);border:1px solid var(--rule);}
   .bulletin-q{width:100%;background:none;border:none;cursor:pointer;padding:18px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px;text-align:left;}
   .bulletin-q-left{display:flex;flex-direction:column;gap:8px;min-width:0;}
-  .bulletin-title{font-family:'Fjalla One',sans-serif;font-weight:600;font-size:16px;color:var(--ink);}
+  .bulletin-title{font-family:'Fjalla One',sans-serif;font-weight:400;font-size:16px;color:var(--ink);}
   .bulletin-q-right{display:flex;align-items:center;gap:14px;flex:none;}
   .bulletin-date{font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--ink-soft);white-space:nowrap;}
   .bulletin-q .plus{font-family:'IBM Plex Mono',monospace;color:var(--brass-dark);font-size:20px;transition:transform .2s ease;flex:none;}
@@ -204,7 +204,7 @@
   .calc-results h3{font-size:16px;margin-bottom:18px;}
   .calc-row{display:flex;justify-content:space-between;padding:12px 0;border-bottom:1px dashed var(--rule);font-size:14px;}
   .calc-row .v{font-family:'IBM Plex Mono',monospace;font-weight:600;}
-  .calc-total{display:flex;justify-content:space-between;padding-top:14px;margin-top:6px;border-top:2px solid var(--ink);font-family:'Fjalla One',sans-serif;font-weight:600;font-size:16px;}
+  .calc-total{display:flex;justify-content:space-between;padding-top:14px;margin-top:6px;border-top:2px solid var(--ink);font-family:'Fjalla One',sans-serif;font-weight:400;font-size:16px;}
   .calc-total .v{font-family:'IBM Plex Mono',monospace;color:var(--oxblood);font-size:19px;}
   .calc-note{font-size:12px;color:var(--ink-soft);margin-top:16px;line-height:1.5;}
   @media (max-width:820px){.calc-wrap{grid-template-columns:1fr;} .calc-results{border-left:none;padding-left:0;border-top:1px solid var(--rule);padding-top:28px;}}
@@ -228,7 +228,7 @@
 
   /* FAQ */
   .faq-item{border-bottom:1px solid var(--rule);}
-  .faq-q{width:100%;text-align:left;background:none;border:none;padding:20px 0;font-family:'Fjalla One',sans-serif;font-size:16.5px;font-weight:600;color:var(--ink);cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:20px;}
+  .faq-q{width:100%;text-align:left;background:none;border:none;padding:20px 0;font-family:'Fjalla One',sans-serif;font-size:16.5px;font-weight:400;color:var(--ink);cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:20px;}
   .faq-q .plus{font-family:'IBM Plex Mono',monospace;color:var(--brass-dark);font-size:20px;transition:transform .2s ease;flex:none;}
   .faq-item.open .plus{transform:rotate(45deg);}
   .faq-a{max-height:0;overflow:hidden;transition:max-height .3s ease;}
@@ -269,7 +269,7 @@
 <svg aria-hidden="true" class="seal" fill="none" viewbox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
 <circle cx="30" cy="30" r="28" stroke="#F4F7FC" stroke-width="1.5"></circle>
 <circle cx="30" cy="30" r="22" stroke="#F5A623" stroke-width="1.2"></circle>
-<text fill="#F4F7FC" font-family="Fjalla One, sans-serif" font-size="18" font-weight="600" text-anchor="middle" x="30" y="36">SS</text>
+<text fill="#F4F7FC" font-family="Fjalla One, sans-serif" font-size="18" font-weight="400" text-anchor="middle" x="30" y="36">SS</text>
 </svg>
       CA Surbhi Srivastava
     </div>
