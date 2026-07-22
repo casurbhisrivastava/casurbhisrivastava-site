@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:09:31+00:00",
+  "generated_at": "2026-07-22T12:13:45+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,10 +14,66 @@
   ],
   "items": [
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63202",
-      "date": "2026-07-21",
-      "source": "RBI Press Release",
+      "title": "ITR verification process: Different ways to e-verify your Income Tax Return using Aadhaar OTP, net banking, EVC",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-verification-for-fy-25-26-different-ways-to-e-verify-your-income-tax-return-using-aadhaar-otp-net-banking-evc/articleshow/132557524.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Rs 5.26 lakh capital loss carry forward was claimed in original ITR but a lesser claim was denied in revised ITR; Taxpayer fights back and wins in ITAT Bangalore",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-5-26-lakh-capital-loss-carry-forward-was-claimed-in-original-itr-but-a-lesser-claim-was-denied-in-revised-itr-taxpayer-fights-back-and-wins-in-itat-bangalore/articleshow/132554931.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "How to select the right ITR form based on your income for AY 2026-2027",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-select-the-right-itr-form-based-on-your-income-for-ay-2026-2027/articleshow/132553295.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing: Claimed capital gains exemption? The 3-year tax trap that may trigger income-tax notices",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-claimed-capital-gains-exemption-the-3-year-tax-trap-that-may-trigger-income-tax-notices/articleshow/132552749.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Foreign income taxation: Employees, investors, freelancers check these aspects to prevent double taxation on same foreign income while filing ITR for AY 2026-2027",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-income-taxation-employees-investors-freelancers-check-check-these-aspects-to-prevent-double-taxation-on-same-foreign-income-while-filing-itr-for-ay-2026-2027/articleshow/132528520.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Punjab National Bank eyes ambitious target to break into world's top 100",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-national-bank-eyes-ambitious-target-to-break-into-worlds-top-100/articleshow/132551931.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Punjab & Sind Bank eyes Rs 4 lakh cr business by FY29: Lender bets big on technology transformation",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-sind-bank-eyes-rs-4-lakh-cr-business-by-fy29-lender-bets-big-on-technology-transformation/articleshow/132546461.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "FCNR(B): Data show banks have raised $20.7 bn under scheme; $10 bn more may flow in",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-data-show-banks-have-raised-20-7-bn-under-scheme-10-bn-more-may-flow-in/articleshow/132545882.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Banks lure NRIs with high-return FCNR(B) deposits, warn of leverage risks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-lure-nris-with-high-return-fcnrb-deposits-warn-of-leverage-risks/articleshow/132545774.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
@@ -49,6 +105,34 @@
       "category": "income-tax"
     },
     {
+      "title": "SC quashes case against Standard Chartered Bank over violations of FERA provisions",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sc-quashes-case-against-standard-chartered-bank-over-violations-of-fera-provisions/articleshow/132541063.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Banks, financial institutions reported fraud of Rs 1.42 lakh crore in last 5 years: MoS Finance",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-financial-institutions-reported-fraud-of-rs-1-42-lakh-crore-in-last-5-years-mos-finance/articleshow/132538880.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Foreign banks account for lion's share of FCNR(B) inflows under RBI's concessional swap facility",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-account-for-lions-share-of-fcnrb-inflows-under-rbis-concessional-swap-facility/articleshow/132536539.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "EbixCash becomes first non-bank entity to get RBI nod for trade remittances",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/ebixcash-becomes-first-non-bank-entity-to-get-rbi-nod-for-trade-remittances/articleshow/132536070.cms",
+      "date": "2026-07-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
       "title": "Punjab National Bank to foray in acquisition finance in third quarter: MD Chandra",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-to-foray-in-acquisition-finance-in-third-quarter-md-chandra/articleshow/132535536.cms",
       "date": "2026-07-21",
@@ -60,13 +144,6 @@
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/private-lenders-like-hdfc-bank-kotak-mahindra-axis-bank-draw-thinner-margins-on-tepid-credit-growth/articleshow/132523357.cms",
       "date": "2026-07-21",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63198",
-      "date": "2026-07-20",
-      "source": "RBI Press Release",
       "category": "banking"
     },
     {
@@ -143,83 +220,6 @@
       "title": "Lagging on FCNR(B) deposit collections, banks pin hopes on September-end rush",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lagging-on-fcnrb-deposit-collections-banks-pin-hopes-on-september-end-rush/articleshow/132513589.cms",
       "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Corporate loan growth outpaces retail advances at top private banks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/corporate-loan-growth-outpaces-retail-advances-at-top-private-banks/articleshow/132513402.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Axis Bank weighs raising stake in its insurance venture to 30%",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-weighs-raising-stake-in-its-insurance-venture-to-30/articleshow/132501165.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "RBI asks banks to clear old trade and payment mismatches",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-asks-banks-to-clear-old-trade-and-payment-mismatches/articleshow/132501120.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Regional conflict-driven curbs weigh on flow: FCNR(B) inflows may miss initial estimates, says HDFC Bank CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-conflict-driven-curbs-weigh-on-flow-fcnrb-inflows-may-miss-initial-estimates-says-hdfc-bank-ceo/articleshow/132500939.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "India’s private lenders bet on corporate loan revival for growth",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-private-lenders-bet-on-corporate-loan-revival-for-growth/articleshow/132490915.cms",
-      "date": "2026-07-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Trade, NBFC credit to remain fastest-growing lending segments: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/trade-nbfc-credit-to-remain-fastest-growing-lending-segments-report/articleshow/132490027.cms",
-      "date": "2026-07-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Employee wrongly reported Rs 65.21 lakh VRS payout in ITR, lost tax relief; ITAT Pune rules the amount is not taxable and grants him relief",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/employee-wrongly-reported-rs-65-21-lakh-vrs-payout-in-itr-lost-tax-relief-itat-pune-rules-the-amount-is-not-taxable-and-grants-him-relief/articleshow/132476175.cms",
-      "date": "2026-07-18",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "These property sellers may need to re-compute advance tax after delayed release of Cost Inflation Index for tax year 2026-27; here’s what to do",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/these-property-sellers-may-need-to-re-compute-advance-tax-after-delayed-release-of-cost-inflation-index-for-tax-year-2026-27-heres-what-to-do/articleshow/132475671.cms",
-      "date": "2026-07-18",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Name appearing in builder's records showing cash payment: Will you need to pay income tax for such property purchase? Here’s what ITAT said",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/name-appearing-in-builders-records-showing-cash-payment-will-you-need-to-pay-income-tax-for-such-property-purchase-heres-what-itat-said/articleshow/132474005.cms",
-      "date": "2026-07-18",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Punjab National Bank scouting for partner to build its M&A financing portfolio: CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-national-bank-scouting-for-partner-to-build-its-ma-financing-portfolio-ceo/articleshow/132482534.cms",
-      "date": "2026-07-18",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Axis Bank appoints ex-Bandhan Bank CFO Rajeev Mantri as finance chief",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-appoints-ex-bandhan-bank-cfo-rajeev-mantri-as-finance-chief/articleshow/132478660.cms",
-      "date": "2026-07-18",
       "source": "Economic Times - Banking/Finance",
       "category": "banking"
     }
