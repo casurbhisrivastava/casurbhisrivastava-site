@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:13:45+00:00",
+  "generated_at": "2026-07-23T12:11:29+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,111 @@
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "title": "RBI imposes monetary penalty on Shri Baria Nagarik Sahakari Bank Ltd., Baria, Gujarat",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63220",
+      "date": "2026-07-23",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Sindhudurg District Central Co-operative Bank Ltd., Sindhudurg, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63219",
+      "date": "2026-07-23",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Mandya District Co-operative Central Bank Ltd., Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63218",
+      "date": "2026-07-23",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The City Co-operative Bank, Hassan, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63217",
+      "date": "2026-07-23",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "How to file ITR-3 online on the Income Tax e-filing portal for AY 2026-2027",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-file-itr-3-online-on-the-income-tax-e-filing-portal-for-ay-2026-2027/articleshow/132580088.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Son becomes NRI, gifts shares worth Rs 30 lakh to father; should this be disclosed in ITR? What taxpayers must do to avoid tax notices",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-son-gifts-shares-worth-rs-30-lakh-to-father-should-this-be-disclosed-in-itr-filing-what-taxpayers-must-do-to-avoid-income-tax-notice/articleshow/132575289.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Need help with ITR filing? Check the ITR filing charges across various websites for AY 2026-2027 for students, salaried persons, pensioners and NRIs",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/need-help-with-itr-filing-check-the-itr-filing-charges-across-various-websites-for-ay-2026-2027-for-students-salaried-persons-pensioners-and-nris/articleshow/132576217.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing: Received Section 143(1) intimation with tax demand? Respond within 30 days or risk being treated as an ‘assessee in default’; know how to do it",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-received-section-1431-intimation-with-tax-demand-respond-within-30-days-or-risk-being-treated-as-an-assessee-in-default-know-how-to-do-it/articleshow/132574419.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "New tax regime: Save up to Rs 65,500 in tax through your employer's NPS contribution; here's how to claim it",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/new-tax-regime-save-up-to-rs-65500-in-tax-through-your-employers-nps-contribution-heres-how-to-claim-it/articleshow/132572028.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Three US law firms probe HDFC Bank over alleged Maharashtra deposit payments",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/three-us-law-firms-probe-hdfc-bank-over-alleged-maharashtra-deposit-payments/articleshow/132577997.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Punjab & Sind Bank hopes to surpass Rs 1,000 crore recovery target in FY27",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-sind-bank-hopes-to-surpass-rs-1000-crore-recovery-target-in-fy27/articleshow/132577895.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Ujjivan Small Finance Bank grows share of secured loan to over 50%",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ujjivan-small-finance-bank-grows-share-of-secured-loan-to-over-50/articleshow/132577618.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Bandhan Bank lowers return on assets projection to 1.2-1.4%, stock price continues to tumble",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bandhan-bank-lowers-return-on-assets-projection-to-1-2-1-4-stock-price-continues-to-tumble/articleshow/132575261.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "IDFC First Bankscam: CBI searches in Chandigarh, Ludhiana",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idfc-first-bankscam-cbi-searches-in-chandigarh-ludhiana/articleshow/132571871.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Banks to tap 25 OEMs in battle against AI-led cybersecurity threats",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-tap-25-oems-in-battle-against-ai-led-cybersecurity-threats/articleshow/132567343.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
     {
       "title": "ITR verification process: Different ways to e-verify your Income Tax Return using Aadhaar OTP, net banking, EVC",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-verification-for-fy-25-26-different-ways-to-e-verify-your-income-tax-return-using-aadhaar-otp-net-banking-evc/articleshow/132557524.cms",
@@ -47,6 +152,20 @@
       "date": "2026-07-22",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
+    },
+    {
+      "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Godrej Capital enters gold loan business with Kanakadurga Finance acquisition",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/godrej-capital-enters-gold-loan-business-with-kanakadurga-finance-acquisition/articleshow/132561151.cms",
+      "date": "2026-07-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
     },
     {
       "title": "Punjab National Bank eyes ambitious target to break into world's top 100",
@@ -103,125 +222,6 @@
       "date": "2026-07-21",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
-    },
-    {
-      "title": "SC quashes case against Standard Chartered Bank over violations of FERA provisions",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sc-quashes-case-against-standard-chartered-bank-over-violations-of-fera-provisions/articleshow/132541063.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Banks, financial institutions reported fraud of Rs 1.42 lakh crore in last 5 years: MoS Finance",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-financial-institutions-reported-fraud-of-rs-1-42-lakh-crore-in-last-5-years-mos-finance/articleshow/132538880.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Foreign banks account for lion's share of FCNR(B) inflows under RBI's concessional swap facility",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-account-for-lions-share-of-fcnrb-inflows-under-rbis-concessional-swap-facility/articleshow/132536539.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "EbixCash becomes first non-bank entity to get RBI nod for trade remittances",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/ebixcash-becomes-first-non-bank-entity-to-get-rbi-nod-for-trade-remittances/articleshow/132536070.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Punjab National Bank to foray in acquisition finance in third quarter: MD Chandra",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-to-foray-in-acquisition-finance-in-third-quarter-md-chandra/articleshow/132535536.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "India's private banks draw thinner margins on tepid credit growth",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/private-lenders-like-hdfc-bank-kotak-mahindra-axis-bank-draw-thinner-margins-on-tepid-credit-growth/articleshow/132523357.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "ITR filing 2026: Step-by-step guide to filing ITR-1 for AY 2026-27 before the July 31 deadline",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-step-by-step-guide-to-filing-itr-1-for-ay-2026-27-before-the-july-31-deadline/articleshow/132508214.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "7 big income tax changes for 2026-27 that may reduce penalties for small mistakes",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/7-big-income-tax-changes-for-2026-27-that-may-reduce-penalties-for-small-mistakes/articleshow/132507349.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR-4 or ITR-3? Know which ITR form to file under presumptive taxation scheme and the documents required",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-4-or-itr-3-know-which-itr-form-to-file-under-presumptive-taxation-scheme-and-the-documents-required/articleshow/132507161.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Income tax return: How to report capital gains correctly to avoid ITR filing mistakes",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-return-how-to-report-capital-gains-correctly-to-avoid-itr-filing-mistakes/articleshow/132467173.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR filing: How Bitcoin, NFTs, airdrops, gifted crypto, and overseas wallets are taxed in India and how to report them",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-how-bitcoin-nfts-airdrops-gifted-crypto-and-overseas-wallets-are-taxed-in-india-and-how-to-report-them/articleshow/132466756.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Indian Overseas Bank eyes $650 million foreign deposits by September",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-overseas-bank-eyes-650-million-foreign-deposits-by-september/articleshow/132517516.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Nearly 55.49 crore UPI users onboarded by June 2026",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nearly-55-49-crore-upi-users-onboarded-by-june-2026/articleshow/132517263.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Indian banks mobilise $20.7 billion under RBI's special incentive window",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-says-20-billion-mobilised-under-the-special-foreign-currency-scheme/articleshow/132516735.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Credit-deposit gap to persist as loan demand dynamics have changed, says SBI Research",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/credit-deposit-gap-to-persist-as-loan-demand-dynamics-have-changed-says-sbi-research/articleshow/132515889.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "HDFC Bank CEO reappointment delayed by board review, sources say",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-reappointment-delayed-by-board-review-sources-say/articleshow/132514846.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Lagging on FCNR(B) deposit collections, banks pin hopes on September-end rush",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lagging-on-fcnrb-deposit-collections-banks-pin-hopes-on-september-end-rush/articleshow/132513589.cms",
-      "date": "2026-07-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
     }
   ]
 }
