@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T12:11:29+00:00",
+  "generated_at": "2026-07-24T11:58:02+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,29 +14,78 @@
   ],
   "items": [
     {
-      "title": "RBI imposes monetary penalty on Shri Baria Nagarik Sahakari Bank Ltd., Baria, Gujarat",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63220",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63229",
+      "date": "2026-07-24",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sonpeth Nagari Sahakari Bank Maryadit, Sonpeth, Dist. Parbhani, Maharashtra – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63228",
+      "date": "2026-07-24",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
+    {
+      "title": "Wife paid Rs 58 lakh from Indian bank a/c, husband paid Rs 80 lakh from UAE bank a/c for property purchase; she gets tax notice for unexplained investment, wins case in ITAT Mumbai for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/wife-paid-rs-58-lakh-from-indian-bank-a/c-husband-paid-rs-80-lakh-from-uae-bank-a/c-for-property-purchase-she-gets-tax-notice-for-unexplained-investment-wins-case-in-itat-mumbai-for-this-reason/articleshow/132598784.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Opting for presumptive taxation while filing ITR? You may have to face tax audit; here’s what you must know",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/opting-for-presumptive-taxation-while-filing-itr-you-may-have-to-face-tax-audit-heres-what-you-must-know/articleshow/132598575.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Rs 9.48 lakh income tax demand on coaching centre quashed: ITAT explains why attendance alone doesn't make contractual teachers employees",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-9-48-lakh-income-tax-demand-on-coaching-centre-quashed-itat-explains-why-attendance-alone-doesnt-make-contractual-teachers-employees/articleshow/132598203.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "ITR filing deadline FY 2025-26: Due dates, penalties, and what happens if you miss July 31 deadline",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-deadline-fy-2025-26-due-dates-penalties-and-what-happens-if-you-miss-july-31/articleshow/132597179.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Sold multi-asset MFs? Before filing ITR, check the fund’s underlying asset mix as it determines tax treatment; know how to file return on such gains",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/sold-multi-asset-mfs-before-filing-itr-check-the-funds-underlying-asset-mix-as-it-determines-tax-treatment-know-how-to-file-return-on-such-gains/articleshow/132597440.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "Lady with Rs 5.28 lakh income pays no tax despite Rs 1.42 lakh STCG from equities; Know why ITAT Mumbai allowed the Section 87A rebate",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/lady-with-rs-5-28-lakh-income-pays-no-tax-despite-rs-1-42-lakh-stcg-from-equities-know-why-itat-mumbai-allowed-the-section-87a-rebate/articleshow/132596634.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "How to file ITR-4 online on the e-filing ITR portal for AY 2026-2027",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-file-itr-4-online-on-the-e-filing-itr-portal-for-ay-2026-2027/articleshow/132581137.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Arvind Sahakari Bank Ltd., Katol, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63222",
       "date": "2026-07-23",
       "source": "RBI Press Release",
       "category": "banking"
     },
     {
-      "title": "RBI imposes monetary penalty on Sindhudurg District Central Co-operative Bank Ltd., Sindhudurg, Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63219",
-      "date": "2026-07-23",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Mandya District Co-operative Central Bank Ltd., Karnataka",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63218",
-      "date": "2026-07-23",
-      "source": "RBI Press Release",
-      "category": "banking"
-    },
-    {
-      "title": "RBI imposes monetary penalty on The City Co-operative Bank, Hassan, Karnataka",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63217",
+      "title": "RBI imposes monetary penalty on Rajnandgaon Kendriya Sahakari Bank Maryadit, Rajnandgaon, Chhattisgarh",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63221",
       "date": "2026-07-23",
       "source": "RBI Press Release",
       "category": "banking"
@@ -75,6 +124,13 @@
       "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
+    },
+    {
+      "title": "Godrej Capital aims to grow gold loan book to Rs 5000 crores by 2031",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/godrej-capital-aims-to-grow-gold-loan-book-to-rs-5000-crores-by-2031/articleshow/132586040.cms",
+      "date": "2026-07-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
     },
     {
       "title": "Three US law firms probe HDFC Bank over alleged Maharashtra deposit payments",
@@ -166,62 +222,6 @@
       "date": "2026-07-22",
       "source": "Economic Times - Banking/Finance",
       "category": "banking"
-    },
-    {
-      "title": "Punjab National Bank eyes ambitious target to break into world's top 100",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-national-bank-eyes-ambitious-target-to-break-into-worlds-top-100/articleshow/132551931.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Punjab & Sind Bank eyes Rs 4 lakh cr business by FY29: Lender bets big on technology transformation",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-sind-bank-eyes-rs-4-lakh-cr-business-by-fy29-lender-bets-big-on-technology-transformation/articleshow/132546461.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "FCNR(B): Data show banks have raised $20.7 bn under scheme; $10 bn more may flow in",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-data-show-banks-have-raised-20-7-bn-under-scheme-10-bn-more-may-flow-in/articleshow/132545882.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Banks lure NRIs with high-return FCNR(B) deposits, warn of leverage risks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-lure-nris-with-high-return-fcnrb-deposits-warn-of-leverage-risks/articleshow/132545774.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "INR exchange rate while filing ITR to report foreign assets: Use this reference rate to convert foreign currency into INR as prescribed under income tax rules",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/inr-exchange-rate-while-filing-itr-to-report-foreign-assets-use-this-reference-rate-to-convert-foreign-currency-into-inr-as-prescribed-under-income-tax-rules/articleshow/132532960.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR filing: Got Section 143(1) intimation after filing your income tax return? Here’s what it means",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-2027-got-section-1431-intimation-after-filing-your-income-tax-return-heres-what-it-means/articleshow/132532231.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR filing 2026: CBDT takes these steps to prevent portal glitches before July 31 deadline",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/efiling-of-income-tax-portal-itr-filing-2026-deadline-what-has-cbdt-done-to-make-sure-itr-portal-does-not-glitch-show-error/articleshow/132531861.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "ESOPs, Crypto and two other disclosures you must make in Schedule FA of the ITR for AY 2026-2027",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-shares-overseas-bank-accounts-and-three-other-disclosures-you-must-make-in-schedule-fa-of-the-itr-for-ay-2026-2027/articleshow/132528336.cms",
-      "date": "2026-07-21",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
     }
   ]
 }
