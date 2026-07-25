@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:58:02+00:00",
+  "generated_at": "2026-07-25T10:53:35+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,34 @@
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
   ],
   "items": [
+    {
+      "title": "Are gifts given to NRIs by relatives taxable? Here's what you need to know about income tax and FEMA rules",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/are-gifts-given-to-nris-by-relatives-taxable-heres-what-you-need-to-know-about-income-tax-and-fema-rules/articleshow/132617658.cms",
+      "date": "2026-07-25",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax"
+    },
+    {
+      "title": "SBI recruits 1,930 Circle Based Officers to strengthen banking operations",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-recruits-1930-circle-based-officers-to-strengthen-banking-operations/articleshow/132622206.cms",
+      "date": "2026-07-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "More banks may join overseas bond run",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/more-banks-may-join-overseas-bond-run/articleshow/132614342.cms",
+      "date": "2026-07-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Irinjalakuda Town Co-operative Bank Ltd., Kerala - Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63231",
+      "date": "2026-07-24",
+      "source": "RBI Press Release",
+      "category": "banking"
+    },
     {
       "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63229",
@@ -77,17 +105,17 @@
       "category": "income-tax"
     },
     {
-      "title": "RBI imposes monetary penalty on Arvind Sahakari Bank Ltd., Katol, Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63222",
-      "date": "2026-07-23",
-      "source": "RBI Press Release",
+      "title": "Bank credit growth eases to 17.7% in fortnight to July 15",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-eases-to-17-7-in-fortnight-to-july-15/articleshow/132607958.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
-      "title": "RBI imposes monetary penalty on Rajnandgaon Kendriya Sahakari Bank Maryadit, Rajnandgaon, Chhattisgarh",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63221",
-      "date": "2026-07-23",
-      "source": "RBI Press Release",
+      "title": "Bank of India aims to raise $1.2 billion through FCNR-B deposits, plans additional $2 billion overseas borrowing",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-aims-to-raise-1-2-billion-through-fcnr-b-deposits-plans-additional-2-billion-overseas-borrowing/articleshow/132607843.cms",
+      "date": "2026-07-24",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking"
     },
     {
@@ -194,34 +222,6 @@
       "date": "2026-07-22",
       "source": "Economic Times - Income Tax",
       "category": "income-tax"
-    },
-    {
-      "title": "ITR filing: Claimed capital gains exemption? The 3-year tax trap that may trigger income-tax notices",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-claimed-capital-gains-exemption-the-3-year-tax-trap-that-may-trigger-income-tax-notices/articleshow/132552749.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Foreign income taxation: Employees, investors, freelancers check these aspects to prevent double taxation on same foreign income while filing ITR for AY 2026-2027",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-income-taxation-employees-investors-freelancers-check-check-these-aspects-to-prevent-double-taxation-on-same-foreign-income-while-filing-itr-for-ay-2026-2027/articleshow/132528520.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "Foreign banks show strongest rate transmission in current RBI easing cycle: Bulletin",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/foreign-banks-show-strongest-rate-transmission-in-current-rbi-easing-cycle-bulletin/articleshow/132562087.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
-    },
-    {
-      "title": "Godrej Capital enters gold loan business with Kanakadurga Finance acquisition",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/godrej-capital-enters-gold-loan-business-with-kanakadurga-finance-acquisition/articleshow/132561151.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking"
     }
   ]
 }
