@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-07-25T10:53:35+00:00",
+  "generated_at": "2026-07-26T11:10:08+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1",
+    "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss",
+    "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss",
+    "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss",
     "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms",
     "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119912.cms",
     "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms",
     "https://economictimes.indiatimes.com/rssfeeds/13358259.cms"
   ],
   "errors": [
-    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden"
+    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden",
+    "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
+    "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
+    "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
+    "gst.gov.in (headless browser): No module named 'gst_scraper'",
+    "mca.gov.in (headless browser): No module named 'mca_scraper'"
   ],
   "items": [
     {
@@ -18,210 +26,240 @@
       "link": "https://economictimes.indiatimes.com/wealth/tax/are-gifts-given-to-nris-by-relatives-taxable-heres-what-you-need-to-know-about-income-tax-and-fema-rules/articleshow/132617658.cms",
       "date": "2026-07-25",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "AU Small Finance Bank Q1 net rises 37% to ₹796 crore",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-q1-net-rises-37-to-796-crore/articleshow/132631848.cms",
+      "date": "2026-07-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "SBI recruits 1,930 Circle Based Officers to strengthen banking operations",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-recruits-1930-circle-based-officers-to-strengthen-banking-operations/articleshow/132622206.cms",
       "date": "2026-07-25",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "More banks may join overseas bond run",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/more-banks-may-join-overseas-bond-run/articleshow/132614342.cms",
       "date": "2026-07-25",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Irinjalakuda Town Co-operative Bank Ltd., Kerala - Extension of period",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63231",
       "date": "2026-07-24",
       "source": "RBI Press Release",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7533D47F122BEE946AB898040A336240CA0.PDF"
     },
     {
       "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63229",
       "date": "2026-07-24",
       "source": "RBI Press Release",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR751FC7A6B8317294F9FB92F81E2104540D6.PDF"
     },
     {
       "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sonpeth Nagari Sahakari Bank Maryadit, Sonpeth, Dist. Parbhani, Maharashtra – Extension of Period",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63228",
       "date": "2026-07-24",
       "source": "RBI Press Release",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7502ABC895CB1874A2EB134132AC6044BDE.PDF"
     },
     {
       "title": "Wife paid Rs 58 lakh from Indian bank a/c, husband paid Rs 80 lakh from UAE bank a/c for property purchase; she gets tax notice for unexplained investment, wins case in ITAT Mumbai for this reason",
       "link": "https://economictimes.indiatimes.com/wealth/tax/wife-paid-rs-58-lakh-from-indian-bank-a/c-husband-paid-rs-80-lakh-from-uae-bank-a/c-for-property-purchase-she-gets-tax-notice-for-unexplained-investment-wins-case-in-itat-mumbai-for-this-reason/articleshow/132598784.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Opting for presumptive taxation while filing ITR? You may have to face tax audit; here’s what you must know",
       "link": "https://economictimes.indiatimes.com/wealth/tax/opting-for-presumptive-taxation-while-filing-itr-you-may-have-to-face-tax-audit-heres-what-you-must-know/articleshow/132598575.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Rs 9.48 lakh income tax demand on coaching centre quashed: ITAT explains why attendance alone doesn't make contractual teachers employees",
       "link": "https://economictimes.indiatimes.com/wealth/tax/rs-9-48-lakh-income-tax-demand-on-coaching-centre-quashed-itat-explains-why-attendance-alone-doesnt-make-contractual-teachers-employees/articleshow/132598203.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "ITR filing deadline FY 2025-26: Due dates, penalties, and what happens if you miss July 31 deadline",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-deadline-fy-2025-26-due-dates-penalties-and-what-happens-if-you-miss-july-31/articleshow/132597179.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Sold multi-asset MFs? Before filing ITR, check the fund’s underlying asset mix as it determines tax treatment; know how to file return on such gains",
       "link": "https://economictimes.indiatimes.com/wealth/tax/sold-multi-asset-mfs-before-filing-itr-check-the-funds-underlying-asset-mix-as-it-determines-tax-treatment-know-how-to-file-return-on-such-gains/articleshow/132597440.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Lady with Rs 5.28 lakh income pays no tax despite Rs 1.42 lakh STCG from equities; Know why ITAT Mumbai allowed the Section 87A rebate",
       "link": "https://economictimes.indiatimes.com/wealth/tax/lady-with-rs-5-28-lakh-income-pays-no-tax-despite-rs-1-42-lakh-stcg-from-equities-know-why-itat-mumbai-allowed-the-section-87a-rebate/articleshow/132596634.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "How to file ITR-4 online on the e-filing ITR portal for AY 2026-2027",
       "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-file-itr-4-online-on-the-e-filing-itr-portal-for-ay-2026-2027/articleshow/132581137.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Bank credit growth eases to 17.7% in fortnight to July 15",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-eases-to-17-7-in-fortnight-to-july-15/articleshow/132607958.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Bank of India aims to raise $1.2 billion through FCNR-B deposits, plans additional $2 billion overseas borrowing",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-aims-to-raise-1-2-billion-through-fcnr-b-deposits-plans-additional-2-billion-overseas-borrowing/articleshow/132607843.cms",
       "date": "2026-07-24",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "How to file ITR-3 online on the Income Tax e-filing portal for AY 2026-2027",
       "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-file-itr-3-online-on-the-income-tax-e-filing-portal-for-ay-2026-2027/articleshow/132580088.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Son becomes NRI, gifts shares worth Rs 30 lakh to father; should this be disclosed in ITR? What taxpayers must do to avoid tax notices",
       "link": "https://economictimes.indiatimes.com/wealth/tax/nri-son-gifts-shares-worth-rs-30-lakh-to-father-should-this-be-disclosed-in-itr-filing-what-taxpayers-must-do-to-avoid-income-tax-notice/articleshow/132575289.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Need help with ITR filing? Check the ITR filing charges across various websites for AY 2026-2027 for students, salaried persons, pensioners and NRIs",
       "link": "https://economictimes.indiatimes.com/wealth/tax/need-help-with-itr-filing-check-the-itr-filing-charges-across-various-websites-for-ay-2026-2027-for-students-salaried-persons-pensioners-and-nris/articleshow/132576217.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "ITR filing: Received Section 143(1) intimation with tax demand? Respond within 30 days or risk being treated as an ‘assessee in default’; know how to do it",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-received-section-1431-intimation-with-tax-demand-respond-within-30-days-or-risk-being-treated-as-an-assessee-in-default-know-how-to-do-it/articleshow/132574419.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "New tax regime: Save up to Rs 65,500 in tax through your employer's NPS contribution; here's how to claim it",
       "link": "https://economictimes.indiatimes.com/wealth/tax/new-tax-regime-save-up-to-rs-65500-in-tax-through-your-employers-nps-contribution-heres-how-to-claim-it/articleshow/132572028.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Godrej Capital aims to grow gold loan book to Rs 5000 crores by 2031",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/godrej-capital-aims-to-grow-gold-loan-book-to-rs-5000-crores-by-2031/articleshow/132586040.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Three US law firms probe HDFC Bank over alleged Maharashtra deposit payments",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/three-us-law-firms-probe-hdfc-bank-over-alleged-maharashtra-deposit-payments/articleshow/132577997.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Punjab & Sind Bank hopes to surpass Rs 1,000 crore recovery target in FY27",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-sind-bank-hopes-to-surpass-rs-1000-crore-recovery-target-in-fy27/articleshow/132577895.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Ujjivan Small Finance Bank grows share of secured loan to over 50%",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ujjivan-small-finance-bank-grows-share-of-secured-loan-to-over-50/articleshow/132577618.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Bandhan Bank lowers return on assets projection to 1.2-1.4%, stock price continues to tumble",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bandhan-bank-lowers-return-on-assets-projection-to-1-2-1-4-stock-price-continues-to-tumble/articleshow/132575261.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "IDFC First Bankscam: CBI searches in Chandigarh, Ludhiana",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idfc-first-bankscam-cbi-searches-in-chandigarh-ludhiana/articleshow/132571871.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Banks to tap 25 OEMs in battle against AI-led cybersecurity threats",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-tap-25-oems-in-battle-against-ai-led-cybersecurity-threats/articleshow/132567343.cms",
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
-      "category": "banking"
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "ITR verification process: Different ways to e-verify your Income Tax Return using Aadhaar OTP, net banking, EVC",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-verification-for-fy-25-26-different-ways-to-e-verify-your-income-tax-return-using-aadhaar-otp-net-banking-evc/articleshow/132557524.cms",
       "date": "2026-07-22",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Rs 5.26 lakh capital loss carry forward was claimed in original ITR but a lesser claim was denied in revised ITR; Taxpayer fights back and wins in ITAT Bangalore",
       "link": "https://economictimes.indiatimes.com/wealth/tax/rs-5-26-lakh-capital-loss-carry-forward-was-claimed-in-original-itr-but-a-lesser-claim-was-denied-in-revised-itr-taxpayer-fights-back-and-wins-in-itat-bangalore/articleshow/132554931.cms",
       "date": "2026-07-22",
       "source": "Economic Times - Income Tax",
-      "category": "income-tax"
-    },
-    {
-      "title": "How to select the right ITR form based on your income for AY 2026-2027",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-select-the-right-itr-form-based-on-your-income-for-ay-2026-2027/articleshow/132553295.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax"
+      "category": "income-tax",
+      "pdf_link": null
     }
   ]
 }
