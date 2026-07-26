@@ -1,17 +1,37 @@
 #!/usr/bin/env python3
 """
-Fetches official Indian financial-regulator RSS feeds (RBI, PIB) and writes a
-filtered, structured JSON file (updates-feed.json) for the website's Live Feed
-section to consume.
+Fetches official Indian financial-regulator RSS feeds (RBI, PIB, Income Tax
+Dept) plus the GST headless-browser scraper, and writes a filtered,
+structured JSON file (updates-feed.json) for the website's Live Feed section
+to consume.
 
 This script is meant to run server-side (e.g. via the included GitHub Actions
 workflow) on a schedule -- NOT in the browser -- because browsers block
 cross-origin requests to .gov.in domains that don't send CORS headers.
 
+Categories map onto the site's category dropdown (see index.html):
+  income-tax, gst, banking, mca, goi, misc
+  (icai, audit, ibc currently have no reliable automated source -- see
+  README.md "Categories without an automated source yet" for why, and what
+  it would take to add one.)
+
+Each item also carries a best-effort "pdf_link" field: if the RSS entry's own
+link is already a PDF, that's used directly; otherwise the script does one
+lightweight fetch of the linked page and looks for the first link on it that
+points to a .pdf file (common on RBI/Income Tax Dept pages, which usually
+link out to the actual notification PDF). If nothing is found, pdf_link is
+null and the site shows only the "Read source" link for that item, no PDF
+button.
+
 Sources used (all official, all public):
   - RBI Press Releases RSS : https://www.rbi.org.in/pressreleases_rss.xml
   - RBI Notifications RSS  : https://www.rbi.org.in/notifications_rss.xml
   - PIB (all ministries)   : https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1
+  - Income Tax Dept RSS feeds (press release / circular / notification)
+  - Economic Times topic feeds (GST, Income Tax, Personal Finance, Banking)
+  - GST portal (via gst_scraper.py -- headless browser, no RSS available)
+  - MCA notices & circulars (via mca_scraper.py -- headless browser, site
+    blocks plain requests and its listing renders client-side)
 """
 
 import json
@@ -24,12 +44,17 @@ from html import unescape
 FEEDS = [
     {"url": "https://www.rbi.org.in/pressreleases_rss.xml", "source": "RBI Press Release", "category": "banking", "always_include": False},
     {"url": "https://www.rbi.org.in/notifications_rss.xml", "source": "RBI Notification", "category": "banking", "always_include": False},
-    {"url": "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1", "source": "PIB (Govt. of India)", "category": "general", "always_include": False},
+    {"url": "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1", "source": "PIB (Govt. of India)", "category": "goi", "always_include": False},
+    # Official CBDT / Income Tax Department feeds -- these are dedicated feeds
+    # from the tax authority itself, so no keyword filtering needed.
+    {"url": "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss", "source": "Income Tax Dept - Press Release", "category": "income-tax", "always_include": True},
+    {"url": "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss", "source": "Income Tax Dept - Circular", "category": "income-tax", "always_include": True},
+    {"url": "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss", "source": "Income Tax Dept - Notification", "category": "income-tax", "always_include": True},
     # Economic Times — these are already topic-dedicated feeds (editorially curated by ET
     # for that specific subject), so we trust them and skip keyword filtering entirely.
     {"url": "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms", "source": "Economic Times - GST", "category": "gst", "always_include": True},
     {"url": "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119912.cms", "source": "Economic Times - Income Tax", "category": "income-tax", "always_include": True},
-    {"url": "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms", "source": "Economic Times - Personal Finance", "category": "general", "always_include": True},
+    {"url": "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms", "source": "Economic Times - Personal Finance", "category": "misc", "always_include": True},
     # Banking/Finance Industry is broader (covers company results, strategy etc. too),
     # so it still goes through the keyword filter below.
     {"url": "https://economictimes.indiatimes.com/rssfeeds/13358259.cms", "source": "Economic Times - Banking/Finance", "category": "banking", "always_include": False},
@@ -113,6 +138,34 @@ def fetch(url):
         return resp.read()
 
 
+def find_pdf_link(page_url):
+    """Best-effort: if the item's own link is already a PDF, use it. Otherwise
+    do one lightweight fetch of the linked page and return the first href
+    that points to a .pdf file (resolved to an absolute URL). Returns None on
+    any failure -- this must never break the main run."""
+    if page_url.lower().split("?")[0].endswith(".pdf"):
+        return page_url
+    try:
+        raw = fetch(page_url)
+        html = raw.decode("utf-8", errors="ignore")
+        # crude but dependency-free: find href="....pdf" (optionally with a querystring)
+        match = re.search(r'href=["\']([^"\']+\.pdf(?:\?[^"\']*)?)["\']', html, re.IGNORECASE)
+        if not match:
+            return None
+        pdf_url = match.group(1)
+        if pdf_url.startswith("//"):
+            pdf_url = "https:" + pdf_url
+        elif pdf_url.startswith("/"):
+            from urllib.parse import urlparse
+            parsed = urlparse(page_url)
+            pdf_url = f"{parsed.scheme}://{parsed.netloc}{pdf_url}"
+        elif not pdf_url.startswith("http"):
+            return None  # relative path without leading slash -- skip, too ambiguous to resolve safely
+        return pdf_url
+    except Exception:
+        return None
+
+
 def main():
     all_items = []
     errors = []
@@ -126,6 +179,36 @@ def main():
             errors.append(f"{feed['url']}: {e}")
             print(f"ERR {feed['url']} -> {e}")
 
+    # GST portal has no RSS/API -- it's a JS-rendered page, so it needs a headless
+    # browser instead of a simple HTTP request. Wrapped defensively so that if
+    # Playwright isn't installed, or GST's page changes and breaks extraction,
+    # every other source above still succeeds and gets written out normally.
+    try:
+        from gst_scraper import scrape_gst_news
+        gst_items = scrape_gst_news()
+        all_items.extend(gst_items)
+        print(f"OK  gst.gov.in (headless browser) -> {len(gst_items)} item(s)")
+        if not gst_items:
+            errors.append("gst.gov.in: scraper ran but found 0 items -- see gst_debug.html artifact")
+    except Exception as e:
+        errors.append(f"gst.gov.in (headless browser): {e}")
+        print(f"ERR gst.gov.in (headless browser) -> {e}")
+
+    # MCA blocks plain HTTP requests and its notices listing renders client-side,
+    # so it needs the same headless-browser approach as GST. Same defensive wrapping:
+    # if Playwright isn't installed, or MCA's page changes and breaks extraction,
+    # every other source above still succeeds and gets written out normally.
+    try:
+        from mca_scraper import scrape_mca_notices
+        mca_items = scrape_mca_notices()
+        all_items.extend(mca_items)
+        print(f"OK  mca.gov.in (headless browser) -> {len(mca_items)} item(s)")
+        if not mca_items:
+            errors.append("mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact")
+    except Exception as e:
+        errors.append(f"mca.gov.in (headless browser): {e}")
+        print(f"ERR mca.gov.in (headless browser) -> {e}")
+
     # De-duplicate by link, sort newest first, cap the list
     seen = set()
     deduped = []
@@ -135,6 +218,15 @@ def main():
         seen.add(it["link"])
         deduped.append(it)
     deduped = deduped[:MAX_ITEMS]
+
+    # Best-effort PDF detection -- only for the final, capped list, to avoid
+    # wasting requests on items that got filtered out or deduplicated away.
+    pdf_found = 0
+    for it in deduped:
+        it["pdf_link"] = find_pdf_link(it["link"])
+        if it["pdf_link"]:
+            pdf_found += 1
+    print(f"PDF links found for {pdf_found} of {len(deduped)} items")
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
