@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:21:02+00:00",
+  "generated_at": "2026-07-27T15:57:10+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -21,11 +21,107 @@
   ],
   "items": [
     {
+      "title": "RBI imposes monetary penalty on Raigad District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63243",
+      "date": "2026-07-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR76376917CB8E0A04AFF87BF7A0A19B1C3DB.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Sangli District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63242",
+      "date": "2026-07-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR764CAC12F1D89AE4E5DBCE88F767C491788.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Shajapur, Madhya Pradesh",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63241",
+      "date": "2026-07-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR765933233A79964474296DE08CFC1A6AF8B.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Citizen Co-operative Bank Limited, Bangalore, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63240",
+      "date": "2026-07-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR76264EFCA485BEE4AABBF063D63FF5A8629.PDF"
+    },
+    {
+      "title": "Exclusion of “Coöperatieve Rabobank U.A.” from the Second Schedule to the Reserve Bank of India Act, 1934",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63239",
+      "date": "2026-07-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7619074D62F1B84402C8286D777F9FACF1F.PDF"
+    },
+    {
+      "title": "Cessation of “Coöperatieve Rabobank U.A.” as a banking company within the meaning of sub section (2) of Section 36 (A) of the Banking Regulation Act, 1949",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63238",
+      "date": "2026-07-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR76034A24A6EDB6A4492BDE7CD6C23782F02.PDF"
+    },
+    {
+      "title": "File your ITR for just Rs 11: Paytm partners with ClearTax; here's how you can file income tax return",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/file-your-itr-for-just-rs-11-paytm-partners-with-cleartax-heres-how-you-can-file-income-tax-return/articleshow/132658584.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Save income tax when filing ITR for AY 2026-2027 by claiming Section 54 or 54F benefits if you sold land, house property or equity shares; Know how",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/save-income-tax-when-filing-itr-for-ay-2026-2027-by-claiming-section-54-or-54f-benefits-if-you-sold-land-house-property-or-equity-shares-know-how/articleshow/132657444.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "GST notice uploaded only on portal isn't valid service, high courts rule: What it means for taxpayers",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/gst-notice-uploaded-only-on-portal-isnt-valid-service-high-courts-rule-what-it-means-for-taxpayers/articleshow/132657130.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 17.41 lakh penalty for ITR filing mistake: CA firm's owner's affidavit helps taxpayer get relief in ITAT Mumbai; know how",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-17-41-lakh-penalty-for-itr-filing-mistake-ca-firms-owners-affidavit-helps-taxpayer-get-relief-in-itat-mumbai-know-how/articleshow/132656922.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
       "title": "ITR filing last date: Will Income Tax Department extend July 31 deadline for FY 25-26? Here's what experts say",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-last-date-can-income-tax-department-extend-july-31-itr-filing-deadline-for-fy-25-26-heres-what-experts-say/articleshow/132656623.cms",
       "date": "2026-07-27",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank fines CEO, CFO Rs 1 lakh each over MSRDC deposit case",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-fines-ceo-cfo-rs-1-lakh-each-over-msrdc-deposit-case/articleshow/132659924.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank fines CEO, CFO ₹1 lakh each after MSRDC review finds 'business overreach'",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-fines-ceo-cfo-1-lakh-each-after-msrdc-review-finds-business-overreach/articleshow/132658985.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -83,30 +179,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Irinjalakuda Town Co-operative Bank Ltd., Kerala - Extension of period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63231",
-      "date": "2026-07-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7533D47F122BEE946AB898040A336240CA0.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63229",
-      "date": "2026-07-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR751FC7A6B8317294F9FB92F81E2104540D6.PDF"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sonpeth Nagari Sahakari Bank Maryadit, Sonpeth, Dist. Parbhani, Maharashtra – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63228",
-      "date": "2026-07-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7502ABC895CB1874A2EB134132AC6044BDE.PDF"
     },
     {
       "title": "Wife paid Rs 58 lakh from Indian bank a/c, husband paid Rs 80 lakh from UAE bank a/c for property purchase; she gets tax notice for unexplained investment, wins case in ITAT Mumbai for this reason",
@@ -186,78 +258,6 @@
       "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Son becomes NRI, gifts shares worth Rs 30 lakh to father; should this be disclosed in ITR? What taxpayers must do to avoid tax notices",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-son-gifts-shares-worth-rs-30-lakh-to-father-should-this-be-disclosed-in-itr-filing-what-taxpayers-must-do-to-avoid-income-tax-notice/articleshow/132575289.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Need help with ITR filing? Check the ITR filing charges across various websites for AY 2026-2027 for students, salaried persons, pensioners and NRIs",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/need-help-with-itr-filing-check-the-itr-filing-charges-across-various-websites-for-ay-2026-2027-for-students-salaried-persons-pensioners-and-nris/articleshow/132576217.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR filing: Received Section 143(1) intimation with tax demand? Respond within 30 days or risk being treated as an ‘assessee in default’; know how to do it",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-received-section-1431-intimation-with-tax-demand-respond-within-30-days-or-risk-being-treated-as-an-assessee-in-default-know-how-to-do-it/articleshow/132574419.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "New tax regime: Save up to Rs 65,500 in tax through your employer's NPS contribution; here's how to claim it",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/new-tax-regime-save-up-to-rs-65500-in-tax-through-your-employers-nps-contribution-heres-how-to-claim-it/articleshow/132572028.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Godrej Capital aims to grow gold loan book to Rs 5000 crores by 2031",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/godrej-capital-aims-to-grow-gold-loan-book-to-rs-5000-crores-by-2031/articleshow/132586040.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Three US law firms probe HDFC Bank over alleged Maharashtra deposit payments",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/three-us-law-firms-probe-hdfc-bank-over-alleged-maharashtra-deposit-payments/articleshow/132577997.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Punjab & Sind Bank hopes to surpass Rs 1,000 crore recovery target in FY27",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/punjab-sind-bank-hopes-to-surpass-rs-1000-crore-recovery-target-in-fy27/articleshow/132577895.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Ujjivan Small Finance Bank grows share of secured loan to over 50%",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ujjivan-small-finance-bank-grows-share-of-secured-loan-to-over-50/articleshow/132577618.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bandhan Bank lowers return on assets projection to 1.2-1.4%, stock price continues to tumble",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bandhan-bank-lowers-return-on-assets-projection-to-1-2-1-4-stock-price-continues-to-tumble/articleshow/132575261.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
