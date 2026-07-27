@@ -2,8 +2,9 @@ name: Refresh statutory updates feed
 
 on:
   schedule:
+    # Runs every day at 06:00 UTC (11:30 AM IST). Edit the cron to change timing.
     - cron: '0 6 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
 
 permissions:
   contents: write
@@ -20,8 +21,31 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install Python dependencies (Playwright, for the GST and MCA scrapers)
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
       - name: Fetch latest official updates
         run: python fetch_updates.py
+
+      - name: Upload GST debug page (only kept if the scraper found 0 items)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gst-debug-html
+          path: gst_debug.html
+          if-no-files-found: ignore
+          retention-days: 7
+
+      - name: Upload MCA debug page (only kept if the scraper found 0 items)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mca-debug-html
+          path: mca_debug.html
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Commit updated feed (if changed)
         run: |
