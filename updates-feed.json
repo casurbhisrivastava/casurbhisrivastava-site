@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:10:08+00:00",
+  "generated_at": "2026-07-27T09:21:02+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -17,10 +17,41 @@
     "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
     "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
     "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
-    "gst.gov.in (headless browser): No module named 'gst_scraper'",
-    "mca.gov.in (headless browser): No module named 'mca_scraper'"
+    "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "ITR filing last date: Will Income Tax Department extend July 31 deadline for FY 25-26? Here's what experts say",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-last-date-can-income-tax-department-extend-july-31-itr-filing-deadline-for-fy-25-26-heres-what-experts-say/articleshow/132656623.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of Baroda data reportedly leaked on dark web",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-baroda-data-reportedly-leaked-on-dark-web/articleshow/132656112.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Costs and provisions down, IDFC Bank will continue to bolster earnings: V Vaidyanathan, MD & CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/costs-and-provisions-down-idfc-bank-show-should-continue-this-year-v-vaidyanathan-md-ceo/articleshow/132647359.cms",
+      "date": "2026-07-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Shriram Finance eyes doubling gold loan book share to 5% in three years",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/shriram-finance-eyes-doubling-gold-loan-book-share-to-5-in-three-years/articleshow/132640524.cms",
+      "date": "2026-07-26",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Are gifts given to NRIs by relatives taxable? Here's what you need to know about income tax and FEMA rules",
       "link": "https://economictimes.indiatimes.com/wealth/tax/are-gifts-given-to-nris-by-relatives-taxable-heres-what-you-need-to-know-about-income-tax-and-fema-rules/articleshow/132617658.cms",
@@ -227,38 +258,6 @@
       "date": "2026-07-23",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "IDFC First Bankscam: CBI searches in Chandigarh, Ludhiana",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idfc-first-bankscam-cbi-searches-in-chandigarh-ludhiana/articleshow/132571871.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks to tap 25 OEMs in battle against AI-led cybersecurity threats",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-tap-25-oems-in-battle-against-ai-led-cybersecurity-threats/articleshow/132567343.cms",
-      "date": "2026-07-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR verification process: Different ways to e-verify your Income Tax Return using Aadhaar OTP, net banking, EVC",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-verification-for-fy-25-26-different-ways-to-e-verify-your-income-tax-return-using-aadhaar-otp-net-banking-evc/articleshow/132557524.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 5.26 lakh capital loss carry forward was claimed in original ITR but a lesser claim was denied in revised ITR; Taxpayer fights back and wins in ITAT Bangalore",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-5-26-lakh-capital-loss-carry-forward-was-claimed-in-original-itr-but-a-lesser-claim-was-denied-in-revised-itr-taxpayer-fights-back-and-wins-in-itat-bangalore/articleshow/132554931.cms",
-      "date": "2026-07-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
