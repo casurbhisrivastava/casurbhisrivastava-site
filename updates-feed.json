@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:57:10+00:00",
+  "generated_at": "2026-07-28T12:25:53+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -20,6 +20,86 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Winding up of Paytm Payments Bank Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63249",
+      "date": "2026-07-28",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7714B4D6DA1FD6A4A91978BF03FC519C312.PDF"
+    },
+    {
+      "title": "ITR filing deadline of July 31, 2026: With only 4 days left to due date; 5 checks you must complete before submitting form",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-deadline-of-july-31-2026-with-only-4-days-left-to-due-date-5-checks-you-must-complete-before-submitting-form/articleshow/132681344.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Don't let selling your house trigger a tax notice: Check these rules under Sections 54 and 54F",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/dont-let-selling-your-house-trigger-a-tax-notice-check-these-rules-under-sections-54-and-54f/articleshow/132680536.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Which ITR form should I file as I am a homemaker who has Rs 98,000 dividend income and paid Rs 4000 TDS?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/which-itr-form-should-i-file-as-i-am-a-homemaker-who-has-rs-98000-dividend-income-and-paid-rs-4000-tds/articleshow/132676643.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Employee wrongly declared Rs 14 lakh Australian salary in Indian ITR: ITAT grants tax relief but denies Rs 3.4 lakh foreign tax credit",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/employee-wrongly-declared-rs-14-lakh-australian-salary-in-indian-itr-itat-grants-tax-relief-but-denies-rs-3-4-lakh-foreign-tax-credit/articleshow/132675857.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Delhi HC orders winding up of Paytm Payments Bank, appoints former SBI official as liquidator",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-hc-orders-winding-up-of-paytm-payments-bank-appoints-former-sbi-official-as-liquidator/articleshow/132682626.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Delhi High Court orders winding up of Paytm Payments Bank after RBI licence cancellation",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-high-court-orders-winding-up-of-paytm-payments-bank-after-rbi-licence-cancellation/articleshow/132682458.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of Baroda Data Leak: Compromised employee email linked to alleged 1TB data leak on darknet",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-baroda-1tb-data-leak-on-darknet-reason-is-employee-email-compromise-core-banking-systems-cyber-insurance-claim-forensic-investigation/articleshow/132674252.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of Baroda claims cyber cover after data breach",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/bank-of-baroda-claims-cyber-cover-after-data-breach/articleshow/132670034.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Kotak Mahindra Bank taps HSBC and CTBC for $600-million overseas loan",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-bank-taps-hsbc-and-ctbc-for-600-million-overseas-loan/articleshow/132669873.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "RBI imposes monetary penalty on Raigad District Central Co-operative Bank Ltd., Maharashtra",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63243",
@@ -43,30 +123,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR765933233A79964474296DE08CFC1A6AF8B.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on The Citizen Co-operative Bank Limited, Bangalore, Karnataka",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63240",
-      "date": "2026-07-27",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR76264EFCA485BEE4AABBF063D63FF5A8629.PDF"
-    },
-    {
-      "title": "Exclusion of “Coöperatieve Rabobank U.A.” from the Second Schedule to the Reserve Bank of India Act, 1934",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63239",
-      "date": "2026-07-27",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7619074D62F1B84402C8286D777F9FACF1F.PDF"
-    },
-    {
-      "title": "Cessation of “Coöperatieve Rabobank U.A.” as a banking company within the meaning of sub section (2) of Section 36 (A) of the Banking Regulation Act, 1949",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63238",
-      "date": "2026-07-27",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR76034A24A6EDB6A4492BDE7CD6C23782F02.PDF"
     },
     {
       "title": "File your ITR for just Rs 11: Paytm partners with ClearTax; here's how you can file income tax return",
@@ -200,62 +256,6 @@
       "title": "Rs 9.48 lakh income tax demand on coaching centre quashed: ITAT explains why attendance alone doesn't make contractual teachers employees",
       "link": "https://economictimes.indiatimes.com/wealth/tax/rs-9-48-lakh-income-tax-demand-on-coaching-centre-quashed-itat-explains-why-attendance-alone-doesnt-make-contractual-teachers-employees/articleshow/132598203.cms",
       "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR filing deadline FY 2025-26: Due dates, penalties, and what happens if you miss July 31 deadline",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-deadline-fy-2025-26-due-dates-penalties-and-what-happens-if-you-miss-july-31/articleshow/132597179.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Sold multi-asset MFs? Before filing ITR, check the fund’s underlying asset mix as it determines tax treatment; know how to file return on such gains",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/sold-multi-asset-mfs-before-filing-itr-check-the-funds-underlying-asset-mix-as-it-determines-tax-treatment-know-how-to-file-return-on-such-gains/articleshow/132597440.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Lady with Rs 5.28 lakh income pays no tax despite Rs 1.42 lakh STCG from equities; Know why ITAT Mumbai allowed the Section 87A rebate",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/lady-with-rs-5-28-lakh-income-pays-no-tax-despite-rs-1-42-lakh-stcg-from-equities-know-why-itat-mumbai-allowed-the-section-87a-rebate/articleshow/132596634.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "How to file ITR-4 online on the e-filing ITR portal for AY 2026-2027",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-file-itr-4-online-on-the-e-filing-itr-portal-for-ay-2026-2027/articleshow/132581137.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank credit growth eases to 17.7% in fortnight to July 15",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-credit-growth-eases-to-17-7-in-fortnight-to-july-15/articleshow/132607958.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of India aims to raise $1.2 billion through FCNR-B deposits, plans additional $2 billion overseas borrowing",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-aims-to-raise-1-2-billion-through-fcnr-b-deposits-plans-additional-2-billion-overseas-borrowing/articleshow/132607843.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "How to file ITR-3 online on the Income Tax e-filing portal for AY 2026-2027",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/how-to-file-itr-3-online-on-the-income-tax-e-filing-portal-for-ay-2026-2027/articleshow/132580088.cms",
-      "date": "2026-07-23",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
       "pdf_link": null
