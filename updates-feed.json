@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:25:53+00:00",
+  "generated_at": "2026-07-29T13:10:23+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -20,6 +20,86 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "ITR filing mistakes to avoid before July 31 deadline: Expert reveals 5 mistakes that can lead to delays, failure of ITR form submission",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-deadline-of-july-31-2026-5-mistakes-of-taxpayers-that-can-result-in-itr-form-submission-failure-delay/articleshow/132709203.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "TDS deducted but you haven't filed your ITR yet? Here's what happens if you miss the July 31 deadline",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/tds-deducted-but-you-havent-filed-your-itr-yet-heres-what-happens-if-you-miss-the-july-31-deadline/articleshow/132707690.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Is government planning to scrap Long Term Capital Gain (LTCG) tax on equities for domestic investors in FY 26-27? Minister responds",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/is-government-planning-to-scrap-long-term-capital-gain-ltcg-tax-on-equities-for-domestic-investors-in-fy-26-27-minister-responds/articleshow/132704739.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Are you an NRI who sold an under-construction property? Here's what actually counts as your “Date of Purchase” for capital gains calculation",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/are-you-an-nri-who-sold-an-under-construction-property-heres-what-actually-counts-as-your-date-of-purchase-for-capital-gains-calculation/articleshow/132702046.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "The evolution of mobile banking apps into financial operating systems",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-evolution-of-mobile-banking-apps-into-financial-operating-systems/articleshow/132708474.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Gold loan NPAs may rise as NBFCs shift to monthly installments, ICRA projects market growth",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gold-loan-npas-may-rise-as-nbfcs-shift-to-monthly-installments-icra-projects-market-growth/articleshow/132706923.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Canara Bank to frontload ECL provisioning, plans ₹8,000 cr capital raise",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/canara-bank-to-frontload-ecl-provisioning-plans-8000-cr-capital-raise/articleshow/132693820.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI, HDFC Bank seek $1.7 billion overseas to boost dollar resources",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-hdfc-bank-seek-1-7-billion-overseas-to-boost-dollar-resources/articleshow/132693693.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR(B) deposit drive could pressure banks' profitability",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-deposit-drive-could-pressure-banks-profitability/articleshow/132693690.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Patchy rains may hit rural lending, banks stay cautious",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/patchy-rains-may-hit-rural-lending-banks-stay-cautious/articleshow/132693687.cms",
+      "date": "2026-07-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Winding up of Paytm Payments Bank Limited",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63249",
@@ -61,6 +141,14 @@
       "pdf_link": null
     },
     {
+      "title": "Minimum balance charges swell pvt banks' coffers by nearly Rs 5,000 cr in FY26",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/minimum-balance-charges-swell-pvt-banks-coffers-by-nearly-rs-5000-cr-in-fy26/articleshow/132687499.cms",
+      "date": "2026-07-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "Delhi HC orders winding up of Paytm Payments Bank, appoints former SBI official as liquidator",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-hc-orders-winding-up-of-paytm-payments-bank-appoints-former-sbi-official-as-liquidator/articleshow/132682626.cms",
       "date": "2026-07-28",
@@ -99,30 +187,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "RBI imposes monetary penalty on Raigad District Central Co-operative Bank Ltd., Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63243",
-      "date": "2026-07-27",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR76376917CB8E0A04AFF87BF7A0A19B1C3DB.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Sangli District Central Co-operative Bank Ltd., Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63242",
-      "date": "2026-07-27",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR764CAC12F1D89AE4E5DBCE88F767C491788.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Shajapur, Madhya Pradesh",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63241",
-      "date": "2026-07-27",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR765933233A79964474296DE08CFC1A6AF8B.PDF"
     },
     {
       "title": "File your ITR for just Rs 11: Paytm partners with ClearTax; here's how you can file income tax return",
@@ -194,70 +258,6 @@
       "date": "2026-07-27",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Shriram Finance eyes doubling gold loan book share to 5% in three years",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/shriram-finance-eyes-doubling-gold-loan-book-share-to-5-in-three-years/articleshow/132640524.cms",
-      "date": "2026-07-26",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Are gifts given to NRIs by relatives taxable? Here's what you need to know about income tax and FEMA rules",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/are-gifts-given-to-nris-by-relatives-taxable-heres-what-you-need-to-know-about-income-tax-and-fema-rules/articleshow/132617658.cms",
-      "date": "2026-07-25",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "AU Small Finance Bank Q1 net rises 37% to ₹796 crore",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-q1-net-rises-37-to-796-crore/articleshow/132631848.cms",
-      "date": "2026-07-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI recruits 1,930 Circle Based Officers to strengthen banking operations",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-recruits-1930-circle-based-officers-to-strengthen-banking-operations/articleshow/132622206.cms",
-      "date": "2026-07-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "More banks may join overseas bond run",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/more-banks-may-join-overseas-bond-run/articleshow/132614342.cms",
-      "date": "2026-07-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Wife paid Rs 58 lakh from Indian bank a/c, husband paid Rs 80 lakh from UAE bank a/c for property purchase; she gets tax notice for unexplained investment, wins case in ITAT Mumbai for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/wife-paid-rs-58-lakh-from-indian-bank-a/c-husband-paid-rs-80-lakh-from-uae-bank-a/c-for-property-purchase-she-gets-tax-notice-for-unexplained-investment-wins-case-in-itat-mumbai-for-this-reason/articleshow/132598784.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Opting for presumptive taxation while filing ITR? You may have to face tax audit; here’s what you must know",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/opting-for-presumptive-taxation-while-filing-itr-you-may-have-to-face-tax-audit-heres-what-you-must-know/articleshow/132598575.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 9.48 lakh income tax demand on coaching centre quashed: ITAT explains why attendance alone doesn't make contractual teachers employees",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-9-48-lakh-income-tax-demand-on-coaching-centre-quashed-itat-explains-why-attendance-alone-doesnt-make-contractual-teachers-employees/articleshow/132598203.cms",
-      "date": "2026-07-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
