@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T13:10:23+00:00",
+  "generated_at": "2026-07-30T12:14:19+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -20,6 +20,150 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI issues Basel Pillar 3 Disclosures for Banks",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63258",
+      "date": "2026-07-30",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7802879FFE632744506B9B6F420EFE9B6D5.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Financial Statements: Presentation and Disclosures) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13655&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2135B94D09619AB4E57A4EC564FA03B610E.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Governance) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13654&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT212F2A934710D6A4CDC9E71067C94DC170F.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Asset Liability Management) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13653&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2119F4396DD846F40AD93EC8730D34E1DB7.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13652&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2108270FCCB27CD41269C97AB89050D0582.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks – Financial Statements: Presentation and Disclosures) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13651&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT209501B8A8B556F4EE89F16F2F264541B63.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks – Governance) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13650&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT208FE629C7305784109BDA42B6A7F68C3A9.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Financial Statements: Presentation and Disclosures) Eighth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13649&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2071F359D24074A4BAFB39B3ECF2E2E8B8F.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Governance) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13648&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT206EDD247C9421440388A3EAF0677317C85.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Asset Liability Management) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13647&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT205D4E4EF0D80D447CFBFF57992629DC375.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Seventh Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13646&Mode=0",
+      "date": "2026-07-30",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2043855583C178849C8B1D76ED91C4F6229.PDF"
+    },
+    {
+      "title": "July 31 isn't the ITR deadline for everyone: Who can file income tax returns by August 31, 2026?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/july-31-isnt-the-itr-deadline-for-everyone-who-can-file-income-tax-returns-by-august-31-2026/articleshow/132735092.cms",
+      "date": "2026-07-30",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Confused about ITR forms? Here's how to pick the correct ITR for AY 2026-27",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/confused-about-itr-forms-heres-how-to-pick-the-correct-itr-for-ay-2026-27/articleshow/132734215.cms",
+      "date": "2026-07-30",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Has government scrapped Long Term Capital Gain (LTCG) tax for foreign investors? Finance Ministry replies",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/has-government-scrapped-long-term-capital-gain-ltcg-tax-for-foreign-investors-finance-ministry-replies/articleshow/132734633.cms",
+      "date": "2026-07-30",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Kotak Investment Banking appoints Jayasankar, Sourav Mallik as Co-CEOs",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-investment-banking-appoints-jayasankar-sourav-mallik-as-co-ceos/articleshow/132738896.cms",
+      "date": "2026-07-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "The future of personal loans is pay for what you need",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/the-future-of-personal-loans-is-pay-for-what-you-need/articleshow/132736557.cms",
+      "date": "2026-07-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank spends Rs 1,316 crore on CSR in FY26, expands rural footprint",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-spends-rs-1316-crore-on-csr-in-fy26-expands-rural-footprint/articleshow/132733069.cms",
+      "date": "2026-07-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR(B) surge: Inflows through special window to ease banks’ liquidity pressure",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-surge-inflows-through-special-window-to-ease-banks-liquidity-pressure/articleshow/132721350.cms",
+      "date": "2026-07-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "ITR filing mistakes to avoid before July 31 deadline: Expert reveals 5 mistakes that can lead to delays, failure of ITR form submission",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-deadline-of-july-31-2026-5-mistakes-of-taxpayers-that-can-result-in-itr-form-submission-failure-delay/articleshow/132709203.cms",
@@ -101,164 +245,20 @@
       "pdf_link": null
     },
     {
+      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
+      "link": "https://www.gst.gov.in//www.gst.gov.in/newsandupdates/read/668",
+      "date": "2026-07-29",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
       "title": "Winding up of Paytm Payments Bank Limited",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63249",
       "date": "2026-07-28",
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7714B4D6DA1FD6A4A91978BF03FC519C312.PDF"
-    },
-    {
-      "title": "ITR filing deadline of July 31, 2026: With only 4 days left to due date; 5 checks you must complete before submitting form",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-deadline-of-july-31-2026-with-only-4-days-left-to-due-date-5-checks-you-must-complete-before-submitting-form/articleshow/132681344.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Don't let selling your house trigger a tax notice: Check these rules under Sections 54 and 54F",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/dont-let-selling-your-house-trigger-a-tax-notice-check-these-rules-under-sections-54-and-54f/articleshow/132680536.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Which ITR form should I file as I am a homemaker who has Rs 98,000 dividend income and paid Rs 4000 TDS?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/which-itr-form-should-i-file-as-i-am-a-homemaker-who-has-rs-98000-dividend-income-and-paid-rs-4000-tds/articleshow/132676643.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Employee wrongly declared Rs 14 lakh Australian salary in Indian ITR: ITAT grants tax relief but denies Rs 3.4 lakh foreign tax credit",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/employee-wrongly-declared-rs-14-lakh-australian-salary-in-indian-itr-itat-grants-tax-relief-but-denies-rs-3-4-lakh-foreign-tax-credit/articleshow/132675857.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Minimum balance charges swell pvt banks' coffers by nearly Rs 5,000 cr in FY26",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/minimum-balance-charges-swell-pvt-banks-coffers-by-nearly-rs-5000-cr-in-fy26/articleshow/132687499.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Delhi HC orders winding up of Paytm Payments Bank, appoints former SBI official as liquidator",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-hc-orders-winding-up-of-paytm-payments-bank-appoints-former-sbi-official-as-liquidator/articleshow/132682626.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Delhi High Court orders winding up of Paytm Payments Bank after RBI licence cancellation",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-high-court-orders-winding-up-of-paytm-payments-bank-after-rbi-licence-cancellation/articleshow/132682458.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of Baroda Data Leak: Compromised employee email linked to alleged 1TB data leak on darknet",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-baroda-1tb-data-leak-on-darknet-reason-is-employee-email-compromise-core-banking-systems-cyber-insurance-claim-forensic-investigation/articleshow/132674252.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of Baroda claims cyber cover after data breach",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/bank-of-baroda-claims-cyber-cover-after-data-breach/articleshow/132670034.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Kotak Mahindra Bank taps HSBC and CTBC for $600-million overseas loan",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-bank-taps-hsbc-and-ctbc-for-600-million-overseas-loan/articleshow/132669873.cms",
-      "date": "2026-07-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "File your ITR for just Rs 11: Paytm partners with ClearTax; here's how you can file income tax return",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/file-your-itr-for-just-rs-11-paytm-partners-with-cleartax-heres-how-you-can-file-income-tax-return/articleshow/132658584.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Save income tax when filing ITR for AY 2026-2027 by claiming Section 54 or 54F benefits if you sold land, house property or equity shares; Know how",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/save-income-tax-when-filing-itr-for-ay-2026-2027-by-claiming-section-54-or-54f-benefits-if-you-sold-land-house-property-or-equity-shares-know-how/articleshow/132657444.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "GST notice uploaded only on portal isn't valid service, high courts rule: What it means for taxpayers",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/gst-notice-uploaded-only-on-portal-isnt-valid-service-high-courts-rule-what-it-means-for-taxpayers/articleshow/132657130.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 17.41 lakh penalty for ITR filing mistake: CA firm's owner's affidavit helps taxpayer get relief in ITAT Mumbai; know how",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-17-41-lakh-penalty-for-itr-filing-mistake-ca-firms-owners-affidavit-helps-taxpayer-get-relief-in-itat-mumbai-know-how/articleshow/132656922.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR filing last date: Will Income Tax Department extend July 31 deadline for FY 25-26? Here's what experts say",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-last-date-can-income-tax-department-extend-july-31-itr-filing-deadline-for-fy-25-26-heres-what-experts-say/articleshow/132656623.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank fines CEO, CFO Rs 1 lakh each over MSRDC deposit case",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-fines-ceo-cfo-rs-1-lakh-each-over-msrdc-deposit-case/articleshow/132659924.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank fines CEO, CFO ₹1 lakh each after MSRDC review finds 'business overreach'",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-fines-ceo-cfo-1-lakh-each-after-msrdc-review-finds-business-overreach/articleshow/132658985.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of Baroda data reportedly leaked on dark web",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-baroda-data-reportedly-leaked-on-dark-web/articleshow/132656112.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Costs and provisions down, IDFC Bank will continue to bolster earnings: V Vaidyanathan, MD & CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/costs-and-provisions-down-idfc-bank-show-should-continue-this-year-v-vaidyanathan-md-ceo/articleshow/132647359.cms",
-      "date": "2026-07-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
     }
   ]
 }
