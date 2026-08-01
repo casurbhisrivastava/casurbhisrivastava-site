@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T12:32:45+00:00",
+  "generated_at": "2026-08-01T11:08:54+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -17,10 +17,65 @@
     "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
     "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
     "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
-    "gst.gov.in: scraper ran but found 0 items -- see gst_debug.html artifact",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63274",
+      "date": "2026-08-01",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7967103E1BC46504DBB8FDB5878A844B858.PDF"
+    },
+    {
+      "title": "Man was denied Section 54F income tax exemption as builder delayed villa construction by 4 years; Telangana HC grants relief, says taxpayer can't suffer for builder's fault",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/man-was-denied-section-54f-income-tax-exemption-as-builder-delayed-villa-construction-by-4-years-telangana-hc-grants-relief-says-taxpayer-cant-suffer-for-builders-fault/articleshow/132787026.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "ITR filing deadline extension: Has income tax filing last date of July 31, 2026, been extended? Know more",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-income-tax-filing-deadline-extension-date-july-31-2026-has-due-date-been-moved-to-august/articleshow/132767784.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Missed filing your ITR by July 31, 2026? Know your options and here’s what you can do now",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-filing-your-itr-by-july-31-2026-know-your-options-and-heres-what-you-can-do-now/articleshow/132766110.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank credit to industry up 19%, personal loans stay strong",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-to-industry-up-19-personal-loans-stay-strong/articleshow/132776414.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR deposits from Indian diaspora in UAE come in big; some say flow could be bigger",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/some-bottlenecks-fcnr-deposits-from-uae-come-in-big-some-say-flow-could-be-bigger/articleshow/132776266.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of July, 2026",
+      "link": "https://www.gst.gov.in//www.gst.gov.in/newsandupdates/read/669",
+      "date": "2026-08-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
     {
       "title": "Lending and Deposit Rates of Scheduled Commercial Banks – July 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63271",
@@ -158,6 +213,14 @@
       "pdf_link": null
     },
     {
+      "title": "Loan growth remains strong, shows latest RBI sectoral data",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/loan-growth-remains-strong-shows-latest-rbi-sectoral-data/articleshow/132768993.cms",
+      "date": "2026-07-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "RBI asks banks to install fake currency detection machines at branches along international borders",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-asks-banks-to-install-fake-currency-detection-machines-at-branches-along-international-borders/articleshow/132766650.cms",
       "date": "2026-07-31",
@@ -195,70 +258,6 @@
       "date": "2026-07-30",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "July 31 isn't the ITR deadline for everyone: Who can file income tax returns by August 31, 2026?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/july-31-isnt-the-itr-deadline-for-everyone-who-can-file-income-tax-returns-by-august-31-2026/articleshow/132735092.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Confused about ITR forms? Here's how to pick the correct ITR for AY 2026-27",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/confused-about-itr-forms-heres-how-to-pick-the-correct-itr-for-ay-2026-27/articleshow/132734215.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Has government scrapped Long Term Capital Gain (LTCG) tax for foreign investors? Finance Ministry replies",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/has-government-scrapped-long-term-capital-gain-ltcg-tax-for-foreign-investors-finance-ministry-replies/articleshow/132734633.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI gives banks more time to implement bulk deposit rate norms, deadline now Oct 1",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-gives-banks-more-time-to-implement-bulk-deposit-rate-norms-deadline-now-oct-1/articleshow/132744480.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Kotak Investment Banking appoints Jayasankar, Sourav Mallik as Co-CEOs",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-investment-banking-appoints-jayasankar-sourav-mallik-as-co-ceos/articleshow/132738896.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "The future of personal loans is pay for what you need",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/the-future-of-personal-loans-is-pay-for-what-you-need/articleshow/132736557.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank spends Rs 1,316 crore on CSR in FY26, expands rural footprint",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-spends-rs-1316-crore-on-csr-in-fy26-expands-rural-footprint/articleshow/132733069.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FCNR(B) surge: Inflows through special window to ease banks’ liquidity pressure",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-surge-inflows-through-special-window-to-ease-banks-liquidity-pressure/articleshow/132721350.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
