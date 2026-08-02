@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:08:54+00:00",
+  "generated_at": "2026-08-02T11:08:29+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -20,6 +20,30 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "ITAT Mumbai cancels income tax notice over Rs 8 crore compensation to tenants without their consent; rejects I-T department's contingent liability claim",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itat-mumbai-cancels-income-tax-notice-over-rs-8-crore-compensation-to-tenants-without-their-consent-rejects-i-t-departments-contingent-liability-claim/articleshow/132804665.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 22.94 lakh LTCG for land sale of Rs 92 lakh invited tax notice; Gujarat HC ruled in her favour after 9 years fight; Know why",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/lady-reported-rs-22-94-lakh-ltcg-after-rs-92-lakh-land-sale-faced-tax-notice-gujarat-hc-ruled-in-her-favour-after-9-years-fight-know-why/articleshow/132799176.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of Maharashtra slashes home loan rates to 7% with zero processing fees",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-maharashtra-slashes-home-loan-rates-to-7-with-zero-processing-fees/articleshow/132801815.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63274",
@@ -50,6 +74,14 @@
       "date": "2026-08-01",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI hits record Rs 29.9 lakh crore in July, 23.66 billion transactions",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-hits-record-rs-29-9-lakh-crore-in-july-23-66-billion-transactions/articleshow/132791293.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -226,38 +258,6 @@
       "date": "2026-07-31",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Home loan EMI, amortisation and prepayment- The mathematics every borrower in India must understand",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/home-loan-emi-amortisation-and-prepayment-the-mathematics-every-borrower-in-india-must-understand/articleshow/132762788.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Over 5.5 crore ITRs filed for AY27 so far",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/over-5-5-crore-itrs-filed-for-ay27-so-far/articleshow/132763147.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Mid-tier private banks rake in more low-cost deposits",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/mid-tier-private-banks-rake-in-more-low-cost-deposits/articleshow/132749914.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 1,000 or Rs 5,000 late filing fee for missing ITR filing deadline of July 31? How much fine you may need to pay and why",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-itr-filing-deadline-of-july-31-2026-fy-25-26-penalty-for-missing-due-date-explained-under-2025-act/articleshow/132739647.cms",
-      "date": "2026-07-30",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
