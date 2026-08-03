@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 """
 Scrapes GST's official "News and Updates" page (https://www.gst.gov.in/newsandupdates)
-using a real headless browser, because the page is a JavaScript single-page app --
+using a real headless browser, because the page is an AngularJS single-page app --
 the news list does not exist in the raw HTML, only after client-side rendering.
 
-IMPORTANT — this was built without the ability to inspect the live rendered page
-(the environment that built this script has no network access to gst.gov.in and
-cannot execute JavaScript to see the final DOM). The extraction logic below is
-deliberately generic (it doesn't guess specific CSS class names) to maximise the
-chance it works, but it may need one round of adjustment based on real output.
-If it returns zero items, check the debug artifact this script saves
-(gst_debug.html) to see what the page actually rendered, and share that.
+CONFIRMED STRUCTURE (from a real debug run, 03 Aug 2026):
+Each news item is a plain <li> inside <ul class="news-updts">, with the date in a
+<p class="dt"> and the title + link in an <a> tag inside a second <p>:
+
+    <ul class="news-updts">
+      <li>
+        <p class="dt">01/08/2026</p>
+        <p><a href="//www.gst.gov.in/newsandupdates/read/669" title="...">Title text</a></p>
+      </li>
+      ...
+    </ul>
 
 Requires: playwright (see requirements.txt / the workflow's install step)
 """
@@ -25,27 +29,14 @@ URL = "https://www.gst.gov.in/newsandupdates"
 SOURCE_NAME = "GST Portal (Official)"
 CATEGORY = "gst"
 
-# Matches common Indian date formats appearing in news listings, e.g.
-# "08-07-2026", "08/07/2026", "08 Jul 2026", "July 8, 2026"
-DATE_PATTERNS = [
-    re.compile(r"\b\d{1,2}[-/]\d{1,2}[-/]\d{2,4}\b"),
-    re.compile(r"\b\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{4}\b", re.I),
-    re.compile(r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2},?\s+\d{4}\b", re.I),
-]
-
 
 def try_parse_date(text):
-    for pat in DATE_PATTERNS:
-        m = pat.search(text)
-        if m:
-            raw = m.group(0)
-            for fmt in ("%d-%m-%Y", "%d/%m/%Y", "%d-%m-%y", "%d/%m/%y",
-                        "%d %b %Y", "%d %B %Y", "%b %d, %Y", "%B %d, %Y", "%b %d %Y"):
-                try:
-                    return datetime.strptime(raw, fmt).date().isoformat()
-                except ValueError:
-                    continue
-            return raw  # keep the raw matched text if we can't normalise it
+    text = text.strip()
+    for fmt in ("%d/%m/%Y", "%d-%m-%Y", "%d/%m/%y", "%d-%m-%y"):
+        try:
+            return datetime.strptime(text, fmt).date().isoformat()
+        except ValueError:
+            continue
     return None
 
 
@@ -59,60 +50,39 @@ def scrape_gst_news():
         ))
         try:
             page.goto(URL, wait_until="networkidle", timeout=45000)
-            # Give the Angular/React app a little extra time to finish rendering
-            page.wait_for_timeout(3000)
+            # The AngularJS list populates a moment after networkidle; wait for at
+            # least one real item before reading, rather than a blind sleep.
+            page.wait_for_selector("ul.news-updts li", timeout=15000)
 
             # Save what actually rendered, for debugging if extraction below finds nothing.
             html = page.content()
             with open("gst_debug.html", "w", encoding="utf-8") as f:
                 f.write(html)
 
-            # Generic extraction strategy: look at every element that appears to be a
-            # list item / row / card under the main content area, and treat non-trivial
-            # text blocks as candidate news entries. This avoids hardcoding a specific
-            # CSS class name we can't currently verify.
-            candidates = page.locator(
-                "main li, main tr, main .row, #main-content li, #main-content tr, "
-                "[class*='news'] li, [class*='news'] tr, [class*='list'] li, "
-                "table tr, ul li"
-            )
-            count = candidates.count()
-            seen_texts = set()
+            rows = page.locator("ul.news-updts li")
+            count = rows.count()
             for i in range(count):
+                row = rows.nth(i)
                 try:
-                    text = candidates.nth(i).inner_text(timeout=2000).strip()
+                    date_text = row.locator("p.dt").first.inner_text(timeout=2000).strip()
                 except Exception:
-                    continue
-                if not text or len(text) < 15 or len(text) > 400:
-                    continue
-                if text in seen_texts:
-                    continue
-                seen_texts.add(text)
-
-                date_iso = try_parse_date(text)
-                # Strip the matched date substring out of the title for readability
-                title = text
-                for pat in DATE_PATTERNS:
-                    title = pat.sub("", title).strip(" -–—|,")
-                title = re.sub(r"\s+", " ", title).strip()
+                    date_text = ""
+                try:
+                    link_el = row.locator("a").first
+                    title = link_el.inner_text(timeout=2000).strip()
+                    href = link_el.get_attribute("href", timeout=1000)
+                    link = href if (href and href.startswith("http")) else (
+                        "https://www.gst.gov.in" + href if href else URL)
+                except Exception:
+                    title, link = "", URL
 
                 if not title or len(title) < 10:
                     continue
 
-                # Try to find a link inside this same element
-                link = None
-                try:
-                    link_el = candidates.nth(i).locator("a").first
-                    href = link_el.get_attribute("href", timeout=1000)
-                    if href:
-                        link = href if href.startswith("http") else ("https://www.gst.gov.in" + href)
-                except Exception:
-                    pass
-
                 items.append({
                     "title": title[:300],
-                    "link": link or URL,
-                    "date": date_iso or "",
+                    "link": link,
+                    "date": try_parse_date(date_text) or "",
                     "source": SOURCE_NAME,
                     "category": CATEGORY,
                 })
@@ -129,3 +99,4 @@ if __name__ == "__main__":
     if not results:
         print("\nNo items extracted. Check gst_debug.html (saved alongside this script) "
               "to see what actually rendered, and share it so the selectors can be fixed.")
+
