@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:57:43+00:00",
+  "generated_at": "2026-08-03T16:00:06+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,22 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Processing of Applications Received Under the Citizen’s Charter - Status as on July 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63280",
+      "date": "2026-08-03",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR802601A73E040D6461DBB22FC30E63465C9.PDF"
+    },
+    {
+      "title": "ITR refund 2026: Filed income tax return within July 31, 2026 deadline? Here’s when you may get your tax refund",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-refund-2026-filed-income-tax-return-within-july-31-2026-deadline-heres-when-you-may-get-your-tax-refund/articleshow/132830288.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
     {
       "title": "Equitas to take cautious steps towards universal bank license",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/equitas-to-take-cautious-steps-towards-universal-bank-license/articleshow/132820428.cms",
@@ -232,22 +248,6 @@
     {
       "title": "Reporting perquisite as capital gain in ITR by mistake resulted in Rs 6.63 crore penalty for a salaried employee; ITAT Mumbai granted him relief for this reason",
       "link": "https://economictimes.indiatimes.com/wealth/tax/reporting-perquisite-as-capital-gain-in-itr-by-mistake-resulted-in-rs-6-63-crore-penalty-for-a-salaried-employee-itat-mumbai-granted-him-relief-for-this-reason/articleshow/132761546.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR filing deadline extension: Will Income Tax Department extend July 31 ITR filing due date? Here’s what chartered accountants believe",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-itr-filing-deadline-extension-july-31-fy-25-26-will-government-extend-due-date-heres-what-ca-experts-say/articleshow/132759520.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Don’t worry if you miss July 31, 2026 ITR filing due date as belated ITR with late fee can be filed by this date; Know who can file it",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-income-tax-return-filing-deadline-july-31-2026-for-fy-2526-belated-updated-revised-options-if-you-miss-due-date/articleshow/132757993.cms",
       "date": "2026-07-31",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
