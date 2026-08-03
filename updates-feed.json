@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:08:29+00:00",
+  "generated_at": "2026-08-03T04:53:39+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -21,6 +21,22 @@
   ],
   "items": [
     {
+      "title": "Banks propose 'Yes-No' prompt for high-risk UPI transfers to curb digital payment frauds",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-propose-yes-no-prompt-for-high-risk-upi-transfers-to-curb-digital-payment-frauds/articleshow/132813269.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC, ICICI Bank rates up for dollar deposits",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-icici-bank-rates-up-for-dollar-deposits/articleshow/132813226.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "ITAT Mumbai cancels income tax notice over Rs 8 crore compensation to tenants without their consent; rejects I-T department's contingent liability claim",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itat-mumbai-cancels-income-tax-notice-over-rs-8-crore-compensation-to-tenants-without-their-consent-rejects-i-t-departments-contingent-liability-claim/articleshow/132804665.cms",
       "date": "2026-08-02",
@@ -34,6 +50,22 @@
       "date": "2026-08-02",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Corporate, personal loans drive 63% of bank credit growth: SBI research report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/corporate-personal-loans-drive-63-of-bank-credit-growth-sbi-research-report/articleshow/132808608.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Shivalik Small Finance Bank completes merger with ManiBhavnam Home Finance",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shivalik-small-finance-bank-completes-merger-with-manibhavnam-home-finance/articleshow/132808198.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -123,14 +155,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7900F868CA6248C4DE4B625B90252A09FE8.PDF"
-    },
-    {
-      "title": "Reserve Bank of India issues Consolidated Supervisory Directions",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63265",
-      "date": "2026-07-31",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR787A50DC6AB128A4608A2AB7897AC75FCDD.PDF"
     },
     {
       "title": "Consolidation of Supervisory Instructions – Repeal of Circulars",
@@ -234,30 +258,6 @@
       "date": "2026-07-31",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Not prepared for ITR filing: Should you file your ITR now with available information or wait and file a belated ITR?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/not-prepared-for-itr-filing-should-you-file-your-itr-now-with-available-information-or-wait-and-file-a-belated-itr/articleshow/132757221.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Loan growth remains strong, shows latest RBI sectoral data",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/loan-growth-remains-strong-shows-latest-rbi-sectoral-data/articleshow/132768993.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI asks banks to install fake currency detection machines at branches along international borders",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-asks-banks-to-install-fake-currency-detection-machines-at-branches-along-international-borders/articleshow/132766650.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
