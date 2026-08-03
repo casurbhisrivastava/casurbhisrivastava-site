@@ -133,7 +133,12 @@ def parse_rss(xml_bytes, source, category, always_include=False):
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; StatutoryUpdateBot/1.0)"})
+    req = urllib.request.Request(url, headers={
+        "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"),
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+        "Accept-Language": "en-IN,en;q=0.9",
+    })
     with urllib.request.urlopen(req, timeout=30) as resp:
         return resp.read()
 
