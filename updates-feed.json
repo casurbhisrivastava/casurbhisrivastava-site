@@ -1,65 +1,257 @@
-name: Refresh statutory updates feed
-
-on:
-  schedule:
-    # Runs every day at 06:00 UTC (11:30 AM IST). Edit the cron to change timing.
-    - cron: '0 6 * * *'
-  workflow_dispatch: {}   # lets you also trigger it manually from the Actions tab
-
-permissions:
-  contents: write
-
-jobs:
-  fetch-and-commit:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install Python dependencies (Playwright, for the GST and MCA scrapers)
-        run: |
-          pip install playwright
-          playwright install --with-deps chromium
-
-      - name: Fetch latest official updates
-        run: python fetch_updates.py
-
-      - name: Upload GST debug page (only kept if the scraper found 0 items)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: gst-debug-html
-          path: gst_debug.html
-          if-no-files-found: ignore
-          retention-days: 7
-
-      - name: Upload MCA debug page (only kept if the scraper found 0 items)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: mca-debug-html
-          path: mca_debug.html
-          if-no-files-found: ignore
-          retention-days: 7
-
-      - name: Upload Income Tax debug page (only kept if the scraper found 0 items)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: incometax-debug-html
-          path: incometax_debug.html
-          if-no-files-found: ignore
-          retention-days: 7
-
-      - name: Commit updated feed (if changed)
-        run: |
-          git config user.name "statutory-update-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add updates-feed.json
-          git diff --staged --quiet || git commit -m "Auto-refresh statutory updates feed"
-          git push
+{
+  "generated_at": "2026-08-03T08:57:43+00:00",
+  "sources": [
+    "https://www.rbi.org.in/pressreleases_rss.xml",
+    "https://www.rbi.org.in/notifications_rss.xml",
+    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1",
+    "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms",
+    "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119912.cms",
+    "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms",
+    "https://economictimes.indiatimes.com/rssfeeds/13358259.cms"
+  ],
+  "errors": [
+    "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
+  ],
+  "items": [
+    {
+      "title": "Equitas to take cautious steps towards universal bank license",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/equitas-to-take-cautious-steps-towards-universal-bank-license/articleshow/132820428.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India's bank credit growth remains robust at 18.6% in June 2026; NBFC, retail lending drive momentum: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/indias-bank-credit-growth-remains-robust-at-18-6-in-june-2026-nbfc-retail-lending-drive-momentum-report/articleshow/132819198.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks propose 'Yes-No' prompt for high-risk UPI transfers to curb digital payment frauds",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-propose-yes-no-prompt-for-high-risk-upi-transfers-to-curb-digital-payment-frauds/articleshow/132813269.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC, ICICI Bank rates up for dollar deposits",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-icici-bank-rates-up-for-dollar-deposits/articleshow/132813226.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "ITAT Mumbai cancels income tax notice over Rs 8 crore compensation to tenants without their consent; rejects I-T department's contingent liability claim",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itat-mumbai-cancels-income-tax-notice-over-rs-8-crore-compensation-to-tenants-without-their-consent-rejects-i-t-departments-contingent-liability-claim/articleshow/132804665.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 22.94 lakh LTCG for land sale of Rs 92 lakh invited tax notice; Gujarat HC ruled in her favour after 9 years fight; Know why",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/lady-reported-rs-22-94-lakh-ltcg-after-rs-92-lakh-land-sale-faced-tax-notice-gujarat-hc-ruled-in-her-favour-after-9-years-fight-know-why/articleshow/132799176.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Corporate, personal loans drive 63% of bank credit growth: SBI research report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/corporate-personal-loans-drive-63-of-bank-credit-growth-sbi-research-report/articleshow/132808608.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Shivalik Small Finance Bank completes merger with ManiBhavnam Home Finance",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shivalik-small-finance-bank-completes-merger-with-manibhavnam-home-finance/articleshow/132808198.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of Maharashtra slashes home loan rates to 7% with zero processing fees",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-maharashtra-slashes-home-loan-rates-to-7-with-zero-processing-fees/articleshow/132801815.cms",
+      "date": "2026-08-02",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63274",
+      "date": "2026-08-01",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7967103E1BC46504DBB8FDB5878A844B858.PDF"
+    },
+    {
+      "title": "Man was denied Section 54F income tax exemption as builder delayed villa construction by 4 years; Telangana HC grants relief, says taxpayer can't suffer for builder's fault",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/man-was-denied-section-54f-income-tax-exemption-as-builder-delayed-villa-construction-by-4-years-telangana-hc-grants-relief-says-taxpayer-cant-suffer-for-builders-fault/articleshow/132787026.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "ITR filing deadline extension: Has income tax filing last date of July 31, 2026, been extended? Know more",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-income-tax-filing-deadline-extension-date-july-31-2026-has-due-date-been-moved-to-august/articleshow/132767784.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Missed filing your ITR by July 31, 2026? Know your options and here’s what you can do now",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-filing-your-itr-by-july-31-2026-know-your-options-and-heres-what-you-can-do-now/articleshow/132766110.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI hits record Rs 29.9 lakh crore in July, 23.66 billion transactions",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-hits-record-rs-29-9-lakh-crore-in-july-23-66-billion-transactions/articleshow/132791293.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank credit to industry up 19%, personal loans stay strong",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-to-industry-up-19-personal-loans-stay-strong/articleshow/132776414.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR deposits from Indian diaspora in UAE come in big; some say flow could be bigger",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/some-bottlenecks-fcnr-deposits-from-uae-come-in-big-some-say-flow-could-be-bigger/articleshow/132776266.cms",
+      "date": "2026-08-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of July, 2026",
+      "link": "https://www.gst.gov.in//www.gst.gov.in/newsandupdates/read/669",
+      "date": "2026-08-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – July 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63271",
+      "date": "2026-07-31",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR793C2A3A3F9CE5841C1A9A51EC509CA6D03.PDF"
+    },
+    {
+      "title": "Consolidation of Supervisory Instructions – Repeal of Circulars",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13663&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT221FE0A4B324CB7415EAFFA02710AC67A48.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Compliance Function) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13645&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/408MD83CAFF1305FB4180A6C3B4E68C88ED09.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Concurrent Audit) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13644&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/409MD13EB09368FC543A2BEDF3B9E8F2C9A6A.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13643&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/410MD1C1DD4C43C9C49ED9033D64902636D9C.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Digital Payment Security Controls) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13642&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/411MD1918998D1AD74F159D57664FB10E053F.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Fraud Risk Management) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13641&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/412MD5B6CA712E156413BACDEA9DD5CF5D1EF.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Internal Audit Function) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13640&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/413MD4F9FF319B5954ED1998D65025BDCBFDA.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Statutory Audit) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13639&Mode=0",
+      "date": "2026-07-31",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/414MDEB929BD427B7443C98B182F2A13E1396.PDF"
+    },
+    {
+      "title": "No input tax credit for the innocent buyer after paying GST? Supreme Court settles who bears the cost when a supplier defaults",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/no-input-tax-credit-for-the-innocent-buyer-after-paying-gst-supreme-court-settles-who-bears-the-cost-when-a-supplier-defaults/articleshow/132762247.cms",
+      "date": "2026-07-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Reporting perquisite as capital gain in ITR by mistake resulted in Rs 6.63 crore penalty for a salaried employee; ITAT Mumbai granted him relief for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/reporting-perquisite-as-capital-gain-in-itr-by-mistake-resulted-in-rs-6-63-crore-penalty-for-a-salaried-employee-itat-mumbai-granted-him-relief-for-this-reason/articleshow/132761546.cms",
+      "date": "2026-07-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "ITR filing deadline extension: Will Income Tax Department extend July 31 ITR filing due date? Here’s what chartered accountants believe",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-itr-filing-deadline-extension-july-31-fy-25-26-will-government-extend-due-date-heres-what-ca-experts-say/articleshow/132759520.cms",
+      "date": "2026-07-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Don’t worry if you miss July 31, 2026 ITR filing due date as belated ITR with late fee can be filed by this date; Know who can file it",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-income-tax-return-filing-deadline-july-31-2026-for-fy-2526-belated-updated-revised-options-if-you-miss-due-date/articleshow/132757993.cms",
+      "date": "2026-07-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    }
+  ]
+}
