@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T05:22:09+00:00",
+  "generated_at": "2026-08-03T05:39:02+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,7 +13,6 @@
     "https://economictimes.indiatimes.com/rssfeeds/13358259.cms"
   ],
   "errors": [
-    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: HTTP Error 403: Forbidden",
     "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
     "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
     "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss: HTTP Error 403: Forbidden",
