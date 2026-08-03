@@ -44,12 +44,16 @@ from html import unescape
 FEEDS = [
     {"url": "https://www.rbi.org.in/pressreleases_rss.xml", "source": "RBI Press Release", "category": "banking", "always_include": False},
     {"url": "https://www.rbi.org.in/notifications_rss.xml", "source": "RBI Notification", "category": "banking", "always_include": False},
-    {"url": "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1", "source": "PIB (Govt. of India)", "category": "goi", "always_include": False},
-    # Official CBDT / Income Tax Department feeds -- these are dedicated feeds
-    # from the tax authority itself, so no keyword filtering needed.
-    {"url": "https://www.incometaxindia.gov.in/press-release-rss-feed/-/asset_publisher/bxhj/rss", "source": "Income Tax Dept - Press Release", "category": "income-tax", "always_include": True},
-    {"url": "https://www.incometaxindia.gov.in/circular-rss-feed/-/asset_publisher/bxhj/rss", "source": "Income Tax Dept - Circular", "category": "income-tax", "always_include": True},
-    {"url": "https://www.incometaxindia.gov.in/notification-rss-feed/-/asset_publisher/bxhj/rss", "source": "Income Tax Dept - Notification", "category": "income-tax", "always_include": True},
+    {"url": "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1", "source": "PIB (Ministry of Finance)", "category": "goi", "always_include": True},
+    # NOTE: the old incometaxindia.gov.in RSS feeds (Press Release / Circular /
+    # Notification) are IP-blocked from GitHub Actions runners (confirmed
+    # 03 Aug 2026 -- 403 Forbidden even with a real browser User-Agent, while
+    # the exact same feed loads fine from a normal residential connection).
+    # Replaced below by incometax_scraper.py, which pulls the same kind of
+    # content from a *different* domain (incometax.gov.in, not
+    # incometaxindia.gov.in) that isn't blocked, and additionally supplies
+    # direct PDF links where available -- see the "Income Tax Dept" merge
+    # step further down in this file.
     # Economic Times — these are already topic-dedicated feeds (editorially curated by ET
     # for that specific subject), so we trust them and skip keyword filtering entirely.
     {"url": "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms", "source": "Economic Times - GST", "category": "gst", "always_include": True},
@@ -214,6 +218,22 @@ def main():
         errors.append(f"mca.gov.in (headless browser): {e}")
         print(f"ERR mca.gov.in (headless browser) -> {e}")
 
+    # Income Tax Dept news, from incometax.gov.in (NOT incometaxindia.gov.in --
+    # that domain's RSS feeds are IP-blocked from GitHub Actions, see the note
+    # in FEEDS above). This is plain server-rendered HTML, no headless browser
+    # needed. It also frequently supplies a direct PDF link per item, which is
+    # kept as-is below rather than re-detected.
+    try:
+        from incometax_scraper import scrape_incometax_news
+        incometax_items = scrape_incometax_news()
+        all_items.extend(incometax_items)
+        print(f"OK  incometax.gov.in (news page) -> {len(incometax_items)} item(s)")
+        if not incometax_items:
+            errors.append("incometax.gov.in: scraper ran but found 0 items -- see incometax_debug.html artifact")
+    except Exception as e:
+        errors.append(f"incometax.gov.in (news page): {e}")
+        print(f"ERR incometax.gov.in (news page) -> {e}")
+
     # De-duplicate by link, sort newest first, cap the list
     seen = set()
     deduped = []
@@ -226,9 +246,13 @@ def main():
 
     # Best-effort PDF detection -- only for the final, capped list, to avoid
     # wasting requests on items that got filtered out or deduplicated away.
+    # Skip items that already came with a known direct PDF link (currently
+    # only incometax_scraper.py supplies these) so we don't overwrite a
+    # confirmed link with a re-guessed one.
     pdf_found = 0
     for it in deduped:
-        it["pdf_link"] = find_pdf_link(it["link"])
+        if not it.get("pdf_link"):
+            it["pdf_link"] = find_pdf_link(it["link"])
         if it["pdf_link"]:
             pdf_found += 1
     print(f"PDF links found for {pdf_found} of {len(deduped)} items")
