@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T04:53:39+00:00",
+  "generated_at": "2026-08-03T05:11:43+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -20,6 +20,14 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "India's bank credit growth remains robust at 18.6% in June 2026; NBFC, retail lending drive momentum: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/indias-bank-credit-growth-remains-robust-at-18-6-in-june-2026-nbfc-retail-lending-drive-momentum-report/articleshow/132819198.cms",
+      "date": "2026-08-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Banks propose 'Yes-No' prompt for high-risk UPI transfers to curb digital payment frauds",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-propose-yes-no-prompt-for-high-risk-upi-transfers-to-curb-digital-payment-frauds/articleshow/132813269.cms",
@@ -247,14 +255,6 @@
     {
       "title": "Don’t worry if you miss July 31, 2026 ITR filing due date as belated ITR with late fee can be filed by this date; Know who can file it",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-income-tax-return-filing-deadline-july-31-2026-for-fy-2526-belated-updated-revised-options-if-you-miss-due-date/articleshow/132757993.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "What if you miss the July 31, 2026 ITR filing due date? Here are your options",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/what-if-you-miss-the-july-31-2026-itr-filing-due-date-here-are-your-options/articleshow/132757497.cms",
       "date": "2026-07-31",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
