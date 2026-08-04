@@ -962,13 +962,22 @@
 <div class="filter-row" id="toolTabs">
 <button class="filter-pill active" data-tool="incometax">Income Tax</button>
 <button class="filter-pill" data-tool="emi">EMI</button>
-<button class="filter-pill" data-tool="truecost">True Cost of a Loan</button>
 <button class="filter-pill" data-tool="sip">SIP</button>
-<button class="filter-pill" data-tool="swp">SWP</button>
+<button class="filter-pill" data-tool="homeloaneligibility">Home Loan Eligibility</button>
+<button class="filter-pill" data-tool="hra">HRA</button>
+<button class="filter-pill" data-tool="ctc">CTC to In-Hand</button>
 <button class="filter-pill" data-tool="gstaddremove">GST Add/Remove</button>
+<button class="filter-pill" data-tool="tdscalc">TDS Calculator</button>
+<button class="filter-pill" data-tool="epf">EPF / PF</button>
+<button class="filter-pill" data-tool="gratuity">Gratuity</button>
+<button class="filter-pill" data-tool="truecost">True Cost of a Loan</button>
+<button class="filter-pill" data-tool="swp">SWP</button>
 <button class="filter-pill" data-tool="tdsinterest">Interest on TDS</button>
-<button class="filter-pill" data-tool="tcsinterest">Interest on TCS</button>
 <button class="filter-pill" data-tool="gstinterest">Interest on GST</button>
+<button class="filter-pill" data-tool="gstlatefee">GST Late Fee</button>
+<button class="filter-pill" data-tool="tcsinterest">Interest on TCS</button>
+<button class="filter-pill" data-tool="leaveencashment">Leave Encashment Tax</button>
+<button class="filter-pill" data-tool="q194check">194Q Applicability</button>
 <button class="filter-pill" data-tool="penalties">Penalty Reference</button>
 </div>
 <!-- Income Tax Calculator -->
@@ -1228,6 +1237,312 @@
 <div class="calc-row"><span>Applicable Rate</span><span class="v mono" id="gstiRateOut">18% p.a.</span></div>
 <div class="calc-total"><span>Estimated Interest</span><span class="v" id="gstiInterestOut">₹0</span></div>
 <p class="calc-note" data-i18n="calcnote9">Calculated on a daily basis (rate × days/365) as per Section 50 of the CGST Act — a simplified estimate excluding any partial-payment adjustments.</p>
+</div>
+</div>
+</div>
+<!-- Home Loan Eligibility Calculator -->
+<div class="calc-panel" id="panel-homeloaneligibility">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="hleIncome">Net Monthly Income (₹)</label>
+<input id="hleIncome" min="0" step="1000" type="number" value="80000"/>
+</div>
+<div class="calc-field">
+<label for="hleEMIs">Existing Monthly EMIs / Obligations (₹)</label>
+<input id="hleEMIs" min="0" step="500" type="number" value="0"/>
+</div>
+<div class="calc-field">
+<label for="hleRate">Expected Interest Rate (% p.a.)</label>
+<input id="hleRate" max="20" min="1" step="0.05" type="number" value="8.5"/>
+</div>
+<div class="calc-field">
+<label for="hleTenure">Loan Tenure (Years)</label>
+<input id="hleTenure" max="30" min="1" step="1" type="number" value="20"/>
+</div>
+<div class="calc-field">
+<label for="hleFOIR">Bank's FOIR Norm (%)</label>
+<select id="hleFOIR">
+<option value="40">40% (conservative)</option>
+<option selected="" value="50">50% (typical)</option>
+<option value="55">55% (aggressive)</option>
+</select>
+</div>
+</div>
+<div class="calc-results">
+<h3>Estimated Eligibility</h3>
+<div class="calc-row"><span>Maximum Affordable EMI</span><span class="v mono" id="hleMaxEMI">₹0</span></div>
+<div class="calc-total"><span>Estimated Loan Eligibility</span><span class="v" id="hleLoanAmount">₹0</span></div>
+<p class="calc-note">Uses FOIR (Fixed Obligation to Income Ratio): Max EMI = (Net Income × FOIR%) − existing obligations. Actual eligibility varies by lender, credit score, co-applicant income, and property value — this is illustrative only.</p>
+</div>
+</div>
+</div>
+<!-- HRA Calculator -->
+<div class="calc-panel" id="panel-hra">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="hraBasic">Basic Salary + DA (Annual) (₹)</label>
+<input id="hraBasic" min="0" step="10000" type="number" value="600000"/>
+</div>
+<div class="calc-field">
+<label for="hraReceived">HRA Received (Annual) (₹)</label>
+<input id="hraReceived" min="0" step="5000" type="number" value="240000"/>
+</div>
+<div class="calc-field">
+<label for="hraRent">Actual Rent Paid (Annual) (₹)</label>
+<input id="hraRent" min="0" step="5000" type="number" value="300000"/>
+</div>
+<div class="calc-field">
+<label for="hraCity">City Type</label>
+<select id="hraCity">
+<option value="metro">Metro (Delhi, Mumbai, Kolkata, Chennai) — 50% of Basic</option>
+<option value="nonmetro">Non-Metro — 40% of Basic</option>
+</select>
+</div>
+</div>
+<div class="calc-results">
+<h3>HRA Exemption (Sec 10(13A))</h3>
+<div class="calc-row"><span>Actual HRA Received</span><span class="v mono" id="hraOut1">₹0</span></div>
+<div class="calc-row"><span>Rent Paid − 10% of Basic</span><span class="v mono" id="hraOut2">₹0</span></div>
+<div class="calc-row"><span>50%/40% of Basic (per city)</span><span class="v mono" id="hraOut3">₹0</span></div>
+<div class="calc-total"><span>Exempt HRA (Least of Above)</span><span class="v" id="hraExempt">₹0</span></div>
+<div class="calc-row"><span>Taxable HRA</span><span class="v mono" id="hraTaxable">₹0</span></div>
+<p class="calc-note">HRA exemption is available only under the Old Tax Regime, and only if you actually pay rent. Exemption = least of the three figures above.</p>
+</div>
+</div>
+</div>
+<!-- CTC to In-Hand Calculator -->
+<div class="calc-panel" id="panel-ctc">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="ctcAmount">Annual CTC (₹)</label>
+<input id="ctcAmount" min="0" step="10000" type="number" value="1200000"/>
+</div>
+<div class="calc-field">
+<label for="ctcBasicPct">Basic Salary (% of CTC)</label>
+<input id="ctcBasicPct" max="70" min="20" step="1" type="number" value="40"/>
+</div>
+<div class="calc-field">
+<label for="ctcPT">Professional Tax (Monthly) (₹)</label>
+<input id="ctcPT" min="0" step="50" type="number" value="200"/>
+</div>
+<div class="calc-field">
+<label for="ctcRegime">Tax Regime for TDS Estimate</label>
+<select id="ctcRegime">
+<option selected="" value="new">New Regime</option>
+<option value="old">Old Regime (no extra deductions assumed)</option>
+</select>
+</div>
+</div>
+<div class="calc-results">
+<h3>Estimated Take-Home</h3>
+<div class="calc-row"><span>Basic Salary (Annual)</span><span class="v mono" id="ctcBasicOut">₹0</span></div>
+<div class="calc-row"><span>Employee PF Contribution (12% of Basic)</span><span class="v mono" id="ctcPFOut">₹0</span></div>
+<div class="calc-row"><span>Professional Tax (Annual)</span><span class="v mono" id="ctcPTOut">₹0</span></div>
+<div class="calc-row"><span>Estimated Income Tax (TDS)</span><span class="v mono" id="ctcTaxOut">₹0</span></div>
+<div class="calc-total"><span>Estimated Annual In-Hand</span><span class="v" id="ctcInHandOut">₹0</span></div>
+<div class="calc-row"><span>Estimated Monthly In-Hand</span><span class="v mono" id="ctcMonthlyOut">₹0</span></div>
+<p class="calc-note">Assumes employer PF match is part of CTC (not deducted from salary again), no bonus/variable component, and a standard deduction. Actual in-hand depends on your exact salary structure — verify with HR/payslip.</p>
+</div>
+</div>
+</div>
+<!-- TDS Calculator (general lookup) -->
+<div class="calc-panel" id="panel-tdscalc">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="tdscType">Nature of Payment</label>
+<select id="tdscType">
+<option data-rate="1" value="194c_ind">Contractor Payment — Individual/HUF (194C)</option>
+<option data-rate="2" value="194c_other">Contractor Payment — Company/Firm (194C)</option>
+<option data-rate="10" value="194j_prof">Professional Fees (194J)</option>
+<option data-rate="2" value="194j_tech">Technical Services / Call Centre (194J)</option>
+<option data-rate="10" value="194i_land">Rent — Land/Building/Furniture (194I)</option>
+<option data-rate="2" value="194i_pm">Rent — Plant/Machinery (194I)</option>
+<option data-rate="2" value="194h">Commission / Brokerage (194H)</option>
+<option data-rate="10" value="194a">Interest (Other than Securities) (194A)</option>
+<option data-rate="0.1" value="194q">Purchase of Goods (194Q)</option>
+</select>
+</div>
+<div class="calc-field">
+<label for="tdscAmount">Payment Amount (₹)</label>
+<input id="tdscAmount" min="0" step="1000" type="number" value="100000"/>
+</div>
+<div class="calc-field">
+<label for="tdscPAN">Payee has valid PAN?</label>
+<select id="tdscPAN">
+<option value="yes">Yes</option>
+<option value="no">No — rate becomes higher of 20% or applicable rate (Sec 206AA)</option>
+</select>
+</div>
+</div>
+<div class="calc-results">
+<h3>Estimated TDS</h3>
+<div class="calc-row"><span>Applicable Rate</span><span class="v mono" id="tdscRateOut">0%</span></div>
+<div class="calc-total"><span>TDS Amount</span><span class="v" id="tdscAmountOut">₹0</span></div>
+<div class="calc-row"><span>Net Payment After TDS</span><span class="v mono" id="tdscNetOut">₹0</span></div>
+<p class="calc-note">FY 2025-26 standard rates, ignoring thresholds and specific exemptions. Actual applicability depends on threshold limits, payee category, and any lower-deduction certificate — verify before deducting.</p>
+</div>
+</div>
+</div>
+<!-- EPF / PF Calculator -->
+<div class="calc-panel" id="panel-epf">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="epfBasic">Basic Salary + DA (Monthly) (₹)</label>
+<input id="epfBasic" min="0" step="1000" type="number" value="40000"/>
+</div>
+<div class="calc-field">
+<label for="epfAge">Current Age</label>
+<input id="epfAge" max="58" min="18" step="1" type="number" value="28"/>
+</div>
+<div class="calc-field">
+<label for="epfCurrent">Current EPF Balance (₹)</label>
+<input id="epfCurrent" min="0" step="10000" type="number" value="0"/>
+</div>
+<div class="calc-field">
+<label for="epfHike">Expected Annual Salary Hike (%)</label>
+<input id="epfHike" max="30" min="0" step="1" type="number" value="8"/>
+</div>
+</div>
+<div class="calc-results">
+<h3>Projected EPF Corpus at Retirement (Age 58)</h3>
+<div class="calc-row"><span>Employee Contribution (12% of Basic)</span><span class="v mono" id="epfEmpContrib">₹0</span></div>
+<div class="calc-row"><span>Employer Contribution (3.67% to EPF)</span><span class="v mono" id="epfErContrib">₹0</span></div>
+<div class="calc-row"><span>Interest Rate Used</span><span class="v mono">8.25% p.a. (FY 2025–26)</span></div>
+<div class="calc-total"><span>Projected Corpus at Retirement</span><span class="v" id="epfCorpus">₹0</span></div>
+<p class="calc-note">Employer's remaining 8.33% typically goes to EPS (pension), not EPF principal, so only 3.67% employer share is compounded here. Simplified year-by-year projection; excludes EPS, VPF, and withdrawal scenarios.</p>
+</div>
+</div>
+</div>
+<!-- Gratuity Calculator -->
+<div class="calc-panel" id="panel-gratuity">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="gratSalary">Last Drawn Basic + DA (Monthly) (₹)</label>
+<input id="gratSalary" min="0" step="1000" type="number" value="60000"/>
+</div>
+<div class="calc-field">
+<label for="gratYears">Years of Service (completed)</label>
+<input id="gratYears" min="0" step="1" type="number" value="7"/>
+</div>
+<div class="calc-field">
+<label for="gratCovered">Covered Under Payment of Gratuity Act, 1972?</label>
+<select id="gratCovered">
+<option value="yes">Yes (most employers with 10+ employees)</option>
+<option value="no">No</option>
+</select>
+</div>
+</div>
+<div class="calc-results">
+<h3>Estimated Gratuity (Sec 10(10))</h3>
+<div class="calc-row"><span>Formula Used</span><span class="v mono" id="gratFormulaOut">15/26 × salary × years</span></div>
+<div class="calc-row"><span>Gratuity Payable</span><span class="v mono" id="gratPayable">₹0</span></div>
+<div class="calc-row"><span>Statutory Exemption Ceiling</span><span class="v mono">₹20,00,000</span></div>
+<div class="calc-total"><span>Exempt Gratuity (Least of Payable / Ceiling)</span><span class="v" id="gratExempt">₹0</span></div>
+<p class="calc-note">Requires minimum 5 years of continuous service (except death/disablement). Years of service is rounded per the Act's rules (6+ months counts as a full year for covered employees) — this tool uses your entered whole-year figure directly.</p>
+</div>
+</div>
+</div>
+<!-- GST Late Fee Calculator -->
+<div class="calc-panel" id="panel-gstlatefee">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="glfReturn">Return Type</label>
+<select id="glfReturn">
+<option value="regular">GSTR-3B / GSTR-1 — Regular</option>
+<option value="nil">GSTR-3B / GSTR-1 — NIL Return</option>
+</select>
+</div>
+<div class="calc-field">
+<label for="glfTurnover">Annual Turnover (for cap)</label>
+<select id="glfTurnover">
+<option value="2000">Up to ₹1.5 crore (cap ₹2,000)</option>
+<option value="5000">₹1.5 crore – ₹5 crore (cap ₹5,000)</option>
+<option value="10000">Above ₹5 crore (cap ₹10,000)</option>
+</select>
+</div>
+<div class="calc-field">
+<label for="glfDueDate">Due Date</label>
+<input id="glfDueDate" type="date" value="2026-04-20"/>
+</div>
+<div class="calc-field">
+<label for="glfFiledDate">Actual Filing Date</label>
+<input id="glfFiledDate" type="date" value="2026-05-15"/>
+</div>
+</div>
+<div class="calc-results">
+<h3>Estimated Late Fee (Sec 47, CGST Act)</h3>
+<div class="calc-row"><span>Days Delayed</span><span class="v mono" id="glfDays">0</span></div>
+<div class="calc-row"><span>Per-Day Rate</span><span class="v mono" id="glfRateOut">₹50/day</span></div>
+<div class="calc-row"><span>Before Cap (CGST + SGST)</span><span class="v mono" id="glfBeforeCap">₹0</span></div>
+<div class="calc-total"><span>Late Fee Payable (Capped)</span><span class="v" id="glfPayable">₹0</span></div>
+<p class="calc-note">This is late FEE only (for delayed filing) — separate from INTEREST on unpaid tax (see the "Interest on GST" tool). Late fee must be paid in cash and cannot be offset against ITC.</p>
+</div>
+</div>
+</div>
+<!-- Leave Encashment Tax Calculator -->
+<div class="calc-panel" id="panel-leaveencashment">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="leAmount">Leave Encashment Amount Received (₹)</label>
+<input id="leAmount" min="0" step="10000" type="number" value="500000"/>
+</div>
+<div class="calc-field">
+<label for="leEmployeeType">Employee Category</label>
+<select id="leEmployeeType">
+<option value="govt">Government Employee</option>
+<option selected="" value="nongovt">Non-Government Employee</option>
+</select>
+</div>
+<div class="calc-field">
+<label for="leAvgSalary">Average Monthly Salary (last 10 months) (₹)</label>
+<input id="leAvgSalary" min="0" step="5000" type="number" value="50000"/>
+</div>
+<div class="calc-field">
+<label for="leDaysUnused">Unused Leave (Days, max 30/year of service)</label>
+<input id="leDaysUnused" min="0" step="1" type="number" value="90"/>
+</div>
+</div>
+<div class="calc-results">
+<h3>Exemption Under Sec 10(10AA)</h3>
+<div class="calc-row"><span>Actual Amount Received</span><span class="v mono" id="leOut1">₹0</span></div>
+<div class="calc-row"><span>10 Months' Average Salary</span><span class="v mono" id="leOut2">₹0</span></div>
+<div class="calc-row"><span>Cash Equivalent of Unused Leave</span><span class="v mono" id="leOut3">₹0</span></div>
+<div class="calc-row"><span>Statutory Ceiling</span><span class="v mono">₹25,00,000</span></div>
+<div class="calc-total"><span>Exempt Amount (Least of Above)</span><span class="v" id="leExempt">₹0</span></div>
+<div class="calc-row"><span>Taxable Amount</span><span class="v mono" id="leTaxable">₹0</span></div>
+<p class="calc-note">Government employees: fully exempt, this tool shows ₹0 taxable. Non-government employees: exemption is the least of the figures above (₹25 lakh ceiling is a lifetime limit across all employers, per CBDT Notification 31/2023).</p>
+</div>
+</div>
+</div>
+<!-- Section 194Q Applicability Checker -->
+<div class="calc-panel" id="panel-q194check">
+<div class="calc-wrap">
+<div>
+<div class="calc-field">
+<label for="q194BuyerTurnover">Buyer's Turnover — Preceding FY (₹)</label>
+<input id="q194BuyerTurnover" min="0" step="1000000" type="number" value="150000000"/>
+</div>
+<div class="calc-field">
+<label for="q194Purchase">Purchase Value from This Seller — Current FY (₹)</label>
+<input id="q194Purchase" min="0" step="100000" type="number" value="6000000"/>
+</div>
+</div>
+<div class="calc-results">
+<h3>194Q Applicability</h3>
+<div class="calc-row"><span>Buyer turnover &gt; ₹10 crore?</span><span class="v mono" id="q194Cond1">—</span></div>
+<div class="calc-row"><span>Purchases from this seller &gt; ₹50 lakh?</span><span class="v mono" id="q194Cond2">—</span></div>
+<div class="calc-total"><span>194Q Applicable?</span><span class="v" id="q194Result">—</span></div>
+<div class="calc-row"><span>If applicable — TDS Rate</span><span class="v mono" id="q194Rate">0.1%</span></div>
+<div class="calc-row"><span>If applicable — TDS on Excess Over ₹50L</span><span class="v mono" id="q194TDSAmt">₹0</span></div>
+<p class="calc-note"><strong>Important:</strong> Section 206C(1H) (seller-side TCS on sale of goods) was repealed with effect from 1 April 2025. Only Section 194Q (buyer-side TDS) now applies to high-value goods purchases — there is no overlap to check for FY 2025-26 onward. This checker reflects that current position.</p>
 </div>
 </div>
 </div>
@@ -1972,6 +2287,202 @@
   }
   ['gstiAmount','gstiType','gstiDueDate','gstiPaidDate'].forEach(id => document.getElementById(id).addEventListener('input', updateGSTInterest));
   updateGSTInterest();
+
+  // Home Loan Eligibility Calculator
+  function updateHLE(){
+    const income = parseFloat(document.getElementById('hleIncome').value) || 0;
+    const existingEMIs = parseFloat(document.getElementById('hleEMIs').value) || 0;
+    const rate = parseFloat(document.getElementById('hleRate').value) || 0;
+    const years = parseInt(document.getElementById('hleTenure').value) || 1;
+    const foir = parseFloat(document.getElementById('hleFOIR').value) || 50;
+    const maxEMI = Math.max(0, (income * foir/100) - existingEMIs);
+    const months = years * 12;
+    const r = rate / 12 / 100;
+    let loanAmount;
+    if (r === 0) loanAmount = maxEMI * months;
+    else loanAmount = maxEMI * (Math.pow(1+r, months) - 1) / (r * Math.pow(1+r, months));
+    document.getElementById('hleMaxEMI').textContent = formatINR(Math.round(maxEMI));
+    document.getElementById('hleLoanAmount').textContent = formatINR(Math.round(loanAmount));
+  }
+  ['hleIncome','hleEMIs','hleRate','hleTenure','hleFOIR'].forEach(id => document.getElementById(id).addEventListener('input', updateHLE));
+  updateHLE();
+
+  // HRA Calculator
+  function updateHRA(){
+    const basic = parseFloat(document.getElementById('hraBasic').value) || 0;
+    const hraReceived = parseFloat(document.getElementById('hraReceived').value) || 0;
+    const rent = parseFloat(document.getElementById('hraRent').value) || 0;
+    const cityPct = document.getElementById('hraCity').value === 'metro' ? 0.5 : 0.4;
+    const opt1 = hraReceived;
+    const opt2 = Math.max(0, rent - (basic * 0.10));
+    const opt3 = basic * cityPct;
+    const exempt = Math.max(0, Math.min(opt1, opt2, opt3));
+    const taxable = Math.max(0, hraReceived - exempt);
+    document.getElementById('hraOut1').textContent = formatINR(Math.round(opt1));
+    document.getElementById('hraOut2').textContent = formatINR(Math.round(opt2));
+    document.getElementById('hraOut3').textContent = formatINR(Math.round(opt3));
+    document.getElementById('hraExempt').textContent = formatINR(Math.round(exempt));
+    document.getElementById('hraTaxable').textContent = formatINR(Math.round(taxable));
+  }
+  ['hraBasic','hraReceived','hraRent','hraCity'].forEach(id => document.getElementById(id).addEventListener('input', updateHRA));
+  updateHRA();
+
+  // CTC to In-Hand Calculator
+  function updateCTC(){
+    const ctc = parseFloat(document.getElementById('ctcAmount').value) || 0;
+    const basicPct = parseFloat(document.getElementById('ctcBasicPct').value) || 40;
+    const ptMonthly = parseFloat(document.getElementById('ctcPT').value) || 0;
+    const regime = document.getElementById('ctcRegime').value;
+    const basic = ctc * basicPct / 100;
+    const employeePF = basic * 0.12;
+    const ptAnnual = ptMonthly * 12;
+    // Gross salary = CTC minus employer's own contributions (approximated as employee PF mirrored for employer + a small admin charge, kept simple: employer PF ~ same 12% of basic assumed already inside CTC)
+    const grossSalary = Math.max(0, ctc - employeePF); // employer PF portion assumed already excluded from "CTC" base paid as salary in this simplified model
+    const taxableIncome = Math.max(0, grossSalary - employeePF - ptAnnual);
+    const estTax = regime === 'new' ? calcNewRegimeTax(taxableIncome) : calcOldRegimeTax(taxableIncome, 0);
+    const inHand = Math.max(0, grossSalary - employeePF - ptAnnual - estTax);
+    document.getElementById('ctcBasicOut').textContent = formatINR(Math.round(basic));
+    document.getElementById('ctcPFOut').textContent = formatINR(Math.round(employeePF));
+    document.getElementById('ctcPTOut').textContent = formatINR(Math.round(ptAnnual));
+    document.getElementById('ctcTaxOut').textContent = formatINR(Math.round(estTax));
+    document.getElementById('ctcInHandOut').textContent = formatINR(Math.round(inHand));
+    document.getElementById('ctcMonthlyOut').textContent = formatINR(Math.round(inHand/12));
+  }
+  ['ctcAmount','ctcBasicPct','ctcPT','ctcRegime'].forEach(id => document.getElementById(id).addEventListener('input', updateCTC));
+  updateCTC();
+
+  // TDS Calculator (general lookup)
+  function updateTDSCalc(){
+    const sel = document.getElementById('tdscType');
+    const rate = parseFloat(sel.options[sel.selectedIndex].getAttribute('data-rate')) || 0;
+    const amount = parseFloat(document.getElementById('tdscAmount').value) || 0;
+    const hasPAN = document.getElementById('tdscPAN').value === 'yes';
+    const effectiveRate = hasPAN ? rate : Math.max(rate, 20);
+    const tds = amount * effectiveRate / 100;
+    const net = amount - tds;
+    document.getElementById('tdscRateOut').textContent = effectiveRate + '%';
+    document.getElementById('tdscAmountOut').textContent = formatINR(Math.round(tds));
+    document.getElementById('tdscNetOut').textContent = formatINR(Math.round(net));
+  }
+  ['tdscType','tdscAmount','tdscPAN'].forEach(id => document.getElementById(id).addEventListener('input', updateTDSCalc));
+  updateTDSCalc();
+
+  // EPF / PF Calculator
+  function updateEPF(){
+    let basic = parseFloat(document.getElementById('epfBasic').value) || 0;
+    const age = parseInt(document.getElementById('epfAge').value) || 18;
+    let corpus = parseFloat(document.getElementById('epfCurrent').value) || 0;
+    const hike = parseFloat(document.getElementById('epfHike').value) || 0;
+    const yearsLeft = Math.max(0, 58 - age);
+    const monthlyRate = 0.0825 / 12;
+    let empContribAnnual = 0, erContribAnnual = 0;
+    for (let y = 0; y < yearsLeft; y++){
+      const empMonthly = basic * 0.12;
+      const erMonthly = basic * 0.0367; // remainder goes to EPS, not EPF
+      for (let m = 0; m < 12; m++){
+        corpus += empMonthly + erMonthly;
+        corpus += corpus * monthlyRate;
+      }
+      if (y === 0){ empContribAnnual = empMonthly * 12; erContribAnnual = erMonthly * 12; }
+      basic = basic * (1 + hike/100);
+    }
+    document.getElementById('epfEmpContrib').textContent = formatINR(Math.round(empContribAnnual)) + ' (Yr 1)';
+    document.getElementById('epfErContrib').textContent = formatINR(Math.round(erContribAnnual)) + ' (Yr 1)';
+    document.getElementById('epfCorpus').textContent = formatINR(Math.round(corpus));
+  }
+  ['epfBasic','epfAge','epfCurrent','epfHike'].forEach(id => document.getElementById(id).addEventListener('input', updateEPF));
+  updateEPF();
+
+  // Gratuity Calculator
+  function updateGratuity(){
+    const salary = parseFloat(document.getElementById('gratSalary').value) || 0;
+    const years = parseFloat(document.getElementById('gratYears').value) || 0;
+    const covered = document.getElementById('gratCovered').value === 'yes';
+    let payable, formulaText;
+    if (covered){
+      payable = (15/26) * salary * years;
+      formulaText = '15/26 × salary × years';
+    } else {
+      payable = (15/30) * salary * years;
+      formulaText = '15/30 × salary × years (not covered)';
+    }
+    const ceiling = 2000000;
+    const exempt = Math.min(payable, ceiling);
+    document.getElementById('gratFormulaOut').textContent = formulaText;
+    document.getElementById('gratPayable').textContent = formatINR(Math.round(payable));
+    document.getElementById('gratExempt').textContent = formatINR(Math.round(exempt));
+  }
+  ['gratSalary','gratYears','gratCovered'].forEach(id => document.getElementById(id).addEventListener('input', updateGratuity));
+  updateGratuity();
+
+  // GST Late Fee Calculator
+  function updateGSTLateFee(){
+    const isNil = document.getElementById('glfReturn').value === 'nil';
+    const cap = parseFloat(document.getElementById('glfTurnover').value) || 2000;
+    const due = document.getElementById('glfDueDate').value;
+    const filed = document.getElementById('glfFiledDate').value;
+    const days = daysBetween(due, filed);
+    const perDay = isNil ? 20 : 50;
+    const effectiveCap = isNil ? 500 : cap;
+    const beforeCap = days * perDay;
+    const payable = Math.min(beforeCap, effectiveCap);
+    document.getElementById('glfDays').textContent = days;
+    document.getElementById('glfRateOut').textContent = '₹' + perDay + '/day';
+    document.getElementById('glfBeforeCap').textContent = formatINR(beforeCap);
+    document.getElementById('glfPayable').textContent = formatINR(payable);
+  }
+  ['glfReturn','glfTurnover','glfDueDate','glfFiledDate'].forEach(id => document.getElementById(id).addEventListener('input', updateGSTLateFee));
+  updateGSTLateFee();
+
+  // Leave Encashment Tax Calculator
+  function updateLeaveEncashment(){
+    const amount = parseFloat(document.getElementById('leAmount').value) || 0;
+    const isGovt = document.getElementById('leEmployeeType').value === 'govt';
+    const avgSalary = parseFloat(document.getElementById('leAvgSalary').value) || 0;
+    const daysUnused = parseFloat(document.getElementById('leDaysUnused').value) || 0;
+    if (isGovt){
+      document.getElementById('leOut1').textContent = formatINR(Math.round(amount));
+      document.getElementById('leOut2').textContent = '—';
+      document.getElementById('leOut3').textContent = '—';
+      document.getElementById('leExempt').textContent = formatINR(Math.round(amount));
+      document.getElementById('leTaxable').textContent = formatINR(0);
+      return;
+    }
+    const opt1 = amount;
+    const opt2 = avgSalary * 10;
+    const opt3 = (avgSalary / 30) * daysUnused;
+    const ceiling = 2500000;
+    const exempt = Math.max(0, Math.min(opt1, opt2, opt3, ceiling));
+    const taxable = Math.max(0, amount - exempt);
+    document.getElementById('leOut1').textContent = formatINR(Math.round(opt1));
+    document.getElementById('leOut2').textContent = formatINR(Math.round(opt2));
+    document.getElementById('leOut3').textContent = formatINR(Math.round(opt3));
+    document.getElementById('leExempt').textContent = formatINR(Math.round(exempt));
+    document.getElementById('leTaxable').textContent = formatINR(Math.round(taxable));
+  }
+  ['leAmount','leEmployeeType','leAvgSalary','leDaysUnused'].forEach(id => document.getElementById(id).addEventListener('input', updateLeaveEncashment));
+  updateLeaveEncashment();
+
+  // Section 194Q Applicability Checker
+  function updateQ194Check(){
+    const turnover = parseFloat(document.getElementById('q194BuyerTurnover').value) || 0;
+    const purchase = parseFloat(document.getElementById('q194Purchase').value) || 0;
+    const cond1 = turnover > 100000000; // > 10 crore
+    const cond2 = purchase > 5000000; // > 50 lakh
+    const applicable = cond1 && cond2;
+    document.getElementById('q194Cond1').textContent = cond1 ? 'Yes' : 'No';
+    document.getElementById('q194Cond2').textContent = cond2 ? 'Yes' : 'No';
+    document.getElementById('q194Result').textContent = applicable ? 'Yes — 194Q applies' : 'No';
+    if (applicable){
+      const excess = purchase - 5000000;
+      const tds = excess * 0.001;
+      document.getElementById('q194TDSAmt').textContent = formatINR(Math.round(tds));
+    } else {
+      document.getElementById('q194TDSAmt').textContent = '₹0';
+    }
+  }
+  ['q194BuyerTurnover','q194Purchase'].forEach(id => document.getElementById(id).addEventListener('input', updateQ194Check));
+  updateQ194Check();
 
   // ---------- Contact form: validates + submits to Google Sheets via Apps Script ----------
   // IMPORTANT: replace the URL below with your own Apps Script Web App URL.
