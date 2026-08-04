@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:00:06+00:00",
+  "generated_at": "2026-08-04T05:31:35+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,46 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "NRI selling property, shares or gold in India? Here's how you can manage your capital gains tax in a better way",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-selling-property-shares-or-gold-in-india-heres-how-you-can-manage-your-capital-gains-tax-in-a-better-way/articleshow/132843445.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian banks' new hunt for diaspora dollars pumps up loans markets",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-new-hunt-for-diaspora-dollars-pumps-up-loans-markets-hdfc-standard-chartered-usd-rupee-offshore-funds-rbi/articleshow/132845870.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Payment Bill rekindles MDR hopes for large-value UPI",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/government-proposes-mdr-reintroduction-for-upi-transactions-a-boost-for-banks-and-fintech-firms/articleshow/132841062.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI, HSBC lead FCNR(B) deposit mobilisation",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-hsbc-lead-fcnrb-deposit-mobilisation/articleshow/132840942.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Govt introduces bill to modernise bank records law",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-introduces-bill-to-modernise-bank-records-law/articleshow/132840894.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Processing of Applications Received Under the Citizen’s Charter - Status as on July 31, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63280",
@@ -166,14 +206,6 @@
       "pdf_link": null
     },
     {
-      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – July 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63271",
-      "date": "2026-07-31",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR793C2A3A3F9CE5841C1A9A51EC509CA6D03.PDF"
-    },
-    {
       "title": "Consolidation of Supervisory Instructions – Repeal of Circulars",
       "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13663&Mode=0",
       "date": "2026-07-31",
@@ -220,38 +252,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/412MD5B6CA712E156413BACDEA9DD5CF5D1EF.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Internal Audit Function) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13640&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/413MD4F9FF319B5954ED1998D65025BDCBFDA.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Statutory Audit) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13639&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/414MDEB929BD427B7443C98B182F2A13E1396.PDF"
-    },
-    {
-      "title": "No input tax credit for the innocent buyer after paying GST? Supreme Court settles who bears the cost when a supplier defaults",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/no-input-tax-credit-for-the-innocent-buyer-after-paying-gst-supreme-court-settles-who-bears-the-cost-when-a-supplier-defaults/articleshow/132762247.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Reporting perquisite as capital gain in ITR by mistake resulted in Rs 6.63 crore penalty for a salaried employee; ITAT Mumbai granted him relief for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/reporting-perquisite-as-capital-gain-in-itr-by-mistake-resulted-in-rs-6-63-crore-penalty-for-a-salaried-employee-itat-mumbai-granted-him-relief-for-this-reason/articleshow/132761546.cms",
-      "date": "2026-07-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
     }
   ]
 }
