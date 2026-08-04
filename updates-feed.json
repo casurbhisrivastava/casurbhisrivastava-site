@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:31:35+00:00",
+  "generated_at": "2026-08-04T12:31:23+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,11 +14,51 @@
   ],
   "items": [
     {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Pusad Urban Co-operative Bank Ltd., Pusad, Dist. Yavatmal, Maharashtra – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63285",
+      "date": "2026-08-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8073B479CC230184651B830CB3760B30AC0.PDF"
+    },
+    {
+      "title": "Scheme for writing books originally in Hindi on Economics/Banking/Financial subjects- Year 2025-26",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63282",
+      "date": "2026-08-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR80456F852D95A55465885EAB704E4188772.PDF"
+    },
+    {
       "title": "NRI selling property, shares or gold in India? Here's how you can manage your capital gains tax in a better way",
       "link": "https://economictimes.indiatimes.com/wealth/tax/nri-selling-property-shares-or-gold-in-india-heres-how-you-can-manage-your-capital-gains-tax-in-a-better-way/articleshow/132843445.cms",
       "date": "2026-08-04",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "HSBC India profit rises 4% to $965 million in H1 2026, corporate and institutional banking drives growth",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hsbc-india-profit-rises-4-to-965-million-in-h1-2026-corporate-and-institutional-banking-drives-growth/articleshow/132859484.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India paves way for return of merchant fees on digital payments",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/india-paves-way-for-return-of-merchant-fees-on-digital-payments/articleshow/132858335.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Lack of proper training in credit monitoring among reasons for frauds: CVC to banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lack-of-proper-training-in-credit-monitoring-among-reasons-for-frauds-cvc-to-banks/articleshow/132857462.cms",
+      "date": "2026-08-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -142,14 +182,6 @@
       "pdf_link": null
     },
     {
-      "title": "Reporting of FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) mobilized under Reserve Bank’s Swap Facility",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63274",
-      "date": "2026-08-01",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR7967103E1BC46504DBB8FDB5878A844B858.PDF"
-    },
-    {
       "title": "Man was denied Section 54F income tax exemption as builder delayed villa construction by 4 years; Telangana HC grants relief, says taxpayer can't suffer for builder's fault",
       "link": "https://economictimes.indiatimes.com/wealth/tax/man-was-denied-section-54f-income-tax-exemption-as-builder-delayed-villa-construction-by-4-years-telangana-hc-grants-relief-says-taxpayer-cant-suffer-for-builders-fault/articleshow/132787026.cms",
       "date": "2026-08-01",
@@ -220,38 +252,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/408MD83CAFF1305FB4180A6C3B4E68C88ED09.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Concurrent Audit) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13644&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/409MD13EB09368FC543A2BEDF3B9E8F2C9A6A.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Cybersecurity, Technology: Risk, Resilience and Assurance Framework) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13643&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/410MD1C1DD4C43C9C49ED9033D64902636D9C.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Digital Payment Security Controls) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13642&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/411MD1918998D1AD74F159D57664FB10E053F.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Fraud Risk Management) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13641&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/412MD5B6CA712E156413BACDEA9DD5CF5D1EF.PDF"
     }
   ]
 }
