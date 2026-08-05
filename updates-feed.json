@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:31:23+00:00",
+  "generated_at": "2026-08-05T12:27:44+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,20 +14,60 @@
   ],
   "items": [
     {
+      "title": "RBI invites public comments on Draft Guidelines for ‘on tap’ Licensing of Urban Co-operative Banks",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63294",
+      "date": "2026-08-05",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8169DBCD4CF2C5C49FE8BCEAF8C60638FC0.PDF"
+    },
+    {
+      "title": "Wife paid husband Rs 7.5 crore after selling her shares and bought his Mumbai property, filed ITR claiming 54F tax exemption, got tax notice; she fought and won the case in ITAT Mumbai",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/wife-paid-husband-rs-7-5-crore-after-selling-her-shares-and-bought-his-mumbai-property-filed-itr-claiming-54f-tax-exemption-got-tax-notice-she-fought-and-won-the-case-in-itat-mumbai/articleshow/132890977.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI upper-layer NBFC list to come out soon",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-upper-layer-nbfc-list-to-come-out-soon/articleshow/132921472.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI MDR explained: What potential charges above Rs 2,000 payments on Paytm, GPay & other apps mean for you and merchants",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-explained-what-potential-charges-above-rs-2000-on-paytm-gpay-other-payment-apps-mean-for-you-and-merchants/articleshow/132903354.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI to resume urban cooperative bank licensing process after two decades",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-to-resume-urban-cooperative-bank-licensing-process-after-two-decades/articleshow/132895858.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI to resume urban cooperative banks' licensing after 22-year pause, review rural bank rules",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-resuming-ucb-licensing-overhaul-of-rural-bank-rules-at-mpc/articleshow/132891614.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Pusad Urban Co-operative Bank Ltd., Pusad, Dist. Yavatmal, Maharashtra – Extension of Period",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63285",
       "date": "2026-08-04",
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8073B479CC230184651B830CB3760B30AC0.PDF"
-    },
-    {
-      "title": "Scheme for writing books originally in Hindi on Economics/Banking/Financial subjects- Year 2025-26",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63282",
-      "date": "2026-08-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR80456F852D95A55465885EAB704E4188772.PDF"
     },
     {
       "title": "NRI selling property, shares or gold in India? Here's how you can manage your capital gains tax in a better way",
@@ -94,12 +134,12 @@
       "pdf_link": null
     },
     {
-      "title": "Processing of Applications Received Under the Citizen’s Charter - Status as on July 31, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63280",
-      "date": "2026-08-03",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR802601A73E040D6461DBB22FC30E63465C9.PDF"
+      "title": "The excel utility of ITR-6 for AY 2026-27 is now available for filing on e-Filing portal.",
+      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
+      "date": "2026-08-04",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
     },
     {
       "title": "ITR refund 2026: Filed income tax return within July 31, 2026 deadline? Here’s when you may get your tax refund",
@@ -212,46 +252,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Bank credit to industry up 19%, personal loans stay strong",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-to-industry-up-19-personal-loans-stay-strong/articleshow/132776414.cms",
-      "date": "2026-08-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FCNR deposits from Indian diaspora in UAE come in big; some say flow could be bigger",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/some-bottlenecks-fcnr-deposits-from-uae-come-in-big-some-say-flow-could-be-bigger/articleshow/132776266.cms",
-      "date": "2026-08-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of July, 2026",
-      "link": "https://www.gst.gov.in//www.gst.gov.in/newsandupdates/read/669",
-      "date": "2026-08-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Consolidation of Supervisory Instructions – Repeal of Circulars",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13663&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT221FE0A4B324CB7415EAFFA02710AC67A48.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Compliance Function) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13645&Mode=0",
-      "date": "2026-07-31",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/408MD83CAFF1305FB4180A6C3B4E68C88ED09.PDF"
     }
   ]
 }
