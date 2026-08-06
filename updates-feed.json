@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:27:44+00:00",
+  "generated_at": "2026-08-06T12:31:30+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,12 +14,100 @@
   ],
   "items": [
     {
-      "title": "RBI invites public comments on Draft Guidelines for ‘on tap’ Licensing of Urban Co-operative Banks",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63294",
-      "date": "2026-08-05",
+      "title": "RBI imposes monetary penalty on Kedarnath Urban Co-operative Bank Ltd., Latur, Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63304",
+      "date": "2026-08-06",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8169DBCD4CF2C5C49FE8BCEAF8C60638FC0.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8265FAF9F9491B44F39AA404E015341546A.PDF"
+    },
+    {
+      "title": "RBI invites comments on the draft “Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Amendment Directions, 2026”",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63303",
+      "date": "2026-08-06",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR825841C1491C4774A5097D84E610A7BE33B.PDF"
+    },
+    {
+      "title": "RBI releases list of NBFCs in the Upper Layer (NBFC-UL) under Scale Based Regulation for NBFCs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63301",
+      "date": "2026-08-06",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8231A72442E22634781A4076C86666F8FCC.PDF"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63298",
+      "date": "2026-08-06",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR820398EEC5B76224375A1BD7CE5068075C5.PDF"
+    },
+    {
+      "title": "Good news for investors: No income tax on dividends received from REITs and InvITs in this case, Lok Sabha passes the bill; Check the details",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/good-news-for-investors-no-income-tax-on-dividends-received-from-reits-and-invits-in-this-case-lok-sabha-passes-the-bill-check-the-details/articleshow/132999834.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 1.33 crore cash deposit, no ITR filing, yet senior citizen wins income tax case; ITAT Bangalore explains why",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-33-crore-cash-deposit-no-itr-filing-yet-senior-citizen-wins-income-tax-case-itat-bangalore-explains-why/articleshow/132994693.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Can you get income tax notice for making digital payments through UPI, NEFT, RTGS, and IMPS? Know when it can be triggered",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/can-you-get-income-tax-notice-for-making-digital-payments-through-upi-neft-rtgs-and-imps-know-when-it-can-be-triggered/articleshow/132991116.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI Life partners with J&K Bank to offer insurance solutions across India",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-life-partners-with-jk-bank-to-offer-insurance-solutions-across-india/articleshow/133003044.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI classifies Tata Sons as Upper-Layer NBFC under revised framework",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-classifies-tata-sons-as-upper-layer-nbfc/articleshow/132999980.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "It's a secret: LIC’s unusually fast $3.3 billion deal kept bankers in dark",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lic-ofs-ita-secret-lics-unusually-fast-3-3-billion-deal-kept-bankers-in-dark-as-indian-government-stake-sale/articleshow/132979912.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "No decision yet on merchant discount rate on UPI deals",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-decision-yet-on-merchant-discount-rate-on-upi-deals/articleshow/132968228.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "'No US lawsuits filed yet, ready to defend on facts if needed': HDFC Bank CEO clarifies on governance allegations",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-us-lawsuits-filed-yet-ready-to-defend-on-facts-if-needed-hdfc-bank-ceo-clarifies-on-governance-allegations/articleshow/132966595.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Wife paid husband Rs 7.5 crore after selling her shares and bought his Mumbai property, filed ITR claiming 54F tax exemption, got tax notice; she fought and won the case in ITAT Mumbai",
@@ -27,6 +115,38 @@
       "date": "2026-08-05",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks welcome RBI's steady rates, see boost to credit growth",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-welcome-rbis-steady-rates-see-boost-to-credit-growth/articleshow/132950570.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian Bank targets Rs 35 lakh crore business by 2032 after crossing Rs 15 lakh crore milestone: MD & CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-targets-rs-35-lakh-crore-business-by-2032-after-crossing-rs-15-lakh-crore-milestone-md-ceo/articleshow/132943013.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Urban cooperative bank license applicants need a minimum Rs 300 crore of capital and Rs 10000 crore of deposits, says RBI",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-unveils-new-criteria-for-urban-cooperative-bank-licenses-rs-300-crore-capital-required-boosts-financial-inclusion-efforts/articleshow/132931532.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Lower real interest rates have not hurt deposit growth in India: SBI Research",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lower-real-interest-rates-have-not-hurt-deposit-growth-in-india-sbi-research/articleshow/132929479.cms",
+      "date": "2026-08-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -62,12 +182,12 @@
       "pdf_link": null
     },
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Pusad Urban Co-operative Bank Ltd., Pusad, Dist. Yavatmal, Maharashtra – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63285",
-      "date": "2026-08-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8073B479CC230184651B830CB3760B30AC0.PDF"
+      "title": "The Online utility of ITR-5 for AY 2026-27 is available for filing on the e-filing portal.",
+      "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
+      "date": "2026-08-05",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
     },
     {
       "title": "NRI selling property, shares or gold in India? Here's how you can manage your capital gains tax in a better way",
@@ -129,126 +249,6 @@
       "title": "Govt introduces bill to modernise bank records law",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-introduces-bill-to-modernise-bank-records-law/articleshow/132840894.cms",
       "date": "2026-08-04",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "The excel utility of ITR-6 for AY 2026-27 is now available for filing on e-Filing portal.",
-      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
-      "date": "2026-08-04",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR refund 2026: Filed income tax return within July 31, 2026 deadline? Here’s when you may get your tax refund",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-refund-2026-filed-income-tax-return-within-july-31-2026-deadline-heres-when-you-may-get-your-tax-refund/articleshow/132830288.cms",
-      "date": "2026-08-03",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Equitas to take cautious steps towards universal bank license",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/equitas-to-take-cautious-steps-towards-universal-bank-license/articleshow/132820428.cms",
-      "date": "2026-08-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India's bank credit growth remains robust at 18.6% in June 2026; NBFC, retail lending drive momentum: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/indias-bank-credit-growth-remains-robust-at-18-6-in-june-2026-nbfc-retail-lending-drive-momentum-report/articleshow/132819198.cms",
-      "date": "2026-08-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks propose 'Yes-No' prompt for high-risk UPI transfers to curb digital payment frauds",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-propose-yes-no-prompt-for-high-risk-upi-transfers-to-curb-digital-payment-frauds/articleshow/132813269.cms",
-      "date": "2026-08-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC, ICICI Bank rates up for dollar deposits",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-icici-bank-rates-up-for-dollar-deposits/articleshow/132813226.cms",
-      "date": "2026-08-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "ITAT Mumbai cancels income tax notice over Rs 8 crore compensation to tenants without their consent; rejects I-T department's contingent liability claim",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itat-mumbai-cancels-income-tax-notice-over-rs-8-crore-compensation-to-tenants-without-their-consent-rejects-i-t-departments-contingent-liability-claim/articleshow/132804665.cms",
-      "date": "2026-08-02",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 22.94 lakh LTCG for land sale of Rs 92 lakh invited tax notice; Gujarat HC ruled in her favour after 9 years fight; Know why",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/lady-reported-rs-22-94-lakh-ltcg-after-rs-92-lakh-land-sale-faced-tax-notice-gujarat-hc-ruled-in-her-favour-after-9-years-fight-know-why/articleshow/132799176.cms",
-      "date": "2026-08-02",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Corporate, personal loans drive 63% of bank credit growth: SBI research report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/corporate-personal-loans-drive-63-of-bank-credit-growth-sbi-research-report/articleshow/132808608.cms",
-      "date": "2026-08-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Shivalik Small Finance Bank completes merger with ManiBhavnam Home Finance",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shivalik-small-finance-bank-completes-merger-with-manibhavnam-home-finance/articleshow/132808198.cms",
-      "date": "2026-08-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of Maharashtra slashes home loan rates to 7% with zero processing fees",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-maharashtra-slashes-home-loan-rates-to-7-with-zero-processing-fees/articleshow/132801815.cms",
-      "date": "2026-08-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Man was denied Section 54F income tax exemption as builder delayed villa construction by 4 years; Telangana HC grants relief, says taxpayer can't suffer for builder's fault",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/man-was-denied-section-54f-income-tax-exemption-as-builder-delayed-villa-construction-by-4-years-telangana-hc-grants-relief-says-taxpayer-cant-suffer-for-builders-fault/articleshow/132787026.cms",
-      "date": "2026-08-01",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR filing deadline extension: Has income tax filing last date of July 31, 2026, been extended? Know more",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-income-tax-filing-deadline-extension-date-july-31-2026-has-due-date-been-moved-to-august/articleshow/132767784.cms",
-      "date": "2026-08-01",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Missed filing your ITR by July 31, 2026? Know your options and here’s what you can do now",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-filing-your-itr-by-july-31-2026-know-your-options-and-heres-what-you-can-do-now/articleshow/132766110.cms",
-      "date": "2026-08-01",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI hits record Rs 29.9 lakh crore in July, 23.66 billion transactions",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-hits-record-rs-29-9-lakh-crore-in-july-23-66-billion-transactions/articleshow/132791293.cms",
-      "date": "2026-08-01",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
