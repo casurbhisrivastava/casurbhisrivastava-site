@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:31:30+00:00",
+  "generated_at": "2026-08-07T09:37:47+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,38 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbis-draft-curbs-on-revolving-credit-may-impact-nbfc-flexi-loans-morgan-stanley/articleshow/133026154.cms",
+      "date": "2026-08-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Listing cloud still hangs over Tata sons with NBFC-UL tag",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/listing-cloud-still-hangs-over-tata-sons-with-nbfc-ul-tag/articleshow/133015426.cms",
+      "date": "2026-08-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Review of Guidelines on Concentration Risk Management - Rural Co-operative Banks",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63306",
+      "date": "2026-08-06",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR828A5BCB4992B3749D9A6198295F7281E31.PDF"
+    },
+    {
+      "title": "RBI Issues Amendment Directions on ‘Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents’",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63305",
+      "date": "2026-08-06",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR827D97297EBEFF049BC92D1534E10F578F9.PDF"
+    },
     {
       "title": "RBI imposes monetary penalty on Kedarnath Urban Co-operative Bank Ltd., Latur, Maharashtra",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63304",
@@ -30,20 +62,76 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR825841C1491C4774A5097D84E610A7BE33B.PDF"
     },
     {
-      "title": "RBI releases list of NBFCs in the Upper Layer (NBFC-UL) under Scale Based Regulation for NBFCs",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63301",
+      "title": "Reserve Bank of India (Housing Finance Companies) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13673&Mode=0",
       "date": "2026-08-06",
-      "source": "RBI Press Release",
+      "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8231A72442E22634781A4076C86666F8FCC.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2315B337B00ED2C4FBD965C32C170DE52A6.PDF"
     },
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sri Guru Raghavendra Sahakara Bank Niyamitha, Bengaluru – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63298",
+      "title": "Reserve Bank of India (Non-Banking Financial Companies - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13672&Mode=0",
       "date": "2026-08-06",
-      "source": "RBI Press Release",
+      "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR820398EEC5B76224375A1BD7CE5068075C5.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT230A919C5A725694DD78C1C3640B455C4E9.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions - Responsible Business Conduct) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13671&Mode=0",
+      "date": "2026-08-06",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT229A19B0E3435284F00831B68A9482B6ABD.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13670&Mode=0",
+      "date": "2026-08-06",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2288A0D38AEE93D4305B418F4B5B5D6BFFA.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13669&Mode=0",
+      "date": "2026-08-06",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT227A4F449BA57C145F5A309C0A8B3BBB54D.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13668&Mode=0",
+      "date": "2026-08-06",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT22685A29E921DAE48C8ACE94172CE0321DD.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13667&Mode=0",
+      "date": "2026-08-06",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2251569FE38CE904CF28DFB58D0335766B1.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13666&Mode=0",
+      "date": "2026-08-06",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT22486FBFB44C3A74875B9304BABF4EC2607.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13665&Mode=0",
+      "date": "2026-08-06",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2231ED57C3AA5F1493BA85E48591D755A18.PDF"
     },
     {
       "title": "Good news for investors: No income tax on dividends received from REITs and InvITs in this case, Lok Sabha passes the bill; Check the details",
@@ -70,8 +158,32 @@
       "pdf_link": null
     },
     {
+      "title": "RBI bars banks from disabling mobile devices of defaulting borrowers",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-prohibits-banks-from-disabling-borrowers-mobile-devices-in-loan-recovery/articleshow/133011197.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI plans to bar NBFCs from offering revolving credit without approval",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133010548.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "PNB Housing targets Rs 100 cr micro-housing loan book in FY27",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/pnb-housing-targets-rs-100-cr-micro-housing-loan-book-in-fy27/articleshow/133008448.cms",
+      "date": "2026-08-06",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "SBI Life partners with J&K Bank to offer insurance solutions across India",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-life-partners-with-jk-bank-to-offer-insurance-solutions-across-india/articleshow/133003044.cms",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/sbi-life-partners-with-jk-bank-to-offer-insurance-solutions-across-india/articleshow/133003044.cms",
       "date": "2026-08-06",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
@@ -137,118 +249,6 @@
       "title": "Urban cooperative bank license applicants need a minimum Rs 300 crore of capital and Rs 10000 crore of deposits, says RBI",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-unveils-new-criteria-for-urban-cooperative-bank-licenses-rs-300-crore-capital-required-boosts-financial-inclusion-efforts/articleshow/132931532.cms",
       "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Lower real interest rates have not hurt deposit growth in India: SBI Research",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lower-real-interest-rates-have-not-hurt-deposit-growth-in-india-sbi-research/articleshow/132929479.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI upper-layer NBFC list to come out soon",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-upper-layer-nbfc-list-to-come-out-soon/articleshow/132921472.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI MDR explained: What potential charges above Rs 2,000 payments on Paytm, GPay & other apps mean for you and merchants",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-explained-what-potential-charges-above-rs-2000-on-paytm-gpay-other-payment-apps-mean-for-you-and-merchants/articleshow/132903354.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI to resume urban cooperative bank licensing process after two decades",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-to-resume-urban-cooperative-bank-licensing-process-after-two-decades/articleshow/132895858.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI to resume urban cooperative banks' licensing after 22-year pause, review rural bank rules",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-resuming-ucb-licensing-overhaul-of-rural-bank-rules-at-mpc/articleshow/132891614.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "The Online utility of ITR-5 for AY 2026-27 is available for filing on the e-filing portal.",
-      "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
-      "date": "2026-08-05",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "NRI selling property, shares or gold in India? Here's how you can manage your capital gains tax in a better way",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-selling-property-shares-or-gold-in-india-heres-how-you-can-manage-your-capital-gains-tax-in-a-better-way/articleshow/132843445.cms",
-      "date": "2026-08-04",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "HSBC India profit rises 4% to $965 million in H1 2026, corporate and institutional banking drives growth",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hsbc-india-profit-rises-4-to-965-million-in-h1-2026-corporate-and-institutional-banking-drives-growth/articleshow/132859484.cms",
-      "date": "2026-08-04",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India paves way for return of merchant fees on digital payments",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/india-paves-way-for-return-of-merchant-fees-on-digital-payments/articleshow/132858335.cms",
-      "date": "2026-08-04",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Lack of proper training in credit monitoring among reasons for frauds: CVC to banks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lack-of-proper-training-in-credit-monitoring-among-reasons-for-frauds-cvc-to-banks/articleshow/132857462.cms",
-      "date": "2026-08-04",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian banks' new hunt for diaspora dollars pumps up loans markets",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-new-hunt-for-diaspora-dollars-pumps-up-loans-markets-hdfc-standard-chartered-usd-rupee-offshore-funds-rbi/articleshow/132845870.cms",
-      "date": "2026-08-04",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Payment Bill rekindles MDR hopes for large-value UPI",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/government-proposes-mdr-reintroduction-for-upi-transactions-a-boost-for-banks-and-fintech-firms/articleshow/132841062.cms",
-      "date": "2026-08-04",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI, HSBC lead FCNR(B) deposit mobilisation",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-hsbc-lead-fcnrb-deposit-mobilisation/articleshow/132840942.cms",
-      "date": "2026-08-04",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Govt introduces bill to modernise bank records law",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-introduces-bill-to-modernise-bank-records-law/articleshow/132840894.cms",
-      "date": "2026-08-04",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
