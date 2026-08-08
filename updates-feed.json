@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:37:47+00:00",
+  "generated_at": "2026-08-08T08:07:16+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,110 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "6 reasons you may get income tax notice even after meeting July 31 ITR filing deadline",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/6-reasons-you-may-get-income-tax-notice-even-after-meeting-july-31-itr-filing-deadline/articleshow/133046576.cms",
+      "date": "2026-08-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Gratuity tax deduction denied due to ITR filing error? ITAT Chennai says genuine claims can't be rejected",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/gratuity-tax-deduction-denied-due-to-itr-filing-error-itat-chennai-says-genuine-claims-cant-be-rejected/articleshow/133034240.cms",
+      "date": "2026-08-08",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "NBFC credit surges 14.4% to ₹59.3 lakh crore in June, retail loans lead growth: RBI data",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-credit-surges-14-4-to-59-3-lakh-crore-in-june-retail-loans-lead-growth-rbi-data/articleshow/133041753.cms",
+      "date": "2026-08-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes monetary penalty on Infinity Fincorp Solutions Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63319",
+      "date": "2026-08-07",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR84187EA099127E24250A7D20A00764BD19F.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Namdev Finvest Limited (formerly known as Namdev Finvest Private Limited)",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63318",
+      "date": "2026-08-07",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR840FDA78118021949B399D9FDF9C2C13DF7.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Utsav Securities Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63317",
+      "date": "2026-08-07",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR839ADAB52FDF8074069B09C6588156B4493.PDF"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63315",
+      "date": "2026-08-07",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR837WSS4C4BF17E29D549D59EF23EEE3BA84EB2.PDF"
+    },
+    {
+      "title": "RBI invites comments on the draft “Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026”",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63313",
+      "date": "2026-08-07",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8354A0DCEA105BE43CDB88070A473F440CB.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13674&Mode=0",
+      "date": "2026-08-07",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT232EB06EBC84FC84481A5D70B6FD75574E6.PDF"
+    },
+    {
+      "title": "RBI proposes a leverage ratio of 3.5% for ‘important’ global banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-leverage-ratio-buffer-for-g-sib-branches/articleshow/133036849.cms",
+      "date": "2026-08-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Loans against FCNR B deposits exempt from priority sector",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/loans-against-fcnr-b-deposits-exempt-from-priority-sector/articleshow/133036384.cms",
+      "date": "2026-08-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "NBFC gold jewellery loans jump 69 pc in June, fastest across segments: RBI data",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-gold-jewellery-loans-jump-69-pc-in-june-fastest-across-segments-rbi-data/articleshow/133036116.cms",
+      "date": "2026-08-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI sees broad-based credit growth, sticks to 14-15% FY27 loan growth guidance",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-sees-broad-based-credit-growth-sticks-to-14-15-fy27-loan-growth-guidance/articleshow/133030731.cms",
+      "date": "2026-08-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbis-draft-curbs-on-revolving-credit-may-impact-nbfc-flexi-loans-morgan-stanley/articleshow/133026154.cms",
@@ -30,36 +134,12 @@
       "pdf_link": null
     },
     {
-      "title": "Review of Guidelines on Concentration Risk Management - Rural Co-operative Banks",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63306",
-      "date": "2026-08-06",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR828A5BCB4992B3749D9A6198295F7281E31.PDF"
-    },
-    {
-      "title": "RBI Issues Amendment Directions on ‘Conduct of Regulated Entities in Recovery of Loans and Engagement of Recovery Agents’",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63305",
-      "date": "2026-08-06",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR827D97297EBEFF049BC92D1534E10F578F9.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Kedarnath Urban Co-operative Bank Ltd., Latur, Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63304",
-      "date": "2026-08-06",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8265FAF9F9491B44F39AA404E015341546A.PDF"
-    },
-    {
-      "title": "RBI invites comments on the draft “Reserve Bank of India (Non-Banking Financial Companies – Credit Facilities) Amendment Directions, 2026”",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63303",
-      "date": "2026-08-06",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR825841C1491C4774A5097D84E610A7BE33B.PDF"
+      "title": "Offline utility of ITR-5 for AY 2026-27 is available for filing.",
+      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
+      "date": "2026-08-07",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
     },
     {
       "title": "Reserve Bank of India (Housing Finance Companies) Third Amendment Directions, 2026",
@@ -169,86 +249,6 @@
       "title": "RBI plans to bar NBFCs from offering revolving credit without approval",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133010548.cms",
       "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "PNB Housing targets Rs 100 cr micro-housing loan book in FY27",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/pnb-housing-targets-rs-100-cr-micro-housing-loan-book-in-fy27/articleshow/133008448.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI Life partners with J&K Bank to offer insurance solutions across India",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/sbi-life-partners-with-jk-bank-to-offer-insurance-solutions-across-india/articleshow/133003044.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI classifies Tata Sons as Upper-Layer NBFC under revised framework",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-classifies-tata-sons-as-upper-layer-nbfc/articleshow/132999980.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "It's a secret: LIC’s unusually fast $3.3 billion deal kept bankers in dark",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lic-ofs-ita-secret-lics-unusually-fast-3-3-billion-deal-kept-bankers-in-dark-as-indian-government-stake-sale/articleshow/132979912.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "No decision yet on merchant discount rate on UPI deals",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-decision-yet-on-merchant-discount-rate-on-upi-deals/articleshow/132968228.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "'No US lawsuits filed yet, ready to defend on facts if needed': HDFC Bank CEO clarifies on governance allegations",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-us-lawsuits-filed-yet-ready-to-defend-on-facts-if-needed-hdfc-bank-ceo-clarifies-on-governance-allegations/articleshow/132966595.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Wife paid husband Rs 7.5 crore after selling her shares and bought his Mumbai property, filed ITR claiming 54F tax exemption, got tax notice; she fought and won the case in ITAT Mumbai",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/wife-paid-husband-rs-7-5-crore-after-selling-her-shares-and-bought-his-mumbai-property-filed-itr-claiming-54f-tax-exemption-got-tax-notice-she-fought-and-won-the-case-in-itat-mumbai/articleshow/132890977.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks welcome RBI's steady rates, see boost to credit growth",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-welcome-rbis-steady-rates-see-boost-to-credit-growth/articleshow/132950570.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian Bank targets Rs 35 lakh crore business by 2032 after crossing Rs 15 lakh crore milestone: MD & CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-targets-rs-35-lakh-crore-business-by-2032-after-crossing-rs-15-lakh-crore-milestone-md-ceo/articleshow/132943013.cms",
-      "date": "2026-08-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Urban cooperative bank license applicants need a minimum Rs 300 crore of capital and Rs 10000 crore of deposits, says RBI",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-unveils-new-criteria-for-urban-cooperative-bank-licenses-rs-300-crore-capital-required-boosts-financial-inclusion-efforts/articleshow/132931532.cms",
-      "date": "2026-08-05",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
