@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:07:16+00:00",
+  "generated_at": "2026-08-09T08:10:35+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,22 @@
   ],
   "items": [
     {
+      "title": "Loan book to cross Rs 2 lakh crore milestone in FY27: HUDCO CMD",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/loan-book-to-cross-rs-2-lakh-crore-milestone-in-fy27-hudco-cmd/articleshow/133062572.cms",
+      "date": "2026-08-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI MDR may return, but only some merchants will have to pay, Finance Ministry clarifies",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-may-return-but-only-some-merchants-will-have-to-pay-finance-ministry-clarifies/articleshow/133057123.cms",
+      "date": "2026-08-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "6 reasons you may get income tax notice even after meeting July 31 ITR filing deadline",
       "link": "https://economictimes.indiatimes.com/wealth/tax/6-reasons-you-may-get-income-tax-notice-even-after-meeting-july-31-itr-filing-deadline/articleshow/133046576.cms",
       "date": "2026-08-08",
@@ -27,6 +43,38 @@
       "date": "2026-08-08",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "PhonePe, Razorpay back selective UPI charges for large merchants",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/phonepe-razorpay-back-selective-upi-charges-for-large-merchants/articleshow/133058055.cms",
+      "date": "2026-08-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI proposes leverage buffer for branches of global systemically important banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-leverage-buffer-for-branches-of-global-systemically-important-banks/articleshow/133051799.cms",
+      "date": "2026-08-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "NBFC gold loans continue near 70% growth, reach Rs 3.41 lakh crore in June: RBI",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-gold-loans-continue-near-70-growth-reach-rs-3-41-lakh-crore-in-june-rbi/articleshow/133050925.cms",
+      "date": "2026-08-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI missed digital payments bus, now playing catch-up with YONO Pay: Chairman CS Setty",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-missed-the-payments-bus-now-playing-catch-up-with-yono-pay-chairman-cs-setty/articleshow/133049059.cms",
+      "date": "2026-08-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -204,54 +252,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT22486FBFB44C3A74875B9304BABF4EC2607.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13665&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2231ED57C3AA5F1493BA85E48591D755A18.PDF"
-    },
-    {
-      "title": "Good news for investors: No income tax on dividends received from REITs and InvITs in this case, Lok Sabha passes the bill; Check the details",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/good-news-for-investors-no-income-tax-on-dividends-received-from-reits-and-invits-in-this-case-lok-sabha-passes-the-bill-check-the-details/articleshow/132999834.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 1.33 crore cash deposit, no ITR filing, yet senior citizen wins income tax case; ITAT Bangalore explains why",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-33-crore-cash-deposit-no-itr-filing-yet-senior-citizen-wins-income-tax-case-itat-bangalore-explains-why/articleshow/132994693.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Can you get income tax notice for making digital payments through UPI, NEFT, RTGS, and IMPS? Know when it can be triggered",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/can-you-get-income-tax-notice-for-making-digital-payments-through-upi-neft-rtgs-and-imps-know-when-it-can-be-triggered/articleshow/132991116.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI bars banks from disabling mobile devices of defaulting borrowers",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-prohibits-banks-from-disabling-borrowers-mobile-devices-in-loan-recovery/articleshow/133011197.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI plans to bar NBFCs from offering revolving credit without approval",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-plans-to-bar-nbfcs-from-offering-revolving-credit-without-approval/articleshow/133010548.cms",
-      "date": "2026-08-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
     }
   ]
 }
