@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T08:10:35+00:00",
+  "generated_at": "2026-08-10T10:41:23+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,62 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Formation of new districts in the Union Territory of Ladakh – Assignment of Lead Bank Responsibility",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13675&Mode=0",
+      "date": "2026-08-10",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2334EAC2F82B084424A83115F1941151F29.PDF"
+    },
+    {
+      "title": "Sold land for Rs 7.24 crore, paid no tax, received income tax notice; Know how Google Earth photos and revenue records helped taxpayer to win this case in ITAT Ahmedabad",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/sold-land-for-rs-7-24-crore-paid-no-tax-received-income-tax-notice-know-how-google-earth-photos-and-revenue-records-helped-taxpayer-to-win-this-case-in-itat-ahmedabad/articleshow/133092532.cms",
+      "date": "2026-08-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian diaspora could be UPI’s ticket to the global payments map",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/indian-diaspora-could-be-upis-ticket-to-the-global-payments-map/articleshow/133078044.cms",
+      "date": "2026-08-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Govt taps inputs from public sector banks to lure foreign capital",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-taps-inputs-from-public-sector-banks-to-lure-foreign-capital/articleshow/133074157.cms",
+      "date": "2026-08-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Purchase of bad loans by ARCs rises 56% in Q1",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/purchase-of-bad-loans-by-arcs-rises-56-in-q1/articleshow/133073840.cms",
+      "date": "2026-08-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Global banks are pulling back credit cards once prized by rich Indians",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/global-banks-are-pulling-back-credit-cards-once-prized-by-rich-indians/articleshow/133073593.cms",
+      "date": "2026-08-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "As banks shrink microfinance books, bigger MFIs prepare to grab the gap",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/as-banks-shrink-microfinance-books-bigger-lenders-prepare-to-grab-the-gap/articleshow/133066897.cms",
+      "date": "2026-08-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Loan book to cross Rs 2 lakh crore milestone in FY27: HUDCO CMD",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/loan-book-to-cross-rs-2-lakh-crore-milestone-in-fy27-hudco-cmd/articleshow/133062572.cms",
@@ -92,38 +148,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR84187EA099127E24250A7D20A00764BD19F.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Namdev Finvest Limited (formerly known as Namdev Finvest Private Limited)",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63318",
-      "date": "2026-08-07",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR840FDA78118021949B399D9FDF9C2C13DF7.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Utsav Securities Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63317",
-      "date": "2026-08-07",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR839ADAB52FDF8074069B09C6588156B4493.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63315",
-      "date": "2026-08-07",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR837WSS4C4BF17E29D549D59EF23EEE3BA84EB2.PDF"
-    },
-    {
-      "title": "RBI invites comments on the draft “Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026”",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63313",
-      "date": "2026-08-07",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8354A0DCEA105BE43CDB88070A473F440CB.PDF"
     },
     {
       "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Second Amendment Directions, 2026",
@@ -228,30 +252,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT227A4F449BA57C145F5A309C0A8B3BBB54D.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Regional Rural Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13668&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT22685A29E921DAE48C8ACE94172CE0321DD.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13667&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2251569FE38CE904CF28DFB58D0335766B1.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13666&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT22486FBFB44C3A74875B9304BABF4EC2607.PDF"
     }
   ]
 }
