@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:41:23+00:00",
+  "generated_at": "2026-08-11T07:05:17+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,54 @@
   ],
   "items": [
     {
+      "title": "AI in banking must move beyond retail to farms, MSMEs: SBI Chairman Setty",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-in-banking-must-move-beyond-retail-to-farms-msmes-sbi-chairman-setty/articleshow/133143959.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI Governor Malhotra outlines which Indian banks will win the AI era",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-governor-malhotra-outlines-which-indian-banks-will-win-the-ai-era/articleshow/133143900.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Most UPI transactions to stay free: FM Nirmala Sitharaman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/most-upi-transactions-to-stay-free-fm-nirmala-sitharaman/articleshow/133133350.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India is scanning more and withdrawing less as digital payments take over",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/india-is-scanning-more-and-withdrawing-less-as-digital-payments-take-over/articleshow/133132711.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "NBFCs outpace banks in June as cards lose some credit",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-outpace-banks-in-june-as-cards-lose-some-credit/articleshow/133132458.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Amravati District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63331",
+      "date": "2026-08-10",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR853854A2F3B60944E48A6A27436B6A33E29.PDF"
+    },
+    {
       "title": "Formation of new districts in the Union Territory of Ladakh – Assignment of Lead Bank Responsibility",
       "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13675&Mode=0",
       "date": "2026-08-10",
@@ -22,11 +70,35 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2334EAC2F82B084424A83115F1941151F29.PDF"
     },
     {
+      "title": "Sold property for Rs 94 lakh despite a stamp value of Rs 1.93 crore, received an income tax notice under Section 50C; ITAT Chennai grants relief for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/sold-property-for-rs-94-lakh-despite-a-stamp-value-of-rs-1-93-crore-received-an-income-tax-notice-under-section-50c-itat-chennai-grants-relief-for-this-reason/articleshow/133100955.cms",
+      "date": "2026-08-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
       "title": "Sold land for Rs 7.24 crore, paid no tax, received income tax notice; Know how Google Earth photos and revenue records helped taxpayer to win this case in ITAT Ahmedabad",
       "link": "https://economictimes.indiatimes.com/wealth/tax/sold-land-for-rs-7-24-crore-paid-no-tax-received-income-tax-notice-know-how-google-earth-photos-and-revenue-records-helped-taxpayer-to-win-this-case-in-itat-ahmedabad/articleshow/133092532.cms",
       "date": "2026-08-10",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank cuts MCLR by 5 bps, Bank of Baroda raises 3-month rate by 10 bps",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-cuts-mclr-by-5-basis-points-amidst-bank-of-barodas-hike-in-rates/articleshow/133114668.cms",
+      "date": "2026-08-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Parliament clears taxation bill, Sitharaman says UPI transactions to remain free",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/parliament-clears-taxation-bill-sitharaman-says-upi-transactions-to-remain-free/articleshow/133104930.cms",
+      "date": "2026-08-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -142,14 +214,6 @@
       "pdf_link": null
     },
     {
-      "title": "RBI imposes monetary penalty on Infinity Fincorp Solutions Private Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63319",
-      "date": "2026-08-07",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR84187EA099127E24250A7D20A00764BD19F.PDF"
-    },
-    {
       "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Second Amendment Directions, 2026",
       "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13674&Mode=0",
       "date": "2026-08-07",
@@ -188,70 +252,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "RBI's draft curbs on revolving credit may impact NBFC flexi loans: Morgan Stanley",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbis-draft-curbs-on-revolving-credit-may-impact-nbfc-flexi-loans-morgan-stanley/articleshow/133026154.cms",
-      "date": "2026-08-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Listing cloud still hangs over Tata sons with NBFC-UL tag",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/listing-cloud-still-hangs-over-tata-sons-with-nbfc-ul-tag/articleshow/133015426.cms",
-      "date": "2026-08-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Offline utility of ITR-5 for AY 2026-27 is available for filing.",
-      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
-      "date": "2026-08-07",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Reserve Bank of India (Housing Finance Companies) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13673&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2315B337B00ED2C4FBD965C32C170DE52A6.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Non-Banking Financial Companies - Responsible Business Conduct) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13672&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT230A919C5A725694DD78C1C3640B455C4E9.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (All India Financial Institutions - Responsible Business Conduct) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13671&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT229A19B0E3435284F00831B68A9482B6ABD.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Rural Co-operative Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13670&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2288A0D38AEE93D4305B418F4B5B5D6BFFA.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Urban Co-operative Banks - Responsible Business Conduct) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13669&Mode=0",
-      "date": "2026-08-06",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT227A4F449BA57C145F5A309C0A8B3BBB54D.PDF"
     }
   ]
 }
