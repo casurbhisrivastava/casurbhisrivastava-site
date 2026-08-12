@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:05:17+00:00",
+  "generated_at": "2026-08-12T05:13:10+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,118 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Restoration of Certificate of Registration of one NBFC",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63340",
+      "date": "2026-08-11",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8625DE6E70516FF45BABBE23578974E9A99.PDF"
+    },
+    {
+      "title": "RBI cancels Certificate of Registration of 59 NBFCs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63339",
+      "date": "2026-08-11",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR86107CFDD13CEF74176B89CF62027FD04C0.PDF"
+    },
+    {
+      "title": "Four NBFCs surrender their Certificate of Registration to the RBI",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63338",
+      "date": "2026-08-11",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8603BD40A6CBD744E2B847AD2AA51DB4D41.PDF"
+    },
+    {
+      "title": "REIT, InvIT investors can benefit if trust switches income tax regime: Know how maximum effective tax rate of 34.94% under old tax regime comes down to 28.60% under new tax regime",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/reit-invit-investors-can-benefit-if-trust-switches-income-tax-regime-know-how-effective-tax-rate-of-34-94-under-old-tax-regime-comes-down-to-28-60-under-new-tax-regime/articleshow/133152413.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Paid Rs 6.5 crore and bought a property with stamp duty value of Rs 8.85 crore, got income tax notice for unexplained investment; He fought back won relief in ITAT",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/paid-rs-6-5-crore-and-bought-a-property-with-stamp-duty-value-of-rs-8-85-crore-got-income-tax-notice-for-unexplained-investment-he-fought-back-won-relief-in-itat/articleshow/133149184.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "How should my NRI children disclose gifts received from relatives in ITR-2?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/how-should-my-nri-children-disclose-gifts-received-from-relatives-in-itr-2/articleshow/133143816.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Not much concerned on proposed NBFC norms, revolving credit exposure below 5%: Tata Capital CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/not-much-concerned-on-proposed-nbfc-norms-revolving-credit-exposure-below-5-tata-capital-ceo/articleshow/133157098.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "AI can transform banking, but data, privacy, governance remain key challenges: CEOs",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/revolutionizing-banking-how-ai-is-transforming-customer-service-and-operations/articleshow/133155015.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Tax liability of ITR-7 filers triples in 5 years to Rs 1,043 crore",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/tax-liability-of-itr-7-filers-triples-in-5-years-to-rs-1043-crore/articleshow/133152526.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Fusion Finance aims to cut microfin share, offer larger retail loans",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/fusion-finance-aims-to-cut-microfin-share-offer-larger-retail-loans/articleshow/133151470.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI curbs on NBFC flexi credit may push lenders towards bullet loans, raise costs: Kotak",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-curbs-on-nbfc-flexi-credit-may-push-lenders-towards-bullet-loans-raise-costs-kotak/articleshow/133151414.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Microfinance asset quality improves further as loans at risk fall to 2.3% in June: CRIF",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/microfinance-asset-quality-improves-further-as-loans-at-risk-fall-to-2-3-in-june-crif/articleshow/133147876.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Apple Pay coming to India in October, UPI support may be delayed: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/apple-pay-coming-to-india-in-october-upi-support-may-be-delayed-report/articleshow/133148337.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Motor insurance bills could feel the pinch as insurers crack down on third-party fraud",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/motor-insurance-bills-could-feel-the-pinch-as-insurers-crack-down-on-third-party-fraud/articleshow/133145346.cms",
+      "date": "2026-08-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "AI in banking must move beyond retail to farms, MSMEs: SBI Chairman Setty",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-in-banking-must-move-beyond-retail-to-farms-msmes-sbi-chairman-setty/articleshow/133143959.cms",
@@ -54,12 +166,12 @@
       "pdf_link": null
     },
     {
-      "title": "RBI imposes monetary penalty on The Amravati District Central Co-operative Bank Ltd., Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63331",
-      "date": "2026-08-10",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR853854A2F3B60944E48A6A27436B6A33E29.PDF"
+      "title": "Online utility of ITR-7 for AY 2026-27 is enabled for filing on the portal.",
+      "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
+      "date": "2026-08-11",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
     },
     {
       "title": "Formation of new districts in the Union Territory of Ladakh – Assignment of Lead Bank Responsibility",
@@ -137,118 +249,6 @@
       "title": "As banks shrink microfinance books, bigger MFIs prepare to grab the gap",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/as-banks-shrink-microfinance-books-bigger-lenders-prepare-to-grab-the-gap/articleshow/133066897.cms",
       "date": "2026-08-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Loan book to cross Rs 2 lakh crore milestone in FY27: HUDCO CMD",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/loan-book-to-cross-rs-2-lakh-crore-milestone-in-fy27-hudco-cmd/articleshow/133062572.cms",
-      "date": "2026-08-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI MDR may return, but only some merchants will have to pay, Finance Ministry clarifies",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-may-return-but-only-some-merchants-will-have-to-pay-finance-ministry-clarifies/articleshow/133057123.cms",
-      "date": "2026-08-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "6 reasons you may get income tax notice even after meeting July 31 ITR filing deadline",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/6-reasons-you-may-get-income-tax-notice-even-after-meeting-july-31-itr-filing-deadline/articleshow/133046576.cms",
-      "date": "2026-08-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Gratuity tax deduction denied due to ITR filing error? ITAT Chennai says genuine claims can't be rejected",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/gratuity-tax-deduction-denied-due-to-itr-filing-error-itat-chennai-says-genuine-claims-cant-be-rejected/articleshow/133034240.cms",
-      "date": "2026-08-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "PhonePe, Razorpay back selective UPI charges for large merchants",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/phonepe-razorpay-back-selective-upi-charges-for-large-merchants/articleshow/133058055.cms",
-      "date": "2026-08-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI proposes leverage buffer for branches of global systemically important banks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-leverage-buffer-for-branches-of-global-systemically-important-banks/articleshow/133051799.cms",
-      "date": "2026-08-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NBFC gold loans continue near 70% growth, reach Rs 3.41 lakh crore in June: RBI",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-gold-loans-continue-near-70-growth-reach-rs-3-41-lakh-crore-in-june-rbi/articleshow/133050925.cms",
-      "date": "2026-08-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI missed digital payments bus, now playing catch-up with YONO Pay: Chairman CS Setty",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-missed-the-payments-bus-now-playing-catch-up-with-yono-pay-chairman-cs-setty/articleshow/133049059.cms",
-      "date": "2026-08-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NBFC credit surges 14.4% to ₹59.3 lakh crore in June, retail loans lead growth: RBI data",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-credit-surges-14-4-to-59-3-lakh-crore-in-june-retail-loans-lead-growth-rbi-data/articleshow/133041753.cms",
-      "date": "2026-08-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13674&Mode=0",
-      "date": "2026-08-07",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT232EB06EBC84FC84481A5D70B6FD75574E6.PDF"
-    },
-    {
-      "title": "RBI proposes a leverage ratio of 3.5% for ‘important’ global banks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-leverage-ratio-buffer-for-g-sib-branches/articleshow/133036849.cms",
-      "date": "2026-08-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Loans against FCNR B deposits exempt from priority sector",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/loans-against-fcnr-b-deposits-exempt-from-priority-sector/articleshow/133036384.cms",
-      "date": "2026-08-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NBFC gold jewellery loans jump 69 pc in June, fastest across segments: RBI data",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-gold-jewellery-loans-jump-69-pc-in-june-fastest-across-segments-rbi-data/articleshow/133036116.cms",
-      "date": "2026-08-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI sees broad-based credit growth, sticks to 14-15% FY27 loan growth guidance",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-sees-broad-based-credit-growth-sticks-to-14-15-fy27-loan-growth-guidance/articleshow/133030731.cms",
-      "date": "2026-08-07",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
