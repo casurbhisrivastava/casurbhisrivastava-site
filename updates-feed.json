@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:13:10+00:00",
+  "generated_at": "2026-08-12T07:22:58+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,28 +14,20 @@
   ],
   "items": [
     {
-      "title": "Restoration of Certificate of Registration of one NBFC",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63340",
-      "date": "2026-08-11",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8625DE6E70516FF45BABBE23578974E9A99.PDF"
+      "title": "Presumptive taxation for professionals: The 50% rule remains-but what changes for deductions and losses under the new tax Act?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/presumptive-taxation-for-professionals-the-50-rule-remains-but-what-changes-for-deductions-and-losses-under-the-new-tax-act/articleshow/133171653.cms",
+      "date": "2026-08-12",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
-      "title": "RBI cancels Certificate of Registration of 59 NBFCs",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63339",
-      "date": "2026-08-11",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR86107CFDD13CEF74176B89CF62027FD04C0.PDF"
-    },
-    {
-      "title": "Four NBFCs surrender their Certificate of Registration to the RBI",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63338",
-      "date": "2026-08-11",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8603BD40A6CBD744E2B847AD2AA51DB4D41.PDF"
+      "title": "Man did not disclose UAE bank account and foreign shares in ITR, I-T dept imposed Rs 1.86 lakh penalty; He escalates the case but ITAT Delhi offers no relief",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/man-did-not-disclose-uae-bank-account-and-foreign-shares-in-itr-i-t-dept-imposed-rs-1-86-lakh-penalty-he-escalates-the-case-but-itat-delhi-offers-no-relief/articleshow/133170490.cms",
+      "date": "2026-08-12",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "REIT, InvIT investors can benefit if trust switches income tax regime: Know how maximum effective tax rate of 34.94% under old tax regime comes down to 28.60% under new tax regime",
@@ -248,6 +240,14 @@
     {
       "title": "As banks shrink microfinance books, bigger MFIs prepare to grab the gap",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/as-banks-shrink-microfinance-books-bigger-lenders-prepare-to-grab-the-gap/articleshow/133066897.cms",
+      "date": "2026-08-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Loan book to cross Rs 2 lakh crore milestone in FY27: HUDCO CMD",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/loan-book-to-cross-rs-2-lakh-crore-milestone-in-fy27-hudco-cmd/articleshow/133062572.cms",
       "date": "2026-08-09",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
