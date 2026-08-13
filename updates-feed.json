@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:22:58+00:00",
+  "generated_at": "2026-08-13T07:24:48+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,62 @@
   ],
   "items": [
     {
+      "title": "Property dealer deposits Rs 54 lakh cash in bank, files no ITR, gets tax notice, does not respond, wins case in ITAT Delhi; Know why",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/property-dealer-deposits-rs-54-lakh-cash-in-bank-files-no-itr-gets-tax-notice-does-not-respond-wins-case-in-itat-delhi-know-why/articleshow/133198532.cms",
+      "date": "2026-08-13",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Income tax for senior citizens: No salary after retirement? These 7 incomes can still attract tax; know what is exempt",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-for-senior-citizens-no-salary-after-retirement-these-7-incomes-can-still-attract-tax-know-what-is-exempt/articleshow/133198183.cms",
+      "date": "2026-08-13",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI costs Rs 20,700 crore, government allocation just Rs 2,000 crore: Parliament Panel",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-costs-rs-20700-crore-government-allocation-just-rs-2000-crore-parliament-panel/articleshow/133197619.cms",
+      "date": "2026-08-13",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Southern banks on a golden lending streak; gold-loan books swell 2x",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/southern-banks-on-a-golden-lending-streak-gold-loan-books-swell-2x/articleshow/133192459.cms",
+      "date": "2026-08-13",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks to reveal loan rates every month in RBI's disclosure tweak",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-reveal-loan-rates-every-month-in-rbis-disclosure-tweak/articleshow/133191742.cms",
+      "date": "2026-08-13",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI invites comments on the Draft “Reserve Bank of India (Interest Rates on Loans and Advances) Directions, 2026”",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63355",
+      "date": "2026-08-12",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR877FA1979D8611D42FB971417F3930F8333.PDF"
+    },
+    {
+      "title": "Scheduled Banks’ Statement of Position in India as on July 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63354",
+      "date": "2026-08-12",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR87668A43D547A434BC1BCE42540A9B016AD.PDF"
+    },
+    {
       "title": "Presumptive taxation for professionals: The 50% rule remains-but what changes for deductions and losses under the new tax Act?",
       "link": "https://economictimes.indiatimes.com/wealth/tax/presumptive-taxation-for-professionals-the-50-rule-remains-but-what-changes-for-deductions-and-losses-under-the-new-tax-act/articleshow/133171653.cms",
       "date": "2026-08-12",
@@ -27,6 +83,46 @@
       "date": "2026-08-12",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of America invests around Rs 18,268 crore for 49.9% stake in Jio Credit",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-of-america-invests-rs-18268-crore-in-jio-financial-services-jio-credit/articleshow/133188625.cms",
+      "date": "2026-08-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of America to acquire 49.9% in Jio Credit in potential Rs 18,268 crore deal",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-of-america-to-acquire-49-9-in-jio-credit-for-rs-18268-crore/articleshow/133186881.cms",
+      "date": "2026-08-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "AI to reshape banking, governance must evolve to curb cyber risk: BCG's Hardik Shah",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-to-reshape-banking-governance-must-evolve-to-curb-cyber-risk-bcg-md/articleshow/133184554.cms",
+      "date": "2026-08-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Central Bank of India mobilises $250 million under FCNR (B) window: CEO Kalyan Kumar",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/central-bank-of-india-mobilises-250-million-under-fcnr-b-window-ceo-kalyan-kumar/articleshow/133176787.cms",
+      "date": "2026-08-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI uses AI to underwrite nearly Rs 1 lakh crore in MSME loans in FY26",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-uses-ai-to-underwrite-nearly-rs-1-lakh-crore-in-msme-loans-in-fy26/articleshow/133176262.cms",
+      "date": "2026-08-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -153,102 +249,6 @@
       "title": "NBFCs outpace banks in June as cards lose some credit",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-outpace-banks-in-june-as-cards-lose-some-credit/articleshow/133132458.cms",
       "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Online utility of ITR-7 for AY 2026-27 is enabled for filing on the portal.",
-      "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
-      "date": "2026-08-11",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Formation of new districts in the Union Territory of Ladakh – Assignment of Lead Bank Responsibility",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13675&Mode=0",
-      "date": "2026-08-10",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2334EAC2F82B084424A83115F1941151F29.PDF"
-    },
-    {
-      "title": "Sold property for Rs 94 lakh despite a stamp value of Rs 1.93 crore, received an income tax notice under Section 50C; ITAT Chennai grants relief for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/sold-property-for-rs-94-lakh-despite-a-stamp-value-of-rs-1-93-crore-received-an-income-tax-notice-under-section-50c-itat-chennai-grants-relief-for-this-reason/articleshow/133100955.cms",
-      "date": "2026-08-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Sold land for Rs 7.24 crore, paid no tax, received income tax notice; Know how Google Earth photos and revenue records helped taxpayer to win this case in ITAT Ahmedabad",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/sold-land-for-rs-7-24-crore-paid-no-tax-received-income-tax-notice-know-how-google-earth-photos-and-revenue-records-helped-taxpayer-to-win-this-case-in-itat-ahmedabad/articleshow/133092532.cms",
-      "date": "2026-08-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank cuts MCLR by 5 bps, Bank of Baroda raises 3-month rate by 10 bps",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-cuts-mclr-by-5-basis-points-amidst-bank-of-barodas-hike-in-rates/articleshow/133114668.cms",
-      "date": "2026-08-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Parliament clears taxation bill, Sitharaman says UPI transactions to remain free",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/parliament-clears-taxation-bill-sitharaman-says-upi-transactions-to-remain-free/articleshow/133104930.cms",
-      "date": "2026-08-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian diaspora could be UPI’s ticket to the global payments map",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/indian-diaspora-could-be-upis-ticket-to-the-global-payments-map/articleshow/133078044.cms",
-      "date": "2026-08-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Govt taps inputs from public sector banks to lure foreign capital",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-taps-inputs-from-public-sector-banks-to-lure-foreign-capital/articleshow/133074157.cms",
-      "date": "2026-08-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Purchase of bad loans by ARCs rises 56% in Q1",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/purchase-of-bad-loans-by-arcs-rises-56-in-q1/articleshow/133073840.cms",
-      "date": "2026-08-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Global banks are pulling back credit cards once prized by rich Indians",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/global-banks-are-pulling-back-credit-cards-once-prized-by-rich-indians/articleshow/133073593.cms",
-      "date": "2026-08-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "As banks shrink microfinance books, bigger MFIs prepare to grab the gap",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/as-banks-shrink-microfinance-books-bigger-lenders-prepare-to-grab-the-gap/articleshow/133066897.cms",
-      "date": "2026-08-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Loan book to cross Rs 2 lakh crore milestone in FY27: HUDCO CMD",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/loan-book-to-cross-rs-2-lakh-crore-milestone-in-fy27-hudco-cmd/articleshow/133062572.cms",
-      "date": "2026-08-09",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
