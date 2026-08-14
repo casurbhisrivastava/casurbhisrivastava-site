@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:24:48+00:00",
+  "generated_at": "2026-08-14T07:23:00+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,54 @@
   ],
   "items": [
     {
+      "title": "Got Income Tax notice asking you to pay Rs 6,000 in tax? Check this warning from government’s fact check team",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-department-rs-6000-payment-notice-fake-pib-fact-check-warns-taxpayers-about-phishing-scam/articleshow/133228943.cms",
+      "date": "2026-08-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "NRI used NRE account to buy Rs 79 lakh property, got ‘unexplained cash’ tax notice; ITAT Ahmedabad grants full relief",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-used-nre-account-to-buy-rs-79-lakh-property-got-unexplained-cash-tax-notice-itat-ahmedabad-grants-full-relief/articleshow/133228037.cms",
+      "date": "2026-08-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Parliamentary panel seeks penalties for banks hosting multiple mule accounts",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/parliamentary-panel-seeks-penalties-for-banks-hosting-multiple-mule-accounts/articleshow/133227086.cms",
+      "date": "2026-08-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of America's $1.9 billion Jio bet shows global banks want a slice of India's retail lending market",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-americas-1-9-billion-jio-bet-shows-global-banks-want-a-slice-of-indias-retail-lending-market/articleshow/133223724.cms",
+      "date": "2026-08-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes monetary penalty on Valuefin India Credit Services Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63362",
+      "date": "2026-08-13",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8831FF02F05842D4BE48512A72B5552521F.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Bhind, Madhya Pradesh",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63361",
+      "date": "2026-08-13",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8843DBEC59FBD3F42168560EC6E8051E42A.PDF"
+    },
+    {
       "title": "Property dealer deposits Rs 54 lakh cash in bank, files no ITR, gets tax notice, does not respond, wins case in ITAT Delhi; Know why",
       "link": "https://economictimes.indiatimes.com/wealth/tax/property-dealer-deposits-rs-54-lakh-cash-in-bank-files-no-itr-gets-tax-notice-does-not-respond-wins-case-in-itat-delhi-know-why/articleshow/133198532.cms",
       "date": "2026-08-13",
@@ -27,6 +75,14 @@
       "date": "2026-08-13",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian bank deposits jump by $115 billion over three fortnights to record high",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-deposits-jump-by-115-billion-over-three-fortnights-to-record-high/articleshow/133209589.cms",
+      "date": "2026-08-13",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -52,22 +108,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "RBI invites comments on the Draft “Reserve Bank of India (Interest Rates on Loans and Advances) Directions, 2026”",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63355",
-      "date": "2026-08-12",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR877FA1979D8611D42FB971417F3930F8333.PDF"
-    },
-    {
-      "title": "Scheduled Banks’ Statement of Position in India as on July 31, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63354",
-      "date": "2026-08-12",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR87668A43D547A434BC1BCE42540A9B016AD.PDF"
     },
     {
       "title": "Presumptive taxation for professionals: The 50% rule remains-but what changes for deductions and losses under the new tax Act?",
@@ -208,46 +248,6 @@
     {
       "title": "Motor insurance bills could feel the pinch as insurers crack down on third-party fraud",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/motor-insurance-bills-could-feel-the-pinch-as-insurers-crack-down-on-third-party-fraud/articleshow/133145346.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "AI in banking must move beyond retail to farms, MSMEs: SBI Chairman Setty",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-in-banking-must-move-beyond-retail-to-farms-msmes-sbi-chairman-setty/articleshow/133143959.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI Governor Malhotra outlines which Indian banks will win the AI era",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-governor-malhotra-outlines-which-indian-banks-will-win-the-ai-era/articleshow/133143900.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Most UPI transactions to stay free: FM Nirmala Sitharaman",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/most-upi-transactions-to-stay-free-fm-nirmala-sitharaman/articleshow/133133350.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India is scanning more and withdrawing less as digital payments take over",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/india-is-scanning-more-and-withdrawing-less-as-digital-payments-take-over/articleshow/133132711.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NBFCs outpace banks in June as cards lose some credit",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-outpace-banks-in-june-as-cards-lose-some-credit/articleshow/133132458.cms",
       "date": "2026-08-11",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
