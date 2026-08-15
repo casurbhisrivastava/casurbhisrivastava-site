@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:23:00+00:00",
+  "generated_at": "2026-08-15T06:35:48+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,46 @@
   ],
   "items": [
     {
+      "title": "Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63378",
+      "date": "2026-08-14",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR90024CF46BE4B5F46E0A92CA0D116F92E12.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Fusion Finance Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63376",
+      "date": "2026-08-14",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8982BA6FE87FA4945EEA943C23223D6A4AC.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Northern Arc Capital Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63375",
+      "date": "2026-08-14",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR89603C1DA98F59C49BBB6A77358CF92BD88.PDF"
+    },
+    {
+      "title": "Reserve Bank of India imposes monetary penalty on IndusInd Bank Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63374",
+      "date": "2026-08-14",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR897B40BBE4EF2564AF088AB2D24B8511D52.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Muthoot MCred Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63372",
+      "date": "2026-08-14",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR895FA339A07A13E4A11B64D5D90A25B6157.PDF"
+    },
+    {
       "title": "Got Income Tax notice asking you to pay Rs 6,000 in tax? Check this warning from government’s fact check team",
       "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-department-rs-6000-payment-notice-fake-pib-fact-check-warns-taxpayers-about-phishing-scam/articleshow/133228943.cms",
       "date": "2026-08-14",
@@ -27,6 +67,14 @@
       "date": "2026-08-14",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Allahabad HC orders banks to freeze only disputed amount in cybercrime cases",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/allahabad-hc-orders-banks-to-freeze-only-disputed-amount-in-cybercrime-cases/articleshow/133231576.cms",
+      "date": "2026-08-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -46,20 +94,12 @@
       "pdf_link": null
     },
     {
-      "title": "RBI imposes monetary penalty on Valuefin India Credit Services Private Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63362",
-      "date": "2026-08-13",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8831FF02F05842D4BE48512A72B5552521F.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Jilla Sahakari Kendriya Bank Maryadit, Bhind, Madhya Pradesh",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63361",
-      "date": "2026-08-13",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8843DBEC59FBD3F42168560EC6E8051E42A.PDF"
+      "title": "Offline utility of ITR-7 for AY 2026-27 is available for filing.",
+      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
+      "date": "2026-08-14",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
     },
     {
       "title": "Property dealer deposits Rs 54 lakh cash in bank, files no ITR, gets tax notice, does not respond, wins case in ITAT Delhi; Know why",
@@ -208,46 +248,6 @@
     {
       "title": "Tax liability of ITR-7 filers triples in 5 years to Rs 1,043 crore",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/tax-liability-of-itr-7-filers-triples-in-5-years-to-rs-1043-crore/articleshow/133152526.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Fusion Finance aims to cut microfin share, offer larger retail loans",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/fusion-finance-aims-to-cut-microfin-share-offer-larger-retail-loans/articleshow/133151470.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI curbs on NBFC flexi credit may push lenders towards bullet loans, raise costs: Kotak",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-curbs-on-nbfc-flexi-credit-may-push-lenders-towards-bullet-loans-raise-costs-kotak/articleshow/133151414.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Microfinance asset quality improves further as loans at risk fall to 2.3% in June: CRIF",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/microfinance-asset-quality-improves-further-as-loans-at-risk-fall-to-2-3-in-june-crif/articleshow/133147876.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Apple Pay coming to India in October, UPI support may be delayed: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/apple-pay-coming-to-india-in-october-upi-support-may-be-delayed-report/articleshow/133148337.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Motor insurance bills could feel the pinch as insurers crack down on third-party fraud",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/motor-insurance-bills-could-feel-the-pinch-as-insurers-crack-down-on-third-party-fraud/articleshow/133145346.cms",
       "date": "2026-08-11",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
