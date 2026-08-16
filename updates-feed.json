@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:35:48+00:00",
+  "generated_at": "2026-08-16T06:38:00+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,22 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Indian Bank plans to garner $400 million via ECB this week: MD Binod Kumar",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-plans-to-garner-400-million-via-ecb-this-week-md-binod-kumar/articleshow/133270820.cms",
+      "date": "2026-08-16",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Big relief to taxpayers with undisclosed foreign assets: CBDT notifies Foreign Assets of Small Taxpayers disclosure scheme rules; Know who can use it by December 31, 2026",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/big-relief-to-taxpayers-with-undisclosed-foreign-assets-cbdt-notifies-foreign-assets-of-small-taxpayers-disclosure-scheme-rules-know-who-can-use-it-by-december-31-2026/articleshow/133257334.cms",
+      "date": "2026-08-15",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
     {
       "title": "Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63378",
@@ -232,22 +248,6 @@
     {
       "title": "Not much concerned on proposed NBFC norms, revolving credit exposure below 5%: Tata Capital CEO",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/not-much-concerned-on-proposed-nbfc-norms-revolving-credit-exposure-below-5-tata-capital-ceo/articleshow/133157098.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "AI can transform banking, but data, privacy, governance remain key challenges: CEOs",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/revolutionizing-banking-how-ai-is-transforming-customer-service-and-operations/articleshow/133155015.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Tax liability of ITR-7 filers triples in 5 years to Rs 1,043 crore",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/tax-liability-of-itr-7-filers-triples-in-5-years-to-rs-1043-crore/articleshow/133152526.cms",
       "date": "2026-08-11",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
