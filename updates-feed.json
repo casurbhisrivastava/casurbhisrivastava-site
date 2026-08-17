@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:38:00+00:00",
+  "generated_at": "2026-08-17T06:52:47+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,70 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "UK based employee sold ESOP worth Rs 26 lakh, declared Rs 1 lakh short-term capital loss, Income Tax dept treated it as unexplained gains; He fights and wins case in ITAT Mumbai",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/uk-based-employee-sold-esop-worth-rs-26-lakh-declared-rs-1-lakh-short-term-capital-loss-income-tax-dept-treated-it-as-unexplained-gains-he-fights-and-wins-case-in-itat-mumbai/articleshow/133287146.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Inherited mother's land, converted it into business stock, and invested over Rs 5 crore in a new home; ITAT Surat grants Section 54F tax exemption relying on a 1983 CBDT circular; Know why",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/inherited-mothers-land-converted-it-into-business-stock-and-invested-over-rs-5-crore-in-a-new-home-itat-surat-grants-section-54f-tax-exemption-relying-on-a-1983-cbdt-circular-know-why/articleshow/133286668.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "ITR filing 2026: How freelancers and F&O traders should declare their income",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-2026-how-freelancers-and-fo-traders-should-declare-their-income/articleshow/133255570.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Government to set up high-powered panel on banking sector's role in Viksit Bharat: Nirmala Sitharaman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/government-to-set-up-high-powered-panel-on-banking-sectors-role-in-viksit-bharat-nirmala-sitharaman/articleshow/133288152.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks may rush to tap short loans abroad",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-may-rush-to-tap-short-loans-abroad/articleshow/133281755.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "NBFCs seek RBI rethink on revolving credit curb",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-seek-rbi-rethink-on-revolving-credit-curb/articleshow/133281668.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "The next frontier in finance is not a bank. It is the machinery beneath it",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-next-frontier-in-finance-is-not-a-bank-it-is-the-machinery-beneath-it/articleshow/133281542.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI moves to distance self from bank deposit ratings",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-moves-to-distance-self-from-bank-deposit-ratings/articleshow/133281604.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Indian Bank plans to garner $400 million via ECB this week: MD Binod Kumar",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-plans-to-garner-400-million-via-ecb-this-week-md-binod-kumar/articleshow/133270820.cms",
@@ -36,38 +100,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR90024CF46BE4B5F46E0A92CA0D116F92E12.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Fusion Finance Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63376",
-      "date": "2026-08-14",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR8982BA6FE87FA4945EEA943C23223D6A4AC.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Northern Arc Capital Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63375",
-      "date": "2026-08-14",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR89603C1DA98F59C49BBB6A77358CF92BD88.PDF"
-    },
-    {
-      "title": "Reserve Bank of India imposes monetary penalty on IndusInd Bank Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63374",
-      "date": "2026-08-14",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR897B40BBE4EF2564AF088AB2D24B8511D52.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Muthoot MCred Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63372",
-      "date": "2026-08-14",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR895FA339A07A13E4A11B64D5D90A25B6157.PDF"
     },
     {
       "title": "Got Income Tax notice asking you to pay Rs 6,000 in tax? Check this warning from government’s fact check team",
@@ -217,38 +249,6 @@
       "title": "SBI uses AI to underwrite nearly Rs 1 lakh crore in MSME loans in FY26",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-uses-ai-to-underwrite-nearly-rs-1-lakh-crore-in-msme-loans-in-fy26/articleshow/133176262.cms",
       "date": "2026-08-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "REIT, InvIT investors can benefit if trust switches income tax regime: Know how maximum effective tax rate of 34.94% under old tax regime comes down to 28.60% under new tax regime",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/reit-invit-investors-can-benefit-if-trust-switches-income-tax-regime-know-how-effective-tax-rate-of-34-94-under-old-tax-regime-comes-down-to-28-60-under-new-tax-regime/articleshow/133152413.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Paid Rs 6.5 crore and bought a property with stamp duty value of Rs 8.85 crore, got income tax notice for unexplained investment; He fought back won relief in ITAT",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/paid-rs-6-5-crore-and-bought-a-property-with-stamp-duty-value-of-rs-8-85-crore-got-income-tax-notice-for-unexplained-investment-he-fought-back-won-relief-in-itat/articleshow/133149184.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "How should my NRI children disclose gifts received from relatives in ITR-2?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/how-should-my-nri-children-disclose-gifts-received-from-relatives-in-itr-2/articleshow/133143816.cms",
-      "date": "2026-08-11",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Not much concerned on proposed NBFC norms, revolving credit exposure below 5%: Tata Capital CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/not-much-concerned-on-proposed-nbfc-norms-revolving-credit-exposure-below-5-tata-capital-ceo/articleshow/133157098.cms",
-      "date": "2026-08-11",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
