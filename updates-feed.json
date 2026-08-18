@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:52:47+00:00",
+  "generated_at": "2026-08-18T06:40:15+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,38 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "NRI bought life insurance policy in Dubai from a foreign insurer, got maturity proceeds after returning to India, his claim for tax exemption was denied; he won the case in ITAT for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-bought-life-insurance-policy-in-dubai-from-a-foreign-insurer-got-maturity-proceeds-after-returning-to-india-his-claim-for-tax-exemption-was-denied-he-won-the-case-in-itat-for-this-reason/articleshow/133296218.cms",
+      "date": "2026-08-18",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "View: India needs guardrails around shadow loans, not bans",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-needs-guardrails-around-shadow-loans-not-bans-rbi-flexi-loan-rules-nbfc-restrictions-self-employed-small-business-borrowers/articleshow/133311126.cms",
+      "date": "2026-08-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Axis Bank expands corporate play beyond loans, shuns price war",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-expands-corporate-play-beyond-loans-shuns-price-war/articleshow/133305713.cms",
+      "date": "2026-08-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banking sector in strongest position to undertake reforms, high-level panel coming soon: FM Sitharaman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banking-sector-in-strongest-position-to-undertake-reforms-high-level-panel-coming-soon-fm-sitharaman/articleshow/133304644.cms",
+      "date": "2026-08-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "UK based employee sold ESOP worth Rs 26 lakh, declared Rs 1 lakh short-term capital loss, Income Tax dept treated it as unexplained gains; He fights and wins case in ITAT Mumbai",
       "link": "https://economictimes.indiatimes.com/wealth/tax/uk-based-employee-sold-esop-worth-rs-26-lakh-declared-rs-1-lakh-short-term-capital-loss-income-tax-dept-treated-it-as-unexplained-gains-he-fights-and-wins-case-in-itat-mumbai/articleshow/133287146.cms",
@@ -38,7 +70,15 @@
       "pdf_link": null
     },
     {
-      "title": "Government to set up high-powered panel on banking sector's role in Viksit Bharat: Nirmala Sitharaman",
+      "title": "Govt to constitute high-powered panel to review banking sector: Nirmala Sitharaman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-to-constitute-high-powered-panel-to-review-banking-sector-nirmala-sitharaman/videoshow/133295239.cms",
+      "date": "2026-08-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banking leaders urged to shape reforms as government readies panel for Viksit Bharat 2047",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/government-to-set-up-high-powered-panel-on-banking-sectors-role-in-viksit-bharat-nirmala-sitharaman/articleshow/133288152.cms",
       "date": "2026-08-17",
       "source": "Economic Times - Banking/Finance",
@@ -92,14 +132,6 @@
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
       "pdf_link": null
-    },
-    {
-      "title": "Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63378",
-      "date": "2026-08-14",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR90024CF46BE4B5F46E0A92CA0D116F92E12.PDF"
     },
     {
       "title": "Got Income Tax notice asking you to pay Rs 6,000 in tax? Check this warning from government’s fact check team",
@@ -216,38 +248,6 @@
     {
       "title": "Bank of America invests around Rs 18,268 crore for 49.9% stake in Jio Credit",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-of-america-invests-rs-18268-crore-in-jio-financial-services-jio-credit/articleshow/133188625.cms",
-      "date": "2026-08-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of America to acquire 49.9% in Jio Credit in potential Rs 18,268 crore deal",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bank-of-america-to-acquire-49-9-in-jio-credit-for-rs-18268-crore/articleshow/133186881.cms",
-      "date": "2026-08-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "AI to reshape banking, governance must evolve to curb cyber risk: BCG's Hardik Shah",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ai-to-reshape-banking-governance-must-evolve-to-curb-cyber-risk-bcg-md/articleshow/133184554.cms",
-      "date": "2026-08-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Central Bank of India mobilises $250 million under FCNR (B) window: CEO Kalyan Kumar",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/central-bank-of-india-mobilises-250-million-under-fcnr-b-window-ceo-kalyan-kumar/articleshow/133176787.cms",
-      "date": "2026-08-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI uses AI to underwrite nearly Rs 1 lakh crore in MSME loans in FY26",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-uses-ai-to-underwrite-nearly-rs-1-lakh-crore-in-msme-loans-in-fy26/articleshow/133176262.cms",
       "date": "2026-08-12",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
