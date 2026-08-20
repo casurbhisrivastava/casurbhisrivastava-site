@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:48:08+00:00",
+  "generated_at": "2026-08-20T06:43:20+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,7 +14,15 @@
   ],
   "items": [
     {
-      "title": "Aditya Birla Capital forays into gold loan business; shares rise 2%",
+      "title": "8 income tax notices that salaried employees can get after filing ITR; know what they mean and how to respond",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/8-income-tax-notices-that-salaried-employees-can-get-after-filing-itr-know-what-they-mean-and-how-to-respond/articleshow/133365299.cms",
+      "date": "2026-08-20",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Aditya Birla Capital forays into gold loan business; shares rise 2.8%",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/aditya-birla-capital-enters-gold-loan-business-plans-to-open-1000-branches-in-3-years/articleshow/133363554.cms",
       "date": "2026-08-20",
       "source": "Economic Times - Banking/Finance",
@@ -240,14 +248,6 @@
     {
       "title": "NBFCs seek RBI rethink on revolving credit curb",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-seek-rbi-rethink-on-revolving-credit-curb/articleshow/133281668.cms",
-      "date": "2026-08-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "The next frontier in finance is not a bank. It is the machinery beneath it",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-next-frontier-in-finance-is-not-a-bank-it-is-the-machinery-beneath-it/articleshow/133281542.cms",
       "date": "2026-08-17",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
