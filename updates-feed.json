@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:43:02+00:00",
+  "generated_at": "2026-08-22T06:37:41+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,11 +14,99 @@
   ],
   "items": [
     {
+      "title": "Freelancers filing ITR? Don't get these 5 things wrong: Form, expenses, 44ADA, foreign income, and more",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/freelancers-filing-itr-dont-get-these-5-things-wrong-form-expenses-44ada-foreign-income-and-more/articleshow/133415684.cms",
+      "date": "2026-08-22",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR deposits emerge as banks’ new FY27 growth lever: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-deposits-emerge-as-banks-new-fy27-growth-lever-report/articleshow/133418320.cms",
+      "date": "2026-08-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "NBFC growth outlook remains resilient; margin pressures, asset quality key monitorables: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfc-growth-outlook-remains-resilient-margin-pressures-asset-quality-key-monitorables-report/articleshow/133416479.cms",
+      "date": "2026-08-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks ride RBI swap wave to raise $12 billion via overseas debt",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-ride-rbi-swap-wave-to-raise-12-billion-via-overseas-debt/articleshow/133412046.cms",
+      "date": "2026-08-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes monetary penalty on Shri Ram Finance Corporation Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63422",
+      "date": "2026-08-21",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9435A865465CEC44A95BFDCC6F0750D22C8.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Progfin Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63421",
+      "date": "2026-08-21",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR944719577F464BD44EAAC14711DCB9B2E3E.PDF"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63420",
+      "date": "2026-08-21",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR942FEFCB68F158841709637CA7104452C2A.PDF"
+    },
+    {
+      "title": "624 th Meeting of Central Board of the Reserve Bank of India",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63419",
+      "date": "2026-08-21",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR941B21B94D39EE04D43BC3F8AF8714812D5.PDF"
+    },
+    {
+      "title": "Employee got Rs 30 lakh salary after job switch, forgot to file ITR, Income Tax dept imposed Rs 3.74 lakh penalty; he fought and won the case in ITAT Delhi",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/employee-got-rs-30-lakh-salary-after-job-switch-forgot-to-file-itr-income-tax-dept-imposed-rs-3-74-lakh-penalty-he-fought-and-won-the-case-in-itat-delhi/articleshow/133402463.cms",
+      "date": "2026-08-21",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
       "title": "Plant 500 trees and explain Rs 11.22 crore additional income: A rare direction from ITAT Chandigarh asks taxpayer with Rs 1.79 lakh income shown in ITR",
       "link": "https://economictimes.indiatimes.com/wealth/tax/plant-500-trees-and-explain-rs-11-22-crore-additional-income-a-rare-direction-from-itat-chandigarh-asks-taxpayer-with-rs-1-79-lakh-income-shown-in-itr/articleshow/133377720.cms",
       "date": "2026-08-21",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes penalty on Progfin, Shri Ram Finance Corporation for non-compliance",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-imposes-penalty-on-progfin-shri-ram-finance-corporation-for-non-compliance/articleshow/133408378.cms",
+      "date": "2026-08-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Punjab National Bank inks pact with Indian Army to offer curated credit cards to army personnel",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/punjab-national-bank-inks-pact-with-indian-army-to-offer-curated-credit-cards-to-army-personnel/articleshow/133398809.cms",
+      "date": "2026-08-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -36,22 +124,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Appointment of Shri Somanath Sreedhara Panicker as part-time, Non-official Director on the Central Board of Reserve Bank of India",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63412",
-      "date": "2026-08-20",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR93463984B9FD9024FECA92A07268AA8D857.PDF"
-    },
-    {
-      "title": "Re-appointment of Shri Anand Gopal Mahindra as part-time, Non-official Director on the Central Board of Reserve Bank of India",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63411",
-      "date": "2026-08-20",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9332458222FBDBE4BF399D9BEAF889BC0FB.PDF"
     },
     {
       "title": "NRI selling Indian assets? US, UK, UAE, Canada, Australia or Singapore - how your country of residence could decide the income tax bill",
@@ -177,78 +249,6 @@
       "title": "Sitharaman asks public sector banks to get ‘cool’ for Gen Z with courses, lifestyle perks",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sitharaman-asks-public-sector-banks-to-get-cool-for-gen-z-with-free-courses-vouchers/articleshow/133337154.cms",
       "date": "2026-08-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FM Sitharaman urges PSBs to be 'cool' for young customers; asks to launch month-long youth campaign",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fm-sitharaman-urges-psbs-to-be-cool-for-young-customers-asks-to-launch-month-long-youth-campaign/videoshow/133337033.cms",
-      "date": "2026-08-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Kotak Mahindra Bank joins peers in tapping dollar debt before RBI window shuts",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-joins-peers-in-tapping-dollar-debt-before-rbi-window-shuts/articleshow/133336555.cms",
-      "date": "2026-08-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Top 10 private banks cut over 10,000 jobs in FY26 as AI reshapes hiring",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/top-10-private-banks-cut-over-10000-jobs-in-fy26-as-ai-reshapes-hiring/articleshow/133330763.cms",
-      "date": "2026-08-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Income tax dept has identified suspicious entities that sent money abroad, launches verification drive; Know what to do",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-dept-has-identified-suspicious-entities-that-sent-money-abroad-launches-verification-drive-know-what-to-do/articleshow/133320400.cms",
-      "date": "2026-08-18",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Succession Planning: 8 key tax considerations you should take into account",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/succession-planning-8-key-tax-considerations-you-should-take-into-account/articleshow/133317945.cms",
-      "date": "2026-08-18",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI's error in depositing TDS cost landlord Rs 2.7 lakh in TDS credit; Landlord fights in ITAT Agra and wins the case",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/sbis-error-in-depositing-tds-cost-landlord-rs-2-7-lakh-in-tds-credit-landlord-fights-in-itat-agra-and-wins-the-case/articleshow/133316823.cms",
-      "date": "2026-08-18",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "NRI bought life insurance policy in Dubai from a foreign insurer, got maturity proceeds after returning to India, his claim for tax exemption was denied; he won the case in ITAT for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-bought-life-insurance-policy-in-dubai-from-a-foreign-insurer-got-maturity-proceeds-after-returning-to-india-his-claim-for-tax-exemption-was-denied-he-won-the-case-in-itat-for-this-reason/articleshow/133296218.cms",
-      "date": "2026-08-18",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "RRBs' gross loans rise 10.3 pc to Rs 5.78 lakh crore in FY26; PSL achievement at 91.7 pc",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rrbs-gross-loans-rise-10-3-pc-to-rs-5-78-lakh-crore-in-fy26-psl-achievement-at-91-7-pc/articleshow/133328259.cms",
-      "date": "2026-08-18",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Small-city aspirations power education loan demand",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/small-city-aspirations-power-education-loan-demand/articleshow/133324109.cms",
-      "date": "2026-08-18",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
