@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:37:41+00:00",
+  "generated_at": "2026-08-23T06:38:42+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,11 +14,35 @@
   ],
   "items": [
     {
+      "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63426",
+      "date": "2026-08-22",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9489A520D4E90F140C3BC3C6BD2E9C02C09.PDF"
+    },
+    {
       "title": "Freelancers filing ITR? Don't get these 5 things wrong: Form, expenses, 44ADA, foreign income, and more",
       "link": "https://economictimes.indiatimes.com/wealth/tax/freelancers-filing-itr-dont-get-these-5-things-wrong-form-expenses-44ada-foreign-income-and-more/articleshow/133415684.cms",
       "date": "2026-08-22",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Commercial vehicle loans post 20.1% five-year CAGR as used cars and auto premiumisation drive lending: report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/commercial-vehicle-loans-post-20-1-five-year-cagr-as-used-cars-and-auto-premiumisation-drive-lending-report/articleshow/133423329.cms",
+      "date": "2026-08-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India raises $72.8 billion via overseas deposits, loans, central bank says",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/india-secures-728-billion-in-overseas-borrowings-to-boost-economy/articleshow/133421298.cms",
+      "date": "2026-08-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -78,7 +102,7 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR941B21B94D39EE04D43BC3F8AF8714812D5.PDF"
     },
     {
-      "title": "Employee got Rs 30 lakh salary after job switch, forgot to file ITR, Income Tax dept imposed Rs 3.74 lakh penalty; he fought and won the case in ITAT Delhi",
+      "title": "Employee got Rs 30 lakh salary after job switch, did not file ITR, Income Tax dept imposed Rs 3.74 lakh penalty; he fought and won the case in ITAT Delhi",
       "link": "https://economictimes.indiatimes.com/wealth/tax/employee-got-rs-30-lakh-salary-after-job-switch-forgot-to-file-itr-income-tax-dept-imposed-rs-3-74-lakh-penalty-he-fought-and-won-the-case-in-itat-delhi/articleshow/133402463.cms",
       "date": "2026-08-21",
       "source": "Economic Times - Income Tax",
@@ -227,30 +251,6 @@
       "date": "2026-08-19",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Foreign Asset Disclosure Scheme 2026: From budget proposal to rollout - what residents and NRIs need to know",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-asset-disclosure-scheme-2026-from-budget-proposal-to-rollout-what-residents-and-nris-need-to-know/articleshow/133337767.cms",
-      "date": "2026-08-19",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Used car loans grew faster than auto loans in last five years despite higher stress: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/used-car-loans-grew-faster-than-auto-loans-in-last-five-years-despite-higher-stress-report/articleshow/133355169.cms",
-      "date": "2026-08-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Sitharaman asks public sector banks to get ‘cool’ for Gen Z with courses, lifestyle perks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sitharaman-asks-public-sector-banks-to-get-cool-for-gen-z-with-free-courses-vouchers/articleshow/133337154.cms",
-      "date": "2026-08-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
