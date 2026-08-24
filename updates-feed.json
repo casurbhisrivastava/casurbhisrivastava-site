@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:38:42+00:00",
+  "generated_at": "2026-08-24T06:55:19+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,62 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Missed reporting of overseas bank accounts, ESOPs, and foreign assets in Schedule FA of ITR? FAST-DS offers a chance to come clean",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-reporting-of-overseas-bank-accounts-esops-and-foreign-assets-in-schedule-fa-of-itr-fast-ds-offers-a-chance-to-come-clean/articleshow/133416916.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian banks are in their best shape in a decade: Motilal Oswal",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-are-in-their-best-shape-in-a-decade-motilal-oswal/articleshow/133453139.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank unions threaten nationwide strike on September 11 to press for 5-day banking, other demands",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-unions-threaten-nationwide-strike-on-september-11-to-press-for-5-day-banking-other-demands/articleshow/133451625.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian banks' asset quality outlook remains stable, West Asia impact limited: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-asset-quality-outlook-remains-stable-west-asia-impact-limited-report/articleshow/133450632.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Citigroup, Axis Bank team up to leverage NRI deposits as RBI dollar inflows surge",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/citigroup-axis-bank-team-up-to-leverage-nri-deposits-as-rbi-dollar-inflows-surge/articleshow/133449833.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Wave of mass market credit cards erodes foreign majors’ base",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/wave-of-mass-market-credit-cards-erodes-foreign-majors-base/articleshow/133445598.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Gold loan portfolio to surpass Rs 1.5 lakh crore by FY27-end: Indian Bank MD",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gold-loan-portfolio-to-surpass-rs-1-5-lakh-crore-by-fy27-end-indian-bank-md/articleshow/133436694.cms",
+      "date": "2026-08-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63426",
@@ -68,38 +124,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "RBI imposes monetary penalty on Shri Ram Finance Corporation Private Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63422",
-      "date": "2026-08-21",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9435A865465CEC44A95BFDCC6F0750D22C8.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Progfin Private Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63421",
-      "date": "2026-08-21",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR944719577F464BD44EAAC14711DCB9B2E3E.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63420",
-      "date": "2026-08-21",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR942FEFCB68F158841709637CA7104452C2A.PDF"
-    },
-    {
-      "title": "624 th Meeting of Central Board of the Reserve Bank of India",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63419",
-      "date": "2026-08-21",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR941B21B94D39EE04D43BC3F8AF8714812D5.PDF"
     },
     {
       "title": "Employee got Rs 30 lakh salary after job switch, did not file ITR, Income Tax dept imposed Rs 3.74 lakh penalty; he fought and won the case in ITAT Delhi",
@@ -227,30 +251,6 @@
       "date": "2026-08-20",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "No takers: Public sector banks put ₹39,000 cr of bad loans up for sale again",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-takers-public-sector-banks-put-39000-cr-of-bad-loans-up-for-sale-again/articleshow/133358198.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Offline utility of ITR-6 for AY 2026-27 is available now for filing.",
-      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
-      "date": "2026-08-20",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Man constructs a house before selling his old property and claims income tax exemption under Section 54; Income Tax Department sends notice; he wins case in ITAT Delhi",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/man-constructs-a-house-before-selling-his-old-property-and-claims-income-tax-exemption-under-section-54-income-tax-department-sends-notice-he-wins-case-in-itat-delhi/articleshow/133339708.cms",
-      "date": "2026-08-19",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
