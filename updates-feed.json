@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:55:19+00:00",
+  "generated_at": "2026-08-25T06:43:53+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,11 +14,115 @@
   ],
   "items": [
     {
+      "title": "UPI completes 10 years: PM Modi calls it a major turning point for India’s digital payments",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-completes-10-years-pm-modi-calls-it-a-major-turning-point-for-indias-digital-payments/articleshow/133490638.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Rising multiple vehicle loans, bigger ticket sizes raise risk for lenders",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rising-multiple-vehicle-loans-bigger-ticket-sizes-raise-lender-risk/articleshow/133477699.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks told to have stricter norms for eligibility of forensic auditors",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-told-to-have-stricter-norms-for-eligibility-of-forensic-auditors/articleshow/133477563.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "ET Graphics: UPI@10 - A miracle story",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/et-graphics-upi10-a-miracle-story/articleshow/133476121.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Appointment of Shri Janmejaya Kumar Sinha, Shri Syed Akbaruddin and Ms. Annie George Mathew as part-time, Non-official Directors on the Central Board of Reserve Bank of India",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63438",
+      "date": "2026-08-24",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9601E5B3320DFB341269004E09CF3908F7E.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Vikas Souharda Co-operative Bank Limited, Hosapete, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63435",
+      "date": "2026-08-24",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR95797FD2262305E47FE96E9D92CC4443CDC.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Pragathi Co-operative Bank Limited, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63434",
+      "date": "2026-08-24",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR956E9B3D30F00E0422691CFA7BE4BBE990D.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Shri Vijay Mahantesh Co-operative Bank Limited, Hungund, Karnataka",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63433",
+      "date": "2026-08-24",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9557A624FB79C6148A7B668E2B84F1E04E5.PDF"
+    },
+    {
+      "title": "Selling inherited property? Know who is liable to pay income tax on capital gains and how heirs can claim tax relief",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/selling-inherited-property-know-who-is-liable-to-pay-income-tax-on-capital-gains-and-how-heirs-can-claim-tax-relief/articleshow/133463503.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 5.31 lakh income tax refund denied as taxpayer did not claim it in the original ITR; he approaches ITAT Delhi and wins the case to get tax refund with interest",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-5-31-lakh-income-tax-refund-denied-as-taxpayer-did-not-claim-it-in-the-original-itr-he-approaches-itat-delhi-and-wins-the-case-to-get-tax-refund-with-interest/articleshow/133461891.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
       "title": "Missed reporting of overseas bank accounts, ESOPs, and foreign assets in Schedule FA of ITR? FAST-DS offers a chance to come clean",
       "link": "https://economictimes.indiatimes.com/wealth/tax/missed-reporting-of-overseas-bank-accounts-esops-and-foreign-assets-in-schedule-fa-of-itr-fast-ds-offers-a-chance-to-come-clean/articleshow/133416916.cms",
       "date": "2026-08-24",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Fino Payments Bank board extends tenure of interim CEO by another three months",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fino-payments-bank-board-extends-tenure-of-interim-ceo-by-another-three-months/articleshow/133470236.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "After $20 mn bet in fund, Japan's Resona Bank deepens ties with Tata Capital for India play",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/japans-resona-bank-invests-20-million-in-tata-capital-expanding-opportunities-in-indias-financial-market/articleshow/133465816.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI completes 10 years, clocks nearly 13,000-fold rise in transaction volume",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-completes-10-years-clocks-nearly-13000-fold-rise-in-transaction-volume/articleshow/133460561.cms",
+      "date": "2026-08-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -68,14 +172,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63426",
-      "date": "2026-08-22",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9489A520D4E90F140C3BC3C6BD2E9C02C09.PDF"
     },
     {
       "title": "Freelancers filing ITR? Don't get these 5 things wrong: Form, expenses, 44ADA, foreign income, and more",
@@ -153,102 +249,6 @@
       "title": "Punjab National Bank inks pact with Indian Army to offer curated credit cards to army personnel",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/punjab-national-bank-inks-pact-with-indian-army-to-offer-curated-credit-cards-to-army-personnel/articleshow/133398809.cms",
       "date": "2026-08-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India to give Canada's Fairfax two years to consolidate holdings for IDBI Bank deal: Sources",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-to-give-canadas-fairfax-two-years-to-consolidate-holdings-for-idbi-bank-deal-sources/articleshow/133394993.cms",
-      "date": "2026-08-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Ebix and NSDL Payments Bank cross one crore registrations Under MSRTC NCMC Programmes.",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ebix-and-nsdl-payments-bank-cross-one-crore-registrations-under-msrtc-ncmc-programmes-/articleshow/133394196.cms",
-      "date": "2026-08-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NRI selling Indian assets? US, UK, UAE, Canada, Australia or Singapore - how your country of residence could decide the income tax bill",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-selling-indian-assets-us-uk-uae-canada-australia-or-singapore-how-your-country-of-residence-could-decide-the-income-tax-bill/articleshow/133372417.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Unsuspecting landowner got income tax notice as his land was sold for Rs 6.82 crore cash by someone via forged sale deed; he fights back and wins tax case in ITAT Ahmedabad on this ground",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/unsuspecting-landowner-got-income-tax-notice-as-his-land-was-sold-for-rs-6-82-crore-cash-by-someone-via-forged-sale-deed-he-fights-back-and-wins-tax-case-in-itat-ahmedabad-on-this-ground/articleshow/133368119.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "8 income tax notices that salaried employees can get after filing ITR; know what they mean and how to respond",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/8-income-tax-notices-that-salaried-employees-can-get-after-filing-itr-know-what-they-mean-and-how-to-respond/articleshow/133365299.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rate reset clause in overseas loan pact helps Shriram Finance cut costs",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rate-reset-clause-in-overseas-loan-pact-helps-shriram-finance-cut-costs/articleshow/133385470.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Small Urban co-operative banks face risks bigger than their size due to cyber threats: RBI Dy Governor",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/small-urban-co-operative-banks-face-risks-bigger-than-their-size-due-to-cyber-threats-rbi-dy-governor/articleshow/133381947.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Aditya Birla Capital to enter gold loan market, target 1,000 branches",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/aditya-birla-capital-to-enter-gold-loan-market-target-1000-branches/articleshow/133379583.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bajaj Finance simplifies repayment planning with loan against property EMI Calculator",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bajaj-finance-simplifies-repayment-planning-with-loan-against-property-emi-calculator/articleshow/133377070.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "How to plan your bike purchase with a two-wheeler loan without stretching your monthly budget",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/how-to-plan-your-bike-purchase-with-a-two-wheeler-loan-without-stretching-your-monthly-budget/articleshow/133376714.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Aditya Birla Capital forays into gold loan business; shares rise 3%",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/aditya-birla-capital-enters-gold-loan-business-plans-to-open-1000-branches-in-3-years/articleshow/133363554.cms",
-      "date": "2026-08-20",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "LIC gets RBI nod to raise stake in HDFC Bank to nearly 10% from 4.11%",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lic-gets-rbi-nod-to-raise-stake-in-hdfc-bank-to-nearly-10-from-4-11/articleshow/133362845.cms",
-      "date": "2026-08-20",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
