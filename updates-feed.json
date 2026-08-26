@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:43:53+00:00",
+  "generated_at": "2026-08-26T06:46:10+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,198 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "NRI can’t sell Indian property before October 1, 2026 if buyer does not have TAN; Know how to apply for TAN online",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-cant-sell-indian-property-before-october-1-2026-if-buyer-does-not-have-tan-know-how-to-apply-for-tan-online/articleshow/133530979.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Is severance pay received under a VRS taxable for all employees? Know what the Income Tax law says",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/is-severance-pay-received-under-a-vrs-taxable-for-all-employees-know-what-the-income-tax-law-says/articleshow/133530452.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 2.25-crore notice under Black Money Act to Delhi couple over Singapore, British Virgin Islands assets: ITAT Delhi gave full relief to taxpayer, know why",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-2-25-crore-notice-under-black-money-act-to-delhi-couple-over-singapore-british-virgin-islands-assets-itat-delhi-gave-full-relief-to-taxpayer-know-why/articleshow/133530043.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks – Interest Rate on Deposits) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13690&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/248NT8DDD6A72A6C84370B94BB0E99F102933.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13689&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/247NTCB2A00D83FED47A7B3985F87DB378B9E.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13688&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/246NT3C0EEC17676B48EAA37FB6D88C6E2032.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13687&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2459761406F857D4303BBAA454C7C6A3FB4.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13686&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT244CC7547DD66A14E4485EB6DD3AEE296FA.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13685&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT243E6FCB6CC3F204053BD2E8F6FA1CE7A56.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13684&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT24235AB34A633E1462EB5A2C1CD01994663.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13683&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT241CA5C983B376F4739A778B6944149B88B.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13682&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT240C8CC7FD6F992477DBEA01132E3C44444.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13681&Mode=0",
+      "date": "2026-08-25",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT239B0CFAD26A5444D0D901B21618B2F6213.PDF"
+    },
+    {
+      "title": "Filing ITR4 by August 31 deadline? Check these 6 major changes if opting for presumptive taxation for AY 2026-27",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/filing-itr4-by-august-31-deadline-check-these-6-major-changes-if-opting-for-presumptive-taxation-for-ay-2026-27/articleshow/133505200.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Have undisclosed foreign assets or income? Know the extra tax cost if you miss FAST Scheme 2026's December 31 deadline",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/have-undisclosed-foreign-assets-or-income-know-the-extra-tax-cost-if-you-miss-fast-scheme-2026s-december-31-deadline/articleshow/133504012.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "August 31 ITR filing deadline: ITR-3 or ITR-4? Which form you should choose while filing your income tax return",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/august-31-itr-filing-deadline-itr-3-or-itr-4-which-form-you-should-choose-while-filing-your-income-tax-return/articleshow/133503368.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Carlisle Investors to approach PMO over alleged HDFC Bank mis-selling",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/carlisle-investors-to-approach-pmo-over-alleged-hdfc-bank-mis-selling/articleshow/133522317.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India adds 1.26 million credit cards in July as spending rises; HDFC, SBI lead the way",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-adds-1-26-million-credit-cards-in-july-as-spending-rises-hdfc-sbi-lead-the-way/articleshow/133522044.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Regional rural banks told to speed up tech adoption",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-told-to-speed-up-tech-adoption/articleshow/133520718.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "EAC moots consolidation to create a few large banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/eac-moots-consolidation-to-create-a-few-large-banks/articleshow/133520675.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Regional Rural Banks post all-time high net profit of Rs 10,176 crore in FY25-26; total business crosses Rs 13.5 lakh crore",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-post-all-time-high-net-profit-of-rs-10176-crore-in-fy25-26-total-business-crosses-rs-13-5-lakh-crore/articleshow/133517209.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI proposal to curb NBFCs' revolving credit may choke MSME funding, says industry body FISME",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-proposal-to-curb-nbfcs-revolving-credit-may-choke-msme-funding-says-industry-body-fisme/articleshow/133508929.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI transactions in value terms witnesses more than 4,000 fold jump over the decade",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-transactions-in-value-terms-witnesses-more-than-4000-fold-jump-over-the-decade/articleshow/133506508.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Axis Bank bets on data centres to gold loans to outpace industry credit growth",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-bets-on-data-centres-to-gold-loans-to-outpace-industry-credit-growth/articleshow/133498066.cms",
+      "date": "2026-08-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "UPI completes 10 years: PM Modi calls it a major turning point for India’s digital payments",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-completes-10-years-pm-modi-calls-it-a-major-turning-point-for-indias-digital-payments/articleshow/133490638.cms",
@@ -54,203 +246,11 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9601E5B3320DFB341269004E09CF3908F7E.PDF"
     },
     {
-      "title": "RBI imposes monetary penalty on Vikas Souharda Co-operative Bank Limited, Hosapete, Karnataka",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63435",
-      "date": "2026-08-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR95797FD2262305E47FE96E9D92CC4443CDC.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on The Pragathi Co-operative Bank Limited, Karnataka",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63434",
-      "date": "2026-08-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR956E9B3D30F00E0422691CFA7BE4BBE990D.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Shri Vijay Mahantesh Co-operative Bank Limited, Hungund, Karnataka",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63433",
-      "date": "2026-08-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9557A624FB79C6148A7B668E2B84F1E04E5.PDF"
-    },
-    {
       "title": "Selling inherited property? Know who is liable to pay income tax on capital gains and how heirs can claim tax relief",
       "link": "https://economictimes.indiatimes.com/wealth/tax/selling-inherited-property-know-who-is-liable-to-pay-income-tax-on-capital-gains-and-how-heirs-can-claim-tax-relief/articleshow/133463503.cms",
       "date": "2026-08-24",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 5.31 lakh income tax refund denied as taxpayer did not claim it in the original ITR; he approaches ITAT Delhi and wins the case to get tax refund with interest",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-5-31-lakh-income-tax-refund-denied-as-taxpayer-did-not-claim-it-in-the-original-itr-he-approaches-itat-delhi-and-wins-the-case-to-get-tax-refund-with-interest/articleshow/133461891.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Missed reporting of overseas bank accounts, ESOPs, and foreign assets in Schedule FA of ITR? FAST-DS offers a chance to come clean",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-reporting-of-overseas-bank-accounts-esops-and-foreign-assets-in-schedule-fa-of-itr-fast-ds-offers-a-chance-to-come-clean/articleshow/133416916.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Fino Payments Bank board extends tenure of interim CEO by another three months",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fino-payments-bank-board-extends-tenure-of-interim-ceo-by-another-three-months/articleshow/133470236.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "After $20 mn bet in fund, Japan's Resona Bank deepens ties with Tata Capital for India play",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/japans-resona-bank-invests-20-million-in-tata-capital-expanding-opportunities-in-indias-financial-market/articleshow/133465816.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI completes 10 years, clocks nearly 13,000-fold rise in transaction volume",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-completes-10-years-clocks-nearly-13000-fold-rise-in-transaction-volume/articleshow/133460561.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian banks are in their best shape in a decade: Motilal Oswal",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-are-in-their-best-shape-in-a-decade-motilal-oswal/articleshow/133453139.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank unions threaten nationwide strike on September 11 to press for 5-day banking, other demands",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-unions-threaten-nationwide-strike-on-september-11-to-press-for-5-day-banking-other-demands/articleshow/133451625.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian banks' asset quality outlook remains stable, West Asia impact limited: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-asset-quality-outlook-remains-stable-west-asia-impact-limited-report/articleshow/133450632.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Citigroup, Axis Bank team up to leverage NRI deposits as RBI dollar inflows surge",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/citigroup-axis-bank-team-up-to-leverage-nri-deposits-as-rbi-dollar-inflows-surge/articleshow/133449833.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Wave of mass market credit cards erodes foreign majors’ base",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/wave-of-mass-market-credit-cards-erodes-foreign-majors-base/articleshow/133445598.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Gold loan portfolio to surpass Rs 1.5 lakh crore by FY27-end: Indian Bank MD",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gold-loan-portfolio-to-surpass-rs-1-5-lakh-crore-by-fy27-end-indian-bank-md/articleshow/133436694.cms",
-      "date": "2026-08-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Freelancers filing ITR? Don't get these 5 things wrong: Form, expenses, 44ADA, foreign income, and more",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/freelancers-filing-itr-dont-get-these-5-things-wrong-form-expenses-44ada-foreign-income-and-more/articleshow/133415684.cms",
-      "date": "2026-08-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Commercial vehicle loans post 20.1% five-year CAGR as used cars and auto premiumisation drive lending: report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/commercial-vehicle-loans-post-20-1-five-year-cagr-as-used-cars-and-auto-premiumisation-drive-lending-report/articleshow/133423329.cms",
-      "date": "2026-08-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India raises $72.8 billion via overseas deposits, loans, central bank says",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/india-secures-728-billion-in-overseas-borrowings-to-boost-economy/articleshow/133421298.cms",
-      "date": "2026-08-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FCNR deposits emerge as banks’ new FY27 growth lever: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-deposits-emerge-as-banks-new-fy27-growth-lever-report/articleshow/133418320.cms",
-      "date": "2026-08-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NBFC growth outlook remains resilient; margin pressures, asset quality key monitorables: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfc-growth-outlook-remains-resilient-margin-pressures-asset-quality-key-monitorables-report/articleshow/133416479.cms",
-      "date": "2026-08-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks ride RBI swap wave to raise $12 billion via overseas debt",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-ride-rbi-swap-wave-to-raise-12-billion-via-overseas-debt/articleshow/133412046.cms",
-      "date": "2026-08-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Employee got Rs 30 lakh salary after job switch, did not file ITR, Income Tax dept imposed Rs 3.74 lakh penalty; he fought and won the case in ITAT Delhi",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/employee-got-rs-30-lakh-salary-after-job-switch-forgot-to-file-itr-income-tax-dept-imposed-rs-3-74-lakh-penalty-he-fought-and-won-the-case-in-itat-delhi/articleshow/133402463.cms",
-      "date": "2026-08-21",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Plant 500 trees and explain Rs 11.22 crore additional income: A rare direction from ITAT Chandigarh asks taxpayer with Rs 1.79 lakh income shown in ITR",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/plant-500-trees-and-explain-rs-11-22-crore-additional-income-a-rare-direction-from-itat-chandigarh-asks-taxpayer-with-rs-1-79-lakh-income-shown-in-itr/articleshow/133377720.cms",
-      "date": "2026-08-21",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI imposes penalty on Progfin, Shri Ram Finance Corporation for non-compliance",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-imposes-penalty-on-progfin-shri-ram-finance-corporation-for-non-compliance/articleshow/133408378.cms",
-      "date": "2026-08-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Punjab National Bank inks pact with Indian Army to offer curated credit cards to army personnel",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/punjab-national-bank-inks-pact-with-indian-army-to-offer-curated-credit-cards-to-army-personnel/articleshow/133398809.cms",
-      "date": "2026-08-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
