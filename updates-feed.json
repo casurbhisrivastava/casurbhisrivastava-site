@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:46:10+00:00",
+  "generated_at": "2026-08-27T17:21:16+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,70 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – The Citizens Co-operative Bank Ltd., Jammu",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63456",
+      "date": "2026-08-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR97872B1BBF26DD54E72BA2998F27B3FC2E7.PDF"
+    },
+    {
+      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Desaiganj Nagari Cooperative Bank Maryadit, Desaiganj",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63454",
+      "date": "2026-08-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR976F569BCA7BB244599B3D969735A7E7BE4.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Jalna District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63453",
+      "date": "2026-08-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR975FB5279F5AB5E4C79A0B3012296678C6F.PDF"
+    },
+    {
+      "title": "HDFC Bank mulls NCLAT appeal over Subhash Chandra insolvency order",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-mulls-nclat-appeal-over-subhash-chandra-insolvency-order/articleshow/133572647.cms",
+      "date": "2026-08-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India Ratings revises FY27 bank credit growth upward to 15%; provisioning for expected loss may hit profit",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-ratings-revises-fy27-bank-credit-growth-upward-to-15-provisioning-for-expected-loss-may-hit-profit/articleshow/133569617.cms",
+      "date": "2026-08-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Former Nomura banker Mangesh Ghogre joins BTIG",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/former-nomura-banker-mangesh-ghogre-joins-btig/articleshow/133567779.cms",
+      "date": "2026-08-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Shifting Gears: PSBs borrow more to cater to credit demand as deposits lag",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shifting-gears-psbs-borrow-more-to-cater-to-credit-demand-as-deposits-lag/articleshow/133549912.cms",
+      "date": "2026-08-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Tax notice in a deceased person's name? Don't ignore it; here's what legal heirs should do",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/tax-notice-in-a-deceased-persons-name-dont-ignore-it-heres-what-legal-heirs-should-do/articleshow/133538376.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
     {
       "title": "NRI can’t sell Indian property before October 1, 2026 if buyer does not have TAN; Know how to apply for TAN online",
       "link": "https://economictimes.indiatimes.com/wealth/tax/nri-cant-sell-indian-property-before-october-1-2026-if-buyer-does-not-have-tan-know-how-to-apply-for-tan-online/articleshow/133530979.cms",
@@ -35,6 +99,38 @@
       "date": "2026-08-26",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "How can fixed deposits help manage short-term and long-term financial goals?",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/how-can-fixed-deposits-help-manage-short-term-and-long-term-financial-goals/articleshow/133539312.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "EAC-PM paper suggests consolidation of banks of equal size without compromising market competition",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/eac-pm-proposes-strategic-consolidation-of-indian-banks-to-boost-competition-and-credit-capacity/articleshow/133536825.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India has fixed its PSU banks. Now comes the more ambitious part",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-bank-mergers-big-bank-consolidation-india-has-fixed-its-psu-state-run-banks-now-comes-the-more-ambitious-part-for-lenders/articleshow/133536596.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Home loan portfolio set to cross Rs 10 lakh cr milestone this quarter: SBI Chairman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/home-loan-portfolio-set-to-cross-rs-10-lakh-cr-milestone-this-quarter-sbi-chairman/articleshow/133537318.cms",
+      "date": "2026-08-26",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -155,102 +251,6 @@
       "date": "2026-08-25",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Regional rural banks told to speed up tech adoption",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-told-to-speed-up-tech-adoption/articleshow/133520718.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "EAC moots consolidation to create a few large banks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/eac-moots-consolidation-to-create-a-few-large-banks/articleshow/133520675.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Regional Rural Banks post all-time high net profit of Rs 10,176 crore in FY25-26; total business crosses Rs 13.5 lakh crore",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/regional-rural-banks-post-all-time-high-net-profit-of-rs-10176-crore-in-fy25-26-total-business-crosses-rs-13-5-lakh-crore/articleshow/133517209.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI proposal to curb NBFCs' revolving credit may choke MSME funding, says industry body FISME",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-proposal-to-curb-nbfcs-revolving-credit-may-choke-msme-funding-says-industry-body-fisme/articleshow/133508929.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI transactions in value terms witnesses more than 4,000 fold jump over the decade",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-transactions-in-value-terms-witnesses-more-than-4000-fold-jump-over-the-decade/articleshow/133506508.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Axis Bank bets on data centres to gold loans to outpace industry credit growth",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-bets-on-data-centres-to-gold-loans-to-outpace-industry-credit-growth/articleshow/133498066.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI completes 10 years: PM Modi calls it a major turning point for India’s digital payments",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-completes-10-years-pm-modi-calls-it-a-major-turning-point-for-indias-digital-payments/articleshow/133490638.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Rising multiple vehicle loans, bigger ticket sizes raise risk for lenders",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rising-multiple-vehicle-loans-bigger-ticket-sizes-raise-lender-risk/articleshow/133477699.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks told to have stricter norms for eligibility of forensic auditors",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-told-to-have-stricter-norms-for-eligibility-of-forensic-auditors/articleshow/133477563.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "ET Graphics: UPI@10 - A miracle story",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/et-graphics-upi10-a-miracle-story/articleshow/133476121.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Appointment of Shri Janmejaya Kumar Sinha, Shri Syed Akbaruddin and Ms. Annie George Mathew as part-time, Non-official Directors on the Central Board of Reserve Bank of India",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63438",
-      "date": "2026-08-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR9601E5B3320DFB341269004E09CF3908F7E.PDF"
-    },
-    {
-      "title": "Selling inherited property? Know who is liable to pay income tax on capital gains and how heirs can claim tax relief",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/selling-inherited-property-know-who-is-liable-to-pay-income-tax-on-capital-gains-and-how-heirs-can-claim-tax-relief/articleshow/133463503.cms",
-      "date": "2026-08-24",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
