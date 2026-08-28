@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T17:21:16+00:00",
+  "generated_at": "2026-08-28T18:13:42+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,28 +14,124 @@
   ],
   "items": [
     {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – The Citizens Co-operative Bank Ltd., Jammu",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63456",
-      "date": "2026-08-27",
+      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Ashok Sahakari Bank Ltd., Ahmednagar",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63466",
+      "date": "2026-08-28",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR97872B1BBF26DD54E72BA2998F27B3FC2E7.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR988DCE4E906F53C4F8DAB20C979D2E99FE6.PDF"
     },
     {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Desaiganj Nagari Cooperative Bank Maryadit, Desaiganj",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63454",
-      "date": "2026-08-27",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63463",
+      "date": "2026-08-28",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR976F569BCA7BB244599B3D969735A7E7BE4.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR984WSS8815B0AD0662496FA81A256C5DD87F86.PDF"
     },
     {
-      "title": "RBI imposes monetary penalty on Jalna District Central Co-operative Bank Ltd., Maharashtra",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63453",
-      "date": "2026-08-27",
-      "source": "RBI Press Release",
+      "title": "Man receives $3.14 lakh from redemption of Bermuda-focused fund; Income Tax Dept considers it black money, imposes Rs 1.8 crore penalty and tax, but he wins case in ITAT Delhi",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/man-receives-3-14-lakh-from-redemption-of-bermuda-focused-fund-income-tax-dept-considers-it-black-money-imposes-rs-1-8-crore-penalty-and-tax-but-he-wins-case-in-itat-delhi/articleshow/133589885.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Retiring early? Know how much tax exemption can employees claim for VRS",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/retiring-early-know-how-much-tax-exemption-can-employees-claim-for-vrs/articleshow/133583449.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "DHFL case: ED freezes bank deposits worth Rs 51.75 crore",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/dhfl-case-ed-freezes-bank-deposits-worth-rs-51-75-crore/articleshow/133594468.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR975FB5279F5AB5E4C79A0B3012296678C6F.PDF"
+      "pdf_link": null
+    },
+    {
+      "title": "Bank credit, deposits decline in fortnight ended August 15: RBI data",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-deposits-decline-in-fortnight-ended-august-15-rbi-data/articleshow/133591809.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian Bank’s ₹1,500 crore treasury bet comes with a gold push: CEO Binod Kumar",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-1500-crore-treasury-bet-comes-with-a-gold-push-ceo-binod-kumar/articleshow/133587602.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "NBFCs enter new cyclical recovery, PAT seen rising 24% in FY27: Motilal Oswal",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-projected-for-24-pat-growth-in-fy27-amid-new-recovery-cycle-says-motilal-oswal/articleshow/133585614.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Barclays targets India’s billionaires as private banking competition intensifies",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/barclays-targets-indias-billionaires-as-private-banking-competition-intensifies/articleshow/133581208.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI sees corporate loan pipeline at Rs 5 lakh crore: CS Setty, SBI, Chairman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-sees-corporate-loan-pipeline-at-rs-5-lakh-crore-cs-setty-sbi-chairman/articleshow/133577594.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank, LIC Housing Finance to contest Zee resolution",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-lic-housing-finance-to-contest-zee-resolution/articleshow/133577462.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks, companies better positioned to weather next downturn: CS Setty, SBI, Chairman",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-companies-better-positioned-to-weather-next-downturn-cs-setty-sbi-chairman/articleshow/133577665.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank's CEO call gains urgency as Sashidhar Jagdishan's term nears end",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-banks-ceo-call-gains-urgency-as-sashidhar-jagdishans-term-nears-end/articleshow/133577532.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks, FIU-IND work on sharper framework to flag money mule accounts",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-fiu-ind-work-on-sharper-framework-to-flag-money-mule-accounts/articleshow/133576784.cms",
+      "date": "2026-08-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank staff help prevent Rs 1.12-crore 'digital arrest' fraud",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-staff-help-prevent-rs-1-12-crore-digital-arrest-fraud/articleshow/133575106.cms",
+      "date": "2026-08-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "HDFC Bank mulls NCLAT appeal over Subhash Chandra insolvency order",
@@ -156,102 +252,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/246NT3C0EEC17676B48EAA37FB6D88C6E2032.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13687&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2459761406F857D4303BBAA454C7C6A3FB4.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13686&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT244CC7547DD66A14E4485EB6DD3AEE296FA.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13685&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT243E6FCB6CC3F204053BD2E8F6FA1CE7A56.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Rural Co-operative Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13684&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT24235AB34A633E1462EB5A2C1CD01994663.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Urban Co-operative Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13683&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT241CA5C983B376F4739A778B6944149B88B.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Regional Rural Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13682&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT240C8CC7FD6F992477DBEA01132E3C44444.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13681&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT239B0CFAD26A5444D0D901B21618B2F6213.PDF"
-    },
-    {
-      "title": "Filing ITR4 by August 31 deadline? Check these 6 major changes if opting for presumptive taxation for AY 2026-27",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/filing-itr4-by-august-31-deadline-check-these-6-major-changes-if-opting-for-presumptive-taxation-for-ay-2026-27/articleshow/133505200.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Have undisclosed foreign assets or income? Know the extra tax cost if you miss FAST Scheme 2026's December 31 deadline",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/have-undisclosed-foreign-assets-or-income-know-the-extra-tax-cost-if-you-miss-fast-scheme-2026s-december-31-deadline/articleshow/133504012.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "August 31 ITR filing deadline: ITR-3 or ITR-4? Which form you should choose while filing your income tax return",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/august-31-itr-filing-deadline-itr-3-or-itr-4-which-form-you-should-choose-while-filing-your-income-tax-return/articleshow/133503368.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Carlisle Investors to approach PMO over alleged HDFC Bank mis-selling",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/carlisle-investors-to-approach-pmo-over-alleged-hdfc-bank-mis-selling/articleshow/133522317.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India adds 1.26 million credit cards in July as spending rises; HDFC, SBI lead the way",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-adds-1-26-million-credit-cards-in-july-as-spending-rises-hdfc-sbi-lead-the-way/articleshow/133522044.cms",
-      "date": "2026-08-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
     }
   ]
 }
