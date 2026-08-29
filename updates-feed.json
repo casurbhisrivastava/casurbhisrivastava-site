@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:13:42+00:00",
+  "generated_at": "2026-08-29T12:19:27+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,30 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Who needs to file ITR by August 31, 2026 for AY 2026-2027? Check what happens if ITR filing deadline is missed",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/who-needs-to-file-itr-by-august-31-2026-for-ay-2026-2027-know-what-happens-if-itr-filing-deadline-is-missed/articleshow/133604814.cms",
+      "date": "2026-08-29",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "GST Council's 57th meeting to be held on September 12, officers' meeting on September 11",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gst-councils-57th-meeting-to-be-held-on-september-12-officers-meeting-on-september-11/articleshow/133609785.cms",
+      "date": "2026-08-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bankers question role of RP in the Subhash Chandra case and how net worth was computed",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bankers-question-role-of-rp-in-the-subhash-chandra-case-and-how-net-worth-was-computed/articleshow/133599627.cms",
+      "date": "2026-08-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Ashok Sahakari Bank Ltd., Ahmednagar",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63466",
@@ -228,30 +252,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India (Rural Co-operative Banks – Interest Rate on Deposits) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13690&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/248NT8DDD6A72A6C84370B94BB0E99F102933.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Urban Co-operative Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13689&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/247NTCB2A00D83FED47A7B3985F87DB378B9E.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Regional Rural Banks – Interest Rate on Deposits) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13688&Mode=0",
-      "date": "2026-08-25",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/246NT3C0EEC17676B48EAA37FB6D88C6E2032.PDF"
     }
   ]
 }
