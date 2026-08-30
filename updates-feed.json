@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:19:27+00:00",
+  "generated_at": "2026-08-30T11:18:34+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,11 +14,59 @@
   ],
   "items": [
     {
+      "title": "Indian Bank to add 100 branches, hire 2,500 as expansion shifts west",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-to-add-100-branches-hire-2500-as-expansion-shifts-west/articleshow/133626487.cms",
+      "date": "2026-08-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank weighing deputy MD Bharucha, outsider for CEO: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-hdfc-bank-weighing-deputy-md-bharucha-outsider-for-ceo-report/articleshow/133625692.cms",
+      "date": "2026-08-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank CEO search tests governance & investor confidence",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-search-tests-investor-confidence-governance-sashidhar-jagdishan-retirement-hdfc-share-price/articleshow/133624769.cms",
+      "date": "2026-08-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank CEO Sashidhar Jagdishan to step down in October",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-sashidhar-jagdishan-to-step-down-in-october/articleshow/133618697.cms",
+      "date": "2026-08-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "Who needs to file ITR by August 31, 2026 for AY 2026-2027? Check what happens if ITR filing deadline is missed",
       "link": "https://economictimes.indiatimes.com/wealth/tax/who-needs-to-file-itr-by-august-31-2026-for-ay-2026-2027-know-what-happens-if-itr-filing-deadline-is-missed/articleshow/133604814.cms",
       "date": "2026-08-29",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank CEO Sashidhar Jagdishan set to retire: Finance manager 'Sashi' who rose to corner office",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-news-who-is-sashidhar-jagdishan-set-to-retire-sashi-rose-from-finance-manager-to-corner-office-share-price/articleshow/133613267.cms",
+      "date": "2026-08-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank CEO Sashidhar Jagdishan to retire in October, will not seek reappointment",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-sashidhar-jagdishan-to-retire-in-october-will-not-seek-reappointment/articleshow/133612014.cms",
+      "date": "2026-08-29",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -203,54 +251,6 @@
       "date": "2026-08-26",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Is severance pay received under a VRS taxable for all employees? Know what the Income Tax law says",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/is-severance-pay-received-under-a-vrs-taxable-for-all-employees-know-what-the-income-tax-law-says/articleshow/133530452.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 2.25-crore notice under Black Money Act to Delhi couple over Singapore, British Virgin Islands assets: ITAT Delhi gave full relief to taxpayer, know why",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-2-25-crore-notice-under-black-money-act-to-delhi-couple-over-singapore-british-virgin-islands-assets-itat-delhi-gave-full-relief-to-taxpayer-know-why/articleshow/133530043.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "How can fixed deposits help manage short-term and long-term financial goals?",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/how-can-fixed-deposits-help-manage-short-term-and-long-term-financial-goals/articleshow/133539312.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "EAC-PM paper suggests consolidation of banks of equal size without compromising market competition",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/eac-pm-proposes-strategic-consolidation-of-indian-banks-to-boost-competition-and-credit-capacity/articleshow/133536825.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India has fixed its PSU banks. Now comes the more ambitious part",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-bank-mergers-big-bank-consolidation-india-has-fixed-its-psu-state-run-banks-now-comes-the-more-ambitious-part-for-lenders/articleshow/133536596.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Home loan portfolio set to cross Rs 10 lakh cr milestone this quarter: SBI Chairman",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/home-loan-portfolio-set-to-cross-rs-10-lakh-cr-milestone-this-quarter-sbi-chairman/articleshow/133537318.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
