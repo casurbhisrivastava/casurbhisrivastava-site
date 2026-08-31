@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:18:34+00:00",
+  "generated_at": "2026-08-31T12:45:58+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,142 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI imposes monetary penalty on Jai Bhawani Sahakari Bank Ltd., Pune",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63483",
+      "date": "2026-08-31",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1005B5763C70F4D44BBBB617B4B9369303EF.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on The Mumbai District Central Co-operative Bank Ltd., Maharashtra",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63482",
+      "date": "2026-08-31",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR10043D90711142EB4DFAAECCC111F959F5E8.PDF"
+    },
+    {
+      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – August 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63481",
+      "date": "2026-08-31",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR100370B69C95CDC94E83BAC20A12BC344BBE.PDF"
+    },
+    {
+      "title": "Quarterly Basic Statistical Return (BSR)-1 on Credit by Scheduled Commercial Banks – June 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63477",
+      "date": "2026-08-31",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1000BSR189DAC1C029444B3EB817418431898E96.PDF"
+    },
+    {
+      "title": "Quarterly Basic Statistical Return (BSR)-2 on Deposits with Scheduled Commercial Banks - June 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63476",
+      "date": "2026-08-31",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR10016332E3B6C2E544B7819665529F3499D6.PDF"
+    },
+    {
+      "title": "ITR filing August 31, 2026, deadline today: Due date for AY 2026-27; Check who must file return",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-august-31-2026-deadline-today-due-date-for-ay-2026-27-check-who-must-file-return/articleshow/133653071.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Filing ITR-3 for AY 2026-2027? Here’s 7 aspects to look out for before filing it",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/filing-itr-3-for-ay-2026-2027-heres-7-aspects-to-look-out-for-before-filing-it/articleshow/133651013.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 16 lakh cash seized in income tax raid, tax officer calls it unexplained cash; Taxpayer claims it to be family money, he fights and wins the case in ITAT Mumbai",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-16-lakh-cash-seized-in-income-tax-raid-tax-officer-calls-it-unexplained-cash-taxpayer-claims-it-to-be-family-money-he-fights-and-wins-the-case-in-itat-mumbai/articleshow/133647793.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "F&O tax rules: How derivatives traders should report profits, losses and expenses",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/fo-tax-rules-how-derivatives-traders-should-report-profits-losses-and-expenses/articleshow/133603762.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Finance Act 2026: Updated return rules change for taxpayers reporting reduced losses",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/finance-act-2026-updated-return-rules-change-for-taxpayers-reporting-reduced-losses/articleshow/133596062.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Kotak Mahindra Bank recommends two internal candidates for CEO, sources say",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-bank-recommends-two-internal-candidates-for-ceo-sources-say/articleshow/133652243.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank CEO exit: Orderly succession key to investor confidence, says Moody’s",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-exit-orderly-succession-key-to-investor-confidence-says-moodys/articleshow/133651177.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "No smartphone, no internet, no problem: PhonePe launches UPI 123Pay to let 200 million+ feature phone users make digital payments; here’s how it works",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/phonepe-upi-123pay-no-smartphone-no-internet-no-problem-phonepe-launches-upi-123pay-to-let-200-million-feature-phone-users-make-digital-payments-heres-how-it-works/articleshow/133649534.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "How much of your salary should go towards your home loan EMI?",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/how-much-of-your-salary-should-go-towards-your-home-loan-emi/articleshow/133644194.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank’s next CEO faces growth and margin test",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-banks-next-ceo-faces-growth-and-margin-test-sashidhar-jagdishan-aditya-puri-hdfc-share-price-today-kaizad-bharucha/articleshow/133635502.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank eyes revival after peer outperformance",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-eyes-revival-after-peer-outperformance-sashidhar-jagdishan-sbi-icici-bank/articleshow/133636309.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks look to push prudent borrowing for small loan-takers",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-look-to-push-prudent-borrowing-for-small-loan-takers/articleshow/133634052.cms",
+      "date": "2026-08-30",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Indian Bank to add 100 branches, hire 2,500 as expansion shifts west",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-to-add-100-branches-hire-2500-as-expansion-shifts-west/articleshow/133626487.cms",
@@ -86,22 +222,6 @@
       "pdf_link": null
     },
     {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Ashok Sahakari Bank Ltd., Ahmednagar",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63466",
-      "date": "2026-08-28",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR988DCE4E906F53C4F8DAB20C979D2E99FE6.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63463",
-      "date": "2026-08-28",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR984WSS8815B0AD0662496FA81A256C5DD87F86.PDF"
-    },
-    {
       "title": "Man receives $3.14 lakh from redemption of Bermuda-focused fund; Income Tax Dept considers it black money, imposes Rs 1.8 crore penalty and tax, but he wins case in ITAT Delhi",
       "link": "https://economictimes.indiatimes.com/wealth/tax/man-receives-3-14-lakh-from-redemption-of-bermuda-focused-fund-income-tax-dept-considers-it-black-money-imposes-rs-1-8-crore-penalty-and-tax-but-he-wins-case-in-itat-delhi/articleshow/133589885.cms",
       "date": "2026-08-28",
@@ -131,126 +251,6 @@
       "date": "2026-08-28",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian Bank’s ₹1,500 crore treasury bet comes with a gold push: CEO Binod Kumar",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-1500-crore-treasury-bet-comes-with-a-gold-push-ceo-binod-kumar/articleshow/133587602.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NBFCs enter new cyclical recovery, PAT seen rising 24% in FY27: Motilal Oswal",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/nbfcs-projected-for-24-pat-growth-in-fy27-amid-new-recovery-cycle-says-motilal-oswal/articleshow/133585614.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Barclays targets India’s billionaires as private banking competition intensifies",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/barclays-targets-indias-billionaires-as-private-banking-competition-intensifies/articleshow/133581208.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI sees corporate loan pipeline at Rs 5 lakh crore: CS Setty, SBI, Chairman",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-sees-corporate-loan-pipeline-at-rs-5-lakh-crore-cs-setty-sbi-chairman/articleshow/133577594.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank, LIC Housing Finance to contest Zee resolution",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-lic-housing-finance-to-contest-zee-resolution/articleshow/133577462.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks, companies better positioned to weather next downturn: CS Setty, SBI, Chairman",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-companies-better-positioned-to-weather-next-downturn-cs-setty-sbi-chairman/articleshow/133577665.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank's CEO call gains urgency as Sashidhar Jagdishan's term nears end",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-banks-ceo-call-gains-urgency-as-sashidhar-jagdishans-term-nears-end/articleshow/133577532.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks, FIU-IND work on sharper framework to flag money mule accounts",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-fiu-ind-work-on-sharper-framework-to-flag-money-mule-accounts/articleshow/133576784.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank staff help prevent Rs 1.12-crore 'digital arrest' fraud",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-staff-help-prevent-rs-1-12-crore-digital-arrest-fraud/articleshow/133575106.cms",
-      "date": "2026-08-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank mulls NCLAT appeal over Subhash Chandra insolvency order",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-mulls-nclat-appeal-over-subhash-chandra-insolvency-order/articleshow/133572647.cms",
-      "date": "2026-08-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India Ratings revises FY27 bank credit growth upward to 15%; provisioning for expected loss may hit profit",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-ratings-revises-fy27-bank-credit-growth-upward-to-15-provisioning-for-expected-loss-may-hit-profit/articleshow/133569617.cms",
-      "date": "2026-08-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Former Nomura banker Mangesh Ghogre joins BTIG",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/former-nomura-banker-mangesh-ghogre-joins-btig/articleshow/133567779.cms",
-      "date": "2026-08-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Shifting Gears: PSBs borrow more to cater to credit demand as deposits lag",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shifting-gears-psbs-borrow-more-to-cater-to-credit-demand-as-deposits-lag/articleshow/133549912.cms",
-      "date": "2026-08-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Tax notice in a deceased person's name? Don't ignore it; here's what legal heirs should do",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/tax-notice-in-a-deceased-persons-name-dont-ignore-it-heres-what-legal-heirs-should-do/articleshow/133538376.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "NRI can’t sell Indian property before October 1, 2026 if buyer does not have TAN; Know how to apply for TAN online",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-cant-sell-indian-property-before-october-1-2026-if-buyer-does-not-have-tan-know-how-to-apply-for-tan-online/articleshow/133530979.cms",
-      "date": "2026-08-26",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
