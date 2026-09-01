@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:45:58+00:00",
+  "generated_at": "2026-09-01T11:08:41+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,94 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Missed August 31 ITR deadline? Know what ITR 3 and ITR 4 filers can do now",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-august-31-2026-itr-deadline-know-what-itr-3-itr-4-income-tax-return-filers-can-do-now/articleshow/133675536.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Can NRIs gift money to an HUF and save tax? Check these income clubbing and tax rules before transferring funds",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/can-nris-gift-money-to-an-huf-and-save-tax-check-these-income-clubbing-and-tax-rules-before-transferring-funds/articleshow/133673805.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Wife gets income tax notice after husband sells joint property Rs 14 lakh below market price; she fights back and wins the case in ITAT Kolkata",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/wife-gets-income-tax-notice-after-husband-sells-joint-property-rs-14-lakh-below-market-price-she-fights-back-and-wins-the-case-in-itat-kolkata/articleshow/133654081.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank unions announce strikes on September 11 over unresolved issues",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-unions-announce-strikes-on-sept-11-over-unresolved-issues/articleshow/133675986.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank CEO Jagdishan’s refusal to overhaul bank fueled surprise exit as chairman pushed for changes",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-jagdishans-refusal-to-overhaul-bank-fueled-surprise-exit-as-chairman-pushed-for-changes/articleshow/133674606.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Festive surge drives UPI near record ₹29.8 lakh crore milestone across 24.5 billion transactions",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/festive-surge-drives-upi-near-record-29-8-lakh-crore-milestone-across-24-5-billion-transactions/articleshow/133671713.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank next CEO: Check bankers in the running for top job",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bankers-in-running-for-ceo-job-at-hdfc-bank-kaizad-bharucha-dinesh-khara-sbi/articleshow/133668896.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Rajesh Exports repays ₹510 crore dues to Canara Bank after DRT order",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rajesh-exports-repays-510-crore-dues-to-canara-bank-after-drt-order/articleshow/133662689.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "New trade rules raise compliance worries for banks over cross-border payments",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/new-trade-rules-raise-compliance-worries-for-banks-over-cross-border-payments/articleshow/133662591.cms",
+      "date": "2026-09-01",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of August, 2026",
+      "link": "https://www.gst.gov.in//www.gst.gov.in/newsandupdates/read/670",
+      "date": "2026-09-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "CBDT has issued Notification No. 114/2026 [F. No. 370142/18/2026-TPL], notifying the rules and prescribed forms under the Foreign Assets of Small Taxpayers Disclosure Scheme, 2026.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
+      "date": "2026-09-01",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
     {
       "title": "RBI imposes monetary penalty on Jai Bhawani Sahakari Bank Ltd., Pune",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63483",
@@ -28,30 +116,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR10043D90711142EB4DFAAECCC111F959F5E8.PDF"
-    },
-    {
-      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – August 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63481",
-      "date": "2026-08-31",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR100370B69C95CDC94E83BAC20A12BC344BBE.PDF"
-    },
-    {
-      "title": "Quarterly Basic Statistical Return (BSR)-1 on Credit by Scheduled Commercial Banks – June 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63477",
-      "date": "2026-08-31",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1000BSR189DAC1C029444B3EB817418431898E96.PDF"
-    },
-    {
-      "title": "Quarterly Basic Statistical Return (BSR)-2 on Deposits with Scheduled Commercial Banks - June 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63476",
-      "date": "2026-08-31",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR10016332E3B6C2E544B7819665529F3499D6.PDF"
     },
     {
       "title": "ITR filing August 31, 2026, deadline today: Due date for AY 2026-27; Check who must file return",
@@ -94,6 +158,62 @@
       "pdf_link": null
     },
     {
+      "title": "People aged above 40 account for 76 pc of individual deposits in banks: RBI data",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/people-aged-above-40-account-for-76-pc-of-individual-deposits-in-banks-rbi-data/articleshow/133661097.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank CEO race: Who could be in the running to succeed Sashidhar Jagdishan?",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-race-who-could-be-in-the-running-to-succeed-sashidhar-jagdishan-successor/articleshow/133660068.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank credit to industry rises 20 percent in July: RBI data",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-to-industry-rises-20-percent-in-july-rbi-data/articleshow/133658517.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Pace of gold loan expansion slows as banks adjust to new regulations",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pace-of-gold-loan-expansion-slows-as-banks-adjust-to-new-regulations/articleshow/133657239.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Muthoot Finance approves Muthoot Money merger to create larger gold loan business",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/muthoot-finance-approves-muthoot-money-merger-to-create-larger-gold-loan-business/articleshow/133655717.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Subhash Chandra's dissenting lenders Canara Bank, Union Bank move NCLAT against NCLT order",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/subhash-chandras-dissenting-lenders-canara-bank-union-bank-move-nclat-against-nclt-order/articleshow/133655304.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banking system surplus liquidity reaches Rs 5 lakh crore, highest in over four months",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banking-system-surplus-liquidity-reaches-rs-5-lakh-crore-highest-in-over-four-months/articleshow/133654483.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "Kotak Mahindra Bank recommends two internal candidates for CEO, sources say",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-bank-recommends-two-internal-candidates-for-ceo-sources-say/articleshow/133652243.cms",
       "date": "2026-08-31",
@@ -129,126 +249,6 @@
       "title": "HDFC Bank’s next CEO faces growth and margin test",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-banks-next-ceo-faces-growth-and-margin-test-sashidhar-jagdishan-aditya-puri-hdfc-share-price-today-kaizad-bharucha/articleshow/133635502.cms",
       "date": "2026-08-31",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank eyes revival after peer outperformance",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-eyes-revival-after-peer-outperformance-sashidhar-jagdishan-sbi-icici-bank/articleshow/133636309.cms",
-      "date": "2026-08-31",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks look to push prudent borrowing for small loan-takers",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-look-to-push-prudent-borrowing-for-small-loan-takers/articleshow/133634052.cms",
-      "date": "2026-08-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian Bank to add 100 branches, hire 2,500 as expansion shifts west",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-to-add-100-branches-hire-2500-as-expansion-shifts-west/articleshow/133626487.cms",
-      "date": "2026-08-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank weighing deputy MD Bharucha, outsider for CEO: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-hdfc-bank-weighing-deputy-md-bharucha-outsider-for-ceo-report/articleshow/133625692.cms",
-      "date": "2026-08-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank CEO search tests governance & investor confidence",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-search-tests-investor-confidence-governance-sashidhar-jagdishan-retirement-hdfc-share-price/articleshow/133624769.cms",
-      "date": "2026-08-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank CEO Sashidhar Jagdishan to step down in October",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-sashidhar-jagdishan-to-step-down-in-october/articleshow/133618697.cms",
-      "date": "2026-08-30",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Who needs to file ITR by August 31, 2026 for AY 2026-2027? Check what happens if ITR filing deadline is missed",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/who-needs-to-file-itr-by-august-31-2026-for-ay-2026-2027-know-what-happens-if-itr-filing-deadline-is-missed/articleshow/133604814.cms",
-      "date": "2026-08-29",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank CEO Sashidhar Jagdishan set to retire: Finance manager 'Sashi' who rose to corner office",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-news-who-is-sashidhar-jagdishan-set-to-retire-sashi-rose-from-finance-manager-to-corner-office-share-price/articleshow/133613267.cms",
-      "date": "2026-08-29",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank CEO Sashidhar Jagdishan to retire in October, will not seek reappointment",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-sashidhar-jagdishan-to-retire-in-october-will-not-seek-reappointment/articleshow/133612014.cms",
-      "date": "2026-08-29",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "GST Council's 57th meeting to be held on September 12, officers' meeting on September 11",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gst-councils-57th-meeting-to-be-held-on-september-12-officers-meeting-on-september-11/articleshow/133609785.cms",
-      "date": "2026-08-29",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bankers question role of RP in the Subhash Chandra case and how net worth was computed",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bankers-question-role-of-rp-in-the-subhash-chandra-case-and-how-net-worth-was-computed/articleshow/133599627.cms",
-      "date": "2026-08-29",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Man receives $3.14 lakh from redemption of Bermuda-focused fund; Income Tax Dept considers it black money, imposes Rs 1.8 crore penalty and tax, but he wins case in ITAT Delhi",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/man-receives-3-14-lakh-from-redemption-of-bermuda-focused-fund-income-tax-dept-considers-it-black-money-imposes-rs-1-8-crore-penalty-and-tax-but-he-wins-case-in-itat-delhi/articleshow/133589885.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Retiring early? Know how much tax exemption can employees claim for VRS",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/retiring-early-know-how-much-tax-exemption-can-employees-claim-for-vrs/articleshow/133583449.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "DHFL case: ED freezes bank deposits worth Rs 51.75 crore",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/dhfl-case-ed-freezes-bank-deposits-worth-rs-51-75-crore/articleshow/133594468.cms",
-      "date": "2026-08-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank credit, deposits decline in fortnight ended August 15: RBI data",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-deposits-decline-in-fortnight-ended-august-15-rbi-data/articleshow/133591809.cms",
-      "date": "2026-08-28",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
