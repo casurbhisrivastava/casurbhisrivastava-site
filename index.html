@@ -118,6 +118,27 @@
   section > .wrap{position:relative;z-index:1;}
   .section-head{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:40px;flex-wrap:wrap;}
   .section-head h2{font-size:clamp(25px,3vw,34px);}
+  .updates-layout{display:grid;grid-template-columns:1fr 300px;gap:32px;align-items:start;}
+  @media (max-width:900px){.updates-layout{grid-template-columns:1fr;}}
+  .updates-main{min-width:0;}
+  .cal-widget{position:sticky;top:90px;background:var(--card);border:1px solid var(--rule);padding:20px;border-radius:4px;}
+  .cal-widget-head{margin-bottom:14px;}
+  .cal-widget-head h3{font-size:15px;font-weight:800;margin:0 0 2px;}
+  .cal-widget-head span{font-size:11px;color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;}
+  .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;margin-bottom:14px;}
+  .cal-dow{font-size:10px;text-align:center;color:var(--ink-soft);font-weight:700;padding-bottom:2px;}
+  .cal-day{aspect-ratio:1;display:flex;align-items:center;justify-content:center;font-size:11px;border-radius:3px;color:var(--ink-soft);}
+  .cal-day.blank{visibility:hidden;}
+  .cal-day.due{color:var(--deep);font-weight:800;cursor:default;}
+  .due-tds{background:#E0894A;}
+  .due-gst{background:#4FB0AE;}
+  .due-tax{background:var(--brass-light);}
+  .due-roc{background:#9B6BD9;}
+  .cal-day.due-roc{color:var(--ink);}
+  .cal-legend{display:flex;flex-direction:column;gap:6px;font-size:11.5px;}
+  .cal-legend-item{display:flex;align-items:center;gap:8px;color:var(--ink-soft);}
+  .cal-legend-dot{width:10px;height:10px;border-radius:2px;flex-shrink:0;}
+  .cal-widget-note{font-size:10.5px;color:var(--ink-soft);margin-top:12px;padding-top:12px;border-top:1px solid var(--rule);line-height:1.5;}
   .section-num{font-family:'IBM Plex Mono',monospace;color:var(--brass-dark);font-size:12.5px;letter-spacing:.1em;}
   .section-sub{color:var(--ink-soft);font-size:14.5px;max-width:56ch;margin-top:8px;}
 
@@ -410,7 +431,6 @@
 <div class="section-head">
 <div>
 <div class="section-num">03 — Statutory &amp; Compliance Bulletin</div>
-<h2 style="margin-top:10px;">Major updates since 1 Jan 2026</h2>
 <p class="section-sub" data-i18n="updates_sub">Tap any update to expand it — what changed, when, why, who it affects, whose responsibility it is, the background, and where to verify it. Always cross-check against the official source linked inside.</p>
 </div>
 </div>
@@ -421,6 +441,8 @@
 <a href="https://www.mca.gov.in/content/mca/global/en/acts-rules/ebooks/notifications-circulars.html" rel="noopener" target="_blank">MCA Circulars ↗</a>
 <a href="https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx" rel="noopener" target="_blank">RBI Press Releases ↗</a>
 </div>
+<div class="updates-layout">
+<div class="updates-main">
 <div class="filter-row" id="filterRow">
 <label for="categorySelect" class="category-select-label">Select a category:</label>
 <select id="categorySelect" class="category-select">
@@ -461,7 +483,49 @@
 <dt data-i18n="bul29_dt4">Whom</dt><dd data-i18n="bul29_dd4">Individuals, professionals and businesses eligible to file ITR-3/ITR-4 whose accounts don't require a tax audit for FY 2025-26.</dd>
 <dt data-i18n="bul29_dt5">Whose</dt><dd data-i18n="bul29_dd5">Central Board of Direct Taxes (CBDT) / Income Tax Department.</dd>
 <dt data-i18n="bul29_dt6">Background</dt><dd data-i18n="bul29_dd6">August 2026 is a busy statutory month overall — GSTR-3B for July is due 20 Aug, QRMP PMT-06 by 25 Aug, and various TDS/PF/ESI deadlines shift around the 15 Aug holiday and month-end weekend.</dd>
-<dt data-i18n="bul29_dt7">Where</dt><dd data-i18n="bul29_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd><dt data-i18n="bul29_dt8">Notification PDF</dt><dd data-i18n="bul29_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul29_dt7">Where</dt><dd data-i18n="bul29_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="gst">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">GST</span><span class="badge pro">Professional</span></span>
+<span class="bulletin-title" data-i18n="bul47_title">CGST Circular 255/2026: GST case handling after jurisdiction change</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">Aug 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul47_dt1">What</dt><dd data-i18n="bul47_dd1">CBIC issued CGST Circular No. 255/2026 clarifying which tax officer (central or state) handles a taxpayer's ongoing GST proceedings after the taxpayer's jurisdiction is transferred or changed.</dd>
+<dt data-i18n="bul47_dt2">When</dt><dd data-i18n="bul47_dd2">Circular 255/2026, issued August 2026.</dd>
+<dt data-i18n="bul47_dt3">Why</dt><dd data-i18n="bul47_dd3">To resolve confusion and disputes over which officer retains authority over an open case (audit, scrutiny, adjudication) when a taxpayer's GST jurisdiction changes mid-proceeding.</dd>
+<dt data-i18n="bul47_dt4">Whom</dt><dd data-i18n="bul47_dd4">GST-registered taxpayers with pending proceedings who have changed — or are changing — their registered jurisdiction (e.g. after a business relocation).</dd>
+<dt data-i18n="bul47_dt5">Whose</dt><dd data-i18n="bul47_dd5">CBIC (Central Board of Indirect Taxes and Customs).</dd>
+<dt data-i18n="bul47_dt6">Background</dt><dd data-i18n="bul47_dd6">Jurisdiction-transfer disputes have been a recurring source of procedural litigation under GST; this circular aims to give officers and taxpayers a clear default rule.</dd>
+<dt data-i18n="bul47_dt7">Where</dt><dd data-i18n="bul47_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="banking">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">RBI &amp; Banking</span><span class="badge pro">Professional</span></span>
+<span class="bulletin-title" data-i18n="bul48_title">RBI TReDS Directions 2026 — new MSME trade-receivables rules</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">Aug 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul48_dt1">What</dt><dd data-i18n="bul48_dd1">RBI issued revised TReDS (Trade Receivables Discounting System) Directions, 2026, updating the rules governing how MSMEs discount their trade receivables for working capital.</dd>
+<dt data-i18n="bul48_dt2">When</dt><dd data-i18n="bul48_dd2">Notified 2026 (confirm exact effective date against the official RBI circular).</dd>
+<dt data-i18n="bul48_dt3">Why</dt><dd data-i18n="bul48_dd3">To improve MSME access to working capital by refining how TReDS platforms and participants (MSME sellers, buyers, financiers) operate.</dd>
+<dt data-i18n="bul48_dt4">Whom</dt><dd data-i18n="bul48_dd4">MSME sellers using TReDS platforms, corporate buyers, and banks/NBFCs financing receivables through TReDS.</dd>
+<dt data-i18n="bul48_dt5">Whose</dt><dd data-i18n="bul48_dd5">Reserve Bank of India (RBI).</dd>
+<dt data-i18n="bul48_dt6">Background</dt><dd data-i18n="bul48_dd6">TReDS was created to help MSMEs get faster payment on their receivables without waiting out long payment cycles from larger buyers — this update refines the operating framework.</dd>
+<dt data-i18n="bul48_dt7">Where</dt><dd data-i18n="bul48_dd7"><a href="https://taxupdate.in/tag/ecb-compliance/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -482,28 +546,7 @@
 <dt data-i18n="bul31_dt4">Whom</dt><dd data-i18n="bul31_dd4">All regular GST-registered taxpayers filing GSTR-3B.</dd>
 <dt data-i18n="bul31_dt5">Whose</dt><dd data-i18n="bul31_dd5">GSTN (Goods and Services Tax Network).</dd>
 <dt data-i18n="bul31_dt6">Background</dt><dd data-i18n="bul31_dd6">Part of a broader push toward system-driven validation on the GST portal, alongside stricter ITC checks introduced earlier in the year.</dd>
-<dt data-i18n="bul31_dt7">Where</dt><dd data-i18n="bul31_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd><dt data-i18n="bul31_dt8">Notification PDF</dt><dd data-i18n="bul31_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
-</dl>
-</div>
-</div>
-
-<div class="bulletin-item" data-cat="banking">
-<button class="bulletin-q">
-<span class="bulletin-q-left">
-<span class="badge-row"><span class="badge cat">RBI &amp; Banking</span><span class="badge pub">Public</span></span>
-<span class="bulletin-title" data-i18n="bul42_title">RBI overhauls loan recovery &amp; recovery-agent rules, effective 1 Jan 2027</span>
-</span>
-<span class="bulletin-q-right"><span class="bulletin-date">06 Aug 2026</span><span class="plus">+</span></span>
-</button>
-<div class="bulletin-a">
-<dl>
-<dt data-i18n="bul42_dt1">What</dt><dd data-i18n="bul42_dd1">RBI notified final Directions amending the (Commercial Banks / NBFC) Responsible Business Conduct framework governing loan recovery and recovery agents — the definition of "recovery agency" now ignores contractual labels, mandatory borrower compensation for improper conduct becomes a required policy element, and device-locking on financed mobile phones is prohibited by default with only a narrow, heavily conditioned exception.</dd>
-<dt data-i18n="bul42_dt2">When</dt><dd data-i18n="bul42_dd2">Notification No. DOR.MCS.REC.No.199/01-01-039/2026-27 (RBI/2026-27/230), dated 6 Aug 2026. Effective 1 January 2027 — pushed back from the originally proposed 1 October 2026.</dd>
-<dt data-i18n="bul42_dt3">Why</dt><dd data-i18n="bul42_dd3">To close ambiguities in the earlier recovery-agent rules and give borrowers stronger, more clearly enforceable protection against harassment, intimidation and unauthorised device restrictions during recovery.</dd>
-<dt data-i18n="bul42_dt4">Whom</dt><dd data-i18n="bul42_dd4">All banks, NBFCs and their recovery agents/agencies; and every borrower whose loan recovery is outsourced to a third-party agent.</dd>
-<dt data-i18n="bul42_dt5">Whose</dt><dd data-i18n="bul42_dd5">Reserve Bank of India (RBI), Department of Regulation.</dd>
-<dt data-i18n="bul42_dt6">Background</dt><dd data-i18n="bul42_dd6">RBI also withdrew a related proposal that would have required lenders to publish individual recovery agents' details, citing high staff turnover in that role. This directly affects the kind of recovery-agent identification and authorisation issues covered in our vehicle-seizure complaint letter template in the Downloads section.</dd>
-<dt data-i18n="bul42_dt7">Where</dt><dd data-i18n="bul42_dd7"><a href="https://www.business-standard.com/finance/news/rbi-extends-recovery-norms-deadline-eases-certification-timeline-126080602037_1.html" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul42_dt8">Notification PDF</dt><dd data-i18n="bul42_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul31_dt7">Where</dt><dd data-i18n="bul31_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd>
 </dl>
 </div>
 </div>
@@ -524,7 +567,7 @@
 <dt data-i18n="bul32_dt4">Whom</dt><dd data-i18n="bul32_dd4">All GST-registered taxpayers and businesses planning around the Union Budget announcement.</dd>
 <dt data-i18n="bul32_dt5">Whose</dt><dd data-i18n="bul32_dd5">CBIC (Central Board of Indirect Taxes and Customs) informed the Ministry of Parliamentary Affairs.</dd>
 <dt data-i18n="bul32_dt6">Background</dt><dd data-i18n="bul32_dd6">Follows a significant volume of GST changes already rolled out through 2026 — this signals no further indirect-tax shake-up is planned in the near term.</dd>
-<dt data-i18n="bul32_dt7">Where</dt><dd data-i18n="bul32_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd><dt data-i18n="bul32_dt8">Notification PDF</dt><dd data-i18n="bul32_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul32_dt7">Where</dt><dd data-i18n="bul32_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd>
 </dl>
 </div>
 </div>
@@ -545,7 +588,7 @@
 <dt data-i18n="bul33_dt4">Whom</dt><dd data-i18n="bul33_dd4">Hotel and accommodation service providers falling under the specified premises category.</dd>
 <dt data-i18n="bul33_dt5">Whose</dt><dd data-i18n="bul33_dd5">GSTN (Goods and Services Tax Network).</dd>
 <dt data-i18n="bul33_dt6">Background</dt><dd data-i18n="bul33_dd6">Continues GSTN's pattern of moving manual declarations onto the online portal for better tracking and compliance.</dd>
-<dt data-i18n="bul33_dt7">Where</dt><dd data-i18n="bul33_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd><dt data-i18n="bul33_dt8">Notification PDF</dt><dd data-i18n="bul33_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul33_dt7">Where</dt><dd data-i18n="bul33_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd>
 </dl>
 </div>
 </div>
@@ -566,7 +609,7 @@
 <dt data-i18n="bul36_dt4">Whom</dt><dd data-i18n="bul36_dd4">Small and mid-sized companies, companies considering share buybacks, and auditors/professionals under NFRA's oversight.</dd>
 <dt data-i18n="bul36_dt5">Whose</dt><dd data-i18n="bul36_dd5">Ministry of Corporate Affairs (MCA) has proposed the bill; Parliament must pass it for these changes to take effect.</dd>
 <dt data-i18n="bul36_dt6">Background</dt><dd data-i18n="bul36_dd6">Part of ongoing efforts to modernise the Companies Act and LLP Act — treat this as a heads-up to watch, not yet something to act on.</dd>
-<dt data-i18n="bul36_dt7">Where</dt><dd data-i18n="bul36_dd7"><a href="https://www.mca.gov.in/" rel="noopener" target="_blank">Read on the MCA site →</a></dd><dt data-i18n="bul36_dt8">Notification PDF</dt><dd data-i18n="bul36_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul36_dt7">Where</dt><dd data-i18n="bul36_dd7"><a href="https://www.mca.gov.in/" rel="noopener" target="_blank">Read on the MCA site →</a></dd>
 </dl>
 </div>
 </div>
@@ -587,7 +630,7 @@
 <dt data-i18n="bul30_dt4">Whom</dt><dd data-i18n="bul30_dd4">Tax deductors issuing non-salary TDS certificates, and individuals/HUFs/businesses making specified payments subject to TDS (property purchase, rent, contractor/professional payments, crypto-asset transactions).</dd>
 <dt data-i18n="bul30_dt5">Whose</dt><dd data-i18n="bul30_dd5">Central Board of Direct Taxes (CBDT), under the Income-tax Act, 2025.</dd>
 <dt data-i18n="bul30_dt6">Background</dt><dd data-i18n="bul30_dd6">This is the first full quarter-end/month-end cycle where these new form numbers are in force — firms still filing under the old Form 16A/26QB-26QE references risk filing under the wrong reference.</dd>
-<dt data-i18n="bul30_dt7">Where</dt><dd data-i18n="bul30_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd><dt data-i18n="bul30_dt8">Notification PDF</dt><dd data-i18n="bul30_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul30_dt7">Where</dt><dd data-i18n="bul30_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
 </dl>
 </div>
 </div>
@@ -608,7 +651,70 @@
 <dt data-i18n="bul43_dt4">Whom</dt><dd data-i18n="bul43_dd4">Taxpayers selling long-term capital assets (where indexation still applies) during FY 2026-27, and their tax advisors.</dd>
 <dt data-i18n="bul43_dt5">Whose</dt><dd data-i18n="bul43_dd5">Central Board of Direct Taxes (CBDT).</dd>
 <dt data-i18n="bul43_dt6">Background</dt><dd data-i18n="bul43_dd6">Note that indexation benefit itself has been curtailed for several asset classes under recent Finance Act changes — check whether indexation applies to your specific asset before using this index.</dd>
-<dt data-i18n="bul43_dt7">Where</dt><dd data-i18n="bul43_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd><dt data-i18n="bul43_dt8">Notification PDF</dt><dd data-i18n="bul43_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul43_dt7">Where</dt><dd data-i18n="bul43_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="banking">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">RBI &amp; Banking</span><span class="badge pub">Public</span></span>
+<span class="bulletin-title" data-i18n="bul42_title">RBI overhauls loan recovery &amp; recovery-agent rules, effective 1 Jan 2027</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">06 Aug 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul42_dt1">What</dt><dd data-i18n="bul42_dd1">RBI notified final Directions amending the (Commercial Banks / NBFC) Responsible Business Conduct framework governing loan recovery and recovery agents — the definition of "recovery agency" now ignores contractual labels, mandatory borrower compensation for improper conduct becomes a required policy element, and device-locking on financed mobile phones is prohibited by default with only a narrow, heavily conditioned exception.</dd>
+<dt data-i18n="bul42_dt2">When</dt><dd data-i18n="bul42_dd2">Notification No. DOR.MCS.REC.No.199/01-01-039/2026-27 (RBI/2026-27/230), dated 6 Aug 2026. Effective 1 January 2027 — pushed back from the originally proposed 1 October 2026.</dd>
+<dt data-i18n="bul42_dt3">Why</dt><dd data-i18n="bul42_dd3">To close ambiguities in the earlier recovery-agent rules and give borrowers stronger, more clearly enforceable protection against harassment, intimidation and unauthorised device restrictions during recovery.</dd>
+<dt data-i18n="bul42_dt4">Whom</dt><dd data-i18n="bul42_dd4">All banks, NBFCs and their recovery agents/agencies; and every borrower whose loan recovery is outsourced to a third-party agent.</dd>
+<dt data-i18n="bul42_dt5">Whose</dt><dd data-i18n="bul42_dd5">Reserve Bank of India (RBI), Department of Regulation.</dd>
+<dt data-i18n="bul42_dt6">Background</dt><dd data-i18n="bul42_dd6">RBI also withdrew a related proposal that would have required lenders to publish individual recovery agents' details, citing high staff turnover in that role. This directly affects the kind of recovery-agent identification and authorisation issues covered in our vehicle-seizure complaint letter template in the Downloads section.</dd>
+<dt data-i18n="bul42_dt7">Where</dt><dd data-i18n="bul42_dd7"><a href="https://www.business-standard.com/finance/news/rbi-extends-recovery-norms-deadline-eases-certification-timeline-126080602037_1.html" rel="noopener" target="_blank">Read full source →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="income-tax">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">Income Tax</span><span class="badge pro">Professional</span></span>
+<span class="bulletin-title" data-i18n="bul49_title">Form 26Q renamed Form 140 (companion to Form 138)</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">31 Jul 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul49_dt1">What</dt><dd data-i18n="bul49_dd1">Alongside Form 24Q becoming Form 138 (covered above), Form 26Q — the quarterly TDS return for non-salary payments — is renamed Form 140 under the Income-tax Act, 2025.</dd>
+<dt data-i18n="bul49_dt2">When</dt><dd data-i18n="bul49_dd2">Applicable from FY 2026-27; the Q1 return under the new numbering was due 31 July 2026.</dd>
+<dt data-i18n="bul49_dt3">Why</dt><dd data-i18n="bul49_dd3">Part of the same forms-renumbering exercise under the new Income-tax Act.</dd>
+<dt data-i18n="bul49_dt4">Whom</dt><dd data-i18n="bul49_dd4">Deductors filing quarterly TDS returns for non-salary payments (contractor payments, professional fees, rent, etc.).</dd>
+<dt data-i18n="bul49_dt5">Whose</dt><dd data-i18n="bul49_dd5">Central Board of Direct Taxes (CBDT), under the Income-tax Act, 2025.</dd>
+<dt data-i18n="bul49_dt6">Background</dt><dd data-i18n="bul49_dd6">Check that payroll/TDS-filing software has been updated to reference Form 140 rather than the legacy Form 26Q.</dd>
+<dt data-i18n="bul49_dt7">Where</dt><dd data-i18n="bul49_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="income-tax">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">Income Tax</span><span class="badge pro">Professional</span></span>
+<span class="bulletin-title" data-i18n="bul50_title">Form 27EQ renamed Form 143 — new TCS reporting form</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">31 Jul 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul50_dt1">What</dt><dd data-i18n="bul50_dd1">The erstwhile Form 27EQ (quarterly TCS return) is renumbered Form 143 under the Income-tax Act, 2025.</dd>
+<dt data-i18n="bul50_dt2">When</dt><dd data-i18n="bul50_dd2">Applicable from FY 2026-27.</dd>
+<dt data-i18n="bul50_dt3">Why</dt><dd data-i18n="bul50_dd3">Completes the renumbering of the main TDS/TCS return trio — Forms 138, 140 and 143 — under the new Act.</dd>
+<dt data-i18n="bul50_dt4">Whom</dt><dd data-i18n="bul50_dd4">Collectors required to file quarterly TCS returns.</dd>
+<dt data-i18n="bul50_dt5">Whose</dt><dd data-i18n="bul50_dd5">Central Board of Direct Taxes (CBDT), under the Income-tax Act, 2025.</dd>
+<dt data-i18n="bul50_dt6">Background</dt><dd data-i18n="bul50_dd6">Together, Forms 138 (ex-24Q), 140 (ex-26Q) and 143 (ex-27EQ) form the complete renumbered set of quarterly TDS/TCS returns under the new Act.</dd>
+<dt data-i18n="bul50_dt7">Where</dt><dd data-i18n="bul50_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
 </dl>
 </div>
 </div>
@@ -629,7 +735,7 @@
 <dt data-i18n="bul34_dt4">Whom</dt><dd data-i18n="bul34_dd4">Companies required to file DPT-3, reporting deposits and non-deposit receipts of money as of 31 March.</dd>
 <dt data-i18n="bul34_dt5">Whose</dt><dd data-i18n="bul34_dd5">MCA administers the extension; company directors and company secretaries remain responsible for filing within the new date.</dd>
 <dt data-i18n="bul34_dt6">Background</dt><dd data-i18n="bul34_dd6">Part of the same relief package that extended the CCFS-2026 amnesty window to 31 Aug 2026 (see related update above).</dd>
-<dt data-i18n="bul34_dt7">Where</dt><dd data-i18n="bul34_dd7"><a href="https://www.mca.gov.in/" rel="noopener" target="_blank">Read on the MCA site →</a></dd><dt data-i18n="bul34_dt8">Notification PDF</dt><dd data-i18n="bul34_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul34_dt7">Where</dt><dd data-i18n="bul34_dd7"><a href="https://www.mca.gov.in/" rel="noopener" target="_blank">Read on the MCA site →</a></dd>
 </dl>
 </div>
 </div>
@@ -650,70 +756,7 @@
 <dt data-i18n="bul44_dt4">Whom</dt><dd data-i18n="bul44_dd4">Employers and other deductors filing quarterly salary TDS returns.</dd>
 <dt data-i18n="bul44_dt5">Whose</dt><dd data-i18n="bul44_dd5">Central Board of Direct Taxes (CBDT), under the Income-tax Act, 2025.</dd>
 <dt data-i18n="bul44_dt6">Background</dt><dd data-i18n="bul44_dd6">Payroll and compliance software still referencing "Form 24Q" should be checked to confirm they've been updated to file under the new Form 138 reference.</dd>
-<dt data-i18n="bul44_dt7">Where</dt><dd data-i18n="bul44_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd><dt data-i18n="bul44_dt8">Notification PDF</dt><dd data-i18n="bul44_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
-</dl>
-</div>
-</div>
-
-<div class="bulletin-item" data-cat="misc">
-<button class="bulletin-q">
-<span class="bulletin-q-left">
-<span class="badge-row"><span class="badge cat">SEBI</span><span class="badge pro">Professional</span></span>
-<span class="bulletin-title" data-i18n="bul45_title">SEBI GARUDA circular: AIF schemes can launch in 10 working days</span>
-</span>
-<span class="bulletin-q-right"><span class="bulletin-date">30 Jul 2026</span><span class="plus">+</span></span>
-</button>
-<div class="bulletin-a">
-<dl>
-<dt data-i18n="bul45_dt1">What</dt><dd data-i18n="bul45_dd1">SEBI's GARUDA circular lets Alternative Investment Fund (AIF) schemes launch within 10 working days of filing, replacing a slower prior approval timeline.</dd>
-<dt data-i18n="bul45_dt2">When</dt><dd data-i18n="bul45_dd2">Circular dated 30 Jul 2026.</dd>
-<dt data-i18n="bul45_dt3">Why</dt><dd data-i18n="bul45_dd3">Part of SEBI's broader push (alongside earlier June 2026 board reforms) to speed up fund set-up timelines and reduce regulatory friction for AIF managers.</dd>
-<dt data-i18n="bul45_dt4">Whom</dt><dd data-i18n="bul45_dd4">AIF managers and sponsors launching new fund schemes.</dd>
-<dt data-i18n="bul45_dt5">Whose</dt><dd data-i18n="bul45_dd5">Securities and Exchange Board of India (SEBI).</dd>
-<dt data-i18n="bul45_dt6">Background</dt><dd data-i18n="bul45_dd6">Follows SEBI's June 2026 board-level reforms aimed at easing AIF regulation more broadly.</dd>
-<dt data-i18n="bul45_dt7">Where</dt><dd data-i18n="bul45_dd7"><a href="https://taxupdate.in/finance/843/rbi-loan-recovery-rules-2027-responsible-business-conduct-amendment-directions-6-august-2026-recovery-agents/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul45_dt8">Notification PDF</dt><dd data-i18n="bul45_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
-</dl>
-</div>
-</div>
-
-<div class="bulletin-item" data-cat="income-tax">
-<button class="bulletin-q">
-<span class="bulletin-q-left">
-<span class="badge-row"><span class="badge cat">Income Tax</span><span class="badge pro">Professional</span></span>
-<span class="bulletin-title" data-i18n="bul27_title">TDS exemption notified for eligible IFSC Unit payments</span>
-</span>
-<span class="bulletin-q-right"><span class="bulletin-date">Jul 2026</span><span class="plus">+</span></span>
-</button>
-<div class="bulletin-a">
-<dl>
-<dt data-i18n="bul27_dt1">What</dt><dd data-i18n="bul27_dd1">CBDT notified that specified payments — interest, dividends, professional fees, commission and brokerage, and other financial-service income — received by eligible IFSC Units are exempt from TDS.</dd>
-<dt data-i18n="bul27_dt2">When</dt><dd data-i18n="bul27_dd2">Notification No. 80/2026, F. No. 275/19/2026-IT(B).</dd>
-<dt data-i18n="bul27_dt3">Why</dt><dd data-i18n="bul27_dd3">Part of continued incentives to encourage financial-services activity within India's IFSC (GIFT City) framework.</dd>
-<dt data-i18n="bul27_dt4">Whom</dt><dd data-i18n="bul27_dd4">IFSC Units and the payers making these specified payments to them.</dd>
-<dt data-i18n="bul27_dt5">Whose</dt><dd data-i18n="bul27_dd5">CBDT (Central Board of Direct Taxes).</dd>
-<dt data-i18n="bul27_dt6">Background</dt><dd data-i18n="bul27_dd6">Issued under the Income-tax Act, 2025; a related notification (No. 75/2026) similarly exempted TDS on ship lease rent paid to IFSC Units.</dd>
-<dt data-i18n="bul27_dt7">Where</dt><dd data-i18n="bul27_dd7"><a href="https://www.incometax.gov.in/iec/foportal//latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd><dt data-i18n="bul27_dt8">Notification PDF</dt><dd data-i18n="bul27_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
-</dl>
-</div>
-</div>
-
-<div class="bulletin-item" data-cat="mca">
-<button class="bulletin-q">
-<span class="bulletin-q-left">
-<span class="badge-row"><span class="badge cat">MCA / ROC</span><span class="badge both">Both</span></span>
-<span class="bulletin-title" data-i18n="bul4_title">CCFS-2026 amnesty window extended to 31 Aug</span>
-</span>
-<span class="bulletin-q-right"><span class="bulletin-date">08 Jul 2026</span><span class="plus">+</span></span>
-</button>
-<div class="bulletin-a">
-<dl>
-<dt data-i18n="bul4_dt1">What</dt><dd data-i18n="bul4_dd1">MCA extended the Companies Compliance Facilitation Scheme (CCFS-2026), which lets companies clear pending ROC annual filings at a fraction of the usual late fee, via General Circular No. 03/2026.</dd>
-<dt data-i18n="bul4_dt2">When</dt><dd data-i18n="bul4_dd2">Announced 8 Jul 2026; new window runs till 31 Aug 2026 (previously 15 Jul 2026).</dd>
-<dt data-i18n="bul4_dt3">Why</dt><dd data-i18n="bul4_dd3">MCA21 data-centre capacity was affected by a fire incident on 5 Jun 2026, so the deadline was pushed out to give companies fair filing time.</dd>
-<dt data-i18n="bul4_dt4">Whom</dt><dd data-i18n="bul4_dd4">Companies and LLPs with pending MGT-7, MGT-7A, AOC-4 or related annual filings.</dd>
-<dt data-i18n="bul4_dt5">Whose</dt><dd data-i18n="bul4_dd5">MCA administers the scheme; company directors and company secretaries are responsible for filing within the new window.</dd>
-<dt data-i18n="bul4_dt6">Background</dt><dd data-i18n="bul4_dd6">CCFS-2026 was first launched in Feb 2026 to help companies clear backlogged filings cheaply; this is its second deadline extension after MCA21 infrastructure issues.</dd>
-<dt data-i18n="bul4_dt7">Where</dt><dd data-i18n="bul4_dd7"><a href="https://www.corplawupdates.in/updates/mca-companies-compliance-facilitation-scheme-ccfs-2026" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul4_dt8">Notification PDF</dt><dd data-i18n="bul4_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul44_dt7">Where</dt><dd data-i18n="bul44_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
 </dl>
 </div>
 </div>
@@ -734,7 +777,70 @@
 <dt data-i18n="bul35_dt4">Whom</dt><dd data-i18n="bul35_dd4">GST-registered taxpayers whose auto-computed AATO figure for FY 2025-26 needs correction.</dd>
 <dt data-i18n="bul35_dt5">Whose</dt><dd data-i18n="bul35_dd5">GSTN operates the amendment window; tax officials verify submitted corrections.</dd>
 <dt data-i18n="bul35_dt6">Background</dt><dd data-i18n="bul35_dd6">A similar window was available only in May 2025 for FY 2024-25 — this year's window is later and gives a verification period immediately after.</dd>
-<dt data-i18n="bul35_dt7">Where</dt><dd data-i18n="bul35_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd><dt data-i18n="bul35_dt8">Notification PDF</dt><dd data-i18n="bul35_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul35_dt7">Where</dt><dd data-i18n="bul35_dd7"><a href="https://www.gst.gov.in/newsandupdates" rel="noopener" target="_blank">Read on the GST portal →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="misc">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">SEBI</span><span class="badge pro">Professional</span></span>
+<span class="bulletin-title" data-i18n="bul45_title">SEBI GARUDA circular: AIF schemes can launch in 10 working days</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">30 Jul 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul45_dt1">What</dt><dd data-i18n="bul45_dd1">SEBI's GARUDA circular lets Alternative Investment Fund (AIF) schemes launch within 10 working days of filing, replacing a slower prior approval timeline.</dd>
+<dt data-i18n="bul45_dt2">When</dt><dd data-i18n="bul45_dd2">Circular dated 30 Jul 2026.</dd>
+<dt data-i18n="bul45_dt3">Why</dt><dd data-i18n="bul45_dd3">Part of SEBI's broader push (alongside earlier June 2026 board reforms) to speed up fund set-up timelines and reduce regulatory friction for AIF managers.</dd>
+<dt data-i18n="bul45_dt4">Whom</dt><dd data-i18n="bul45_dd4">AIF managers and sponsors launching new fund schemes.</dd>
+<dt data-i18n="bul45_dt5">Whose</dt><dd data-i18n="bul45_dd5">Securities and Exchange Board of India (SEBI).</dd>
+<dt data-i18n="bul45_dt6">Background</dt><dd data-i18n="bul45_dd6">Follows SEBI's June 2026 board-level reforms aimed at easing AIF regulation more broadly.</dd>
+<dt data-i18n="bul45_dt7">Where</dt><dd data-i18n="bul45_dd7"><a href="https://taxupdate.in/finance/843/rbi-loan-recovery-rules-2027-responsible-business-conduct-amendment-directions-6-august-2026-recovery-agents/" rel="noopener" target="_blank">Read full source →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="income-tax">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">Income Tax</span><span class="badge pro">Professional</span></span>
+<span class="bulletin-title" data-i18n="bul27_title">TDS exemption notified for eligible IFSC Unit payments</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">Jul 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul27_dt1">What</dt><dd data-i18n="bul27_dd1">CBDT notified that specified payments — interest, dividends, professional fees, commission and brokerage, and other financial-service income — received by eligible IFSC Units are exempt from TDS.</dd>
+<dt data-i18n="bul27_dt2">When</dt><dd data-i18n="bul27_dd2">Notification No. 80/2026, F. No. 275/19/2026-IT(B).</dd>
+<dt data-i18n="bul27_dt3">Why</dt><dd data-i18n="bul27_dd3">Part of continued incentives to encourage financial-services activity within India's IFSC (GIFT City) framework.</dd>
+<dt data-i18n="bul27_dt4">Whom</dt><dd data-i18n="bul27_dd4">IFSC Units and the payers making these specified payments to them.</dd>
+<dt data-i18n="bul27_dt5">Whose</dt><dd data-i18n="bul27_dd5">CBDT (Central Board of Direct Taxes).</dd>
+<dt data-i18n="bul27_dt6">Background</dt><dd data-i18n="bul27_dd6">Issued under the Income-tax Act, 2025; a related notification (No. 75/2026) similarly exempted TDS on ship lease rent paid to IFSC Units.</dd>
+<dt data-i18n="bul27_dt7">Where</dt><dd data-i18n="bul27_dd7"><a href="https://www.incometax.gov.in/iec/foportal//latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
+</dl>
+</div>
+</div>
+
+<div class="bulletin-item" data-cat="mca">
+<button class="bulletin-q">
+<span class="bulletin-q-left">
+<span class="badge-row"><span class="badge cat">MCA / ROC</span><span class="badge both">Both</span></span>
+<span class="bulletin-title" data-i18n="bul4_title">CCFS-2026 amnesty window extended to 31 Aug</span>
+</span>
+<span class="bulletin-q-right"><span class="bulletin-date">08 Jul 2026</span><span class="plus">+</span></span>
+</button>
+<div class="bulletin-a">
+<dl>
+<dt data-i18n="bul4_dt1">What</dt><dd data-i18n="bul4_dd1">MCA extended the Companies Compliance Facilitation Scheme (CCFS-2026), which lets companies clear pending ROC annual filings at a fraction of the usual late fee, via General Circular No. 03/2026.</dd>
+<dt data-i18n="bul4_dt2">When</dt><dd data-i18n="bul4_dd2">Announced 8 Jul 2026; new window runs till 31 Aug 2026 (previously 15 Jul 2026).</dd>
+<dt data-i18n="bul4_dt3">Why</dt><dd data-i18n="bul4_dd3">MCA21 data-centre capacity was affected by a fire incident on 5 Jun 2026, so the deadline was pushed out to give companies fair filing time.</dd>
+<dt data-i18n="bul4_dt4">Whom</dt><dd data-i18n="bul4_dd4">Companies and LLPs with pending MGT-7, MGT-7A, AOC-4 or related annual filings.</dd>
+<dt data-i18n="bul4_dt5">Whose</dt><dd data-i18n="bul4_dd5">MCA administers the scheme; company directors and company secretaries are responsible for filing within the new window.</dd>
+<dt data-i18n="bul4_dt6">Background</dt><dd data-i18n="bul4_dd6">CCFS-2026 was first launched in Feb 2026 to help companies clear backlogged filings cheaply; this is its second deadline extension after MCA21 infrastructure issues.</dd>
+<dt data-i18n="bul4_dt7">Where</dt><dd data-i18n="bul4_dd7"><a href="https://www.corplawupdates.in/updates/mca-companies-compliance-facilitation-scheme-ccfs-2026" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -755,7 +861,7 @@
 <dt data-i18n="bul5_dt4">Whom</dt><dd data-i18n="bul5_dd4">Customers of commercial banks (excludes small finance banks, payments banks, RRBs and local area banks).</dd>
 <dt data-i18n="bul5_dt5">Whose</dt><dd data-i18n="bul5_dd5">Banks bear liability for security lapses; customers bear liability for negligence such as sharing OTPs; third parties like payment aggregators bear liability for their own breaches.</dd>
 <dt data-i18n="bul5_dt6">Background</dt><dd data-i18n="bul5_dd6">Replaces RBI's 2017 customer-liability circular; the draft was floated on 6 Mar 2026 for public consultation before being finalised.</dd>
-<dt data-i18n="bul5_dt7">Where</dt><dd data-i18n="bul5_dd7"><a href="https://www.angelone.in/news/economy/rbi-proposes-new-rules-effective-july-1-2026-safeguards-against-digital-banking-fraud" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul5_dt8">Notification PDF</dt><dd data-i18n="bul5_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul5_dt7">Where</dt><dd data-i18n="bul5_dd7"><a href="https://www.angelone.in/news/economy/rbi-proposes-new-rules-effective-july-1-2026-safeguards-against-digital-banking-fraud" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -776,7 +882,7 @@
 <dt data-i18n="bul25_dt4">Whom</dt><dd data-i18n="bul25_dd4">Authorised Dealer banks and businesses handling FDI, ODI and ECB compliance, who should cross-check that they're relying on current Master Directions, not withdrawn circulars.</dd>
 <dt data-i18n="bul25_dt5">Whose</dt><dd data-i18n="bul25_dd5">Reserve Bank of India (RBI), Department of Regulation.</dd>
 <dt data-i18n="bul25_dt6">Background</dt><dd data-i18n="bul25_dd6">This is a housekeeping withdrawal, not a policy change — the underlying rules mostly continue under whichever Master Direction already superseded each circular.</dd>
-<dt data-i18n="bul25_dt7">Where</dt><dd data-i18n="bul25_dd7"><a href="https://www.rbi.org.in" rel="noopener" target="_blank">Read on the RBI site →</a></dd><dt data-i18n="bul25_dt8">Notification PDF</dt><dd data-i18n="bul25_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul25_dt7">Where</dt><dd data-i18n="bul25_dd7"><a href="https://www.rbi.org.in" rel="noopener" target="_blank">Read on the RBI site →</a></dd>
 </dl>
 </div>
 </div>
@@ -785,19 +891,19 @@
 <button class="bulletin-q">
 <span class="bulletin-q-left">
 <span class="badge-row"><span class="badge cat">GST</span><span class="badge pro">Professional</span></span>
-<span class="bulletin-title" data-i18n="bul26_title">Mandatory Ship-To GSTIN &amp; E-Way Bill closure deferred to 1 Aug 2026</span>
+<span class="bulletin-title" data-i18n="bul26_title">Ship-To GSTIN &amp; E-Way Bill closure postponed again — no new date set</span>
 </span>
 <span class="bulletin-q-right"><span class="bulletin-date">15 Jun 2026</span><span class="plus">+</span></span>
 </button>
 <div class="bulletin-a">
 <dl>
-<dt data-i18n="bul26_dt1">What</dt><dd data-i18n="bul26_dd1">GSTN deferred two E-Way Bill functionalities — the mandatory "Ship To GSTIN" field for Bill-to Ship-to transactions, and the new voluntary E-Way Bill closure feature — that were originally due to go live on 15 Jun 2026.</dd>
-<dt data-i18n="bul26_dt2">When</dt><dd data-i18n="bul26_dd2">New go-live date is 1 Aug 2026.</dd>
-<dt data-i18n="bul26_dt3">Why</dt><dd data-i18n="bul26_dd3">Industry representations flagged that ERPs, APIs and master data weren't ready in time for the original date.</dd>
-<dt data-i18n="bul26_dt4">Whom</dt><dd data-i18n="bul26_dd4">Businesses generating E-Way Bills for Bill-to Ship-to transactions, and their ERP/logistics teams.</dd>
+<dt data-i18n="bul26_dt1">What</dt><dd data-i18n="bul26_dd1">GSTN deferred two E-Way Bill functionalities — the mandatory "Ship To GSTIN" field for Bill-to Ship-to transactions, and the new voluntary E-Way Bill closure feature — originally due 15 Jun 2026, then rescheduled to 1 Aug 2026. GSTN has since postponed it again, with no new implementation date announced as of this update.</dd>
+<dt data-i18n="bul26_dt2">When</dt><dd data-i18n="bul26_dd2">Originally due 15 Jun 2026, then deferred to 1 Aug 2026 — that date has also now passed without go-live. Watch the GST portal for the next announced date.</dd>
+<dt data-i18n="bul26_dt3">Why</dt><dd data-i18n="bul26_dd3">Industry representations flagged that ERPs, APIs and master data weren't ready in time for either of the earlier dates.</dd>
+<dt data-i18n="bul26_dt4">Whom</dt><dd data-i18n="bul26_dd4">Businesses generating E-Way Bills for Bill-to Ship-to transactions, and their ERP/logistics teams — no action or ERP change is needed for now.</dd>
 <dt data-i18n="bul26_dt5">Whose</dt><dd data-i18n="bul26_dd5">GSTN (Goods and Services Tax Network).</dd>
-<dt data-i18n="bul26_dt6">Background</dt><dd data-i18n="bul26_dd6">The features were already live in the GSTN sandbox for ERP testing before this production deferral.</dd>
-<dt data-i18n="bul26_dt7">Where</dt><dd data-i18n="bul26_dd7"><a href="https://www.gst.gov.in" rel="noopener" target="_blank">Read on the GST portal →</a></dd><dt data-i18n="bul26_dt8">Notification PDF</dt><dd data-i18n="bul26_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul26_dt6">Background</dt><dd data-i18n="bul26_dd6">The features remain live in the GSTN sandbox for ERP testing; this is now the second production deferral with no fresh date yet fixed.</dd>
+<dt data-i18n="bul26_dt7">Where</dt><dd data-i18n="bul26_dd7"><a href="https://www.gst.gov.in" rel="noopener" target="_blank">Read on the GST portal →</a></dd>
 </dl>
 </div>
 </div>
@@ -818,7 +924,7 @@
 <dt data-i18n="bul46_dt4">Whom</dt><dd data-i18n="bul46_dd4">Eligible Indian companies and entities raising foreign-currency debt under the ECB framework.</dd>
 <dt data-i18n="bul46_dt5">Whose</dt><dd data-i18n="bul46_dd5">Reserve Bank of India (RBI), under FEMA regulations.</dd>
 <dt data-i18n="bul46_dt6">Background</dt><dd data-i18n="bul46_dd6">Comes alongside RBI's broader 2026 FEMA clean-up, including the withdrawal of 732 defunct FEMA circulars covered above.</dd>
-<dt data-i18n="bul46_dt7">Where</dt><dd data-i18n="bul46_dd7"><a href="https://taxupdate.in/tag/ecb-compliance/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul46_dt8">Notification PDF</dt><dd data-i18n="bul46_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul46_dt7">Where</dt><dd data-i18n="bul46_dd7"><a href="https://taxupdate.in/tag/ecb-compliance/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -839,7 +945,7 @@
 <dt data-i18n="bul2_dt4">Whom</dt><dd data-i18n="bul2_dd4">Companies with mandatory CSR obligations under Section 135 of the Companies Act.</dd>
 <dt data-i18n="bul2_dt5">Whose</dt><dd data-i18n="bul2_dd5">MCA administers the rule change; company CSR committees and boards decide whether to use this route, and must verify the recipient NPO is duly registered on the SSE.</dd>
 <dt data-i18n="bul2_dt6">Background</dt><dd data-i18n="bul2_dd6">Extends the Social Stock Exchange framework SEBI has been building for several years to bring capital-market discipline to social-sector fundraising.</dd>
-<dt data-i18n="bul2_dt7">Where</dt><dd data-i18n="bul2_dd7"><a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2266792®=3&amp;lang=1" rel="noopener" target="_blank">Read the official PIB release →</a></dd><dt data-i18n="bul2_dt8">Notification PDF</dt><dd data-i18n="bul2_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul2_dt7">Where</dt><dd data-i18n="bul2_dd7"><a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2266792®=3&amp;lang=1" rel="noopener" target="_blank">Read the official PIB release →</a></dd>
 </dl>
 </div>
 </div>
@@ -860,7 +966,7 @@
 <dt data-i18n="bul6_dt4">Whom</dt><dd data-i18n="bul6_dd4">Businesses operating across multiple states that rely on GST advance rulings.</dd>
 <dt data-i18n="bul6_dt5">Whose</dt><dd data-i18n="bul6_dd5">The GSTAT Principal Bench in Delhi now holds this authority, taking it over from individual state AAARs.</dd>
 <dt data-i18n="bul6_dt6">Background</dt><dd data-i18n="bul6_dd6">Comes soon after the GSTAT Principal Bench delivered its first major order in Feb 2026, establishing it as an active forum for GST litigation.</dd>
-<dt data-i18n="bul6_dt7">Where</dt><dd data-i18n="bul6_dd7"><a href="https://cleartaxadvisors.in/gst-updates-in-may-2026-and-june-2026/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul6_dt8">Notification PDF</dt><dd data-i18n="bul6_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul6_dt7">Where</dt><dd data-i18n="bul6_dd7"><a href="https://cleartaxadvisors.in/gst-updates-in-may-2026-and-june-2026/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -881,7 +987,7 @@
 <dt data-i18n="bul7_dt4">Whom</dt><dd data-i18n="bul7_dd4">All regular GST-registered taxpayers filing GSTR-3B for March 2026.</dd>
 <dt data-i18n="bul7_dt5">Whose</dt><dd data-i18n="bul7_dd5">CBIC (Central Board of Indirect Taxes and Customs) issued the extension; taxpayers and their accountants remain responsible for filing within the new date.</dd>
 <dt data-i18n="bul7_dt6">Background</dt><dd data-i18n="bul7_dd6">Deadline extensions like this have become fairly routine whenever the GST portal faces heavy traffic near a due date.</dd>
-<dt data-i18n="bul7_dt7">Where</dt><dd data-i18n="bul7_dd7"><a href="https://cleartaxadvisors.in/gst-updates-in-may-2026-and-june-2026/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul7_dt8">Notification PDF</dt><dd data-i18n="bul7_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul7_dt7">Where</dt><dd data-i18n="bul7_dd7"><a href="https://cleartaxadvisors.in/gst-updates-in-may-2026-and-june-2026/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -902,7 +1008,7 @@
 <dt data-i18n="bul3_dt4">Whom</dt><dd data-i18n="bul3_dd4">Any individual or entity needing to correct their name, date of birth, address or other PAN details.</dd>
 <dt data-i18n="bul3_dt5">Whose</dt><dd data-i18n="bul3_dd5">CBDT/Directorate of Income-tax (Systems) issues the form; the PAN holder is responsible for filing the correction request via UTIITSL or Protean eGov.</dd>
 <dt data-i18n="bul3_dt6">Background</dt><dd data-i18n="bul3_dd6">PAN correction was previously handled through general-purpose application forms via PAN service providers — this gives it a dedicated, category-specific format.</dd>
-<dt data-i18n="bul3_dt7">Where</dt><dd data-i18n="bul3_dd7"><a href="https://www.incometaxindia.gov.in/documents/d/guest/order-for-specifying-procedure-for-pan-correction-pdf" rel="noopener" target="_blank">Read the official CBDT order →</a></dd><dt data-i18n="bul3_dt8">Notification PDF</dt><dd data-i18n="bul3_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul3_dt7">Where</dt><dd data-i18n="bul3_dd7"><a href="https://www.incometaxindia.gov.in/documents/d/guest/order-for-specifying-procedure-for-pan-correction-pdf" rel="noopener" target="_blank">Read the official CBDT order →</a></dd>
 </dl>
 </div>
 </div>
@@ -923,7 +1029,7 @@
 <dt data-i18n="bul8_dt4">Whom</dt><dd data-i18n="bul8_dd4">All bank and NBFC customers using digital payments or holding floating-rate loans.</dd>
 <dt data-i18n="bul8_dt5">Whose</dt><dd data-i18n="bul8_dd5">Banks, payment service providers and wallet issuers must implement AFA; NBFCs and their recovery agents must follow the revised recovery conduct rules.</dd>
 <dt data-i18n="bul8_dt6">Background</dt><dd data-i18n="bul8_dd6">Extends Additional Factor Authentication from its earlier, narrower use on card-not-present transactions to every digital payment type, as part of RBI's broader April 2026 package.</dd>
-<dt data-i18n="bul8_dt7">Where</dt><dd data-i18n="bul8_dd7"><a href="https://tradebrains.in/money/rbi-new-rules-2026-big-changes-for-bank-deposits-upi-taxation-check-the-list/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul8_dt8">Notification PDF</dt><dd data-i18n="bul8_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul8_dt7">Where</dt><dd data-i18n="bul8_dd7"><a href="https://tradebrains.in/money/rbi-new-rules-2026-big-changes-for-bank-deposits-upi-taxation-check-the-list/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -944,7 +1050,7 @@
 <dt data-i18n="bul9_dt4">Whom</dt><dd data-i18n="bul9_dd4">All individual and business taxpayers filing from FY 2026–27 onward.</dd>
 <dt data-i18n="bul9_dt5">Whose</dt><dd data-i18n="bul9_dd5">CBDT administers the new Act; taxpayers, employers and deductors must all comply with the revised reporting formats.</dd>
 <dt data-i18n="bul9_dt6">Background</dt><dd data-i18n="bul9_dd6">Replaces the Income-tax Act, 1961 after a multi-year simplification effort, alongside parallel reforms in GST 2.0 and MCA compliance.</dd>
-<dt data-i18n="bul9_dt7">Where</dt><dd data-i18n="bul9_dd7"><a href="https://cleartax.in/s/income-tax-changes-from-april-2026" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul9_dt8">Notification PDF</dt><dd data-i18n="bul9_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul9_dt7">Where</dt><dd data-i18n="bul9_dd7"><a href="https://cleartax.in/s/income-tax-changes-from-april-2026" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -965,7 +1071,7 @@
 <dt data-i18n="bul1_dt4">Whom</dt><dd data-i18n="bul1_dd4">All individuals, professionals, firms, companies and trusts filing returns for AY 2026–27.</dd>
 <dt data-i18n="bul1_dt5">Whose</dt><dd data-i18n="bul1_dd5">CBDT issues the forms; taxpayers and their tax preparers are responsible for using the correct, corrected version.</dd>
 <dt data-i18n="bul1_dt6">Background</dt><dd data-i18n="bul1_dd6">Forms were notified before the financial year began this time, unlike some prior years when late notification pushed back filing deadlines.</dd>
-<dt data-i18n="bul1_dt7">Where</dt><dd data-i18n="bul1_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd><dt data-i18n="bul1_dt8">Notification PDF</dt><dd data-i18n="bul1_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul1_dt7">Where</dt><dd data-i18n="bul1_dd7"><a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Read on the Income Tax Dept site →</a></dd>
 </dl>
 </div>
 </div>
@@ -986,7 +1092,7 @@
 <dt data-i18n="bul10_dt4">Whom</dt><dd data-i18n="bul10_dd4">Companies, financial institutions, and non-resident taxpayers primarily; indirectly all taxpayers.</dd>
 <dt data-i18n="bul10_dt5">Whose</dt><dd data-i18n="bul10_dd5">CBDT (Ministry of Finance) issued the notification under Section 533 of the Income-tax Act, 2025.</dd>
 <dt data-i18n="bul10_dt6">Background</dt><dd data-i18n="bul10_dd6">Fills in the procedural detail needed to operationalise the new Act ahead of its 1 Apr 2026 effective date.</dd>
-<dt data-i18n="bul10_dt7">Where</dt><dd data-i18n="bul10_dd7"><a href="https://a2ztaxcorp.net/cbdt-notifies-income-tax-rules-2026-to-establish-comprehensive-procedural-framework-effective-from-1st-april-2026/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul10_dt8">Notification PDF</dt><dd data-i18n="bul10_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul10_dt7">Where</dt><dd data-i18n="bul10_dd7"><a href="https://a2ztaxcorp.net/cbdt-notifies-income-tax-rules-2026-to-establish-comprehensive-procedural-framework-effective-from-1st-april-2026/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -1007,7 +1113,7 @@
 <dt data-i18n="bul11_dt4">Whom</dt><dd data-i18n="bul11_dd4">Individual bank customers, especially first-time digital fraud victims.</dd>
 <dt data-i18n="bul11_dt5">Whose</dt><dd data-i18n="bul11_dd5">RBI (under Governor Sanjay Malhotra) proposed the framework; the compensation itself is funded mostly by RBI with smaller contributions from customer and beneficiary banks.</dd>
 <dt data-i18n="bul11_dt6">Background</dt><dd data-i18n="bul11_dd6">Follows RBI's review of its 2017 customer-liability framework in light of increasingly sophisticated digital fraud.</dd>
-<dt data-i18n="bul11_dt7">Where</dt><dd data-i18n="bul11_dd7"><a href="https://www.bankingfinance.in/rbi-news-for-march-2026.html" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul11_dt8">Notification PDF</dt><dd data-i18n="bul11_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul11_dt7">Where</dt><dd data-i18n="bul11_dd7"><a href="https://www.bankingfinance.in/rbi-news-for-march-2026.html" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -1028,7 +1134,7 @@
 <dt data-i18n="bul12_dt4">Whom</dt><dd data-i18n="bul12_dd4">Companies and LLPs with pending annual filings, including those considering dormant status or strike-off.</dd>
 <dt data-i18n="bul12_dt5">Whose</dt><dd data-i18n="bul12_dd5">MCA issued the circular; company directors and company secretaries are responsible for filing under the scheme.</dd>
 <dt data-i18n="bul12_dt6">Background</dt><dd data-i18n="bul12_dd6">Standard late fees for annual filings run to ₹100/day with no cap, leaving many MSMEs and startups badly behind — this scheme responds to that backlog.</dd>
-<dt data-i18n="bul12_dt7">Where</dt><dd data-i18n="bul12_dd7"><a href="https://taxguru.in/company-law/mca-launches-companies-compliance-facilitation-scheme-ccfs-2026.html" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul12_dt8">Notification PDF</dt><dd data-i18n="bul12_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul12_dt7">Where</dt><dd data-i18n="bul12_dd7"><a href="https://taxguru.in/company-law/mca-launches-companies-compliance-facilitation-scheme-ccfs-2026.html" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -1049,7 +1155,7 @@
 <dt data-i18n="bul13_dt4">Whom</dt><dd data-i18n="bul13_dd4">Companies and LLPs facing minor statutory defaults; their compliance officers and CS/CA advisors.</dd>
 <dt data-i18n="bul13_dt5">Whose</dt><dd data-i18n="bul13_dd5">Registrars of Companies (RoC) now hold first-level adjudication power; the NCLT retains jurisdiction only for complex or contested matters.</dd>
 <dt data-i18n="bul13_dt6">Background</dt><dd data-i18n="bul13_dd6">Mirrors registry-level enforcement models used in the UK, Singapore and Australia, where routine penalties are handled administratively rather than through tribunals.</dd>
-<dt data-i18n="bul13_dt7">Where</dt><dd data-i18n="bul13_dd7"><a href="https://www.akandpartners.in/post/centre-gives-roc-adjudication-powers-what-the-new-mca-reform-means-for-companies-and-llps" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul13_dt8">Notification PDF</dt><dd data-i18n="bul13_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul13_dt7">Where</dt><dd data-i18n="bul13_dd7"><a href="https://www.akandpartners.in/post/centre-gives-roc-adjudication-powers-what-the-new-mca-reform-means-for-companies-and-llps" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -1070,7 +1176,7 @@
 <dt data-i18n="bul14_dt4">Whom</dt><dd data-i18n="bul14_dd4">GST-registered businesses claiming input tax credit, and the accountants filing on their behalf.</dd>
 <dt data-i18n="bul14_dt5">Whose</dt><dd data-i18n="bul14_dd5">GSTN (GST Network) operates and enforces the portal; taxpayers and their accountants must ensure ITC reporting matches ledger balances before filing.</dd>
 <dt data-i18n="bul14_dt6">Background</dt><dd data-i18n="bul14_dd6">Part of a broader shift across the GST portal from advisory warnings to system-enforced, automated compliance checks.</dd>
-<dt data-i18n="bul14_dt7">Where</dt><dd data-i18n="bul14_dd7"><a href="https://www.dmifinance.in/gst/gst-updates-amendments/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul14_dt8">Notification PDF</dt><dd data-i18n="bul14_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul14_dt7">Where</dt><dd data-i18n="bul14_dd7"><a href="https://www.dmifinance.in/gst/gst-updates-amendments/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -1091,7 +1197,7 @@
 <dt data-i18n="bul15_dt4">Whom</dt><dd data-i18n="bul15_dd4">Any bank customer with an inactive account or outdated KYC documents.</dd>
 <dt data-i18n="bul15_dt5">Whose</dt><dd data-i18n="bul15_dd5">Banks are responsible for identifying and closing dormant accounts; customers are responsible for keeping their KYC documents current.</dd>
 <dt data-i18n="bul15_dt6">Background</dt><dd data-i18n="bul15_dd6">Reflects a long-standing RBI concern that dormant accounts can be misused for fraud or as money-mule conduits.</dd>
-<dt data-i18n="bul15_dt7">Where</dt><dd data-i18n="bul15_dd7"><a href="https://tradebrains.in/money/rbi-new-rules-2026-big-changes-for-bank-deposits-upi-taxation-check-the-list/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul15_dt8">Notification PDF</dt><dd data-i18n="bul15_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul15_dt7">Where</dt><dd data-i18n="bul15_dd7"><a href="https://tradebrains.in/money/rbi-new-rules-2026-big-changes-for-bank-deposits-upi-taxation-check-the-list/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -1112,7 +1218,7 @@
 <dt data-i18n="bul16_dt4">Whom</dt><dd data-i18n="bul16_dd4">Reporting financial institutions primarily; individuals may need to give extra self-certification/TIN details.</dd>
 <dt data-i18n="bul16_dt5">Whose</dt><dd data-i18n="bul16_dd5">Banks and other reporting financial institutions must collect and report the data; CBDT administers the underlying rule.</dd>
 <dt data-i18n="bul16_dt6">Background</dt><dd data-i18n="bul16_dd6">Aligns India's reporting framework with the OECD's Common Reporting Standard as crypto and digital-asset holdings increasingly cross borders.</dd>
-<dt data-i18n="bul16_dt7">Where</dt><dd data-i18n="bul16_dd7"><a href="https://upstox.com/news/personal-finance/tax/5-major-changes-in-tax-disclosure-rules-by-cbdt-and-what-they-mean-for-taxpayers/article-190690/" rel="noopener" target="_blank">Read full source →</a></dd><dt data-i18n="bul16_dt8">Notification PDF</dt><dd data-i18n="bul16_dd8" class="pdf-slot"><!-- PASTE REAL PDF URL HERE, replace href="#" --><a class="pdf-btn" href="#" rel="noopener" target="_blank">📄 Download official notification (PDF)</a></dd>
+<dt data-i18n="bul16_dt7">Where</dt><dd data-i18n="bul16_dd7"><a href="https://upstox.com/news/personal-finance/tax/5-major-changes-in-tax-disclosure-rules-by-cbdt-and-what-they-mean-for-taxpayers/article-190690/" rel="noopener" target="_blank">Read full source →</a></dd>
 </dl>
 </div>
 </div>
@@ -1121,6 +1227,30 @@
 </div>
 <p class="updates-note" data-i18n="updates_note">The section above is manually curated and verified, updated periodically. Below is a genuinely live, auto-refreshing feed pulled directly from official RBI and Government of India sources — see the "How this works" note at the bottom for what's actually automated versus manual.</p>
 <div class="disclaimer-box"><span class="ic">⚠️</span><p><strong>Disclaimer:</strong> The updates above are provided for general informational purposes only and do not constitute legal, tax, or professional advice. While every effort is made to keep this content accurate and current, laws and notifications change frequently — always verify against the official source (linked with each item) before relying on it, and consult a qualified professional for advice specific to your situation.</p></div>
+</div>
+<aside class="cal-widget">
+<div class="cal-widget-head">
+<h3>September 2026</h3>
+<span>Key statutory due dates</span>
+</div>
+<div class="cal-grid">
+<div class="cal-dow">Su</div><div class="cal-dow">Mo</div><div class="cal-dow">Tu</div><div class="cal-dow">We</div><div class="cal-dow">Th</div><div class="cal-dow">Fr</div><div class="cal-dow">Sa</div>
+<div class="cal-day blank"></div><div class="cal-day blank"></div>
+<div class="cal-day">1</div><div class="cal-day">2</div><div class="cal-day">3</div><div class="cal-day">4</div><div class="cal-day">5</div>
+<div class="cal-day">6</div><div class="cal-day due due-tds" title="TDS/TCS deposit for August 2026">7</div><div class="cal-day">8</div><div class="cal-day">9</div><div class="cal-day due due-gst" title="GSTR-7 & GSTR-8 for August 2026">10</div><div class="cal-day due due-gst" title="GSTR-1 for August 2026 (monthly filers)">11</div><div class="cal-day">12</div>
+<div class="cal-day due due-gst" title="GSTR-6, GSTR-5 & IFF for August 2026 (QRMP)">13</div><div class="cal-day">14</div><div class="cal-day due due-tax" title="2nd advance tax instalment; PF/ESI payment for August 2026">15</div><div class="cal-day">16</div><div class="cal-day">17</div><div class="cal-day">18</div><div class="cal-day">19</div>
+<div class="cal-day due due-gst" title="GSTR-3B & GSTR-5A for August 2026 (monthly filers)">20</div><div class="cal-day">21</div><div class="cal-day">22</div><div class="cal-day">23</div><div class="cal-day">24</div><div class="cal-day due due-gst" title="PMT-06 challan for QRMP-scheme taxpayers">25</div><div class="cal-day">26</div>
+<div class="cal-day">27</div><div class="cal-day">28</div><div class="cal-day">29</div><div class="cal-day due due-roc" title="Tax Audit Report (Form 3CD) due; AGM deadline for companies">30</div><div class="cal-day blank"></div><div class="cal-day blank"></div><div class="cal-day blank"></div>
+</div>
+<div class="cal-legend">
+<div class="cal-legend-item"><span class="cal-legend-dot due-gst"></span>GST</div>
+<div class="cal-legend-item"><span class="cal-legend-dot due-tds"></span>TDS/TCS</div>
+<div class="cal-legend-item"><span class="cal-legend-dot due-tax"></span>Income Tax</div>
+<div class="cal-legend-item"><span class="cal-legend-dot due-roc"></span>MCA / ROC</div>
+</div>
+<p class="cal-widget-note">Updated monthly. Tap/hover a highlighted date for details — dates shift for holidays, weekends and official extensions, so cross-check against the bulletin before filing.</p>
+</aside>
+</div>
   </div>
 </section>
 
@@ -2445,6 +2575,7 @@
       document.getElementById('panel-' + tab.getAttribute('data-tool')).classList.add('active');
     });
   });
+
 
   // EMI Calculator
   function calcEMI(principal, annualRate, months){
