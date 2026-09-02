@@ -376,7 +376,6 @@
 <nav class="navlinks" id="navlinks">
 <a href="#about" data-i18n="nav_about">About</a>
 <a href="#updates" data-i18n="nav_updates">Updates</a>
-<a href="#livefeed">Live Feed</a>
 <a href="#downloads" data-i18n="nav_downloads">Downloads</a>
 <a href="#tools" data-i18n="nav_tools">Tools</a>
 <a href="#gallery" data-i18n="nav_gallery">Gallery</a>
@@ -440,9 +439,14 @@
 <div class="section-head">
 <div>
 <div class="section-num">03 — Statutory &amp; Compliance Bulletin</div>
-<p class="section-sub" data-i18n="updates_sub">Tap any update to expand it — what changed, when, why, who it affects, whose responsibility it is, the background, and where to verify it. Always cross-check against the official source linked inside.</p>
+<p class="section-sub" id="updateModeDesc" data-i18n="updates_sub">Tap any update to expand it — what changed, when, why, who it affects, whose responsibility it is, the background, and where to verify it. Always cross-check against the official source linked inside.</p>
 </div>
 </div>
+<div class="filter-row" id="updateModeToggle" style="margin-bottom:24px;">
+<button class="filter-pill active" data-mode="curated">📋 Bulletin</button>
+<button class="filter-pill" data-mode="live">📡 Live Feed</button>
+</div>
+<div id="curatedPanel">
 <div class="source-links">
 <span class="source-links-label">Official sources:</span>
 <a href="https://www.incometax.gov.in/iec/foportal/latest-news" rel="noopener" target="_blank">Income Tax Dept ↗</a>
@@ -1234,7 +1238,7 @@
 
 <div class="bulletin-empty" id="bulletinEmpty" style="display:none;">No updates posted in this category yet — check back soon, or browse "All Updates".</div>
 </div>
-<p class="updates-note" data-i18n="updates_note">The section above is manually curated and verified, updated periodically. Below is a genuinely live, auto-refreshing feed pulled directly from official RBI and Government of India sources — see the "How this works" note at the bottom for what's actually automated versus manual.</p>
+<p class="updates-note" data-i18n="updates_note">This bulletin is manually curated and verified, updated periodically, with full context for each item. Switch to the "Live Feed" tab above for a genuinely auto-refreshing feed pulled directly from official RBI and Government of India sources — see its "How this works" note for what's automated versus manual.</p>
 <div class="disclaimer-box"><span class="ic">⚠️</span><p><strong>Disclaimer:</strong> The updates above are provided for general informational purposes only and do not constitute legal, tax, or professional advice. While every effort is made to keep this content accurate and current, laws and notifications change frequently — always verify against the official source (linked with each item) before relying on it, and consult a qualified professional for advice specific to your situation.</p></div>
 </div>
 <aside class="cal-widget">
@@ -1260,34 +1264,27 @@
 <p class="cal-widget-note">Updated monthly. Tap/hover a highlighted date for details — dates shift for holidays, weekends and official extensions, so cross-check against the bulletin before filing.</p>
 </aside>
 </div>
-  </div>
-</section>
-
-<section id="livefeed"><div class="grain"></div><div class="glow glow-neutral"></div>
-  <div class="wrap">
-    <div class="section-head">
-      <div>
-        <div class="section-num">04 — Live Regulatory Feed</div>
-        <h2 style="margin-top:10px;">Auto-updating, straight from official sources</h2>
-        <p class="section-sub">Refreshed daily via a scheduled job that reads RBI's and the Government of India's own RSS feeds — no manual editing involved. <span id="feedTimestamp" style="font-family:'IBM Plex Mono',monospace;font-size:12.5px;"></span></p>
-      </div>
-    </div>
-    <div id="liveFeedList" class="updates-grid">
-      <div class="update-card">
-        <div class="update-tag">Setup needed</div>
-        <h3>Live feed not connected yet</h3>
-        <p>This section reads a file called <code>updates-feed.json</code> that a scheduled script generates. It only works once the site is hosted online (not when opened as a local file) and the automation below has been set up. See the "How this works" note underneath for the two-step setup.</p>
-        <div class="update-date">—</div>
-      </div>
-    </div>
-    <p class="updates-note"><strong>How this works:</strong> a small script (included in your download as an <code>automation/</code> folder) checks RBI's official RSS feeds and the Government of India's PIB press-release feed every day, filters out anything unrelated to banking/tax/compliance, and writes the results to <code>updates-feed.json</code>. This page then loads that file automatically. To activate it: (1) push the site to a free GitHub Pages site or any static host, (2) enable the included GitHub Action (already scheduled to run daily). Full instructions are in <code>automation/README.md</code>. Until that's set up, this box will stay empty — that's expected, not a bug.</p>
+</div>
+</div>
+<div id="livePanel" style="display:none;">
+<p class="section-sub" style="margin-bottom:20px;">Refreshed daily via a scheduled job that reads RBI's and the Government of India's own RSS feeds — no manual editing involved. <span id="feedTimestamp" style="font-family:'IBM Plex Mono',monospace;font-size:12.5px;"></span></p>
+<div id="liveFeedList" class="updates-grid">
+<div class="update-card">
+<div class="update-tag">Setup needed</div>
+<h3>Live feed not connected yet</h3>
+<p>This section reads a file called <code>updates-feed.json</code> that a scheduled script generates. It only works once the site is hosted online (not when opened as a local file) and the automation below has been set up. See the "How this works" note underneath for the two-step setup.</p>
+<div class="update-date">—</div>
+</div>
+</div>
+<p class="updates-note"><strong>How this works:</strong> a small script (included in your download as an <code>automation/</code> folder) checks RBI's official RSS feeds and the Government of India's PIB press-release feed every day, filters out anything unrelated to banking/tax/compliance, and writes the results to <code>updates-feed.json</code>. This page then loads that file automatically. To activate it: (1) push the site to a free GitHub Pages site or any static host, (2) enable the included GitHub Action (already scheduled to run daily). Full instructions are in <code>automation/README.md</code>. Until that's set up, this box will stay empty — that's expected, not a bug.</p>
+</div>
   </div>
 </section>
 <section id="downloads"><div class="grain"></div><div class="glow glow-gold"></div>
 <div class="wrap">
 <div class="section-head">
 <div>
-<div class="section-num">05 — Downloads</div>
+<div class="section-num">04 — Downloads</div>
 <h2 style="margin-top:10px;">Letter &amp; notice formats</h2>
 <p class="section-sub" data-i18n="downloads_sub">Ready-to-edit formats for common situations — replies to notices, complaints and applications. Download, fill in the bracketed details, and print on your own letterhead.</p>
 </div>
@@ -1394,7 +1391,7 @@
 <div class="wrap">
 <div class="section-head">
 <div>
-<div class="section-num">06 — Tools</div>
+<div class="section-num">05 — Tools</div>
 <h2 style="margin-top:10px;">Financial Calculators</h2>
 <p class="section-sub" data-i18n="tools_sub">Quick, simplified estimates for common situations. All figures are illustrative — for anything with real money or legal stakes, confirm with a professional before acting.</p>
 </div>
@@ -1417,7 +1414,6 @@
 <button class="filter-pill" data-tool="gstlatefee">GST Late Fee</button>
 <button class="filter-pill" data-tool="tcsinterest">Interest on TCS</button>
 <button class="filter-pill" data-tool="leaveencashment">Leave Encashment Tax</button>
-<button class="filter-pill" data-tool="q194check">194Q Applicability</button>
 <button class="filter-pill" data-tool="penalties">Penalty Reference</button>
 </div>
 <!-- Income Tax Calculator -->
@@ -1973,31 +1969,6 @@
 </div>
 </div>
 </div>
-<!-- Section 194Q Applicability Checker -->
-<div class="calc-panel" id="panel-q194check">
-<div class="calc-wrap">
-<div>
-<div class="calc-field">
-<label for="q194BuyerTurnover">Buyer's Turnover — Preceding FY (₹)</label>
-<input id="q194BuyerTurnover" min="0" step="1000000" type="number" value="150000000"/>
-</div>
-<div class="calc-field">
-<label for="q194Purchase">Purchase Value from This Seller — Current FY (₹)</label>
-<input id="q194Purchase" min="0" step="100000" type="number" value="6000000"/>
-</div>
-</div>
-<div class="calc-results">
-<h3>194Q Applicability</h3>
-<div class="calc-row"><span>Buyer turnover &gt; ₹10 crore?</span><span class="v mono" id="q194Cond1">—</span></div>
-<div class="calc-row"><span>Purchases from this seller &gt; ₹50 lakh?</span><span class="v mono" id="q194Cond2">—</span></div>
-<div class="calc-total"><span>194Q Applicable?</span><span class="v" id="q194Result">—</span></div>
-<div class="calc-row"><span>If applicable — TDS Rate</span><span class="v mono" id="q194Rate">0.1%</span></div>
-<div class="calc-row"><span>If applicable — TDS on Excess Over ₹50L</span><span class="v mono" id="q194TDSAmt">₹0</span></div>
-<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, this was governed by <strong>Section 194Q</strong>: a buyer with turnover exceeding ₹10 crore in the preceding financial year must deduct TDS at 0.1% on purchases of goods from a resident seller exceeding ₹50 lakh in a financial year, on the amount over ₹50 lakh. <strong>Section 206C(1H)</strong> (seller-side TCS on sale of goods) stood repealed with effect from 1 April 2025, so only 194Q applied thereafter — there was no overlap to check. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); Section 194Q is now consolidated under <strong>Section 393</strong> of the new Act (identified by its payment code rather than a standalone section number). The threshold, rate, and repeal of the seller-side TCS overlap are unchanged. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
-<p class="calc-note"><strong>Important:</strong> Section 206C(1H) (seller-side TCS on sale of goods) was repealed with effect from 1 April 2025. Only Section 194Q (buyer-side TDS) now applies to high-value goods purchases — there is no overlap to check for FY 2025-26 onward. This checker reflects that current position.</p>
-</div>
-</div>
-</div>
 <!-- Penalty Reference (not a calculator) -->
 <div class="calc-panel" id="panel-penalties">
 <p class="section-sub" data-i18n="penalties_sub" style="margin-bottom:24px;">Common penalty and interest provisions by law — for quick reference only. Actual penalties depend on facts, intent and department discretion; this is not a calculator.</p>
@@ -2151,7 +2122,7 @@
 <div class="wrap">
 <div class="section-head">
 <div>
-<div class="section-num">07 — On the Ground</div>
+<div class="section-num">06 — On the Ground</div>
 <h2 style="margin-top:10px;">Talks, sessions &amp; events</h2>
 <p class="section-sub" data-i18n="gallery_sub">A few moments from workshops, seminars, speaking engagements and public outreach.</p>
 </div>
@@ -2192,7 +2163,7 @@
 <div class="wrap">
 <div class="section-head">
 <div>
-<div class="section-num">08 — FAQ</div>
+<div class="section-num">07 — FAQ</div>
 <h2 style="margin-top:10px;">Common questions</h2>
 </div>
 </div>
@@ -2407,6 +2378,33 @@
     setLanguage(currentLang);
   });
   // ---------- end bilingual sample ----------
+
+  // ---------- Updates section: Curated vs Live toggle ----------
+  (function updateModeToggle(){
+    const modeBtns = document.querySelectorAll('#updateModeToggle .filter-pill');
+    const curatedPanel = document.getElementById('curatedPanel');
+    const livePanel = document.getElementById('livePanel');
+    const descEl = document.getElementById('updateModeDesc');
+    const descCurated = "Tap any update to expand it — what changed, when, why, who it affects, whose responsibility it is, the background, and where to verify it. Always cross-check against the official source linked inside.";
+    const descLive = "A genuinely auto-refreshing feed — no manual editing involved. Pulled directly from RBI's and the Government of India's own RSS feeds once the automation below is set up.";
+    modeBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        modeBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const mode = btn.getAttribute('data-mode');
+        if (mode === 'live') {
+          curatedPanel.style.display = 'none';
+          livePanel.style.display = '';
+          if (descEl) descEl.textContent = descLive;
+        } else {
+          curatedPanel.style.display = '';
+          livePanel.style.display = 'none';
+          if (descEl) descEl.textContent = descCurated;
+        }
+      });
+    });
+  })();
+  // ---------- end updates toggle ----------
 
   // ---------- Live regulatory feed (reads updates-feed.json, generated by automation/fetch_updates.py) ----------
   (function loadLiveFeed(){
@@ -2941,27 +2939,6 @@
   }
   ['leAmount','leEmployeeType','leAvgSalary','leDaysUnused'].forEach(id => document.getElementById(id).addEventListener('input', updateLeaveEncashment));
   updateLeaveEncashment();
-
-  // Section 194Q Applicability Checker
-  function updateQ194Check(){
-    const turnover = parseFloat(document.getElementById('q194BuyerTurnover').value) || 0;
-    const purchase = parseFloat(document.getElementById('q194Purchase').value) || 0;
-    const cond1 = turnover > 100000000; // > 10 crore
-    const cond2 = purchase > 5000000; // > 50 lakh
-    const applicable = cond1 && cond2;
-    document.getElementById('q194Cond1').textContent = cond1 ? 'Yes' : 'No';
-    document.getElementById('q194Cond2').textContent = cond2 ? 'Yes' : 'No';
-    document.getElementById('q194Result').textContent = applicable ? 'Yes — 194Q applies' : 'No';
-    if (applicable){
-      const excess = purchase - 5000000;
-      const tds = excess * 0.001;
-      document.getElementById('q194TDSAmt').textContent = formatINR(Math.round(tds));
-    } else {
-      document.getElementById('q194TDSAmt').textContent = '₹0';
-    }
-  }
-  ['q194BuyerTurnover','q194Purchase'].forEach(id => document.getElementById(id).addEventListener('input', updateQ194Check));
-  updateQ194Check();
 
   // ---------- Contact form: validates + submits to Google Sheets via Apps Script ----------
   // IMPORTANT: replace the URL below with your own Apps Script Web App URL.
