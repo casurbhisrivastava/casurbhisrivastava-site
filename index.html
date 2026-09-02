@@ -281,6 +281,15 @@
   .calc-total{display:flex;justify-content:space-between;padding-top:14px;margin-top:6px;border-top:2px solid var(--ink);font-family:'Poppins',sans-serif;font-weight:700;font-size:16px;}
   .calc-total .v{font-family:'IBM Plex Mono',monospace;color:var(--oxblood);font-size:19px;}
   .calc-note{font-size:12px;color:var(--ink-soft);margin-top:16px;line-height:1.5;}
+  .legal-basis{margin-top:14px;background:rgba(212,168,87,0.05);border:1px solid rgba(212,168,87,0.22);border-radius:10px;padding:2px 16px;}
+  .legal-basis summary{cursor:pointer;list-style:none;padding:12px 0;font-size:12.5px;font-weight:700;color:var(--focus);display:flex;align-items:center;gap:7px;}
+  .legal-basis summary::-webkit-details-marker{display:none;}
+  .legal-basis summary::before{content:'⚖';font-size:13px;}
+  .legal-basis[open] summary{border-bottom:1px solid rgba(212,168,87,0.22);}
+  .legal-basis .lb-body{padding:12px 0 16px;font-size:12.5px;line-height:1.7;color:var(--ink-soft);}
+  .legal-basis .lb-body a{color:var(--focus);text-decoration:none;}
+  .legal-basis .lb-body a:hover{text-decoration:underline;}
+  .legal-basis .lb-body strong{color:var(--ink);}
   @media (max-width:820px){.calc-wrap{grid-template-columns:1fr;} .calc-results{border-left:none;padding-left:0;border-top:1px solid var(--rule);padding-top:28px;}}
 
   /* Tool panels */
@@ -1429,7 +1438,8 @@
 <div class="calc-row"><span>Old Regime (with deductions)</span><span class="v mono" id="oldTax">₹0</span></div>
 <div class="calc-row"><span>New Regime (default)</span><span class="v mono" id="newTax">₹0</span></div>
 <div class="calc-total"><span>Better Option</span><span class="v" id="betterOption">—</span></div>
-<p class="calc-note" data-i18n="calcnote1">Uses simplified FY 2025–26 slab rates and a standard deduction of ₹75,000 (new regime) / ₹50,000 (old regime), excluding cess and surcharge.</p>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Tax slabs and the New Regime are governed by <strong>Section 202 of the Income-tax Act, 2025</strong> (the successor to Section 115BAC of the Income-tax Act, 1961), which is the default regime unless the taxpayer opts out. The Old Regime slabs and deductions (Section 80C, 80D, etc., renumbered within the deductions chapter of the 2025 Act) continue under the general charging provisions. Rates shown are exclusive of applicable cess and surcharge. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward). Budget 2026 made no change to these slab rates — they carry forward unchanged from FY 2025-26. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
+<p class="calc-note" data-i18n="calcnote1">Uses FY 2026-27 slab rates (unchanged from FY 2025–26 per Budget 2026) and a standard deduction of ₹75,000 (new regime) / ₹50,000 (old regime), excluding cess and surcharge.</p>
 </div>
 </div>
 </div>
@@ -1575,6 +1585,7 @@
 <div class="calc-row"><span>Base Amount</span><span class="v mono" id="gstBase">₹0</span></div>
 <div class="calc-row"><span>GST Amount</span><span class="v mono" id="gstAmountOut">₹0</span></div>
 <div class="calc-total"><span>Total Amount</span><span class="v" id="gstTotal">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">GST is levied under <strong>Section 9 of the CGST Act, 2017</strong> (and the corresponding SGST/UTGST Acts), with the value of supply determined under <strong>Section 15 of the CGST Act, 2017</strong>. Intra-state supplies attract CGST + SGST at the notified rate; inter-state supplies attract IGST under <strong>Section 5 of the IGST Act, 2017</strong>. Applicable rate depends on the HSN/SAC classification as notified by the GST Council/CBIC. <a href="https://www.cbic.gov.in" rel="noopener" target="_blank">Verify current rates on the CBIC portal →</a></div></details>
 <p class="calc-note" data-i18n="calcnote6">CGST + SGST (or IGST) split isn't shown — this is the combined GST amount only.</p>
 </div>
 </div>
@@ -1608,6 +1619,7 @@
 <div class="calc-row"><span>Months Counted (part-month = full month)</span><span class="v mono" id="tdsMonths">0</span></div>
 <div class="calc-row"><span>Applicable Rate</span><span class="v mono" id="tdsRateOut">0%</span></div>
 <div class="calc-total"><span>Estimated Interest</span><span class="v" id="tdsInterestOut">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, this was governed by <strong>Section 201(1A)</strong>: interest at 1% per month (or part thereof) for failure to deduct TDS, and 1.5% per month (or part thereof) for TDS deducted but not deposited on time — computed on a calendar-month basis, not per day. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); TDS provisions are now consolidated under Sections 392–393, with the corresponding interest-for-default provision regrouped under Chapter XIX of the new Act. Rates are unchanged — confirm the exact section reference before citing it for FY 2026-27 compliance. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
 <p class="calc-note" data-i18n="calcnote7">Interest under Section 201(1A) is calculated per calendar month or part thereof — this is a simplified estimate; verify against your actual deduction/payment dates and the department's calculation.</p>
 </div>
 </div>
@@ -1634,6 +1646,7 @@
 <div class="calc-row"><span>Months Counted (part-month = full month)</span><span class="v mono" id="tcsMonths">0</span></div>
 <div class="calc-row"><span>Applicable Rate</span><span class="v mono">1% per month</span></div>
 <div class="calc-total"><span>Estimated Interest</span><span class="v" id="tcsInterestOut">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, this was governed by <strong>Section 206C(7)</strong>: interest at 1% per month (or part thereof) where tax collected at source (TCS) is not paid to the government within the prescribed time, computed from the date it was collectible to the date of actual payment. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); TCS provisions are now consolidated under <strong>Section 394</strong> of the new Act. Rates are unchanged — confirm the exact sub-provision before citing it for FY 2026-27 compliance. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
 <p class="calc-note" data-i18n="calcnote8">Section 206C(7) charges 1% per month or part thereof on delayed TCS collection/payment — this is a simplified estimate.</p>
 </div>
 </div>
@@ -1667,6 +1680,7 @@
 <div class="calc-row"><span>Days Delayed</span><span class="v mono" id="gstiDays">0</span></div>
 <div class="calc-row"><span>Applicable Rate</span><span class="v mono" id="gstiRateOut">18% p.a.</span></div>
 <div class="calc-total"><span>Estimated Interest</span><span class="v" id="gstiInterestOut">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Governed by <strong>Section 50(1) of the CGST Act, 2017</strong> read with <strong>Rule 88B</strong>: interest at 18% p.a. (simple interest) applies on tax paid late through the electronic cash ledger, for the period from the day after the due date to the date of payment. <strong>Section 50(3)</strong> charges interest at 24% p.a. on input tax credit wrongly availed and utilised, or on any wrongful refund, running from the date of utilisation/refund until repayment. <a href="https://www.cbic.gov.in" rel="noopener" target="_blank">Verify on the CBIC portal →</a></div></details>
 <p class="calc-note" data-i18n="calcnote9">Calculated on a daily basis (rate × days/365) as per Section 50 of the CGST Act — a simplified estimate excluding any partial-payment adjustments.</p>
 </div>
 </div>
@@ -1739,6 +1753,7 @@
 <div class="calc-row"><span>50%/40% of Basic (per city)</span><span class="v mono" id="hraOut3">₹0</span></div>
 <div class="calc-total"><span>Exempt HRA (Least of Above)</span><span class="v" id="hraExempt">₹0</span></div>
 <div class="calc-row"><span>Taxable HRA</span><span class="v mono" id="hraTaxable">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, this was governed by <strong>Section 10(13A)</strong> read with <strong>Rule 2A of the Income-tax Rules, 1962</strong>. The exempt amount is the least of: actual HRA received, rent paid minus 10% of salary, or 50% of salary (metro cities) / 40% of salary (non-metro cities). Available only under the Old Tax Regime. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); exemptions formerly under Section 10 have been renumbered/moved within the new Act's structure. The exemption formula and limits are unchanged — confirm the exact new-Act reference before citing it for FY 2026-27 compliance. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
 <p class="calc-note">HRA exemption is available only under the Old Tax Regime, and only if you actually pay rent. Exemption = least of the three figures above.</p>
 </div>
 </div>
@@ -1814,7 +1829,8 @@
 <div class="calc-row"><span>Applicable Rate</span><span class="v mono" id="tdscRateOut">0%</span></div>
 <div class="calc-total"><span>TDS Amount</span><span class="v" id="tdscAmountOut">₹0</span></div>
 <div class="calc-row"><span>Net Payment After TDS</span><span class="v mono" id="tdscNetOut">₹0</span></div>
-<p class="calc-note">FY 2025-26 standard rates, ignoring thresholds and specific exemptions. Actual applicability depends on threshold limits, payee category, and any lower-deduction certificate — verify before deducting.</p>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, TDS was deducted under the relevant provision of <strong>Chapter XVII-B</strong> (e.g. Section 194C — contractors, 194H — commission/brokerage, 194I — rent, 194J — professional/technical fees, 194A — interest, 194Q — purchase of goods). <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); TDS on salary is now consolidated under <strong>Section 392</strong> and TDS on all other payments (including the provisions listed above) under <strong>Section 393</strong> of the new Act, each identified by a payment code rather than a standalone section number. Rates and thresholds are unchanged. This tool applies standard rates only — verify the specific payment code, threshold, and any lower/nil-deduction certificate before deducting. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
+<p class="calc-note">FY 2026-27 standard rates (unchanged from FY 2025-26), ignoring thresholds and specific exemptions. Actual applicability depends on threshold limits, payee category, and any lower-deduction certificate — verify before deducting.</p>
 </div>
 </div>
 </div>
@@ -1843,8 +1859,9 @@
 <h3>Projected EPF Corpus at Retirement (Age 58)</h3>
 <div class="calc-row"><span>Employee Contribution (12% of Basic)</span><span class="v mono" id="epfEmpContrib">₹0</span></div>
 <div class="calc-row"><span>Employer Contribution (3.67% to EPF)</span><span class="v mono" id="epfErContrib">₹0</span></div>
-<div class="calc-row"><span>Interest Rate Used</span><span class="v mono">8.25% p.a. (FY 2025–26)</span></div>
+<div class="calc-row"><span>Interest Rate Used</span><span class="v mono">8.25% p.a. (last notified, FY 2025–26)</span></div>
 <div class="calc-total"><span>Projected Corpus at Retirement</span><span class="v" id="epfCorpus">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Governed by the <strong>Employees' Provident Funds &amp; Miscellaneous Provisions Act, 1952</strong> and the <strong>Employees' Provident Fund Scheme, 1952</strong>. Employee contribution is 12% of basic + DA; employer's matching 12% is split between EPF (3.67%) and the Employees' Pension Scheme (8.33%, subject to a wage ceiling). The interest rate is notified annually by the EPFO/Central Government — 8.25% p.a. was the last confirmed rate (FY 2025–26); the FY 2026-27 rate had not yet been notified as of this update, so 8.25% is carried forward as an estimate. <a href="https://www.epfindia.gov.in" rel="noopener" target="_blank">Verify current rate on the EPFO portal →</a></div></details>
 <p class="calc-note">Employer's remaining 8.33% typically goes to EPS (pension), not EPF principal, so only 3.67% employer share is compounded here. Simplified year-by-year projection; excludes EPS, VPF, and withdrawal scenarios.</p>
 </div>
 </div>
@@ -1875,6 +1892,7 @@
 <div class="calc-row"><span>Gratuity Payable</span><span class="v mono" id="gratPayable">₹0</span></div>
 <div class="calc-row"><span>Statutory Exemption Ceiling</span><span class="v mono">₹20,00,000</span></div>
 <div class="calc-total"><span>Exempt Gratuity (Least of Payable / Ceiling)</span><span class="v" id="gratExempt">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Gratuity payable is computed under <strong>Section 4 of the Payment of Gratuity Act, 1972</strong> (15 days' wages for every completed year of service, using the 15/26 formula for covered employees) — this Act is unaffected by the Income Tax Act transition below. Tax exemption on the amount received was governed by <strong>Section 10(10) of the Income-tax Act, 1961</strong>, subject to a lifetime ceiling of ₹20 lakh as last notified by the Central Government. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); exemptions formerly under Section 10 have been renumbered/moved within the new Act's structure. The exemption formula and ₹20 lakh ceiling are unchanged — confirm the exact new-Act reference before citing it for FY 2026-27 compliance. <a href="https://labour.gov.in" rel="noopener" target="_blank">Verify on the Ministry of Labour &amp; Employment portal →</a></div></details>
 <p class="calc-note">Requires minimum 5 years of continuous service (except death/disablement). Years of service is rounded per the Act's rules (6+ months counts as a full year for covered employees) — this tool uses your entered whole-year figure directly.</p>
 </div>
 </div>
@@ -1913,6 +1931,7 @@
 <div class="calc-row"><span>Per-Day Rate</span><span class="v mono" id="glfRateOut">₹50/day</span></div>
 <div class="calc-row"><span>Before Cap (CGST + SGST)</span><span class="v mono" id="glfBeforeCap">₹0</span></div>
 <div class="calc-total"><span>Late Fee Payable (Capped)</span><span class="v" id="glfPayable">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Governed by <strong>Section 47 of the CGST Act, 2017</strong> read with CBIC notifications prescribing the per-day rate (₹25 CGST + ₹25 SGST for standard returns, lower for nil returns) and turnover-based caps. Late fee must be paid in cash and cannot be offset against Input Tax Credit. <a href="https://www.cbic.gov.in" rel="noopener" target="_blank">Verify current caps on the CBIC portal →</a></div></details>
 <p class="calc-note">This is late FEE only (for delayed filing) — separate from INTEREST on unpaid tax (see the "Interest on GST" tool). Late fee must be paid in cash and cannot be offset against ITC.</p>
 </div>
 </div>
@@ -1949,6 +1968,7 @@
 <div class="calc-row"><span>Statutory Ceiling</span><span class="v mono">₹25,00,000</span></div>
 <div class="calc-total"><span>Exempt Amount (Least of Above)</span><span class="v" id="leExempt">₹0</span></div>
 <div class="calc-row"><span>Taxable Amount</span><span class="v mono" id="leTaxable">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, this was governed by <strong>Section 10(10AA)</strong>. Government employees: fully exempt. Non-government employees: exemption is the least of actual amount received, 10 months' average salary, cash equivalent of unused leave, or the statutory ceiling — currently ₹25 lakh (a lifetime limit across all employers) per <strong>CBDT Notification No. 31/2023</strong>. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); this exemption has been renumbered within the new Act (reported in tax literature as Section 19, though this should be confirmed against the Act text). The exemption formula and ₹25 lakh ceiling are unchanged. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
 <p class="calc-note">Government employees: fully exempt, this tool shows ₹0 taxable. Non-government employees: exemption is the least of the figures above (₹25 lakh ceiling is a lifetime limit across all employers, per CBDT Notification 31/2023).</p>
 </div>
 </div>
@@ -1973,6 +1993,7 @@
 <div class="calc-total"><span>194Q Applicable?</span><span class="v" id="q194Result">—</span></div>
 <div class="calc-row"><span>If applicable — TDS Rate</span><span class="v mono" id="q194Rate">0.1%</span></div>
 <div class="calc-row"><span>If applicable — TDS on Excess Over ₹50L</span><span class="v mono" id="q194TDSAmt">₹0</span></div>
+<details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, this was governed by <strong>Section 194Q</strong>: a buyer with turnover exceeding ₹10 crore in the preceding financial year must deduct TDS at 0.1% on purchases of goods from a resident seller exceeding ₹50 lakh in a financial year, on the amount over ₹50 lakh. <strong>Section 206C(1H)</strong> (seller-side TCS on sale of goods) stood repealed with effect from 1 April 2025, so only 194Q applied thereafter — there was no overlap to check. <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); Section 194Q is now consolidated under <strong>Section 393</strong> of the new Act (identified by its payment code rather than a standalone section number). The threshold, rate, and repeal of the seller-side TCS overlap are unchanged. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
 <p class="calc-note"><strong>Important:</strong> Section 206C(1H) (seller-side TCS on sale of goods) was repealed with effect from 1 April 2025. Only Section 194Q (buyer-side TDS) now applies to high-value goods purchases — there is no overlap to check for FY 2025-26 onward. This checker reflects that current position.</p>
 </div>
 </div>
@@ -2123,6 +2144,7 @@
 </div>
 </div>
 </div>
+<div class="disclaimer-box"><span class="ic">⚠️</span><p><strong>Disclaimer:</strong> These calculators are provided for general informational and estimation purposes only. Income-tax related calculations reflect provisions carried forward from the Income-tax Act, 1961 into the <strong>Income-tax Act, 2025</strong> (effective 1 April 2026, Tax Year 2026-27 onward) — rates, thresholds and exemption limits are unchanged, but section numbers have been renumbered across the two Acts, and individual "Legal Basis" notes on each tool flag this transition. GST-related calculations are based on the CGST/SGST/IGST Acts, 2017 (unaffected by the income-tax transition). Provident fund and gratuity calculations are based on the Employees' Provident Funds &amp; Miscellaneous Provisions Act, 1952 and the Payment of Gratuity Act, 1972 respectively. All figures reflect our understanding of the law, rules, notifications and circulars as of the date shown against each result and are subject to change through future government notifications. These tools are <strong>not a substitute for professional tax, legal or financial advice</strong> and must not be relied upon for statutory filings, invoicing, or compliance decisions. Please cross-verify all figures against the official source linked with each calculator, or consult a qualified professional, before acting on them. CA Surbhi Srivastava accepts no liability for any loss, penalty or discrepancy arising from reliance on this tool.</p></div>
 </div>
 </section>
 <section id="gallery"><div class="grain"></div><div class="glow glow-neutral"></div>
