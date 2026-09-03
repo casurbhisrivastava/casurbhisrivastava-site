@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:40:48+00:00",
+  "generated_at": "2026-09-03T05:39:00+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -118,14 +118,6 @@
       "pdf_link": null
     },
     {
-      "title": "Processing of Applications Received Under the Citizen’s Charter - Status as on August 31, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63495",
-      "date": "2026-09-01",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1017773ACD9F833B4448A6020CB4FB8AB835.PDF"
-    },
-    {
       "title": "Missed August 31 ITR deadline? Know what ITR 3 and ITR 4 filers can do now",
       "link": "https://economictimes.indiatimes.com/wealth/tax/missed-august-31-2026-itr-deadline-know-what-itr-3-itr-4-income-tax-return-filers-can-do-now/articleshow/133675536.cms",
       "date": "2026-09-01",
@@ -223,7 +215,7 @@
     },
     {
       "title": "Gross and Net GST revenue collections for the month of August, 2026",
-      "link": "https://www.gst.gov.in//www.gst.gov.in/newsandupdates/read/670",
+      "link": "https://www.gst.gov.in/newsandupdates/read/670",
       "date": "2026-09-01",
       "source": "GST Portal (Official)",
       "category": "gst",
@@ -248,6 +240,14 @@
     {
       "title": "Filing ITR-3 for AY 2026-2027? Here’s 7 aspects to look out for before filing it",
       "link": "https://economictimes.indiatimes.com/wealth/tax/filing-itr-3-for-ay-2026-2027-heres-7-aspects-to-look-out-for-before-filing-it/articleshow/133651013.cms",
+      "date": "2026-08-31",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 16 lakh cash seized in income tax raid, tax officer calls it unexplained cash; Taxpayer claims it to be family money, he fights and wins the case in ITAT Mumbai",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-16-lakh-cash-seized-in-income-tax-raid-tax-officer-calls-it-unexplained-cash-taxpayer-claims-it-to-be-family-money-he-fights-and-wins-the-case-in-itat-mumbai/articleshow/133647793.cms",
       "date": "2026-08-31",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
