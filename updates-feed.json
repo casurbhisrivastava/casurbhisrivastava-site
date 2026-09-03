@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:39:00+00:00",
+  "generated_at": "2026-09-03T10:42:39+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,30 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Russian Sberbank works towards expansion in India",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/russian-sberbank-works-towards-expansion-in-india/articleshow/133733002.cms",
+      "date": "2026-09-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "What Is the Best Way to Pay for an International Trip and Does My Credit Card Include Airport Lounge Access?",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/what-is-the-best-way-to-pay-for-an-international-trip-and-does-my-credit-card-include-airport-lounge-access/articleshow/133731064.cms",
+      "date": "2026-09-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "India's bank liquidity surplus hits all-time high riding flood of dollar deposits",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-bank-liquidity-surplus-hits-all-time-high-riding-flood-of-dollar-deposits/articleshow/133729404.cms",
+      "date": "2026-09-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "GIFT IFSC emerges as international banking hub with $52.82 bn FCNR(B) disbursals: Uday Kotak",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gift-ifsc-emerges-as-international-banking-hub-with-52-82-bn-fcnrb-disbursals-uday-kotak/articleshow/133725241.cms",
@@ -44,14 +68,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR102468094D8E973C498B910B6C89CAFD7C6C.PDF"
-    },
-    {
-      "title": "Conference for Registrars of Cooperative Societies held at Reserve Bank of India, New Delhi on September 1, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63499",
-      "date": "2026-09-02",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR10219E51369F88614912A781DC5E44BFB419.PDF"
     },
     {
       "title": "Deposits and Accounts – Accounts of Non-resident banks",
@@ -232,22 +248,6 @@
     {
       "title": "ITR filing August 31, 2026, deadline today: Due date for AY 2026-27; Check who must file return",
       "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-august-31-2026-deadline-today-due-date-for-ay-2026-27-check-who-must-file-return/articleshow/133653071.cms",
-      "date": "2026-08-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Filing ITR-3 for AY 2026-2027? Here’s 7 aspects to look out for before filing it",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/filing-itr-3-for-ay-2026-2027-heres-7-aspects-to-look-out-for-before-filing-it/articleshow/133651013.cms",
-      "date": "2026-08-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 16 lakh cash seized in income tax raid, tax officer calls it unexplained cash; Taxpayer claims it to be family money, he fights and wins the case in ITAT Mumbai",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-16-lakh-cash-seized-in-income-tax-raid-tax-officer-calls-it-unexplained-cash-taxpayer-claims-it-to-be-family-money-he-fights-and-wins-the-case-in-itat-mumbai/articleshow/133647793.cms",
       "date": "2026-08-31",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
