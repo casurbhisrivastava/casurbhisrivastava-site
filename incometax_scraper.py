@@ -111,7 +111,14 @@ def scrape_incometax_news():
             link_match = re.search(r'<a[^>]+href="([^"]+)"[^>]*>\s*Click here', block, flags=re.I)
             if link_match:
                 href = link_match.group(1)
-                link = href if href.startswith("http") else ("https://www.incometax.gov.in" + href)
+                if href.startswith("http://") or href.startswith("https://"):
+                    link = href
+                elif href.startswith("//"):
+                    link = "https:" + href
+                elif href.startswith("/"):
+                    link = "https://www.incometax.gov.in" + href
+                else:
+                    link = "https://www.incometax.gov.in/" + href.lstrip("/")
 
             is_pdf = bool(link and link.lower().endswith(".pdf"))
 
