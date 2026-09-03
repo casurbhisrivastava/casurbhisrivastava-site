@@ -137,7 +137,14 @@ def scrape_mca_notices():
                     link_el = candidates.nth(i).locator("a").first
                     href = link_el.get_attribute("href", timeout=1000)
                     if href:
-                        link = href if href.startswith("http") else ("https://www.mca.gov.in" + href)
+                        if href.startswith("http://") or href.startswith("https://"):
+                            link = href
+                        elif href.startswith("//"):
+                            link = "https:" + href
+                        elif href.startswith("/"):
+                            link = "https://www.mca.gov.in" + href
+                        else:
+                            link = "https://www.mca.gov.in/" + href.lstrip("/")
                 except Exception:
                     pass
 
