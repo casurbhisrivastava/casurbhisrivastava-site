@@ -71,8 +71,16 @@ def scrape_gst_news():
                     link_el = row.locator("a").first
                     title = link_el.inner_text(timeout=2000).strip()
                     href = link_el.get_attribute("href", timeout=1000)
-                    link = href if (href and href.startswith("http")) else (
-                        "https://www.gst.gov.in" + href if href else URL)
+                    if not href:
+                        link = URL
+                    elif href.startswith("http://") or href.startswith("https://"):
+                        link = href
+                    elif href.startswith("//"):
+                        link = "https:" + href
+                    elif href.startswith("/"):
+                        link = "https://www.gst.gov.in" + href
+                    else:
+                        link = "https://www.gst.gov.in/" + href.lstrip("/")
                 except Exception:
                     title, link = "", URL
 
