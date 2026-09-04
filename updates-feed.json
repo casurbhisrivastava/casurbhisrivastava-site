@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:42:39+00:00",
+  "generated_at": "2026-09-04T10:38:14+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,102 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Rs 25 lakh cash deposited in bank, income tax officer sends notice for unexplained cash u/s 69; Taxpayer wins case in ITAT Bangalore, here's why",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/rs-25-lakh-cash-deposited-in-bank-income-tax-officer-sends-notice-for-unexplained-cash-u/s-69-taxpayer-wins-case-in-itat-bangalore-heres-why/articleshow/133753257.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bengali Hindu landlord’s Rs 1.89-crore rental income faced tax dispute over HUF status: Why ITAT Delhi gave relief",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/bengali-hindu-landlords-rs-1-89-crore-rental-income-faced-tax-dispute-over-huf-status-why-itat-delhi-gave-relief/articleshow/133752732.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Gamer invested Rs 2.61 crore to play online rummy and poker games; loses net Rs 28 lakh, files ITR reporting Rs 4 lakh income; gets tax notice; he wins case in ITAT Bangalore",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/gamer-invested-rs-2-61-crore-to-play-online-rummy-and-poker-games-loses-net-rs-28-lakh-files-itr-reporting-rs-4-lakh-income-gets-tax-notice-he-wins-case-in-itat-bangalore/articleshow/133752528.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Foreign income disclosed in ITR-U: Why it could still trigger Black Money Act - FAST-DS 2026 Paradox",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-income-disclosed-in-itr-u-why-it-could-still-trigger-black-money-act-fast-ds-2026-paradox/articleshow/133736023.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Employee showed Rs 9.6 lakh EPF interest in ITR by mistake, got income tax notice: He fought and got full relief in ITAT Mumbai",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/employee-showed-rs-9-6-lakh-epf-interest-in-itr-by-mistake-got-income-tax-notice-he-fought-and-got-full-relief-in-itat-mumbai/articleshow/133750197.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "REITs and InvITs: Despite tax-free dividends, non-resident investors may need to file ITR to claim a refund of TDS",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/reits-and-invits-despite-tax-free-dividends-non-resident-investors-may-need-to-file-itr-to-claim-a-refund-of-tds/articleshow/133735763.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC, Kotak CEO departures put succession planning at India’s private banks under scrutiny",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-kotak-ceo-departures-put-succession-planning-at-indias-private-banks-under-scrutiny/articleshow/133754734.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks offer semi-fixed loans to deploy surplus liquidity",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-offer-semi-fixed-loans-to-deploy-surplus-liquidity/articleshow/133745422.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "LCR reset creates ₹2.1 Lakh-crore lending headroom for PSU Banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/lcr-reset-creates-2-1-lakh-crore-lending-headroom-for-psu-banks/articleshow/133745216.cms",
+      "date": "2026-09-04",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Shivraj Singh Chouhan seeks faster credit for women, meets banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/shivraj-singh-chouhan-seeks-faster-credit-for-women-meets-banks/articleshow/133741923.cms",
+      "date": "2026-09-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/liquidity-management-asset-quality-among-pillars-for-nbfc-growth-rbi-dg/articleshow/133733814.cms",
+      "date": "2026-09-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "WhatsApp launches bill payments in India to tap into country's UPI craze",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/whatsapp-launches-bill-payments-in-india-heres-how-to-pay-utility-bills-within-the-app/articleshow/133733464.cms",
+      "date": "2026-09-03",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Russian Sberbank works towards expansion in India",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/russian-sberbank-works-towards-expansion-in-india/articleshow/133733002.cms",
@@ -60,14 +156,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63502",
-      "date": "2026-09-02",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR102468094D8E973C498B910B6C89CAFD7C6C.PDF"
     },
     {
       "title": "Deposits and Accounts – Accounts of Non-resident banks",
@@ -163,94 +251,6 @@
       "date": "2026-09-01",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI approves Carol Furtado as interim CEO at Ujjivan Small Finance Bank after Sanjeev Nautiyal's exit",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-carol-furtado-as-interim-ceo-at-ujjivan-small-finance-bank-after-sanjeev-nautiyals-exit/articleshow/133686723.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Ujjivan Small Finance Bank CEO & MD Sanjeev Nautiyal steps down on health grounds",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/ujjivan-small-finance-bank-ceo-md-sanjeev-nautiyal-steps-down-on-health-grounds/articleshow/133680623.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank unions announce strikes on September 11 over unresolved issues",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-unions-announce-strikes-on-sept-11-over-unresolved-issues/articleshow/133675986.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank CEO Jagdishan’s refusal to overhaul bank fueled surprise exit as chairman pushed for changes",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-ceo-jagdishans-refusal-to-overhaul-bank-fueled-surprise-exit-as-chairman-pushed-for-changes/articleshow/133674606.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Festive surge drives UPI near record ₹29.8 lakh crore milestone across 24.5 billion transactions",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/festive-surge-drives-upi-near-record-29-8-lakh-crore-milestone-across-24-5-billion-transactions/articleshow/133671713.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank next CEO: Check bankers in the running for top job",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bankers-in-running-for-ceo-job-at-hdfc-bank-kaizad-bharucha-dinesh-khara-sbi/articleshow/133668896.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Rajesh Exports repays ₹510 crore dues to Canara Bank after DRT order",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rajesh-exports-repays-510-crore-dues-to-canara-bank-after-drt-order/articleshow/133662689.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "New trade rules raise compliance worries for banks over cross-border payments",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/new-trade-rules-raise-compliance-worries-for-banks-over-cross-border-payments/articleshow/133662591.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of August, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/670",
-      "date": "2026-09-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "CBDT has issued Notification No. 114/2026 [F. No. 370142/18/2026-TPL], notifying the rules and prescribed forms under the Foreign Assets of Small Taxpayers Disclosure Scheme, 2026.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
-      "date": "2026-09-01",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "ITR filing August 31, 2026, deadline today: Due date for AY 2026-27; Check who must file return",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-august-31-2026-deadline-today-due-date-for-ay-2026-27-check-who-must-file-return/articleshow/133653071.cms",
-      "date": "2026-08-31",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
