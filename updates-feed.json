@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:38:14+00:00",
+  "generated_at": "2026-09-05T09:59:26+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,62 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI approves LIC to acquire up to 9.99% stake in ICICI Bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-lic-to-acquire-up-to-9-99-stake-in-icici-bank/articleshow/133791372.cms",
+      "date": "2026-09-05",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes monetary penalty on Hinduja Leyland Finance Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63527",
+      "date": "2026-09-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1049BFCD71C6A508466FA30E95CA2DD75091.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Equifax Credit Information Services Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63523",
+      "date": "2026-09-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1045C356246711D64CDB82AAFEB038647297.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Sammaan Finserve Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63522",
+      "date": "2026-09-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1044905EFF647A2147DB86DF9F746194DCFB.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on CRIF High Mark Credit Information Services Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63521",
+      "date": "2026-09-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1043ACF7B3B19F6C4983A86A7FFC0E261B18.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on TransUnion CIBIL Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63520",
+      "date": "2026-09-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR10420EBE3665466C48FF9E4C963332649E40.PDF"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63519",
+      "date": "2026-09-04",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1041C8690061FACD4295B000205FE36DFBAB.PDF"
+    },
     {
       "title": "Rs 25 lakh cash deposited in bank, income tax officer sends notice for unexplained cash u/s 69; Taxpayer wins case in ITAT Bangalore, here's why",
       "link": "https://economictimes.indiatimes.com/wealth/legal/will/rs-25-lakh-cash-deposited-in-bank-income-tax-officer-sends-notice-for-unexplained-cash-u/s-69-taxpayer-wins-case-in-itat-bangalore-heres-why/articleshow/133753257.cms",
@@ -193,62 +249,6 @@
       "title": "IDFC First Bank 'scam': CBI files chargesheet against 6 Haryana IAS officers, 13 others",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idfc-first-bank-scam-cbi-files-chargesheet-against-6-haryana-ias-officers-13-others/articleshow/133710012.cms",
       "date": "2026-09-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "L&T Finance plans to add 500 gold loan branches annually",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/lt-finance-plans-to-add-500-gold-loan-branches-annually/articleshow/133707125.cms",
-      "date": "2026-09-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Small finance banks' asset quality to improve, GNPA to fall by March 2027: Crisil Ratings",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/small-finance-banks-asset-quality-to-improve-gnpa-to-fall-by-march-2027-crisil-ratings/articleshow/133703620.cms",
-      "date": "2026-09-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks seek CRR cut on green deposits to boost green lending in India",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-seek-crr-cut-on-green-deposits-to-boost-green-lending-in-india/articleshow/133690431.cms",
-      "date": "2026-09-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Missed August 31 ITR deadline? Know what ITR 3 and ITR 4 filers can do now",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-august-31-2026-itr-deadline-know-what-itr-3-itr-4-income-tax-return-filers-can-do-now/articleshow/133675536.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Can NRIs gift money to an HUF and save tax? Check these income clubbing and tax rules before transferring funds",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/can-nris-gift-money-to-an-huf-and-save-tax-check-these-income-clubbing-and-tax-rules-before-transferring-funds/articleshow/133673805.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Wife gets income tax notice after husband sells joint property Rs 14 lakh below market price; she fights back and wins the case in ITAT Kolkata",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/wife-gets-income-tax-notice-after-husband-sells-joint-property-rs-14-lakh-below-market-price-she-fights-back-and-wins-the-case-in-itat-kolkata/articleshow/133654081.cms",
-      "date": "2026-09-01",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks shifting microfinance strategy, prefer lending to entities over direct borrowers: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-shifting-microfinance-strategy-prefer-lending-to-entities-over-direct-borrowers-report/articleshow/133687317.cms",
-      "date": "2026-09-01",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
