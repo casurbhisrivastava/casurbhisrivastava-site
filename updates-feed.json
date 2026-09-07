@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:18:09+00:00",
+  "generated_at": "2026-09-07T11:37:59+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -13,6 +13,54 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nasik Jilha Mahila Vikas Sahakari Bank Ltd., Nasik – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63535",
+      "date": "2026-09-07",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR105791F329ADBF164E05A94EACE4A35F8093.PDF"
+    },
+    {
+      "title": "Gurgaon RWA sought charitable trust registration with rental and maintenance income; ITAT Chandigarh rejected RWA’s appeal for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/gurgaon-rwa-sought-charitable-trust-registration-with-rental-and-maintenance-income-itat-chandigarh-rejected-rwas-appeal-for-this-reason/articleshow/133867241.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "ITR was processed under the old tax regime due to tax consultant's mistake, taxpayer faced Rs 1.23 lakh demand: ITAT Bangalore allowed new tax regime",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-was-processed-under-the-old-tax-regime-due-to-tax-consultants-mistake-taxpayer-faced-rs-1-23-lakh-demand-itat-bangalore-allowed-new-tax-regime/articleshow/133864537.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Axis Bank launches Arise Homecoming to hire foreign educated talent",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-launches-arise-homecoming-to-hire-foreign-educated-talent/articleshow/133875951.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Fairfax to exit IIFL Finance before likely IDBI Bank deal; Blackstone emerges as suitor",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/fairfax-to-exit-iifl-finance-before-likely-idbi-bank-deal-blackstone/articleshow/133873530.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
+      "link": "https://www.gst.gov.in/newsandupdates/read/671",
+      "date": "2026-09-07",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
     {
       "title": "Difficult time for microfinance business behind us, Q2 to see growth, says IndusInd Bank MD",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/difficult-time-for-microfinance-business-behind-us-q2-to-see-growth-says-indusind-bank-md/articleshow/133827482.cms",
@@ -36,46 +84,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1049BFCD71C6A508466FA30E95CA2DD75091.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Equifax Credit Information Services Private Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63523",
-      "date": "2026-09-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1045C356246711D64CDB82AAFEB038647297.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Sammaan Finserve Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63522",
-      "date": "2026-09-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1044905EFF647A2147DB86DF9F746194DCFB.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on CRIF High Mark Credit Information Services Private Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63521",
-      "date": "2026-09-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1043ACF7B3B19F6C4983A86A7FFC0E261B18.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on TransUnion CIBIL Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63520",
-      "date": "2026-09-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR10420EBE3665466C48FF9E4C963332649E40.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63519",
-      "date": "2026-09-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1041C8690061FACD4295B000205FE36DFBAB.PDF"
     },
     {
       "title": "Rs 25 lakh cash deposited in bank, income tax officer sends notice for unexplained cash u/s 69; Taxpayer wins case in ITAT Bangalore, here's why",
@@ -243,14 +251,6 @@
       "date": "2026-09-02",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Need stronger governance, internal controls in urban cooperative banks: RBI Deputy Guv",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/need-stronger-governance-internal-controls-in-urban-cooperative-banks-rbi-deputy-guv/articleshow/133716355.cms",
-      "date": "2026-09-02",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
