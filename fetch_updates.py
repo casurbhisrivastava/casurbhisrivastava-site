@@ -104,8 +104,8 @@ def parse_rss(xml_bytes, source, category, always_include=False):
     items = []
     try:
         root = ET.fromstring(xml_bytes)
-    except ET.ParseError:
-        return items
+    except ET.ParseError as e:
+        raise RuntimeError(f"malformed XML/RSS response ({e})") from e
     for item in root.findall(".//item"):
         title_el = item.find("title")
         link_el = item.find("link")
@@ -184,6 +184,11 @@ def main():
             items = parse_rss(raw, feed["source"], feed["category"], feed.get("always_include", False))
             all_items.extend(items)
             print(f"OK  {feed['url']} -> {len(items)} relevant item(s)")
+            # For always_include feeds (PIB, GST-ET), 0 items is suspicious --
+            # unlike keyword-filtered feeds, they should virtually never come
+            # back empty, so flag it the same way the headless scrapers do.
+            if feed.get("always_include", False) and not items:
+                errors.append(f"{feed['url']}: fetched OK but 0 items parsed out (always_include feed -- check feed format)")
         except Exception as e:
             errors.append(f"{feed['url']}: {e}")
             print(f"ERR {feed['url']} -> {e}")
