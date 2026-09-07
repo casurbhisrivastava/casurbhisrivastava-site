@@ -1797,15 +1797,15 @@
 <div class="calc-field">
 <label for="tdscType">Nature of Payment</label>
 <select id="tdscType">
-<option data-rate="1" value="194c_ind">Contractor Payment — Individual/HUF (194C)</option>
-<option data-rate="2" value="194c_other">Contractor Payment — Company/Firm (194C)</option>
-<option data-rate="10" value="194j_prof">Professional Fees (194J)</option>
-<option data-rate="2" value="194j_tech">Technical Services / Call Centre (194J)</option>
-<option data-rate="10" value="194i_land">Rent — Land/Building/Furniture (194I)</option>
-<option data-rate="2" value="194i_pm">Rent — Plant/Machinery (194I)</option>
-<option data-rate="2" value="194h">Commission / Brokerage (194H)</option>
-<option data-rate="10" value="194a">Interest (Other than Securities) (194A)</option>
-<option data-rate="0.1" value="194q">Purchase of Goods (194Q)</option>
+<option data-rate="1" data-threshold="30000" data-threshold-note="₹30,000 per single contract or ₹1,00,000 in aggregate during the FY, whichever is breached first" value="194c_ind">Contractor Payment — Individual/HUF (194C)</option>
+<option data-rate="2" data-threshold="30000" data-threshold-note="₹30,000 per single contract or ₹1,00,000 in aggregate during the FY, whichever is breached first" value="194c_other">Contractor Payment — Company/Firm (194C)</option>
+<option data-rate="10" data-threshold="50000" data-threshold-note="₹50,000 in the financial year" value="194j_prof">Professional Fees (194J)</option>
+<option data-rate="2" data-threshold="50000" data-threshold-note="₹50,000 in the financial year" value="194j_tech">Technical Services / Call Centre (194J)</option>
+<option data-rate="10" data-threshold="50000" data-threshold-note="₹50,000 per month or part of month (treat this field as one month's rent)" value="194i_land">Rent — Land/Building/Furniture (194I)</option>
+<option data-rate="2" data-threshold="50000" data-threshold-note="₹50,000 per month or part of month (treat this field as one month's rent)" value="194i_pm">Rent — Plant/Machinery (194I)</option>
+<option data-rate="2" data-threshold="20000" data-threshold-note="₹20,000 in the financial year" value="194h">Commission / Brokerage (194H)</option>
+<option data-rate="10" data-threshold="50000" data-threshold-note="₹50,000 in the FY for individuals (₹1,00,000 for senior citizens, ₹10,000 in other cases) — this tool uses ₹50,000 as the general figure" value="194a">Interest (Other than Securities) (194A)</option>
+<option data-rate="0.1" data-threshold="5000000" data-threshold-note="₹50 lakh in the financial year (aggregate purchases from the seller)" value="194q">Purchase of Goods (194Q)</option>
 </select>
 </div>
 <div class="calc-field">
@@ -1822,11 +1822,13 @@
 </div>
 <div class="calc-results">
 <h3>Estimated TDS</h3>
+<div class="calc-row"><span>Threshold Limit</span><span class="v mono" id="tdscThresholdOut">₹0</span></div>
 <div class="calc-row"><span>Applicable Rate</span><span class="v mono" id="tdscRateOut">0%</span></div>
 <div class="calc-total"><span>TDS Amount</span><span class="v" id="tdscAmountOut">₹0</span></div>
 <div class="calc-row"><span>Net Payment After TDS</span><span class="v mono" id="tdscNetOut">₹0</span></div>
+<p class="calc-note" id="tdscThresholdNote" style="font-weight:600;"></p>
 <details class="legal-basis"><summary>Legal Basis</summary><div class="lb-body">Under the Income-tax Act, 1961, TDS was deducted under the relevant provision of <strong>Chapter XVII-B</strong> (e.g. Section 194C — contractors, 194H — commission/brokerage, 194I — rent, 194J — professional/technical fees, 194A — interest, 194Q — purchase of goods). <strong>Note:</strong> The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026 (Tax Year 2026-27 onward); TDS on salary is now consolidated under <strong>Section 392</strong> and TDS on all other payments (including the provisions listed above) under <strong>Section 393</strong> of the new Act, each identified by a payment code rather than a standalone section number. Rates and thresholds are unchanged. This tool applies standard rates only — verify the specific payment code, threshold, and any lower/nil-deduction certificate before deducting. <a href="https://incometaxindia.gov.in" rel="noopener" target="_blank">Verify on the Income Tax Department portal →</a></div></details>
-<p class="calc-note">FY 2026-27 standard rates (unchanged from FY 2025-26), ignoring thresholds and specific exemptions. Actual applicability depends on threshold limits, payee category, and any lower-deduction certificate — verify before deducting.</p>
+<p class="calc-note">FY 2026-27 standard rates (unchanged from FY 2025-26). If the payment is below the threshold shown above, no TDS applies. Actual applicability depends on aggregate payments in the year, payee category, and any lower-deduction certificate — verify before deducting.</p>
 </div>
 </div>
 </div>
@@ -2831,15 +2833,27 @@
   // TDS Calculator (general lookup)
   function updateTDSCalc(){
     const sel = document.getElementById('tdscType');
-    const rate = parseFloat(sel.options[sel.selectedIndex].getAttribute('data-rate')) || 0;
+    const opt = sel.options[sel.selectedIndex];
+    const rate = parseFloat(opt.getAttribute('data-rate')) || 0;
+    const threshold = parseFloat(opt.getAttribute('data-threshold')) || 0;
+    const thresholdNote = opt.getAttribute('data-threshold-note') || '';
     const amount = parseFloat(document.getElementById('tdscAmount').value) || 0;
     const hasPAN = document.getElementById('tdscPAN').value === 'yes';
-    const effectiveRate = hasPAN ? rate : Math.max(rate, 20);
-    const tds = amount * effectiveRate / 100;
+    const belowThreshold = amount <= threshold;
+    const rawRate = hasPAN ? rate : Math.max(rate, 20);
+    const effectiveRate = belowThreshold ? 0 : rawRate;
+    const tds = belowThreshold ? 0 : (amount * effectiveRate / 100);
     const net = amount - tds;
+    document.getElementById('tdscThresholdOut').textContent = formatINR(threshold);
     document.getElementById('tdscRateOut').textContent = effectiveRate + '%';
     document.getElementById('tdscAmountOut').textContent = formatINR(Math.round(tds));
     document.getElementById('tdscNetOut').textContent = formatINR(Math.round(net));
+    const noteEl = document.getElementById('tdscThresholdNote');
+    if (belowThreshold) {
+      noteEl.textContent = 'Payment is at or below the threshold (' + thresholdNote + ') — no TDS is deductible on this transaction.';
+    } else {
+      noteEl.textContent = 'Payment exceeds the threshold (' + thresholdNote + ') — TDS applies to the full amount, not just the excess.';
+    }
   }
   ['tdscType','tdscAmount','tdscPAN'].forEach(id => document.getElementById(id).addEventListener('input', updateTDSCalc));
   updateTDSCalc();
