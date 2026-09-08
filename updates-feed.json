@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:37:59+00:00",
+  "generated_at": "2026-09-08T10:37:29+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,16 +10,57 @@
     "https://economictimes.indiatimes.com/rssfeeds/13358259.cms"
   ],
   "errors": [
+    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (mismatched tag: line 37, column 6)",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nasik Jilha Mahila Vikas Sahakari Bank Ltd., Nasik – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63535",
-      "date": "2026-09-07",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Amanath Co-operative Bank Ltd., Bangalore - Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63543",
+      "date": "2026-09-08",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR105791F329ADBF164E05A94EACE4A35F8093.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1065A309FC94E52B4F278F10D6AC4DB73846.PDF"
+    },
+    {
+      "title": "$127 billion deposits raise new rupee risk as banks face future FX interest bills",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/127-billion-deposits-raise-new-rupee-risk-as-banks-face-future-fx-interest-bills/articleshow/133917125.cms",
+      "date": "2026-09-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "S&P assigns Bank of India 'BBB' rating on capital, funding strength",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sp-assigns-bank-of-india-bbb-rating-on-capital-funding-strength/articleshow/133915762.cms",
+      "date": "2026-09-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Private banks’ profit margins recover as FCNR(B) inflows ease deposit funding pressure",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/private-banks-profit-margins-recover-as-fcnrb-inflows-ease-deposit-funding-pressure/articleshow/133895150.cms",
+      "date": "2026-09-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Fairfax plans IIFL Finance exit to fund IDBI Bank bid",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfax-plans-iifl-finance-exit-to-fund-idbi-bank-bid/articleshow/133894423.cms",
+      "date": "2026-09-08",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Income Tax Dept seized gold, diamonds and silver in a tax search operation from lady’s house and bank locker; she wins case in ITAT Mumbai",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-dept-seized-gold-diamonds-and-silver-in-a-tax-search-operation-from-ladys-house-and-bank-locker-she-wins-case-in-itat-mumbai/articleshow/133880385.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "Gurgaon RWA sought charitable trust registration with rental and maintenance income; ITAT Chandigarh rejected RWA’s appeal for this reason",
@@ -35,6 +76,38 @@
       "date": "2026-09-07",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "SBM Bank India plans 26% stake sale, appoints consultant",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbm-bank-india-plans-26-stake-sale-appoints-consultant/articleshow/133887638.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBM Bank India plans 26% stake sale, appoints consultant",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbm-bank-india-plans-26-stake-sale-appoints-consultant/articleshow/133884179.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Gold loans, consumer durables drive NBFC credit growth to 14.9% in July",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gold-loans-consumer-durables-drive-nbfc-credit-growth-to-14-9-in-july/articleshow/133882341.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI says bank unions to strike on September 11, September 28-30 and from October 26; operations may be hit",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-says-bank-unions-to-strike-on-september-11-september-28-30-and-from-october-26-operations-may-be-hit/articleshow/133881646.cms",
+      "date": "2026-09-07",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -76,14 +149,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "RBI imposes monetary penalty on Hinduja Leyland Finance Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63527",
-      "date": "2026-09-04",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1049BFCD71C6A508466FA30E95CA2DD75091.PDF"
     },
     {
       "title": "Rs 25 lakh cash deposited in bank, income tax officer sends notice for unexplained cash u/s 69; Taxpayer wins case in ITAT Bangalore, here's why",
@@ -187,70 +252,6 @@
       "date": "2026-09-03",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "What Is the Best Way to Pay for an International Trip and Does My Credit Card Include Airport Lounge Access?",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/what-is-the-best-way-to-pay-for-an-international-trip-and-does-my-credit-card-include-airport-lounge-access/articleshow/133731064.cms",
-      "date": "2026-09-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India's bank liquidity surplus hits all-time high riding flood of dollar deposits",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-bank-liquidity-surplus-hits-all-time-high-riding-flood-of-dollar-deposits/articleshow/133729404.cms",
-      "date": "2026-09-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "GIFT IFSC emerges as international banking hub with $52.82 bn FCNR(B) disbursals: Uday Kotak",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gift-ifsc-emerges-as-international-banking-hub-with-52-82-bn-fcnrb-disbursals-uday-kotak/articleshow/133725241.cms",
-      "date": "2026-09-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Small finance banks' asset quality to improve, GNPA to drop by 120 basis points by March 2027: Crisil",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/small-finance-banks-asset-quality-to-improve-gnpa-to-drop-by-120-basis-points-by-march-2027-crisil/articleshow/133719760.cms",
-      "date": "2026-09-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "'Revolver' misfire hits credit card issuers: India's credit card boom sees lower bank profits",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/revolver-misfire-hits-credit-card-issuers-indias-credit-card-boom-sees-lower-bank-profits/articleshow/133719476.cms",
-      "date": "2026-09-03",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Deposits and Accounts – Accounts of Non-resident banks",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13693&Mode=0",
-      "date": "2026-09-02",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/251NT85B7339E9B824E5EB17C055D795CE095.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Urban Co-operative Banks – Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13691&Mode=0",
-      "date": "2026-09-02",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI2490377E8BE75524494AA21A321A0675EAE.PDF"
-    },
-    {
-      "title": "Rs 41 lakh cash deposit but no ITR: Bengaluru man claimed his wife and father paid his expenses; ITAT Bangalore refuses relief on this ground",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-41-cash-deposit-but-no-itr-bengaluru-man-claimed-his-wife-and-father-paid-his-expenses-itat-bangalore-refuses-relief-on-this-ground/articleshow/133698126.cms",
-      "date": "2026-09-02",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
