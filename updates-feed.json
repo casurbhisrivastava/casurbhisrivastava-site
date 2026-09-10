@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:47:47+00:00",
+  "generated_at": "2026-09-10T10:40:18+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,16 +11,65 @@
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (mismatched tag: line 37, column 6)",
+    "gst.gov.in (headless browser): Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.news-updts li\") to be visible\n",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The U.P Civil Secretariat Primary Co-operative Bank Ltd., Vidhan Bhawan, Lucknow, U.P – Extension of period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63553",
-      "date": "2026-09-09",
-      "source": "RBI Press Release",
+      "title": "Rs 1.09 crore remittance sent to home by an Indian working in Kuwait, but he didn't file ITR, received income tax notice; gets relief in ITAT Ahmedabad",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-09-crore-remittance-sent-to-home-by-an-indian-working-in-kuwait-but-he-didnt-file-itr-received-income-tax-notice-gets-relief-in-itat-ahmedabad/articleshow/134003093.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Foreign bank balance may be small, but its value could be much higher: How FAST-DS 2026 values your foreign assets",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-bank-balance-may-be-small-but-its-value-could-be-much-higher-how-fast-ds-2026-values-your-foreign-assets/articleshow/134000439.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 2.42 lakh FD investment and Rs 1.06 lakh cash deposits, no ITR filed, got income tax notice; senior citizen wins case in ITAT Jaipur after 9-year fight",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-2-42-lakh-fd-investment-and-rs-1-06-lakh-cash-deposits-no-itr-filed-got-income-tax-notice-senior-citizen-wins-case-in-itat-jaipur-after-9-year-fight/articleshow/133969153.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "BharatPe unveils BharatPe Flex at Global Fintech Fest 2026, brings credit into everyday UPI payments",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bharatpe-unveils-bharatpe-flex-at-global-fintech-fest-2026-brings-credit-into-everyday-upi-payments/articleshow/134002028.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR107526E81693040640FDA34AA3B6B3233617.PDF"
+      "pdf_link": null
+    },
+    {
+      "title": "GFF 2026: SBI sees FCNR liquidity deployment taking 3-4 months, eyes agentic AI for banking",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gff-2026-sbi-sees-fcnr-liquidity-deployment-taking-3-4-months-eyes-agentic-ai-for-banking/articleshow/134000172.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank says all seven Bahrain claims over Credit Suisse AT1 bonds rejected",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-says-all-seven-bahrain-claims-over-credit-suisse-at1-bonds-rejected/articleshow/133999967.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "GFF 2026: After KYC, SBI chief flags ‘Know Your Agent’ as AI enters banking",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gff-2026-after-kyc-sbi-chief-flags-know-your-agent-as-ai-enters-banking/articleshow/133996633.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "Rs 34 lakh F&O trading loss: Income Tax dept calls it speculative, ITAT Delhi treats Rs 25 lakh as business loss",
@@ -36,6 +85,78 @@
       "date": "2026-09-09",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "SRG housing loans worth Rs 400 crore may be fictitious: National Housing Bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/srg-housing-loans-worth-rs-400-crore-may-be-fictitious-national-housing-bank/articleshow/133979984.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR boost for bank credit growth may be temporary, says Axis CEO Amitabh Chaudhry",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-boost-for-bank-credit-growth-may-be-temporary-says-axis-ceo-amitabh-chaudhry/articleshow/133979749.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks need to invest more in digital, financial literacy to tackle cyber fraud: Bank of Baroda MD",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-need-to-invest-more-in-digital-financial-literacy-to-tackle-cyber-fraud-bank-of-baroda-md/articleshow/133974368.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI Deputy Governor Rohit Jain flags speed, concentration and opacity as fintech risks; says technology must serve customers",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-deputy-governor-rohit-jain-flags-speed-concentration-and-opacity-as-fintech-risks-says-technology-must-serve-customers/articleshow/133972688.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "GFF 2026: Axis Bank CEO Amitabh Chaudhry sees credit growth slowing to 15-16%, flags rate hike risk",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gff-2026-axis-bank-ceo-amitabh-chaudhry-sees-credit-growth-slowing-to-15-16-flags-rate-hike-risk/articleshow/133970733.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Global Fintech Fest 2026: DFS Secretary Sanjay Lohiya unveils UPI credit for KCC, MUDRA borrowers",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/global-fintech-fest-2026-dfs-secretary-sanjay-lohiya-unveils-upi-credit-for-kcc-mudra-borrowers/articleshow/133969589.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI approves ICICI Prudential AMC’s up to 9.95% stake buy in AU Small Finance Bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-icici-prudential-amcs-up-to-9-95-stake-buy-in-au-small-finance-bank/articleshow/133969132.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Four banks including RBL and Bank of Maharashtra line up overseas fund raise",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/four-banks-including-rbl-and-bank-of-maharashtra-line-up-overseas-fund-raise/articleshow/133966369.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Axis Bank’s HQ hunt leaves 3,000 staff scattered across Mumbai",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-banks-hq-hunt-leaves-3000-staff-scattered-across-mumbai-office/articleshow/133965367.cms",
+      "date": "2026-09-09",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -63,7 +184,7 @@
       "pdf_link": "https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/announcements/IDFCFIRST-Credit-Rating-SP-Global-Ratings-13082026.pdf"
     },
     {
-      "title": "Your next loan may have a non-bank name on it",
+      "title": "Indian banks' names keep fading from your loan documents",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banks-nbfcs-india-credit-market-retail-loans-msme-credit-gap-gold-loans-private-credit-fintech-lending-pattern/articleshow/133954929.cms",
       "date": "2026-09-09",
       "source": "Economic Times - Banking/Finance",
@@ -132,126 +253,6 @@
       "date": "2026-09-08",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Income Tax Dept seized gold, diamonds and silver in a tax search operation from lady’s house and bank locker; she wins case in ITAT Mumbai",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-dept-seized-gold-diamonds-and-silver-in-a-tax-search-operation-from-ladys-house-and-bank-locker-she-wins-case-in-itat-mumbai/articleshow/133880385.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Gurgaon RWA sought charitable trust registration with rental and maintenance income; ITAT Chandigarh rejected RWA’s appeal for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/gurgaon-rwa-sought-charitable-trust-registration-with-rental-and-maintenance-income-itat-chandigarh-rejected-rwas-appeal-for-this-reason/articleshow/133867241.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR was processed under the old tax regime due to tax consultant's mistake, taxpayer faced Rs 1.23 lakh demand: ITAT Bangalore allowed new tax regime",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-was-processed-under-the-old-tax-regime-due-to-tax-consultants-mistake-taxpayer-faced-rs-1-23-lakh-demand-itat-bangalore-allowed-new-tax-regime/articleshow/133864537.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "SBM Bank India plans 26% stake sale, appoints consultant",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbm-bank-india-plans-26-stake-sale-appoints-consultant/articleshow/133887638.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBM Bank India plans 26% stake sale, appoints consultant",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbm-bank-india-plans-26-stake-sale-appoints-consultant/articleshow/133884179.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Gold loans, consumer durables drive NBFC credit growth to 14.9% in July",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gold-loans-consumer-durables-drive-nbfc-credit-growth-to-14-9-in-july/articleshow/133882341.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI says bank unions to strike on September 11, September 28-30 and from October 26; operations may be hit",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-says-bank-unions-to-strike-on-september-11-september-28-30-and-from-october-26-operations-may-be-hit/articleshow/133881646.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Axis Bank launches Arise Homecoming to hire foreign educated talent",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-launches-arise-homecoming-to-hire-foreign-educated-talent/articleshow/133875951.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Fairfax to exit IIFL Finance before likely IDBI Bank deal; Blackstone emerges as suitor",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/fairfax-to-exit-iifl-finance-before-likely-idbi-bank-deal-blackstone/articleshow/133873530.cms",
-      "date": "2026-09-07",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
-      "link": "https://www.gst.gov.in/newsandupdates/read/671",
-      "date": "2026-09-07",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Difficult time for microfinance business behind us, Q2 to see growth, says IndusInd Bank MD",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/difficult-time-for-microfinance-business-behind-us-q2-to-see-growth-says-indusind-bank-md/articleshow/133827482.cms",
-      "date": "2026-09-06",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI approves LIC to acquire up to 9.99% stake in ICICI Bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-lic-to-acquire-up-to-9-99-stake-in-icici-bank/articleshow/133791372.cms",
-      "date": "2026-09-05",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 25 lakh cash deposited in bank, income tax officer sends notice for unexplained cash u/s 69; Taxpayer wins case in ITAT Bangalore, here's why",
-      "link": "https://economictimes.indiatimes.com/wealth/legal/will/rs-25-lakh-cash-deposited-in-bank-income-tax-officer-sends-notice-for-unexplained-cash-u/s-69-taxpayer-wins-case-in-itat-bangalore-heres-why/articleshow/133753257.cms",
-      "date": "2026-09-04",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Bengali Hindu landlord’s Rs 1.89-crore rental income faced tax dispute over HUF status: Why ITAT Delhi gave relief",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/bengali-hindu-landlords-rs-1-89-crore-rental-income-faced-tax-dispute-over-huf-status-why-itat-delhi-gave-relief/articleshow/133752732.cms",
-      "date": "2026-09-04",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Gamer invested Rs 2.61 crore to play online rummy and poker games; loses net Rs 28 lakh, files ITR reporting Rs 4 lakh income; gets tax notice; he wins case in ITAT Bangalore",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/gamer-invested-rs-2-61-crore-to-play-online-rummy-and-poker-games-loses-net-rs-28-lakh-files-itr-reporting-rs-4-lakh-income-gets-tax-notice-he-wins-case-in-itat-bangalore/articleshow/133752528.cms",
-      "date": "2026-09-04",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
