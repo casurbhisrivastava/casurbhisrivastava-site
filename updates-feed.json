@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:40:18+00:00",
+  "generated_at": "2026-09-11T10:39:30+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -16,7 +16,87 @@
   ],
   "items": [
     {
-      "title": "Rs 1.09 crore remittance sent to home by an Indian working in Kuwait, but he didn't file ITR, received income tax notice; gets relief in ITAT Ahmedabad",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Gujarat Rajya Karmachari Co-op. Bank Ltd., Ahmedabad – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63576",
+      "date": "2026-09-11",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1098B2BBE3EE24964C71906144FD83F0E723.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13697&Mode=0",
+      "date": "2026-09-11",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2555AA6FB63E154403D95A54E43A0716C1A.PDF"
+    },
+    {
+      "title": "Rs 1.17 crore interest income of minor child: Father faces Rs 12.83 lakh penalty; ITAT Delhi cancels it",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-17-crore-interest-income-of-minor-child-father-faces-rs-12-83-lakh-penalty-itat-delhi-cancels-it/articleshow/134059686.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank strike halts work at 7,000 branches in MP, affects business worth Rs 5,500 crore: Association",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-strike-halts-work-at-7000-branches-in-mp-affects-business-worth-rs-5500-crore-association/articleshow/134048000.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banking services hit as unions strike for five-day workweek",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banking-services-hit-as-unions-strike-for-five-day-workweek/articleshow/134046948.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Russia’s SberBank unveils GigaDoc AI smart mirror for express health assessment in India",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/russias-sberbank-unveils-gigadoc-ai-smart-mirror-for-express-health-assessment-in-india/articleshow/134045285.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Why India's Top Banks Are Suddenly Hunting for CEOs | The Morning Brief Decode",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/why-indias-top-banks-are-suddenly-hunting-for-ceos-the-morning-brief-decode/videoshow/134045414.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank boards vet talent pool amid succession wave; six big lenders brace for leadership transitions through end-2027",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-boards-vet-talent-pool-amid-succession-wave-six-big-lenders-brace-for-leadership-transitions-through-end-2027/articleshow/134027491.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Canara HSBC Life fined Rs 1 crore for mis-selling policy to 88-yr-old via Canara Bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/canara-hsbc-life-fined-rs-1-crore-for-mis-selling-policy-to-88-yr-old-via-canara-bank/articleshow/134025997.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Delhi HC acts big on fake GST registrations, rules no GST registration without biometric-based Aadhaar authentication",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/delhi-hc-acts-big-on-fake-gst-registrations-rules-no-gst-registration-without-biometric-based-aadhaar-authentication/articleshow/134007541.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 1.09 crore remittance sent home by an Indian working in Kuwait, but he didn't file ITR, received income tax notice; gets relief in ITAT Ahmedabad",
       "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-09-crore-remittance-sent-to-home-by-an-indian-working-in-kuwait-but-he-didnt-file-itr-received-income-tax-notice-gets-relief-in-itat-ahmedabad/articleshow/134003093.cms",
       "date": "2026-09-10",
       "source": "Economic Times - Income Tax",
@@ -37,6 +117,30 @@
       "date": "2026-09-10",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR(B) inflows can boost bank lending, support festive demand: Former Standard Chartered Bank MD Sanjeev Mehta",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-inflows-can-boost-bank-lending-support-festive-demand-former-standard-chartered-bank-md-sanjeev-mehta/articleshow/134021259.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Kotak Mahindra Bank's Manish Kothari resigns after 31 years; plans to explore entrepreneurial venture",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-banks-manish-kothari-resigns-after-31-years-plans-to-explore-entrepreneurial-venture/articleshow/134020795.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Indian Bank launches AI-TARA voice banking, Smart Wealth and IND Cash Optima at Global Fintech Fest 2026",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-launches-ai-tara-voice-banking-smart-wealth-and-ind-cash-optima-at-global-fintech-fest-2026/articleshow/134013578.cms",
+      "date": "2026-09-10",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -147,110 +251,6 @@
       "title": "Four banks including RBL and Bank of Maharashtra line up overseas fund raise",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/four-banks-including-rbl-and-bank-of-maharashtra-line-up-overseas-fund-raise/articleshow/133966369.cms",
       "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Axis Bank’s HQ hunt leaves 3,000 staff scattered across Mumbai",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-banks-hq-hunt-leaves-3000-staff-scattered-across-mumbai-office/articleshow/133965367.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "'No fraud' enabled through card tokenisation on mobile devices: PhonePe founder Rahul Chari",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-fraud-claims-on-mobile-card-tokenisation-by-phonepes-rahul-chari-amid-new-payment-solutions-launch/articleshow/133961817.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "GFF 2026: Multipl launches UPI-linked spending account to let users invest money set aside for expenses",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gff-2026-multipl-launches-upi-linked-spending-account-to-let-users-invest-money-set-aside-for-expenses/articleshow/133961130.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "IDFC FIRST Bank earns international credit rating, marking a step towards global financial markets",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/idfc-first-bank-earns-international-credit-rating-marking-a-step-towards-global-financial-markets/articleshow/133960267.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": "https://www.idfcfirst.bank.in/content/dam/idfcfirstbank/pdf/announcements/IDFCFIRST-Credit-Rating-SP-Global-Ratings-13082026.pdf"
-    },
-    {
-      "title": "Indian banks' names keep fading from your loan documents",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banks-nbfcs-india-credit-market-retail-loans-msme-credit-gap-gold-loans-private-credit-fintech-lending-pattern/articleshow/133954929.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "IIFL Finance dismisses reports on Fairfax planning company exit to fund IDBI Bank deal",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/iifl-finance-dismisses-reports-on-fairfax-planning-company-exit-to-fund-idbi-bank-deal/articleshow/133954365.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Review of Circulars issued under Foreign Exchange Management Act, 1999 (FEMA)",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13696&Mode=0",
-      "date": "2026-09-08",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT254F42FDC8A07F849ED856846F96E6FE308.PDF"
-    },
-    {
-      "title": "Landlord deposited Rs 14.96 lakh cash during demonetisation, got tax notice: ITAT Bangalore grants relief",
-      "link": "https://economictimes.indiatimes.com/wealth/legal/will/landlord-deposited-rs-14-96-lakh-cash-during-demonetisation-got-tax-notice-itat-bangalore-grants-relief/articleshow/133921555.cms",
-      "date": "2026-09-08",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks plan to e-auction cars, vehicles on BAANKNET to speed up recoveries",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-plan-to-e-auction-cars-vehicles-on-baanknet-to-speed-up-recoveries/articleshow/133937500.cms",
-      "date": "2026-09-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "$127 billion deposits raise new rupee risk as banks face future FX interest bills",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/127-billion-deposits-raise-new-rupee-risk-as-banks-face-future-fx-interest-bills/articleshow/133917125.cms",
-      "date": "2026-09-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "S&P assigns Bank of India 'BBB' rating on capital, funding strength",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sp-assigns-bank-of-india-bbb-rating-on-capital-funding-strength/articleshow/133915762.cms",
-      "date": "2026-09-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Private banks’ profit margins recover as FCNR(B) inflows ease deposit funding pressure",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/private-banks-profit-margins-recover-as-fcnrb-inflows-ease-deposit-funding-pressure/articleshow/133895150.cms",
-      "date": "2026-09-08",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Fairfax plans IIFL Finance exit to fund IDBI Bank bid",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfax-plans-iifl-finance-exit-to-fund-idbi-bank-bid/articleshow/133894423.cms",
-      "date": "2026-09-08",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
