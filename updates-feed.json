@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:39:30+00:00",
+  "generated_at": "2026-09-12T10:08:27+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,17 +11,56 @@
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (mismatched tag: line 37, column 6)",
-    "gst.gov.in (headless browser): Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.news-updts li\") to be visible\n",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Gujarat Rajya Karmachari Co-op. Bank Ltd., Ahmedabad – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63576",
+      "title": "Taxable income below Rs 12 lakh: Will you pay zero income tax if this income includes LTCG and STCG for Tax Year 2026-27?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/taxable-income-below-rs-12-lakh-will-you-pay-zero-income-tax-if-this-income-includes-ltcg-and-stcg-for-tax-year-2026-27/articleshow/134119480.cms",
+      "date": "2026-09-12",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI invites comments on the Draft “Reserve Bank of India (Know Your Customer) Amendment Directions, 2026”",
+      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63587",
       "date": "2026-09-11",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1098B2BBE3EE24964C71906144FD83F0E723.PDF"
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes monetary penalty on Asset Care & Reconstruction Enterprise Limited",
+      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63583",
+      "date": "2026-09-11",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63581",
+      "date": "2026-09-11",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Loknete R.D. (Appa) Kshirsagar Sahakari Bank Ltd., Niphad, Tal. Niphad, Dist. Nashik – Extension of Period",
+      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63580",
+      "date": "2026-09-11",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0",
+      "date": "2026-09-11",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/256NT69E7AC0A815E49618C2CB8CED5F6E5C6.PDF"
     },
     {
       "title": "Reserve Bank of India (Local Area Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Second Amendment Directions, 2026",
@@ -37,6 +76,38 @@
       "date": "2026-09-11",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Russia’s Sberbank plans major India push, to build business hub",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/russias-sberbank-plans-major-india-push-to-build-business-hub/articleshow/134083993.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI developing solution to use UPI data for checking creditworthiness of small biz",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-developing-solution-to-use-upi-data-for-checking-creditworthiness-of-small-biz/articleshow/134078435.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of India mobilises $2.33 billion via FCNR(B), enough to meet one-quarter lending needs: CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-mobilises-2-33-billion-via-fcnrb-enough-to-meet-one-quarter-lending-needs-ceo/articleshow/134076439.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank deposits grow 17.8% in August, fastest in decade as FCNR-B inflows mask local mobilisation woes",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-deposits-grow-17-8-in-august-fastest-in-decade-as-fcnr-b-inflows-mask-local-mobilisation-woes/articleshow/134076078.cms",
+      "date": "2026-09-11",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -181,78 +252,6 @@
       "date": "2026-09-09",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Will you pay lower income tax on mutual fund capital gains after retirement? Know 7 ways to reduce your tax burden",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/will-you-pay-lower-income-tax-on-mutual-fund-capital-gains-after-retirement-know-7-ways-to-reduce-your-tax-burden/articleshow/133952617.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "SRG housing loans worth Rs 400 crore may be fictitious: National Housing Bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/srg-housing-loans-worth-rs-400-crore-may-be-fictitious-national-housing-bank/articleshow/133979984.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FCNR boost for bank credit growth may be temporary, says Axis CEO Amitabh Chaudhry",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-boost-for-bank-credit-growth-may-be-temporary-says-axis-ceo-amitabh-chaudhry/articleshow/133979749.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks need to invest more in digital, financial literacy to tackle cyber fraud: Bank of Baroda MD",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-need-to-invest-more-in-digital-financial-literacy-to-tackle-cyber-fraud-bank-of-baroda-md/articleshow/133974368.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI Deputy Governor Rohit Jain flags speed, concentration and opacity as fintech risks; says technology must serve customers",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-deputy-governor-rohit-jain-flags-speed-concentration-and-opacity-as-fintech-risks-says-technology-must-serve-customers/articleshow/133972688.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "GFF 2026: Axis Bank CEO Amitabh Chaudhry sees credit growth slowing to 15-16%, flags rate hike risk",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gff-2026-axis-bank-ceo-amitabh-chaudhry-sees-credit-growth-slowing-to-15-16-flags-rate-hike-risk/articleshow/133970733.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Global Fintech Fest 2026: DFS Secretary Sanjay Lohiya unveils UPI credit for KCC, MUDRA borrowers",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/global-fintech-fest-2026-dfs-secretary-sanjay-lohiya-unveils-upi-credit-for-kcc-mudra-borrowers/articleshow/133969589.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI approves ICICI Prudential AMC’s up to 9.95% stake buy in AU Small Finance Bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-icici-prudential-amcs-up-to-9-95-stake-buy-in-au-small-finance-bank/articleshow/133969132.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Four banks including RBL and Bank of Maharashtra line up overseas fund raise",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/four-banks-including-rbl-and-bank-of-maharashtra-line-up-overseas-fund-raise/articleshow/133966369.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
