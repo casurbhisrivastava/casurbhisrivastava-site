@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:08:27+00:00",
+  "generated_at": "2026-09-13T11:07:27+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -15,11 +15,51 @@
   ],
   "items": [
     {
+      "title": "Indian Bank to enter life insurance business, soon to seek board nod",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/indian-bank-to-enter-life-insurance-business-soon-to-seek-board-nod/articleshow/134183180.cms",
+      "date": "2026-09-13",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Rs 6.42 lakh travel expense disallowed as business expenditure over use of wife’s credit card; businessman contests tax order, wins relief in ITAT Mumbai",
+      "link": "https://economictimes.indiatimes.com/wealth/legal/will/rs-6-42-lakh-travel-expense-disallowed-as-business-expenditure-over-use-of-wifes-credit-card-businessman-contests-tax-order-wins-relief-in-itat-mumbai/articleshow/134126429.cms",
+      "date": "2026-09-12",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
       "title": "Taxable income below Rs 12 lakh: Will you pay zero income tax if this income includes LTCG and STCG for Tax Year 2026-27?",
       "link": "https://economictimes.indiatimes.com/wealth/tax/taxable-income-below-rs-12-lakh-will-you-pay-zero-income-tax-if-this-income-includes-ltcg-and-stcg-for-tax-year-2026-27/articleshow/134119480.cms",
       "date": "2026-09-12",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "J&K Bank receives ‘Best CSR Overall Practices’ Award in Bengaluru, MD & CEO reiterates commitment for inclusive and sustainable development",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/jk-bank-receives-best-csr-overall-practices-award-in-bengaluru-md-ceo-reiterates-commitment-for-inclusive-and-sustainable-development/articleshow/134146160.cms",
+      "date": "2026-09-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank submits two names to RBI for CEO post, strengthens board-level leadership",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-submits-two-names-to-rbi-for-ceo-post-strengthens-board-level-leadership/articleshow/134128796.cms",
+      "date": "2026-09-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "HDFC Bank sends two names to RBI for Jagdishan’s successor as MD & CEO",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-sends-two-names-to-rbi-for-jagdishans-successor-as-md-ceo/articleshow/134127792.cms",
+      "date": "2026-09-12",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -56,19 +96,19 @@
     },
     {
       "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0",
+      "link": "http://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0",
       "date": "2026-09-11",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/256NT69E7AC0A815E49618C2CB8CED5F6E5C6.PDF"
+      "pdf_link": null
     },
     {
       "title": "Reserve Bank of India (Local Area Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13697&Mode=0",
+      "link": "http://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13697&Mode=0",
       "date": "2026-09-11",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2555AA6FB63E154403D95A54E43A0716C1A.PDF"
+      "pdf_link": null
     },
     {
       "title": "Rs 1.17 crore interest income of minor child: Father faces Rs 12.83 lakh penalty; ITAT Delhi cancels it",
@@ -212,46 +252,6 @@
       "date": "2026-09-10",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "BharatPe unveils BharatPe Flex at Global Fintech Fest 2026, brings credit into everyday UPI payments",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bharatpe-unveils-bharatpe-flex-at-global-fintech-fest-2026-brings-credit-into-everyday-upi-payments/articleshow/134002028.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "GFF 2026: SBI sees FCNR liquidity deployment taking 3-4 months, eyes agentic AI for banking",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gff-2026-sbi-sees-fcnr-liquidity-deployment-taking-3-4-months-eyes-agentic-ai-for-banking/articleshow/134000172.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank says all seven Bahrain claims over Credit Suisse AT1 bonds rejected",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-says-all-seven-bahrain-claims-over-credit-suisse-at1-bonds-rejected/articleshow/133999967.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "GFF 2026: After KYC, SBI chief flags ‘Know Your Agent’ as AI enters banking",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gff-2026-after-kyc-sbi-chief-flags-know-your-agent-as-ai-enters-banking/articleshow/133996633.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 34 lakh F&O trading loss: Income Tax dept calls it speculative, ITAT Delhi treats Rs 25 lakh as business loss",
-      "link": "https://economictimes.indiatimes.com/wealth/legal/will/rs-34-lakh-fo-trading-loss-income-tax-dept-calls-it-speculative-itat-delhi-treats-rs-25-lakh-as-business-loss/articleshow/133957782.cms",
-      "date": "2026-09-09",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
