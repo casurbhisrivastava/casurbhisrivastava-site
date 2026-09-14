@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:07:27+00:00",
+  "generated_at": "2026-09-14T11:52:00+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,22 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Indian moves to US for job, forgets to file ITR, Income Tax Dept imposes Rs 8.29 lakh penalty; ITAT Jaipur cancels penalty and gives full relief",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/indian-moves-to-us-for-job-forgets-to-file-itr-income-tax-dept-imposes-rs-8-29-lakh-penalty-itat-jaipur-cancels-penalty-and-gives-full-relief/articleshow/134210569.cms",
+      "date": "2026-09-14",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks seek RBI nod to use new rules for old trade mismatches",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-seek-rbi-nod-to-use-new-rules-for-old-trade-mismatches/articleshow/134218363.cms",
+      "date": "2026-09-13",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Indian Bank to enter life insurance business, soon to seek board nod",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/indian-bank-to-enter-life-insurance-business-soon-to-seek-board-nod/articleshow/134183180.cms",
@@ -64,51 +80,51 @@
     },
     {
       "title": "RBI invites comments on the Draft “Reserve Bank of India (Know Your Customer) Amendment Directions, 2026”",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63587",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63587",
       "date": "2026-09-11",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": null
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR110975FCF246F5BC47ACB3EA34B0CB6A5303.PDF"
     },
     {
       "title": "RBI imposes monetary penalty on Asset Care & Reconstruction Enterprise Limited",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63583",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63583",
       "date": "2026-09-11",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": null
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1105A0BEF1E05E7D4FEDBF94CC557ED6B30B.PDF"
     },
     {
       "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63581",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63581",
       "date": "2026-09-11",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": null
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1103WSS918D41F80FD34A6EA311871D0C67CA54.PDF"
     },
     {
       "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Loknete R.D. (Appa) Kshirsagar Sahakari Bank Ltd., Niphad, Tal. Niphad, Dist. Nashik – Extension of Period",
-      "link": "http://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63580",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63580",
       "date": "2026-09-11",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": null
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR110262BC9EE6116E4E2ABBC50D4FAA902EEA.PDF"
     },
     {
       "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Third Amendment Directions, 2026",
-      "link": "http://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0",
       "date": "2026-09-11",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": null
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/256NT69E7AC0A815E49618C2CB8CED5F6E5C6.PDF"
     },
     {
       "title": "Reserve Bank of India (Local Area Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Second Amendment Directions, 2026",
-      "link": "http://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13697&Mode=0",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13697&Mode=0",
       "date": "2026-09-11",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": null
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2555AA6FB63E154403D95A54E43A0716C1A.PDF"
     },
     {
       "title": "Rs 1.17 crore interest income of minor child: Father faces Rs 12.83 lakh penalty; ITAT Delhi cancels it",
@@ -233,22 +249,6 @@
     {
       "title": "FCNR(B) inflows can boost bank lending, support festive demand: Former Standard Chartered Bank MD Sanjeev Mehta",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-inflows-can-boost-bank-lending-support-festive-demand-former-standard-chartered-bank-md-sanjeev-mehta/articleshow/134021259.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Kotak Mahindra Bank's Manish Kothari resigns after 31 years; plans to explore entrepreneurial venture",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/kotak-mahindra-banks-manish-kothari-resigns-after-31-years-plans-to-explore-entrepreneurial-venture/articleshow/134020795.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian Bank launches AI-TARA voice banking, Smart Wealth and IND Cash Optima at Global Fintech Fest 2026",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-bank-launches-ai-tara-voice-banking-smart-wealth-and-ind-cash-optima-at-global-fintech-fest-2026/articleshow/134013578.cms",
       "date": "2026-09-10",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
