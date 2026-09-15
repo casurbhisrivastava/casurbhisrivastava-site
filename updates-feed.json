@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:52:00+00:00",
+  "generated_at": "2026-09-15T11:07:47+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,15 +11,64 @@
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (mismatched tag: line 37, column 6)",
+    "gst.gov.in (headless browser): Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.news-updts li\") to be visible\n",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Scheduled Banks’ Statement of Position in India as on August 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63590",
+      "date": "2026-09-15",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR11125817E8CB2DCC456E9DD710208850D8FF.PDF"
+    },
+    {
+      "title": "NRI woman declared Rs 43,796 income in ITR but didn’t report Rs 14 lakh interest; faced 200% penalty – how she got it reduced to 50% in ITAT",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-woman-declared-rs-43796-income-in-itr-but-didnt-report-rs-14-lakh-interest-faced-200-penalty-how-she-got-it-reduced-to-50-in-itat/articleshow/134257310.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Advance tax deadline today: What will be the consequences if you miss September 15, 2026, due date?",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/advance-tax-deadline-today-what-will-be-the-consequences-if-you-miss-september-15-2026-due-date/articleshow/134253751.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "The next phase of India’s digital payments dominance: Trusted AI-led agentic commerce, Visa’s Sethi says",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-next-phase-of-indias-digital-payments-dominance-trusted-ai-led-agentic-commerce-visas-sethi-says/articleshow/134253378.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Indian moves to US for job, forgets to file ITR, Income Tax Dept imposes Rs 8.29 lakh penalty; ITAT Jaipur cancels penalty and gives full relief",
       "link": "https://economictimes.indiatimes.com/wealth/tax/indian-moves-to-us-for-job-forgets-to-file-itr-income-tax-dept-imposes-rs-8-29-lakh-penalty-itat-jaipur-cancels-penalty-and-gives-full-relief/articleshow/134210569.cms",
       "date": "2026-09-14",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank of Baroda's new mobile app to help customers make payments using voice commands",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-barodas-new-mobile-app-to-help-customers-make-payments-using-voice-commands/articleshow/134241567.cms",
+      "date": "2026-09-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI proposes framework to freeze only disputed amounts instead of entire accounts in cyber fraud cases",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-framework-allowing-banks-to-freeze-only-disputed-transaction-amounts-instead-of-entire-accounts-in-suspected-cyber-fraud-cases/articleshow/134241193.cms",
+      "date": "2026-09-14",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -85,30 +134,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR110975FCF246F5BC47ACB3EA34B0CB6A5303.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Asset Care & Reconstruction Enterprise Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63583",
-      "date": "2026-09-11",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1105A0BEF1E05E7D4FEDBF94CC557ED6B30B.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63581",
-      "date": "2026-09-11",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1103WSS918D41F80FD34A6EA311871D0C67CA54.PDF"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Loknete R.D. (Appa) Kshirsagar Sahakari Bank Ltd., Niphad, Tal. Niphad, Dist. Nashik – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63580",
-      "date": "2026-09-11",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR110262BC9EE6116E4E2ABBC50D4FAA902EEA.PDF"
     },
     {
       "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Third Amendment Directions, 2026",
@@ -228,30 +253,6 @@
       "date": "2026-09-10",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Foreign bank balance may be small, but its value could be much higher: How FAST-DS 2026 values your foreign assets",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/foreign-bank-balance-may-be-small-but-its-value-could-be-much-higher-how-fast-ds-2026-values-your-foreign-assets/articleshow/134000439.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 2.42 lakh FD investment and Rs 1.06 lakh cash deposits, no ITR filed, got income tax notice; senior citizen wins case in ITAT Jaipur after 9-year fight",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-2-42-lakh-fd-investment-and-rs-1-06-lakh-cash-deposits-no-itr-filed-got-income-tax-notice-senior-citizen-wins-case-in-itat-jaipur-after-9-year-fight/articleshow/133969153.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "FCNR(B) inflows can boost bank lending, support festive demand: Former Standard Chartered Bank MD Sanjeev Mehta",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-inflows-can-boost-bank-lending-support-festive-demand-former-standard-chartered-bank-md-sanjeev-mehta/articleshow/134021259.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
