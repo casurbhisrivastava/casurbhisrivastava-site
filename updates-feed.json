@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:07:47+00:00",
+  "generated_at": "2026-09-16T10:53:24+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -16,12 +16,20 @@
   ],
   "items": [
     {
-      "title": "Scheduled Banks’ Statement of Position in India as on August 31, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63590",
-      "date": "2026-09-15",
-      "source": "RBI Press Release",
+      "title": "AU Small Finance Bank vehicle loan portfolio crosses Rs 50,000-crore mark",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-vehicle-loan-portfolio-crosses-rs-50000-crore-mark/articleshow/134281055.cms",
+      "date": "2026-09-16",
+      "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR11125817E8CB2DCC456E9DD710208850D8FF.PDF"
+      "pdf_link": null
+    },
+    {
+      "title": "Student gets Rs 18.34 lakh stipend from university and pays no income tax; gets notice from Income Tax Department; she wins the case in ITAT Delhi for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/student-gets-rs-18-34-lakh-stipend-from-university-and-pays-no-income-tax-gets-notice-from-income-tax-department-she-wins-the-case-in-itat-delhi-for-this-reason/articleshow/134263104.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
       "title": "NRI woman declared Rs 43,796 income in ITR but didn’t report Rs 14 lakh interest; faced 200% penalty – how she got it reduced to 50% in ITAT",
@@ -37,6 +45,54 @@
       "date": "2026-09-15",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI backs MDR on large-value UPI transactions, says could help expand UPI acceptance",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-backs-mdr-on-large-value-upi-transactions-says-could-help-expand-upi-acceptance/articleshow/134269815.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI MDR seen as sustenance fee, not windfall; small merchants remain shielded",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/upi-mdr-seen-as-sustenance-fee-not-windfall-small-merchants-remain-shielded/articleshow/134269549.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "AU Small Finance Bank bolsters leadership ahead of universal bank transition",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-bolsters-leadership-ahead-of-universal-bank-transition/articleshow/134268508.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Yes Bank moves SC against forensic audit in Fortis share sale issue",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/yes-bank-challenges-delhi-hc-ruling-on-forensic-audit-of-fortis-healthcare-share-sale-to-ihh-healthcare/articleshow/134268169.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Mutual funds, stocks UPI payments to attract 0.02% MDR under new NPCI framework",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/mutual-funds-stocks-upi-payments-to-attract-0-02-mdr-under-new-npci-framework/articleshow/134266396.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "No smartphone, no internet? PhonePe brings UPI to 220 million feature-phone users",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/no-smartphone-no-internet-phonepe-brings-upi-to-220-million-feature-phone-users/articleshow/134263348.cms",
+      "date": "2026-09-15",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -128,14 +184,6 @@
       "pdf_link": null
     },
     {
-      "title": "RBI invites comments on the Draft “Reserve Bank of India (Know Your Customer) Amendment Directions, 2026”",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63587",
-      "date": "2026-09-11",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR110975FCF246F5BC47ACB3EA34B0CB6A5303.PDF"
-    },
-    {
       "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Third Amendment Directions, 2026",
       "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0",
       "date": "2026-09-11",
@@ -205,54 +253,6 @@
       "date": "2026-09-11",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Russia’s SberBank unveils GigaDoc AI smart mirror for express health assessment in India",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/russias-sberbank-unveils-gigadoc-ai-smart-mirror-for-express-health-assessment-in-india/articleshow/134045285.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Why India's Top Banks Are Suddenly Hunting for CEOs | The Morning Brief Decode",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/why-indias-top-banks-are-suddenly-hunting-for-ceos-the-morning-brief-decode/videoshow/134045414.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank boards vet talent pool amid succession wave; six big lenders brace for leadership transitions through end-2027",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-boards-vet-talent-pool-amid-succession-wave-six-big-lenders-brace-for-leadership-transitions-through-end-2027/articleshow/134027491.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Canara HSBC Life fined Rs 1 crore for mis-selling policy to 88-yr-old via Canara Bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/canara-hsbc-life-fined-rs-1-crore-for-mis-selling-policy-to-88-yr-old-via-canara-bank/articleshow/134025997.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Delhi HC acts big on fake GST registrations, rules no GST registration without biometric-based Aadhaar authentication",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/delhi-hc-acts-big-on-fake-gst-registrations-rules-no-gst-registration-without-biometric-based-aadhaar-authentication/articleshow/134007541.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 1.09 crore remittance sent home by an Indian working in Kuwait, but he didn't file ITR, received income tax notice; gets relief in ITAT Ahmedabad",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-09-crore-remittance-sent-to-home-by-an-indian-working-in-kuwait-but-he-didnt-file-itr-received-income-tax-notice-gets-relief-in-itat-ahmedabad/articleshow/134003093.cms",
-      "date": "2026-09-10",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
