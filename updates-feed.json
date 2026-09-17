@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:53:24+00:00",
+  "generated_at": "2026-09-17T11:00:45+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -15,6 +15,102 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI cancels Certificate of Registration of 5 NBFCs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63611",
+      "date": "2026-09-17",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR113362644D05B7FC41078F8753BB465B44D8.PDF"
+    },
+    {
+      "title": "8 NBFCs surrender their Certificate of Registration to the RBI",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63610",
+      "date": "2026-09-17",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1132A81238768A7D4A26A14DB72B5E71768B.PDF"
+    },
+    {
+      "title": "India’s Innovation in Digital Payments Is Powering Global Growth | Adyen at GFF 2026",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-innovation-in-digital-payments-is-powering-global-growth-adyen-at-gff-2026/videoshow/134304360.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI MDR could create Rs 27,000 crore revenue pool by FY28: Bernstein",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-could-create-rs-27000-crore-revenue-pool-by-fy28-bernstein/articleshow/134296142.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI clarifies principal business rules for NBFCs, CIC definition after Tata Sons CoR rejection",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-clarifies-principal-business-rules-for-nbfcs-cic-definition-after-tata-sons-cor-rejection/articleshow/134296053.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI MDR could cost 47.2 bps with GST for merchants",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-could-cost-47-2-bps-with-gst-for-merchants/articleshow/134296013.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "ITR filed under old tax regime by mistake, income tax paid under new regime: How a lady won case in ITAT Delhi",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filed-under-old-tax-regime-by-mistake-income-tax-paid-under-new-regime-how-a-lady-won-case-in-itat-delhi/articleshow/134288095.cms",
+      "date": "2026-09-16",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "SC asks RBI to secure compliance of norms on seizure of financed vehicles by NBFCs, banks",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sc-asks-rbi-to-secure-compliance-of-norms-on-seizure-of-financed-vehicles-by-nbfcs-banks/articleshow/134291106.cms",
+      "date": "2026-09-16",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI fee rollback ruled out: 0.4% MDR stays on big payments",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-fee-rollback-ruled-out-0-4-mdr-stays-on-big-payments/articleshow/134287989.cms",
+      "date": "2026-09-16",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Agentic Commerce Arrives: ISG's Bet on Compliance by Design",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/agentic-commerce-arrives-isgs-bet-on-compliance-by-design/videoshow/134287208.cms",
+      "date": "2026-09-16",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Why In-Solutions Global believes trust and compliance will define the agentic commerce era",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/why-in-solutions-global-believes-trust-and-compliance-will-define-the-agentic-commerce-era/articleshow/134286748.cms",
+      "date": "2026-09-16",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Delhi traders plan cash payments push to avoid fee on UPI payments",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-traders-plan-cash-payments-push-to-avoid-fee-on-upi-payments/articleshow/134286214.cms",
+      "date": "2026-09-16",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "AU Small Finance Bank vehicle loan portfolio crosses Rs 50,000-crore mark",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-vehicle-loan-portfolio-crosses-rs-50000-crore-mark/articleshow/134281055.cms",
@@ -157,102 +253,6 @@
       "date": "2026-09-12",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "J&K Bank receives ‘Best CSR Overall Practices’ Award in Bengaluru, MD & CEO reiterates commitment for inclusive and sustainable development",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/jk-bank-receives-best-csr-overall-practices-award-in-bengaluru-md-ceo-reiterates-commitment-for-inclusive-and-sustainable-development/articleshow/134146160.cms",
-      "date": "2026-09-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank submits two names to RBI for CEO post, strengthens board-level leadership",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-submits-two-names-to-rbi-for-ceo-post-strengthens-board-level-leadership/articleshow/134128796.cms",
-      "date": "2026-09-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "HDFC Bank sends two names to RBI for Jagdishan’s successor as MD & CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/hdfc-bank-sends-two-names-to-rbi-for-jagdishans-successor-as-md-ceo/articleshow/134127792.cms",
-      "date": "2026-09-12",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India (Priority Sector Lending – Targets and Classification) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13698&Mode=0",
-      "date": "2026-09-11",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/256NT69E7AC0A815E49618C2CB8CED5F6E5C6.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks – Cash Reserve Ratio and Statutory Liquidity Ratio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13697&Mode=0",
-      "date": "2026-09-11",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT2555AA6FB63E154403D95A54E43A0716C1A.PDF"
-    },
-    {
-      "title": "Rs 1.17 crore interest income of minor child: Father faces Rs 12.83 lakh penalty; ITAT Delhi cancels it",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-17-crore-interest-income-of-minor-child-father-faces-rs-12-83-lakh-penalty-itat-delhi-cancels-it/articleshow/134059686.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Russia’s Sberbank plans major India push, to build business hub",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/russias-sberbank-plans-major-india-push-to-build-business-hub/articleshow/134083993.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI developing solution to use UPI data for checking creditworthiness of small biz",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-developing-solution-to-use-upi-data-for-checking-creditworthiness-of-small-biz/articleshow/134078435.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of India mobilises $2.33 billion via FCNR(B), enough to meet one-quarter lending needs: CEO",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-india-mobilises-2-33-billion-via-fcnrb-enough-to-meet-one-quarter-lending-needs-ceo/articleshow/134076439.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank deposits grow 17.8% in August, fastest in decade as FCNR-B inflows mask local mobilisation woes",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-deposits-grow-17-8-in-august-fastest-in-decade-as-fcnr-b-inflows-mask-local-mobilisation-woes/articleshow/134076078.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank strike halts work at 7,000 branches in MP, affects business worth Rs 5,500 crore: Association",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-strike-halts-work-at-7000-branches-in-mp-affects-business-worth-rs-5500-crore-association/articleshow/134048000.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banking services hit as unions strike for five-day workweek",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banking-services-hit-as-unions-strike-for-five-day-workweek/articleshow/134046948.cms",
-      "date": "2026-09-11",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
