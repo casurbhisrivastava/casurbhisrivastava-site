@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:00:45+00:00",
+  "generated_at": "2026-09-18T10:37:25+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -16,20 +16,100 @@
   ],
   "items": [
     {
-      "title": "RBI cancels Certificate of Registration of 5 NBFCs",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63611",
-      "date": "2026-09-17",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR113362644D05B7FC41078F8753BB465B44D8.PDF"
+      "title": "Tax Audit Report deadline: Who needs to upload it by September 30, 2026",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/tax-audit-report-deadline-who-needs-to-upload-it-by-september-30-2026/articleshow/134331447.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
     },
     {
-      "title": "8 NBFCs surrender their Certificate of Registration to the RBI",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63610",
+      "title": "Rs 1 crore foreign asset limit under FAST-DS 2026: What taxpayers must know about undisclosed income",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-1-crore-foreign-asset-limit-under-fast-ds-2026-what-taxpayers-must-know-about-undisclosed-income/articleshow/134328902.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Can NRIs save income tax by gifting shares to their resident parents? Know these tax rules before transferring shares",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/can-nris-save-income-tax-by-gifting-shares-to-their-resident-parents-know-these-tax-rules-before-transferring-shares/articleshow/134325155.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Where India’s wealthiest minds exchange ideas: Introducing ET Wealth Expo 2026",
+      "link": "https://economictimes.indiatimes.com/wealth/personal-finance-news/where-indias-wealthiest-minds-exchange-ideas-introducing-et-wealth-expo-2026/articleshow/134312036.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Personal Finance",
+      "category": "misc",
+      "pdf_link": null
+    },
+    {
+      "title": "Betting on India’s Growth as a Global Leader in Digital Payments and Fintech",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/betting-on-indias-growth-as-a-global-leader-in-digital-payments-and-fintech/videoshow/134328289.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Apple Pay set for India launch next month with Axis Bank credit cards: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/apple-pay-set-for-india-launch-next-month-with-axis-bank-credit-cards-sources/articleshow/134326330.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Valsad Mahila Nagrik Sahakari Bank Ltd., Valsad Gujarat – Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63616",
       "date": "2026-09-17",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1132A81238768A7D4A26A14DB72B5E71768B.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1138E6CF8B273CAF4E2B9A1714C4B9830DB0.PDF"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Gauhati Co-operative Urban Bank Ltd., Guwahati – Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63614",
+      "date": "2026-09-17",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1136CA794BF184244EE7A64F7DC4C9E74398.PDF"
+    },
+    {
+      "title": "RBI cancels licences of 5 NBFCs, 8 others surrender registrations",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-cancels-licences-of-5-nbfcs-8-others-surrender-registrations/articleshow/134314479.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FinMin allays fears of increase in cash transactions post UPI MDR levy: Sources",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/finmin-allays-fears-of-increase-in-cash-transactions-post-upi-mdr-levy-sources/articleshow/134313201.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "World Bank mobilises $112 billion in private capital for developing nations",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/world-bank-mobilises-112-billion-in-private-capital-for-developing-nations/articleshow/134311837.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "BharatPe backs new UPI MDR framework, distances itself from former CEO Ashneer Grover’s criticism",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bharatpe-backs-new-upi-mdr-framework-distances-itself-from-former-ceo-ashneer-grovers-criticism/articleshow/134309418.cms",
+      "date": "2026-09-17",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
     },
     {
       "title": "India’s Innovation in Digital Payments Is Powering Global Growth | Adyen at GFF 2026",
@@ -136,7 +216,7 @@
       "pdf_link": null
     },
     {
-      "title": "Advance tax deadline today: What will be the consequences if you miss September 15, 2026, due date?",
+      "title": "Advance tax deadline of September 15, 2026: What will be the consequences if you miss the due date?",
       "link": "https://economictimes.indiatimes.com/wealth/tax/advance-tax-deadline-today-what-will-be-the-consequences-if-you-miss-september-15-2026-due-date/articleshow/134253751.cms",
       "date": "2026-09-15",
       "source": "Economic Times - Income Tax",
@@ -173,86 +253,6 @@
       "date": "2026-09-15",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Mutual funds, stocks UPI payments to attract 0.02% MDR under new NPCI framework",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/mutual-funds-stocks-upi-payments-to-attract-0-02-mdr-under-new-npci-framework/articleshow/134266396.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "No smartphone, no internet? PhonePe brings UPI to 220 million feature-phone users",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/no-smartphone-no-internet-phonepe-brings-upi-to-220-million-feature-phone-users/articleshow/134263348.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "The next phase of India’s digital payments dominance: Trusted AI-led agentic commerce, Visa’s Sethi says",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/the-next-phase-of-indias-digital-payments-dominance-trusted-ai-led-agentic-commerce-visas-sethi-says/articleshow/134253378.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian moves to US for job, forgets to file ITR, Income Tax Dept imposes Rs 8.29 lakh penalty; ITAT Jaipur cancels penalty and gives full relief",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/indian-moves-to-us-for-job-forgets-to-file-itr-income-tax-dept-imposes-rs-8-29-lakh-penalty-itat-jaipur-cancels-penalty-and-gives-full-relief/articleshow/134210569.cms",
-      "date": "2026-09-14",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank of Baroda's new mobile app to help customers make payments using voice commands",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-barodas-new-mobile-app-to-help-customers-make-payments-using-voice-commands/articleshow/134241567.cms",
-      "date": "2026-09-14",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI proposes framework to freeze only disputed amounts instead of entire accounts in cyber fraud cases",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-proposes-framework-allowing-banks-to-freeze-only-disputed-transaction-amounts-instead-of-entire-accounts-in-suspected-cyber-fraud-cases/articleshow/134241193.cms",
-      "date": "2026-09-14",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks seek RBI nod to use new rules for old trade mismatches",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-seek-rbi-nod-to-use-new-rules-for-old-trade-mismatches/articleshow/134218363.cms",
-      "date": "2026-09-13",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Indian Bank to enter life insurance business, soon to seek board nod",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/indian-bank-to-enter-life-insurance-business-soon-to-seek-board-nod/articleshow/134183180.cms",
-      "date": "2026-09-13",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Rs 6.42 lakh travel expense disallowed as business expenditure over use of wife’s credit card; businessman contests tax order, wins relief in ITAT Mumbai",
-      "link": "https://economictimes.indiatimes.com/wealth/legal/will/rs-6-42-lakh-travel-expense-disallowed-as-business-expenditure-over-use-of-wifes-credit-card-businessman-contests-tax-order-wins-relief-in-itat-mumbai/articleshow/134126429.cms",
-      "date": "2026-09-12",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Taxable income below Rs 12 lakh: Will you pay zero income tax if this income includes LTCG and STCG for Tax Year 2026-27?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/taxable-income-below-rs-12-lakh-will-you-pay-zero-income-tax-if-this-income-includes-ltcg-and-stcg-for-tax-year-2026-27/articleshow/134119480.cms",
-      "date": "2026-09-12",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
       "pdf_link": null
     }
   ]
