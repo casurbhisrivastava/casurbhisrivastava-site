@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:37:25+00:00",
+  "generated_at": "2026-09-19T10:21:57+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -15,6 +15,94 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "8 changes in income tax audit forms for AY 2026-2027; what taxpayers need to know",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/8-changes-in-income-tax-audit-forms-for-ay-2026-2027-what-taxpayers-need-to-know/articleshow/134333142.cms",
+      "date": "2026-09-19",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank credit growth hits 8-quarter high, widens funding gap as deposits lag: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-growth-hits-8-quarter-high-widens-funding-gap-as-deposits-lag-report/articleshow/134350337.cms",
+      "date": "2026-09-19",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Gig workers turn to tax filing as TDS refunds offer cash, financial records",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gig-workers-turn-to-tax-filing-as-tds-refunds-offer-cash-financial-records/articleshow/134349459.cms",
+      "date": "2026-09-19",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FCNR(B) scheme could yield Rs 5.5 trillion notional profit for banks, RBI: SBI Research",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-scheme-could-yield-rs-5-5-trillion-notional-profit-for-banks-rbi-sbi-research/articleshow/134347997.cms",
+      "date": "2026-09-19",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63624",
+      "date": "2026-09-18",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1146WSSEA0A2C0C76F241429E1935DC683D8581.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Rural Co-operative Banks – Know Your Customer) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13704&Mode=0",
+      "date": "2026-09-18",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2621136F543AAF54E3C83DC6E3100941596.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks – Know Your Customer) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13703&Mode=0",
+      "date": "2026-09-18",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26189BF34E0B0D049A89BA39ADB1EB863A1.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks – Know Your Customer) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13702&Mode=0",
+      "date": "2026-09-18",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2604569F184BDB641ED92EA1B7B04FE91A9.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks – Know Your Customer) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13701&Mode=0",
+      "date": "2026-09-18",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT259D9547EEA18C0474490DBC9CADDF191B4.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks – Know Your Customer) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13700&Mode=0",
+      "date": "2026-09-18",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2588DAD76B149414739967E7D273D94EADF.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13699&Mode=0",
+      "date": "2026-09-18",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT25759AB959133674677945F7C4E392FD010.PDF"
+    },
     {
       "title": "Tax Audit Report deadline: Who needs to upload it by September 30, 2026",
       "link": "https://economictimes.indiatimes.com/wealth/tax/tax-audit-report-deadline-who-needs-to-upload-it-by-september-30-2026/articleshow/134331447.cms",
@@ -48,6 +136,22 @@
       "pdf_link": null
     },
     {
+      "title": "UPI MDR from October 15: Govt plans daily monitoring to stop merchants passing 0.4% fee to customers",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-from-october-15-govt-plans-daily-monitoring-to-stop-merchants-passing-0-4-fee-to-customers/articleshow/134335074.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI MDR kicks in October 15: RBI DG says merchant fee on payments above Rs 2,000 won’t trigger cash surge",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-kicks-in-october-15-rbi-dg-says-merchant-fee-on-payments-above-rs-2000-wont-trigger-cash-surge/articleshow/134333786.cms",
+      "date": "2026-09-18",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "Betting on India’s Growth as a Global Leader in Digital Payments and Fintech",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/betting-on-indias-growth-as-a-global-leader-in-digital-payments-and-fintech/videoshow/134328289.cms",
       "date": "2026-09-18",
@@ -62,22 +166,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Valsad Mahila Nagrik Sahakari Bank Ltd., Valsad Gujarat – Extension of period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63616",
-      "date": "2026-09-17",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1138E6CF8B273CAF4E2B9A1714C4B9830DB0.PDF"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Gauhati Co-operative Urban Bank Ltd., Guwahati – Extension of period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63614",
-      "date": "2026-09-17",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1136CA794BF184244EE7A64F7DC4C9E74398.PDF"
     },
     {
       "title": "RBI cancels licences of 5 NBFCs, 8 others surrender registrations",
@@ -163,94 +251,6 @@
       "title": "UPI fee rollback ruled out: 0.4% MDR stays on big payments",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-fee-rollback-ruled-out-0-4-mdr-stays-on-big-payments/articleshow/134287989.cms",
       "date": "2026-09-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Agentic Commerce Arrives: ISG's Bet on Compliance by Design",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/agentic-commerce-arrives-isgs-bet-on-compliance-by-design/videoshow/134287208.cms",
-      "date": "2026-09-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Why In-Solutions Global believes trust and compliance will define the agentic commerce era",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/why-in-solutions-global-believes-trust-and-compliance-will-define-the-agentic-commerce-era/articleshow/134286748.cms",
-      "date": "2026-09-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Delhi traders plan cash payments push to avoid fee on UPI payments",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/delhi-traders-plan-cash-payments-push-to-avoid-fee-on-upi-payments/articleshow/134286214.cms",
-      "date": "2026-09-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "AU Small Finance Bank vehicle loan portfolio crosses Rs 50,000-crore mark",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-vehicle-loan-portfolio-crosses-rs-50000-crore-mark/articleshow/134281055.cms",
-      "date": "2026-09-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Student gets Rs 18.34 lakh stipend from university and pays no income tax; gets notice from Income Tax Department; she wins the case in ITAT Delhi for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/student-gets-rs-18-34-lakh-stipend-from-university-and-pays-no-income-tax-gets-notice-from-income-tax-department-she-wins-the-case-in-itat-delhi-for-this-reason/articleshow/134263104.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "NRI woman declared Rs 43,796 income in ITR but didn’t report Rs 14 lakh interest; faced 200% penalty – how she got it reduced to 50% in ITAT",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/nri-woman-declared-rs-43796-income-in-itr-but-didnt-report-rs-14-lakh-interest-faced-200-penalty-how-she-got-it-reduced-to-50-in-itat/articleshow/134257310.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Advance tax deadline of September 15, 2026: What will be the consequences if you miss the due date?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/advance-tax-deadline-today-what-will-be-the-consequences-if-you-miss-september-15-2026-due-date/articleshow/134253751.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI backs MDR on large-value UPI transactions, says could help expand UPI acceptance",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-backs-mdr-on-large-value-upi-transactions-says-could-help-expand-upi-acceptance/articleshow/134269815.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI MDR seen as sustenance fee, not windfall; small merchants remain shielded",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/upi-mdr-seen-as-sustenance-fee-not-windfall-small-merchants-remain-shielded/articleshow/134269549.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "AU Small Finance Bank bolsters leadership ahead of universal bank transition",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/au-small-finance-bank-bolsters-leadership-ahead-of-universal-bank-transition/articleshow/134268508.cms",
-      "date": "2026-09-15",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Yes Bank moves SC against forensic audit in Fortis share sale issue",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/yes-bank-challenges-delhi-hc-ruling-on-forensic-audit-of-fortis-healthcare-share-sale-to-ihh-healthcare/articleshow/134268169.cms",
-      "date": "2026-09-15",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
