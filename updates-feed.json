@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:21:57+00:00",
+  "generated_at": "2026-09-20T10:41:07+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -16,11 +16,35 @@
   ],
   "items": [
     {
+      "title": "Income Tax Rules 2026 amended: CBDT revises Form 169, Form 171; extends these deadlines",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-rules-2026-amended-cbdt-revises-form-169-form-171-extends-these-deadlines/articleshow/134352061.cms",
+      "date": "2026-09-19",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
       "title": "8 changes in income tax audit forms for AY 2026-2027; what taxpayers need to know",
       "link": "https://economictimes.indiatimes.com/wealth/tax/8-changes-in-income-tax-audit-forms-for-ay-2026-2027-what-taxpayers-need-to-know/articleshow/134333142.cms",
       "date": "2026-09-19",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Amid strike threat, Fin Secy Sanjay Lohia calls bank chiefs' meet to ensure services",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/amid-strike-threat-fin-secy-sanjay-lohia-calls-bank-chiefs-meet-to-ensure-services/articleshow/134358918.cms",
+      "date": "2026-09-19",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FinMin to meet PSB, RRB chiefs on Monday to ensure banking services during 3-day strike",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/finmin-to-meet-psb-rrb-chiefs-on-monday-to-ensure-banking-services-during-3-day-strike/articleshow/134356647.cms",
+      "date": "2026-09-19",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -227,30 +251,6 @@
       "title": "UPI MDR could cost 47.2 bps with GST for merchants",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-could-cost-47-2-bps-with-gst-for-merchants/articleshow/134296013.cms",
       "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "ITR filed under old tax regime by mistake, income tax paid under new regime: How a lady won case in ITAT Delhi",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filed-under-old-tax-regime-by-mistake-income-tax-paid-under-new-regime-how-a-lady-won-case-in-itat-delhi/articleshow/134288095.cms",
-      "date": "2026-09-16",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "SC asks RBI to secure compliance of norms on seizure of financed vehicles by NBFCs, banks",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sc-asks-rbi-to-secure-compliance-of-norms-on-seizure-of-financed-vehicles-by-nbfcs-banks/articleshow/134291106.cms",
-      "date": "2026-09-16",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI fee rollback ruled out: 0.4% MDR stays on big payments",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-fee-rollback-ruled-out-0-4-mdr-stays-on-big-payments/articleshow/134287989.cms",
-      "date": "2026-09-16",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
