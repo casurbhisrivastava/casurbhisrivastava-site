@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:41:07+00:00",
+  "generated_at": "2026-09-21T12:03:47+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -15,6 +15,70 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI issues Directions on Minimum Capital Requirements for Market Risk under Basel III for Commercial Banks",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63636",
+      "date": "2026-09-21",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1158083905E42F7E4443B59F57F101058BED.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
+      "date": "2026-09-21",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/472MDACBA450D67234F52BA2983DA6AED9DFC.PDF"
+    },
+    {
+      "title": "Missed ITR deadline and TDS refund is due? Know how to claim your refund before it’s too late",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-itr-deadline-and-tds-refund-is-due-know-how-to-claim-your-refund-before-its-too-late/articleshow/134382560.cms",
+      "date": "2026-09-21",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Where to find pre-approved used car loans online without hidden fees",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/where-to-find-pre-approved-used-car-loans-online-without-hidden-fees/articleshow/134386418.cms",
+      "date": "2026-09-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI charges could reverse digital payments gains, push users back to cash, says ex-NITI VC Rajiv Kumar",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-charges-could-reverse-digital-payments-gains-push-users-back-to-cash-says-ex-niti-vc-rajiv-kumar/articleshow/134386120.cms",
+      "date": "2026-09-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "$127 bn foreign currency deposit mobilisation a 'shot in the arm' for Indian banks: S&P",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/127-bn-foreign-currency-deposit-mobilisation-a-shot-in-the-arm-for-indian-banks-sp/articleshow/134385814.cms",
+      "date": "2026-09-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "'FCNR haul to power HSBC's India wealth, retail banking push'",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-haul-to-power-hsbcs-india-wealth-retail-banking-push/articleshow/134374668.cms",
+      "date": "2026-09-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks plan to align norms for project finance lending",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-unite-to-establish-unified-project-finance-lending-standards-to-minimize-regulatory-gaps/articleshow/134374140.cms",
+      "date": "2026-09-21",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Income Tax Rules 2026 amended: CBDT revises Form 169, Form 171; extends these deadlines",
       "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-rules-2026-amended-cbdt-revises-form-169-form-171-extends-these-deadlines/articleshow/134352061.cms",
@@ -70,14 +134,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63624",
-      "date": "2026-09-18",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1146WSSEA0A2C0C76F241429E1935DC683D8581.PDF"
     },
     {
       "title": "Reserve Bank of India (Rural Co-operative Banks – Know Your Customer) Amendment Directions, 2026",
@@ -194,62 +250,6 @@
     {
       "title": "RBI cancels licences of 5 NBFCs, 8 others surrender registrations",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-cancels-licences-of-5-nbfcs-8-others-surrender-registrations/articleshow/134314479.cms",
-      "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FinMin allays fears of increase in cash transactions post UPI MDR levy: Sources",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/finmin-allays-fears-of-increase-in-cash-transactions-post-upi-mdr-levy-sources/articleshow/134313201.cms",
-      "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "World Bank mobilises $112 billion in private capital for developing nations",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/world-bank-mobilises-112-billion-in-private-capital-for-developing-nations/articleshow/134311837.cms",
-      "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "BharatPe backs new UPI MDR framework, distances itself from former CEO Ashneer Grover’s criticism",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/bharatpe-backs-new-upi-mdr-framework-distances-itself-from-former-ceo-ashneer-grovers-criticism/articleshow/134309418.cms",
-      "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "India’s Innovation in Digital Payments Is Powering Global Growth | Adyen at GFF 2026",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indias-innovation-in-digital-payments-is-powering-global-growth-adyen-at-gff-2026/videoshow/134304360.cms",
-      "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI MDR could create Rs 27,000 crore revenue pool by FY28: Bernstein",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-could-create-rs-27000-crore-revenue-pool-by-fy28-bernstein/articleshow/134296142.cms",
-      "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI clarifies principal business rules for NBFCs, CIC definition after Tata Sons CoR rejection",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-clarifies-principal-business-rules-for-nbfcs-cic-definition-after-tata-sons-cor-rejection/articleshow/134296053.cms",
-      "date": "2026-09-17",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI MDR could cost 47.2 bps with GST for merchants",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-mdr-could-cost-47-2-bps-with-gst-for-merchants/articleshow/134296013.cms",
       "date": "2026-09-17",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
