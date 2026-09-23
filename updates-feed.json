@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:00:56+00:00",
+  "generated_at": "2026-09-23T10:49:05+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,10 +11,97 @@
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (mismatched tag: line 37, column 6)",
-    "gst.gov.in (headless browser): Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.news-updts li\") to be visible\n",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Banks to remain open on Sunday, September 27? Finance ministry issues key update to assist customers",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-remain-open-on-sunday-september-27-amid-three-day-nationwide-strike-finance-ministry/articleshow/134428905.cms",
+      "date": "2026-09-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks closed in India for 5 days? SBI & other top lenders send important message before strike",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-closed-in-india-for-5-days-sbi-bank-of-baroda-and-canara-bank-send-important-message-before-strike/articleshow/134425320.cms",
+      "date": "2026-09-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI warns banks against a loan price war",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-warns-banks-against-a-loan-price-war/articleshow/134419709.cms",
+      "date": "2026-09-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "High-level panel on banking likely by October-end",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/high-level-panel-on-banking-likely-by-october-end/articleshow/134419394.cms",
+      "date": "2026-09-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Credit card issuers push EMI loans to counter revolver model misfire",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/credit-card-issuers-push-emi-loans-to-counter-revolver-model-misfire/articleshow/134419400.cms",
+      "date": "2026-09-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Supervisory Data Quality Index for Scheduled Commercial Banks (June 2026)",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63645",
+      "date": "2026-09-22",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1167A629B93C6BAB4947ACB1F307F4AF88B9.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26840D3650D40D2475CB0378668FD8B8EC1.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13710&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT267F885FEF645D54E6DAC327AE684434E56.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13709&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2663B9D47D9B0A147A5A2F0574A11554B97.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT265E0CD6C792E7548DD945E004BEA0C948C.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Classification, Valuation, and Operation of Investment Portfolio) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13707&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26408EF9CCC46424A929E01BF357BC7936C.PDF"
+    },
     {
       "title": "Rs 14.42 lakh Belgium salary of IT pro triggered tax demand in India after Form 67 was missed; ITAT Bangalore gives relief",
       "link": "https://economictimes.indiatimes.com/wealth/tax/rs-14-42-lakh-belgium-salary-of-it-pro-triggered-tax-demand-in-india-after-form-67-was-missed-itat-bangalore-gives-relief/articleshow/134405336.cms",
@@ -37,6 +124,14 @@
       "date": "2026-09-22",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Simple ways to reduce your monthly personal loan EMI burden over time now",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/simple-ways-to-reduce-your-monthly-personal-loan-emi-burden-over-time-now/articleshow/134412075.cms",
+      "date": "2026-09-22",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
       "pdf_link": null
     },
     {
@@ -94,22 +189,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63638",
-      "date": "2026-09-21",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR11603D52BAAC45CA4FA595B6D785C7794CE8.PDF"
-    },
-    {
-      "title": "RBI issues Directions on Minimum Capital Requirements for Market Risk under Basel III for Commercial Banks",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63636",
-      "date": "2026-09-21",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1158083905E42F7E4443B59F57F101058BED.PDF"
     },
     {
       "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026",
@@ -174,86 +253,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "CBDT has issued Notification No. 3 of 2026 notifying the Procedure for registration of reporting person/entity and submission of Form No. 98 as per rule 160 of the Income-tax Rules, 2026.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "date": "2026-09-21",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Income Tax Rules 2026 amended: CBDT revises Form 169, Form 171; extends these deadlines",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/income-tax-rules-2026-amended-cbdt-revises-form-169-form-171-extends-these-deadlines/articleshow/134352061.cms",
-      "date": "2026-09-19",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "8 changes in income tax audit forms for AY 2026-2027; what taxpayers need to know",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/8-changes-in-income-tax-audit-forms-for-ay-2026-2027-what-taxpayers-need-to-know/articleshow/134333142.cms",
-      "date": "2026-09-19",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Amid strike threat, Fin Secy Sanjay Lohia calls bank chiefs' meet to ensure services",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/amid-strike-threat-fin-secy-sanjay-lohia-calls-bank-chiefs-meet-to-ensure-services/articleshow/134358918.cms",
-      "date": "2026-09-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FinMin to meet PSB, RRB chiefs on Monday to ensure banking services during 3-day strike",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/finmin-to-meet-psb-rrb-chiefs-on-monday-to-ensure-banking-services-during-3-day-strike/articleshow/134356647.cms",
-      "date": "2026-09-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank credit growth hits 8-quarter high, widens funding gap as deposits lag: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-credit-growth-hits-8-quarter-high-widens-funding-gap-as-deposits-lag-report/articleshow/134350337.cms",
-      "date": "2026-09-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Gig workers turn to tax filing as TDS refunds offer cash, financial records",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gig-workers-turn-to-tax-filing-as-tds-refunds-offer-cash-financial-records/articleshow/134349459.cms",
-      "date": "2026-09-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FCNR(B) scheme could yield Rs 5.5 trillion notional profit for banks, RBI: SBI Research",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnrb-scheme-could-yield-rs-5-5-trillion-notional-profit-for-banks-rbi-sbi-research/articleshow/134347997.cms",
-      "date": "2026-09-19",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India (Rural Co-operative Banks – Know Your Customer) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13704&Mode=0",
-      "date": "2026-09-18",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2621136F543AAF54E3C83DC6E3100941596.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Urban Co-operative Banks – Know Your Customer) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13703&Mode=0",
-      "date": "2026-09-18",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26189BF34E0B0D049A89BA39ADB1EB863A1.PDF"
     }
   ]
 }
