@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:49:05+00:00",
+  "generated_at": "2026-09-24T11:09:09+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,46 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Banks’ biggest risks may now sit inside their tech stack: RBI Deputy Governor Rohit Jain",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-biggest-risks-may-now-sit-inside-their-tech-stack-rbi-deputy-governor-rohit-jain/articleshow/134458804.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Proposed 0.4% UPI MDR could recover Rs 15,000 crore in first year: NPCI chief",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/proposed-0-4-upi-mdr-could-recover-rs-15000-crore-in-first-year-npci-chief/articleshow/134456142.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
+      "date": "2026-09-23",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT269D2CF6DE13687460D8CFB6E8AD0CDEF4E.PDF"
+    },
+    {
+      "title": "US citizen received Rs 30 lakh income tax demand notice in India, was denied India-US DTAA relief due to a mistake: Know how she won at ITAT Delhi",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/us-citizen-received-rs-30-lakh-income-tax-demand-notice-in-india-was-denied-india-us-dtaa-relief-due-to-a-mistake-know-how-she-won-at-itat-delhi/articleshow/134431113.cms",
+      "date": "2026-09-23",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "SBI expects surplus from new UPI MDR as issuing, acquiring bank",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-expects-surplus-from-new-upi-mdr-as-issuing-acquiring-bank/articleshow/134441532.cms",
+      "date": "2026-09-23",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Banks to remain open on Sunday, September 27? Finance ministry issues key update to assist customers",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-remain-open-on-sunday-september-27-amid-three-day-nationwide-strike-finance-ministry/articleshow/134428905.cms",
@@ -53,14 +93,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Supervisory Data Quality Index for Scheduled Commercial Banks (June 2026)",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63645",
-      "date": "2026-09-22",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1167A629B93C6BAB4947ACB1F307F4AF88B9.PDF"
     },
     {
       "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
@@ -217,38 +249,6 @@
     {
       "title": "Where to find pre-approved used car loans online without hidden fees",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/where-to-find-pre-approved-used-car-loans-online-without-hidden-fees/articleshow/134386418.cms",
-      "date": "2026-09-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI charges could reverse digital payments gains, push users back to cash, says ex-NITI VC Rajiv Kumar",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-charges-could-reverse-digital-payments-gains-push-users-back-to-cash-says-ex-niti-vc-rajiv-kumar/articleshow/134386120.cms",
-      "date": "2026-09-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "$127 bn foreign currency deposit mobilisation a 'shot in the arm' for Indian banks: S&P",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/127-bn-foreign-currency-deposit-mobilisation-a-shot-in-the-arm-for-indian-banks-sp/articleshow/134385814.cms",
-      "date": "2026-09-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "'FCNR haul to power HSBC's India wealth, retail banking push'",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fcnr-haul-to-power-hsbcs-india-wealth-retail-banking-push/articleshow/134374668.cms",
-      "date": "2026-09-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks plan to align norms for project finance lending",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-unite-to-establish-unified-project-finance-lending-standards-to-minimize-regulatory-gaps/articleshow/134374140.cms",
       "date": "2026-09-21",
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
