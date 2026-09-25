@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:09:09+00:00",
+  "generated_at": "2026-09-25T11:12:18+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -15,6 +15,126 @@
   ],
   "items": [
     {
+      "title": "Delhi HC directs police to decide on bank unions' protest site ahead of Sept 28-30 strike",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/delhi-hc-directs-police-to-decide-on-bank-unions-protest-site-ahead-of-sept-28-30-strike/articleshow/134479817.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Share of high-value micro loans rise: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/share-of-high-value-micro-loans-rise-report/articleshow/134479193.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Govt evaluating financial bids for IDBI Bank strategic sale: Sources",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/govt-evaluating-financial-bids-for-idbi-bank-strategic-sale-sources/articleshow/134477834.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "FM Nirmala Sitharaman rejects UPI MDR 'misconception,' says charge won't be passed to consumers",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/fm-nirmala-sitharaman-rejects-upi-mdr-misconception-says-charge-wont-be-passed-to-consumers/articleshow/134474227.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "RBI imposes monetary penalty on KLM Axiva Finvest Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63659",
+      "date": "2026-09-24",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR11817AA670B77ABC4997906495FBBF4CBCBA.PDF"
+    },
+    {
+      "title": "RBI imposes monetary penalty on Hero Fincorp Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63658",
+      "date": "2026-09-24",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1180FADBAE1EDDC646C49A786B192665311F.PDF"
+    },
+    {
+      "title": "Reserve Bank of India imposes monetary penalty on Ola Financial Services Private Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63657",
+      "date": "2026-09-24",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR117978F737306519499683B987A82CCEA4CD.PDF"
+    },
+    {
+      "title": "Reliance to raise Rs 10,000 crore next week as companies rush to tap surplus bank liquidity",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/reliance-to-raise-rs-10000-crore-next-week-as-companies-rush-to-tap-surplus-bank-liquidity/articleshow/134468414.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Irdai commission curbs spark sharp selloff in insurers, banks and NBFCs",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-commission-curbs-spark-sharp-selloff-in-insurers-banks-and-nbfcs/articleshow/134468312.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Credit card spending falls 2.8% in August as new card additions slow",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/credit-card-spending-falls-2-8-in-august-as-new-card-additions-slow/articleshow/134468217.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "UPI fee could recover up to Rs 15,000 crore annually while keeping most transactions free",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-fee-could-recover-up-to-rs-15000-crore-annually-while-keeping-most-transactions-free/articleshow/134467670.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Axis Bank readies major customer-connect initiative to mark World Tourism Day",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-readies-major-customer-connect-initiative-to-mark-world-tourism-day/articleshow/134466891.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "GST Council to take view on 18% levy on UPI merchant fees: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gst-council-to-take-view-on-18-levy-on-upi-merchant-fees-report/articleshow/134466846.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Proposed 0.4% UPI merchant fee will not be passed to consumers: Report",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/proposed-0-4-upi-merchant-fee-will-not-be-passed-to-consumers-report/articleshow/134466265.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks likely to deploy FCNR(B) liquidity in coming months as festive credit demand rises: RBI Deputy Guv",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-likely-to-deploy-fcnrb-liquidity-in-coming-months-as-festive-credit-demand-rises-rbi-deputy-guv/articleshow/134462958.cms",
+      "date": "2026-09-24",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "Banks’ biggest risks may now sit inside their tech stack: RBI Deputy Governor Rohit Jain",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-biggest-risks-may-now-sit-inside-their-tech-stack-rbi-deputy-governor-rohit-jain/articleshow/134458804.cms",
       "date": "2026-09-24",
@@ -29,6 +149,22 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
+    },
+    {
+      "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
+      "date": "2026-09-24",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBDT has issued Notification No. 120/2026 extending the registration deadline for Registered Valuers and Authorised Income-tax Practitioners to 31 March 2027 and introducing revised Forms 169 and 171.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
+      "date": "2026-09-24",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
     },
     {
       "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
@@ -117,142 +253,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2663B9D47D9B0A147A5A2F0574A11554B97.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT265E0CD6C792E7548DD945E004BEA0C948C.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Classification, Valuation, and Operation of Investment Portfolio) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13707&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26408EF9CCC46424A929E01BF357BC7936C.PDF"
-    },
-    {
-      "title": "Rs 14.42 lakh Belgium salary of IT pro triggered tax demand in India after Form 67 was missed; ITAT Bangalore gives relief",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/rs-14-42-lakh-belgium-salary-of-it-pro-triggered-tax-demand-in-india-after-form-67-was-missed-itat-bangalore-gives-relief/articleshow/134405336.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "My sister gifted me Rs 37 lakh from land sale. Will she have to pay income tax?",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/my-sister-gifted-me-rs-37-lakh-from-land-sale-will-she-have-to-pay-income-tax/articleshow/134404975.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Tenant received Rs 1.38 crore worth of flats for surrendering tenancy rights for society's redevelopment, he received income tax notice; Know how he won the case in ITAT Mumbai",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/tenant-received-rs-1-38-crore-worth-of-flats-for-surrendering-tenancy-rights-for-societys-redevelopment-he-received-income-tax-notice-know-how-he-won-the-case-in-itat-mumbai/articleshow/134404510.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Simple ways to reduce your monthly personal loan EMI burden over time now",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/simple-ways-to-reduce-your-monthly-personal-loan-emi-burden-over-time-now/articleshow/134412075.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Razorpay-backed POP bets on credit to monetise UPI users",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/razorpay-backed-pop-bets-on-credit-to-monetise-upi-users/articleshow/134408938.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "NPCI says GST on UPI MDR will not burden small merchants",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/npci-clarifies-no-burden-of-gst-on-upi-mdr-for-small-merchants/articleshow/134406450.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Big to get bigger: India's UPI fee shift to entrench dominant incumbents",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/big-to-get-bigger-indias-upi-fee-shift-to-entrench-dominant-incumbents/articleshow/134405755.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI weighs Anup Bagchi for HDFC top job; seeks feedback from Irda, ICICI Bank on his candidature due to 3-year gap from mainstream banking",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/rbi-weighs-anup-bagchi-for-hdfc-top-job-seeks-feedback-from-irda-icici-bank-on-his-candidature-due-to-3-year-gap-from-mainstream-banking/articleshow/134397138.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bandhan Bank promoter to gradually reduce stake to meet RBI norms",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bandhan-bank-promoter-to-gradually-reduce-stake-to-meet-rbi-norms/articleshow/134397291.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Government may do away with UPI subsidies as MDR revenue kicks in",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/government-may-do-away-with-upi-subsidies-as-mdr-revenue-kicks-in/articleshow/134397252.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Govt urges bank employees to refrain from strikes, resolve issues through dialogue",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-urges-bank-employees-to-refrain-from-strikes-resolve-issues-through-dialogue/articleshow/134396807.cms",
-      "date": "2026-09-22",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
-      "date": "2026-09-21",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/472MDACBA450D67234F52BA2983DA6AED9DFC.PDF"
-    },
-    {
-      "title": "Missed ITR deadline and TDS refund is due? Know how to claim your refund before it’s too late",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/missed-itr-deadline-and-tds-refund-is-due-know-how-to-claim-your-refund-before-its-too-late/articleshow/134382560.cms",
-      "date": "2026-09-21",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI issues final Basel III market risk capital rules for banks; new minimum requirements to kick in from April 2027",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-issues-final-basel-iii-market-risk-capital-rules-for-banks-new-minimum-requirements-to-kick-in-from-april-2027/articleshow/134391682.cms",
-      "date": "2026-09-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Where to find pre-approved used car loans online without hidden fees",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/where-to-find-pre-approved-used-car-loans-online-without-hidden-fees/articleshow/134386418.cms",
-      "date": "2026-09-21",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
     }
   ]
 }
