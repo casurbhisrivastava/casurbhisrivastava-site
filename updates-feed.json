@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:12:18+00:00",
+  "generated_at": "2026-09-26T10:51:20+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -14,6 +14,54 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Purchased property below market value, filed no ITR, got income tax notice, paid the tax but asked to pay Rs 70,000 penalty; ITAT Delhi gives full relief",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/purchased-property-below-market-value-filed-no-itr-got-income-tax-notice-paid-the-tax-but-asked-to-pay-rs-70000-penalty-itat-delhi-gives-full-relief/articleshow/134498418.cms",
+      "date": "2026-09-26",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63666",
+      "date": "2026-09-25",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1188WSS44C492CAF176481B903E8453CA49C2EF.PDF"
+    },
+    {
+      "title": "Fruit seller deposited large amount of cash in bank, got income tax notice of unexplained income; won case in ITAT Bangalore for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/fruit-seller-deposited-large-amount-of-cash-in-bank-got-income-tax-notice-of-unexplained-income-won-case-in-itat-bangalore-for-this-reason/articleshow/134484279.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Traders' body CAIT denies 'No UPI Day' call on October 2, terms reports misleading",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/traders-body-cait-denies-no-upi-day-call-on-october-2-terms-reports-misleading/articleshow/134488473.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Banks advise customers to complete essential transactions ahead of 3-day strike",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-advise-customers-to-complete-essential-transactions-ahead-of-3-day-strike/articleshow/134488123.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank deposits, credit shrink in fortnight to September 15",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-deposits-credit-shrink-in-fortnight-to-september-15/articleshow/134485172.cms",
+      "date": "2026-09-25",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
     {
       "title": "Delhi HC directs police to decide on bank unions' protest site ahead of Sept 28-30 strike",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/delhi-hc-directs-police-to-decide-on-bank-unions-protest-site-ahead-of-sept-28-30-strike/articleshow/134479817.cms",
@@ -45,30 +93,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "RBI imposes monetary penalty on KLM Axiva Finvest Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63659",
-      "date": "2026-09-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR11817AA670B77ABC4997906495FBBF4CBCBA.PDF"
-    },
-    {
-      "title": "RBI imposes monetary penalty on Hero Fincorp Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63658",
-      "date": "2026-09-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1180FADBAE1EDDC646C49A786B192665311F.PDF"
-    },
-    {
-      "title": "Reserve Bank of India imposes monetary penalty on Ola Financial Services Private Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63657",
-      "date": "2026-09-24",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR117978F737306519499683B987A82CCEA4CD.PDF"
     },
     {
       "title": "Reliance to raise Rs 10,000 crore next week as companies rush to tap surplus bank liquidity",
@@ -229,30 +253,6 @@
       "source": "Economic Times - Banking/Finance",
       "category": "banking",
       "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26840D3650D40D2475CB0378668FD8B8EC1.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Payments Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13710&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT267F885FEF645D54E6DAC327AE684434E56.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13709&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2663B9D47D9B0A147A5A2F0574A11554B97.PDF"
     }
   ]
 }
