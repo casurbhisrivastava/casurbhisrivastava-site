@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:26:59+00:00",
+  "generated_at": "2026-09-28T05:24:04+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -15,6 +15,54 @@
   ],
   "items": [
     {
+      "title": "Grain trader deposited Rs 5.2 crore cash in bank, filed ITR declaring Rs 7.65 lakh income, got unexplained deposit income tax notice; won case in ITAT Delhi for this reason",
+      "link": "https://economictimes.indiatimes.com/wealth/tax/grain-trader-deposited-rs-5-2-crore-cash-in-bank-filed-itr-declaring-rs-7-65-lakh-income-got-unexplained-deposit-income-tax-notice-won-case-in-itat-delhi-for-this-reason/articleshow/134530961.cms",
+      "date": "2026-09-28",
+      "source": "Economic Times - Income Tax",
+      "category": "income-tax",
+      "pdf_link": null
+    },
+    {
+      "title": "Are banks open today? Check the latest update on September 28-30 bank strike and bank holiday status on Monday",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-open-on-september-28-nationwide-strike-deferred-after-union-agreement-sbi-hdfc-pnb-axis-bank-kotak-mahindra-icici-bank-of-india/articleshow/134529410.cms",
+      "date": "2026-09-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Holding companies, NBFCs rejig assets, income to escape RBI scrutiny",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/holding-companies-nbfcs-rejig-assets-income-to-escape-rbi-scrutiny/articleshow/134525412.cms",
+      "date": "2026-09-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Finance Ministry seeks banks' inputs on AI tools for loan collection, assesses adoption",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/finance-ministry-seeks-banks-inputs-on-ai-tools-for-loan-collection-assesses-adoption/articleshow/134525053.cms",
+      "date": "2026-09-28",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "Bank unions defer 3-day nationwide strike after talks with IBA",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-unions-defer-3-day-nationwide-strike-after-talks-with-iba/articleshow/134523692.cms",
+      "date": "2026-09-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
+      "title": "After GST exemption, retail policy base rises 11% for Star Health",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/after-gst-exemption-retail-policy-base-rises-11-for-star-health/articleshow/134522981.cms",
+      "date": "2026-09-27",
+      "source": "Economic Times - Banking/Finance",
+      "category": "banking",
+      "pdf_link": null
+    },
+    {
       "title": "SBI's growth mantra: Digital first, customer first, nation always, says chairman C S Setty",
       "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbis-growth-mantra-digital-first-customer-first-nation-always-says-chairman-c-s-setty/articleshow/134515720.cms",
       "date": "2026-09-27",
@@ -29,14 +77,6 @@
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
       "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63666",
-      "date": "2026-09-25",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1188WSS44C492CAF176481B903E8453CA49C2EF.PDF"
     },
     {
       "title": "Fruit seller deposited large amount of cash in bank, got income tax notice of unexplained income; won case in ITAT Bangalore for this reason",
@@ -212,46 +252,6 @@
       "date": "2026-09-23",
       "source": "Economic Times - Income Tax",
       "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI expects surplus from new UPI MDR as issuing, acquiring bank",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbi-expects-surplus-from-new-upi-mdr-as-issuing-acquiring-bank/articleshow/134441532.cms",
-      "date": "2026-09-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks to remain open on Sunday, September 27? Finance ministry issues key update to assist customers",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-to-remain-open-on-sunday-september-27-amid-three-day-nationwide-strike-finance-ministry/articleshow/134428905.cms",
-      "date": "2026-09-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks closed in India for 5 days? SBI & other top lenders send important message before strike",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-closed-in-india-for-5-days-sbi-bank-of-baroda-and-canara-bank-send-important-message-before-strike/articleshow/134425320.cms",
-      "date": "2026-09-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "RBI warns banks against a loan price war",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-warns-banks-against-a-loan-price-war/articleshow/134419709.cms",
-      "date": "2026-09-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "High-level panel on banking likely by October-end",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/high-level-panel-on-banking-likely-by-october-end/articleshow/134419394.cms",
-      "date": "2026-09-23",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
       "pdf_link": null
     }
   ]
