@@ -31,8 +31,11 @@ CATEGORY = "gst"
 
 
 def try_parse_date(text):
-    text = text.strip()
-    for fmt in ("%d/%m/%Y", "%d-%m-%Y", "%d/%m/%y", "%d-%m-%y"):
+    text = re.sub(r"\s+", " ", (text or "").strip())
+    # GST portal shows dates like "Sep 19th, 2026" -- drop the ordinal suffix
+    text = re.sub(r"(\d{1,2})(st|nd|rd|th)\b", r"\1", text)
+    for fmt in ("%d/%m/%Y", "%d-%m-%Y", "%d/%m/%y", "%d-%m-%y",
+                "%b %d, %Y", "%B %d, %Y", "%b %d %Y", "%d %b %Y", "%d %B %Y"):
         try:
             return datetime.strptime(text, fmt).date().isoformat()
         except ValueError:
