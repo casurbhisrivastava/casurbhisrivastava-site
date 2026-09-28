@@ -28,7 +28,6 @@ Sources used (all official, all public):
   - RBI Notifications RSS  : https://www.rbi.org.in/notifications_rss.xml
   - PIB (all ministries)   : https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1
   - Income Tax Dept RSS feeds (press release / circular / notification)
-  - Economic Times topic feeds (GST, Income Tax, Personal Finance, Banking)
   - GST portal (via gst_scraper.py -- headless browser, no RSS available)
   - MCA notices & circulars (via mca_scraper.py -- headless browser, site
     blocks plain requests and its listing renders client-side)
@@ -54,14 +53,6 @@ FEEDS = [
     # incometaxindia.gov.in) that isn't blocked, and additionally supplies
     # direct PDF links where available -- see the "Income Tax Dept" merge
     # step further down in this file.
-    # Economic Times — these are already topic-dedicated feeds (editorially curated by ET
-    # for that specific subject), so we trust them and skip keyword filtering entirely.
-    {"url": "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms", "source": "Economic Times - GST", "category": "gst", "always_include": True},
-    {"url": "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119912.cms", "source": "Economic Times - Income Tax", "category": "income-tax", "always_include": True},
-    {"url": "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms", "source": "Economic Times - Personal Finance", "category": "misc", "always_include": True},
-    # Banking/Finance Industry is broader (covers company results, strategy etc. too),
-    # so it still goes through the keyword filter below.
-    {"url": "https://economictimes.indiatimes.com/rssfeeds/13358259.cms", "source": "Economic Times - Banking/Finance", "category": "banking", "always_include": False},
 ]
 
 # Keep items whose title matches at least one of these (case-insensitive)
@@ -239,10 +230,12 @@ def main():
         errors.append(f"incometax.gov.in (news page): {e}")
         print(f"ERR incometax.gov.in (news page) -> {e}")
 
-    # De-duplicate by link, sort newest first, cap the list
+    # De-duplicate by link, sort newest first (undated items last), cap the list.
+    # Only official sources (RBI, GST, MCA, Income Tax, PIB) are used --
+    # newspaper feeds were removed on 28 Sep 2026 for copyright reasons.
     seen = set()
     deduped = []
-    for it in sorted(all_items, key=lambda x: x["date"], reverse=True):
+    for it in sorted(all_items, key=lambda x: x.get("date") or "0000-00-00", reverse=True):
         if it["link"] in seen:
             continue
         seen.add(it["link"])
