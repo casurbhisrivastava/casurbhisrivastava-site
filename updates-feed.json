@@ -1,227 +1,15 @@
 {
-  "generated_at": "2026-09-28T05:24:04+00:00",
+  "generated_at": "2026-09-28T05:58:20+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
-    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1",
-    "https://economictimes.indiatimes.com/small-biz/gst/rssfeeds/58475404.cms",
-    "https://economictimes.indiatimes.com/wealth/tax/rssfeeds/47119912.cms",
-    "https://economictimes.indiatimes.com/wealth/personal-finance-news/rssfeeds/49674901.cms",
-    "https://economictimes.indiatimes.com/rssfeeds/13358259.cms"
+    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1"
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (mismatched tag: line 37, column 6)",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
-    {
-      "title": "Grain trader deposited Rs 5.2 crore cash in bank, filed ITR declaring Rs 7.65 lakh income, got unexplained deposit income tax notice; won case in ITAT Delhi for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/grain-trader-deposited-rs-5-2-crore-cash-in-bank-filed-itr-declaring-rs-7-65-lakh-income-got-unexplained-deposit-income-tax-notice-won-case-in-itat-delhi-for-this-reason/articleshow/134530961.cms",
-      "date": "2026-09-28",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Are banks open today? Check the latest update on September 28-30 bank strike and bank holiday status on Monday",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-open-on-september-28-nationwide-strike-deferred-after-union-agreement-sbi-hdfc-pnb-axis-bank-kotak-mahindra-icici-bank-of-india/articleshow/134529410.cms",
-      "date": "2026-09-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Holding companies, NBFCs rejig assets, income to escape RBI scrutiny",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/holding-companies-nbfcs-rejig-assets-income-to-escape-rbi-scrutiny/articleshow/134525412.cms",
-      "date": "2026-09-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Finance Ministry seeks banks' inputs on AI tools for loan collection, assesses adoption",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/finance-ministry-seeks-banks-inputs-on-ai-tools-for-loan-collection-assesses-adoption/articleshow/134525053.cms",
-      "date": "2026-09-28",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank unions defer 3-day nationwide strike after talks with IBA",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-unions-defer-3-day-nationwide-strike-after-talks-with-iba/articleshow/134523692.cms",
-      "date": "2026-09-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "After GST exemption, retail policy base rises 11% for Star Health",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/after-gst-exemption-retail-policy-base-rises-11-for-star-health/articleshow/134522981.cms",
-      "date": "2026-09-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "SBI's growth mantra: Digital first, customer first, nation always, says chairman C S Setty",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/sbis-growth-mantra-digital-first-customer-first-nation-always-says-chairman-c-s-setty/articleshow/134515720.cms",
-      "date": "2026-09-27",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Purchased property below market value, filed no ITR, got income tax notice, paid the tax but asked to pay Rs 70,000 penalty; ITAT Delhi gives full relief",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/purchased-property-below-market-value-filed-no-itr-got-income-tax-notice-paid-the-tax-but-asked-to-pay-rs-70000-penalty-itat-delhi-gives-full-relief/articleshow/134498418.cms",
-      "date": "2026-09-26",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Fruit seller deposited large amount of cash in bank, got income tax notice of unexplained income; won case in ITAT Bangalore for this reason",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/fruit-seller-deposited-large-amount-of-cash-in-bank-got-income-tax-notice-of-unexplained-income-won-case-in-itat-bangalore-for-this-reason/articleshow/134484279.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
-      "pdf_link": null
-    },
-    {
-      "title": "Traders' body CAIT denies 'No UPI Day' call on October 2, terms reports misleading",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/traders-body-cait-denies-no-upi-day-call-on-october-2-terms-reports-misleading/articleshow/134488473.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks advise customers to complete essential transactions ahead of 3-day strike",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-advise-customers-to-complete-essential-transactions-ahead-of-3-day-strike/articleshow/134488123.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Bank deposits, credit shrink in fortnight to September 15",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-deposits-credit-shrink-in-fortnight-to-september-15/articleshow/134485172.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Delhi HC directs police to decide on bank unions' protest site ahead of Sept 28-30 strike",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/delhi-hc-directs-police-to-decide-on-bank-unions-protest-site-ahead-of-sept-28-30-strike/articleshow/134479817.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Share of high-value micro loans rise: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/share-of-high-value-micro-loans-rise-report/articleshow/134479193.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Govt evaluating financial bids for IDBI Bank strategic sale: Sources",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/govt-evaluating-financial-bids-for-idbi-bank-strategic-sale-sources/articleshow/134477834.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "FM Nirmala Sitharaman rejects UPI MDR 'misconception,' says charge won't be passed to consumers",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/fm-nirmala-sitharaman-rejects-upi-mdr-misconception-says-charge-wont-be-passed-to-consumers/articleshow/134474227.cms",
-      "date": "2026-09-25",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Reliance to raise Rs 10,000 crore next week as companies rush to tap surplus bank liquidity",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/reliance-to-raise-rs-10000-crore-next-week-as-companies-rush-to-tap-surplus-bank-liquidity/articleshow/134468414.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Irdai commission curbs spark sharp selloff in insurers, banks and NBFCs",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/irdai-commission-curbs-spark-sharp-selloff-in-insurers-banks-and-nbfcs/articleshow/134468312.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Credit card spending falls 2.8% in August as new card additions slow",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/credit-card-spending-falls-2-8-in-august-as-new-card-additions-slow/articleshow/134468217.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "UPI fee could recover up to Rs 15,000 crore annually while keeping most transactions free",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/upi-fee-could-recover-up-to-rs-15000-crore-annually-while-keeping-most-transactions-free/articleshow/134467670.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Axis Bank readies major customer-connect initiative to mark World Tourism Day",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-readies-major-customer-connect-initiative-to-mark-world-tourism-day/articleshow/134466891.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "GST Council to take view on 18% levy on UPI merchant fees: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/gst-council-to-take-view-on-18-levy-on-upi-merchant-fees-report/articleshow/134466846.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Proposed 0.4% UPI merchant fee will not be passed to consumers: Report",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/proposed-0-4-upi-merchant-fee-will-not-be-passed-to-consumers-report/articleshow/134466265.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks likely to deploy FCNR(B) liquidity in coming months as festive credit demand rises: RBI Deputy Guv",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-likely-to-deploy-fcnrb-liquidity-in-coming-months-as-festive-credit-demand-rises-rbi-deputy-guv/articleshow/134462958.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Banks’ biggest risks may now sit inside their tech stack: RBI Deputy Governor Rohit Jain",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-biggest-risks-may-now-sit-inside-their-tech-stack-rbi-deputy-governor-rohit-jain/articleshow/134458804.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
-    {
-      "title": "Proposed 0.4% UPI MDR could recover Rs 15,000 crore in first year: NPCI chief",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/proposed-0-4-upi-mdr-could-recover-rs-15000-crore-in-first-year-npci-chief/articleshow/134456142.cms",
-      "date": "2026-09-24",
-      "source": "Economic Times - Banking/Finance",
-      "category": "banking",
-      "pdf_link": null
-    },
     {
       "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
@@ -247,11 +35,219 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT269D2CF6DE13687460D8CFB6E8AD0CDEF4E.PDF"
     },
     {
-      "title": "US citizen received Rs 30 lakh income tax demand notice in India, was denied India-US DTAA relief due to a mistake: Know how she won at ITAT Delhi",
-      "link": "https://economictimes.indiatimes.com/wealth/tax/us-citizen-received-rs-30-lakh-income-tax-demand-notice-in-india-was-denied-india-us-dtaa-relief-due-to-a-mistake-know-how-she-won-at-itat-delhi/articleshow/134431113.cms",
-      "date": "2026-09-23",
-      "source": "Economic Times - Income Tax",
-      "category": "income-tax",
+      "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26840D3650D40D2475CB0378668FD8B8EC1.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13710&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT267F885FEF645D54E6DAC327AE684434E56.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13709&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2663B9D47D9B0A147A5A2F0574A11554B97.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT265E0CD6C792E7548DD945E004BEA0C948C.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Classification, Valuation, and Operation of Investment Portfolio) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13707&Mode=0",
+      "date": "2026-09-22",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26408EF9CCC46424A929E01BF357BC7936C.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
+      "date": "2026-09-21",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/472MDACBA450D67234F52BA2983DA6AED9DFC.PDF"
+    },
+    {
+      "title": "CBDT has issued Notification No. 3 of 2026 notifying the Procedure for registration of reporting person/entity and submission of Form No. 98 as per rule 160 of the Income-tax Rules, 2026.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
+      "date": "2026-09-21",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Advisory on use of version 3.3 of emSigner",
+      "link": "https://www.gst.gov.in/newsandupdates/read/672",
+      "date": "2026-09-19",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
+      "link": "https://www.gst.gov.in/newsandupdates/read/671",
+      "date": "2026-09-07",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of August, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/670",
+      "date": "2026-09-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "CBDT has issued Notification No. 114/2026 [F. No. 370142/18/2026-TPL], notifying the rules and prescribed forms under the Foreign Assets of Small Taxpayers Disclosure Scheme, 2026.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
+      "date": "2026-09-01",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Offline utility of ITR-6 for AY 2026-27 is available now for filing.",
+      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
+      "date": "2026-08-20",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Online filing of ITR-6 for AY 2026-27 is available now.",
+      "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
+      "date": "2026-08-18",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of July, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/669",
+      "date": "2026-08-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
+      "link": "https://www.gst.gov.in/newsandupdates/read/668",
+      "date": "2026-07-29",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "The Central Board of Direct Taxes (CBDT), vide Notification No. 97/2026 [F. No. 370142/11/2026-TPL], has notified the Income-tax (Third Amendment) Rules, 2026. The notification introduces Form ITR-BN and amends Rule 332 by inserting Appendix IV to govern returns relating to search and requisition ca",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
+      "date": "2026-07-27",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBDT enhances taxpayer services by enabling taxpayers to view their Foreign Asset Information through the Annual Information Statement (AIS) .",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Annexure.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Annexure.pdf",
+      "date": "2026-07-20",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Hosting of note - regarding availability of Foreign Assets Information (CRS/FATCA) in Annual Information Statement (AIS) on the Income-tax e-Filing portal- Reg.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
+      "date": "2026-07-20",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBDT has issued Notification No. 80/2026 [F. No. 275/19/2026-IT(B)], notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, ",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
+      "date": "2026-07-13",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBDT has issued a Notification under Section 10(46) – Income Tax Exemption Granted to Mussoorie Dehradun Development Authority (Assessment Years 2022-23 & 2023-24).",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification%20No.%2073_0.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification%20No.%2073_0.pdf",
+      "date": "2026-07-06",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Condonation of delay in filing Form No. 10AB electronically for approval under clause (ii) of the first proviso to section 80G(5) of the Income-tax Act, 1961 — reg.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Circular-No-06-2026.pdf#",
+      "pdf_link": null,
+      "date": "2026-07-06",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBTD has issued a Notification No. 74/2026 – Non-Deduction of TDS on Aircraft Lease Rent Paid to IFSC Units under Section 147 of the Income-tax Act, 2025. Click here Pagination Previous items 11-20 of 57 items Next items Pagination First page Previous page",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ENnotification-no-74-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ENnotification-no-74-2026.pdf",
+      "date": "2026-07-06",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Advisory on Revision of Timeline for Amendment of Aggregate Annual Turnover (AATO), 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/666",
+      "date": "2026-07-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of June, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/665",
+      "date": "2026-07-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of May, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/662",
+      "date": "2026-06-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Filing of Annexure-B for Refund Applications involving Accumulated ITC using the offline utility in GST portal",
+      "link": "https://www.gst.gov.in/newsandupdates/read/660",
+      "date": "2026-05-18",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of Apr, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/659",
+      "date": "2026-05-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
       "pdf_link": null
     }
   ]
