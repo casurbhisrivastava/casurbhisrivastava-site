@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:10:58+00:00",
+  "generated_at": "2026-09-30T11:58:09+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,22 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Scheduled Banks’ Statement of Position in India as on September 15, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63693",
+      "date": "2026-09-30",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR12155D309EA17AD64551A82AE0D1A764AC56.PDF"
+    },
+    {
+      "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of I",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+      "date": "2026-09-29",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
     {
       "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
@@ -125,7 +141,7 @@
     {
       "title": "Online filing of ITR-6 for AY 2026-27 is available now.",
       "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
       "date": "2026-08-18",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
@@ -187,17 +203,9 @@
       "category": "income-tax"
     },
     {
-      "title": "Condonation of delay in filing Form No. 10AB electronically for approval under clause (ii) of the first proviso to section 80G(5) of the Income-tax Act, 1961 — reg.",
+      "title": "Condonation of delay in filing Form No. 10AB electronically for approval under clause (ii) of the first proviso to section 80G(5) of the Income-tax Act, 1961 — reg. Click here Pagination Previous items 11-20 of 58 items Next items Pagination First page Previous page",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Circular-No-06-2026.pdf#",
       "pdf_link": null,
-      "date": "2026-07-06",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBTD has issued a Notification No. 74/2026 – Non-Deduction of TDS on Aircraft Lease Rent Paid to IFSC Units under Section 147 of the Income-tax Act, 2025. Click here Pagination Previous items 11-20 of 57 items Next items Pagination First page Previous page",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ENnotification-no-74-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ENnotification-no-74-2026.pdf",
       "date": "2026-07-06",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
@@ -238,14 +246,6 @@
       "title": "Gross and Net GST revenue collections for the month of Apr, 2026",
       "link": "https://www.gst.gov.in/newsandupdates/read/659",
       "date": "2026-05-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Introduction of IMS Offline Tool",
-      "link": "https://www.gst.gov.in/newsandupdates/read/658",
-      "date": "2026-04-21",
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
