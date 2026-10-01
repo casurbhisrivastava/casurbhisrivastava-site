@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:58:09+00:00",
+  "generated_at": "2026-10-01T12:29:33+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -7,16 +7,81 @@
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (not well-formed (invalid token): line 15, column 70)",
+    "gst.gov.in (headless browser): Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.news-updts li\") to be visible\n",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
     {
-      "title": "Scheduled Banks’ Statement of Position in India as on September 15, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63693",
-      "date": "2026-09-30",
+      "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
+      "date": "2026-10-01",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR12155D309EA17AD64551A82AE0D1A764AC56.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1233BC0C5B42DB564CA7898531869857F99D.PDF"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 (As Applicable to Co-operative Societies) – The Industrial Co-operative Bank Ltd., Guwahati – Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63710",
+      "date": "2026-10-01",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR12323FA60D78A21647FDAA33F30410DF02C1.PDF"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Innovative Co-operative Urban Bank Limited, New Delhi – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63707",
+      "date": "2026-10-01",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1229C94ED282206845D7AC7ECB5342860B17.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13722&Mode=0",
+      "date": "2026-10-01",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT278A39F641BB3C5485194734D495C3B914E.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Payments Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13721&Mode=0",
+      "date": "2026-10-01",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT277F3970CD9E76046B0870FB310FEAC22D9.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13720&Mode=0",
+      "date": "2026-10-01",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT276B283340355CB4606A0E114A0985D9349.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
+      "date": "2026-10-01",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT27591A82040B28E448E9C6F66A9C2855D70.PDF"
+    },
+    {
+      "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
+      "date": "2026-10-01",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI27401102026AA16BFEFF59341BF97FD2930B1A4A63C.PDF"
+    },
+    {
+      "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
+      "date": "2026-10-01",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/272MC011020266691348260DF4CF99ACE017F146409F1.PDF"
     },
     {
       "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of I",
@@ -43,84 +108,12 @@
       "category": "income-tax"
     },
     {
-      "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
-      "date": "2026-09-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT269D2CF6DE13687460D8CFB6E8AD0CDEF4E.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26840D3650D40D2475CB0378668FD8B8EC1.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Payments Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13710&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT267F885FEF645D54E6DAC327AE684434E56.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13709&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2663B9D47D9B0A147A5A2F0574A11554B97.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT265E0CD6C792E7548DD945E004BEA0C948C.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Classification, Valuation, and Operation of Investment Portfolio) Third Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13707&Mode=0",
-      "date": "2026-09-22",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT26408EF9CCC46424A929E01BF357BC7936C.PDF"
-    },
-    {
       "title": "CBDT has issued Notification No. 3 of 2026 notifying the Procedure for registration of reporting person/entity and submission of Form No. 98 as per rule 160 of the Income-tax Rules, 2026.",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
       "date": "2026-09-21",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
-    },
-    {
-      "title": "Advisory on use of version 3.3 of emSigner",
-      "link": "https://www.gst.gov.in/newsandupdates/read/672",
-      "date": "2026-09-19",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
-      "link": "https://www.gst.gov.in/newsandupdates/read/671",
-      "date": "2026-09-07",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of August, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/670",
-      "date": "2026-09-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
     },
     {
       "title": "CBDT has issued Notification No. 114/2026 [F. No. 370142/18/2026-TPL], notifying the rules and prescribed forms under the Foreign Assets of Small Taxpayers Disclosure Scheme, 2026.",
@@ -145,22 +138,6 @@
       "date": "2026-08-18",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of July, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/669",
-      "date": "2026-08-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
-      "link": "https://www.gst.gov.in/newsandupdates/read/668",
-      "date": "2026-07-29",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
     },
     {
       "title": "The Central Board of Direct Taxes (CBDT), vide Notification No. 97/2026 [F. No. 370142/11/2026-TPL], has notified the Income-tax (Third Amendment) Rules, 2026. The notification introduces Form ITR-BN and amends Rule 332 by inserting Appendix IV to govern returns relating to search and requisition ca",
@@ -209,46 +186,6 @@
       "date": "2026-07-06",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
-    },
-    {
-      "title": "Advisory on Revision of Timeline for Amendment of Aggregate Annual Turnover (AATO), 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/666",
-      "date": "2026-07-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of June, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/665",
-      "date": "2026-07-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of May, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/662",
-      "date": "2026-06-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Filing of Annexure-B for Refund Applications involving Accumulated ITC using the offline utility in GST portal",
-      "link": "https://www.gst.gov.in/newsandupdates/read/660",
-      "date": "2026-05-18",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of Apr, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/659",
-      "date": "2026-05-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
     }
   ]
 }
