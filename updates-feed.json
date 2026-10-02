@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:29:33+00:00",
+  "generated_at": "2026-10-02T11:55:56+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -7,10 +7,33 @@
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (not well-formed (invalid token): line 15, column 70)",
-    "gst.gov.in (headless browser): Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(\"ul.news-updts li\") to be visible\n",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63718",
+      "date": "2026-10-02",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1240509B484DE15D48608C6E90C5A6FCEAE6.PDF"
+    },
+    {
+      "title": "Processing of Applications Received Under the Citizen’s Charter Status as on September 30, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63717",
+      "date": "2026-10-02",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1239FCE36E7D6BB94A20AFF9F6BA2CF999ED.PDF"
+    },
+    {
+      "title": "Master Direction on Note Sorting Machines",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
+      "date": "2026-10-02",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/473MDD1229693F0604B6D996B1DF75C81E466.PDF"
+    },
     {
       "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
@@ -28,12 +51,12 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR12323FA60D78A21647FDAA33F30410DF02C1.PDF"
     },
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Innovative Co-operative Urban Bank Limited, New Delhi – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63707",
+      "title": "Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13725&Mode=0",
       "date": "2026-10-01",
-      "source": "RBI Press Release",
+      "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1229C94ED282206845D7AC7ECB5342860B17.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2800AE75657FD144B8ABC111ECF504BCC06.PDF"
     },
     {
       "title": "Reserve Bank of India (Local Area Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
@@ -84,6 +107,22 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/272MC011020266691348260DF4CF99ACE017F146409F1.PDF"
     },
     {
+      "title": "Advisory on “Multistate Registration” Facility for GST Registration",
+      "link": "https://www.gst.gov.in/newsandupdates/read/674",
+      "date": "2026-10-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of September, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/673",
+      "date": "2026-10-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
       "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of I",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
@@ -116,6 +155,30 @@
       "category": "income-tax"
     },
     {
+      "title": "Advisory on use of version 3.3 of emSigner",
+      "link": "https://www.gst.gov.in/newsandupdates/read/672",
+      "date": "2026-09-19",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
+      "link": "https://www.gst.gov.in/newsandupdates/read/671",
+      "date": "2026-09-07",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of August, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/670",
+      "date": "2026-09-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
       "title": "CBDT has issued Notification No. 114/2026 [F. No. 370142/18/2026-TPL], notifying the rules and prescribed forms under the Foreign Assets of Small Taxpayers Disclosure Scheme, 2026.",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
@@ -138,6 +201,22 @@
       "date": "2026-08-18",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of July, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/669",
+      "date": "2026-08-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
+      "link": "https://www.gst.gov.in/newsandupdates/read/668",
+      "date": "2026-07-29",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
     },
     {
       "title": "The Central Board of Direct Taxes (CBDT), vide Notification No. 97/2026 [F. No. 370142/11/2026-TPL], has notified the Income-tax (Third Amendment) Rules, 2026. The notification introduces Form ITR-BN and amends Rule 332 by inserting Appendix IV to govern returns relating to search and requisition ca",
@@ -168,22 +247,6 @@
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
       "date": "2026-07-13",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued a Notification under Section 10(46) – Income Tax Exemption Granted to Mussoorie Dehradun Development Authority (Assessment Years 2022-23 & 2023-24).",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification%20No.%2073_0.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification%20No.%2073_0.pdf",
-      "date": "2026-07-06",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Condonation of delay in filing Form No. 10AB electronically for approval under clause (ii) of the first proviso to section 80G(5) of the Income-tax Act, 1961 — reg. Click here Pagination Previous items 11-20 of 58 items Next items Pagination First page Previous page",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Circular-No-06-2026.pdf#",
-      "pdf_link": null,
-      "date": "2026-07-06",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
     }
