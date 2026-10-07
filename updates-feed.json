@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:47:45+00:00",
+  "generated_at": "2026-10-07T12:41:57+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,92 +11,76 @@
   ],
   "items": [
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Samarth Urban Co-operative Bank Ltd., Osmanabad (Maharashtra), – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63735",
-      "date": "2026-10-06",
+      "title": "Exclusion of “Paytm Payments Bank Limited” from the Second Schedule to the Reserve Bank of India Act, 1934",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63751",
+      "date": "2026-10-07",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1257F64D50DC2576495CBAA8A49399787AD4.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1273B83C1B32C4F24440A620C7F569108609.PDF"
     },
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Motiram Agrawal Jalna Merchants Co-operative Bank Ltd, Jalna – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63732",
-      "date": "2026-10-05",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR12546CE6757A9E6B4505BC6E00D95E0DCB09.PDF"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sadbhav Nagrik Sahakari Bank Maryadit, Chhatarpur, Madhya Pradesh – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63731",
-      "date": "2026-10-05",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR12535687F72BE9814D0AAFA34288291E59FA.PDF"
-    },
-    {
-      "title": "Master Direction on Note Sorting Machines",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
-      "date": "2026-10-02",
+      "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/473MDD1229693F0604B6D996B1DF75C81E466.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT289FD5C6CE733C944BCA3C1590AAE0C4B78.PDF"
     },
     {
-      "title": "Non-Resident Deposits - Comprehensive Single Return (NRD-CSR)(R012): Submission under CIMS Sankalan Portal",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13725&Mode=0",
-      "date": "2026-10-01",
+      "title": "Reserve Bank of India (Payments Banks – Prudential Norms on Capital Adequacy) Third Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13734&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2800AE75657FD144B8ABC111ECF504BCC06.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT288675CF1D589A0489A814C572C2C3C58EA.PDF"
     },
     {
-      "title": "Reserve Bank of India (Local Area Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13722&Mode=0",
-      "date": "2026-10-01",
+      "title": "Reserve Bank of India (Small Finance Banks – Prudential Norms on Capital Adequacy) Sixth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13733&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT278A39F641BB3C5485194734D495C3B914E.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2878E15A34193CE4896B33D99E242813E2E.PDF"
     },
     {
-      "title": "Reserve Bank of India (Payments Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13721&Mode=0",
-      "date": "2026-10-01",
+      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Twelfth Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13732&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT277F3970CD9E76046B0870FB310FEAC22D9.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2868A1091DB85D94644B6D9959F166A25F4.PDF"
     },
     {
-      "title": "Reserve Bank of India (Small Finance Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13720&Mode=0",
-      "date": "2026-10-01",
+      "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT276B283340355CB4606A0E114A0985D9349.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT285F1B1B8F939D2474485000725A49F259B.PDF"
     },
     {
-      "title": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
-      "date": "2026-10-01",
+      "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13730&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT27591A82040B28E448E9C6F66A9C2855D70.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT284AC54C453B1964A66A31FB16A60EC6880.PDF"
     },
     {
-      "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
-      "date": "2026-10-01",
+      "title": "Reserve Bank of India (Commercial Banks – Credit Valuation Adjustment Framework) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13729&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI27401102026AA16BFEFF59341BF97FD2930B1A4A63C.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/474MD4DC544D5A93B4A8CA3ECBF1AD165EA13.PDF"
     },
     {
-      "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
-      "date": "2026-10-01",
+      "title": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
+      "date": "2026-10-07",
       "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/272MC011020266691348260DF4CF99ACE017F146409F1.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT28307C186A1A5F84D47870911D72F069023.PDF"
     },
     {
       "title": "Advisory on “Multistate Registration” Facility for GST Registration",
@@ -249,6 +233,22 @@
       "date": "2026-07-06",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
+    },
+    {
+      "title": "Condonation of delay in filing Form No. 10AB electronically for approval under clause (ii) of the first proviso to section 80G(5) of the Income-tax Act, 1961 — reg. Click here Pagination Previous items 11-20 of 58 items Next items Pagination First page Previous page",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Circular-No-06-2026.pdf#",
+      "pdf_link": null,
+      "date": "2026-07-06",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Advisory on Revision of Timeline for Amendment of Aggregate Annual Turnover (AATO), 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/666",
+      "date": "2026-07-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
     }
   ]
 }
