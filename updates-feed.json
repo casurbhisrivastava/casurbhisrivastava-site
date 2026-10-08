@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:41:57+00:00",
+  "generated_at": "2026-10-08T12:51:36+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,12 +11,28 @@
   ],
   "items": [
     {
-      "title": "Exclusion of “Paytm Payments Bank Limited” from the Second Schedule to the Reserve Bank of India Act, 1934",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63751",
-      "date": "2026-10-07",
+      "title": "RBI imposes monetary penalty on The Monghyr-Jamui Central Co-operative Bank Limited, Bihar",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63765",
+      "date": "2026-10-08",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1273B83C1B32C4F24440A620C7F569108609.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1287DDBA2524AC0645F3AE8C32B836279237.PDF"
+    },
+    {
+      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Sri Mahatma Basaveshwar Co-operative Bank Ltd., Afzalpur",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63764",
+      "date": "2026-10-08",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR128617D783FBCDA7467A89C606C48CC32F43.PDF"
+    },
+    {
+      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – The Tiruvalla Urban Co-operative Bank Ltd., Tiruvalla, Pathanamthitta",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63763",
+      "date": "2026-10-08",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR128503F12BEB7ED644CDAF9052D7E8A1E35E.PDF"
     },
     {
       "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
@@ -233,22 +249,6 @@
       "date": "2026-07-06",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
-    },
-    {
-      "title": "Condonation of delay in filing Form No. 10AB electronically for approval under clause (ii) of the first proviso to section 80G(5) of the Income-tax Act, 1961 — reg. Click here Pagination Previous items 11-20 of 58 items Next items Pagination First page Previous page",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Circular-No-06-2026.pdf#",
-      "pdf_link": null,
-      "date": "2026-07-06",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Advisory on Revision of Timeline for Amendment of Aggregate Annual Turnover (AATO), 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/666",
-      "date": "2026-07-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
     }
   ]
 }
