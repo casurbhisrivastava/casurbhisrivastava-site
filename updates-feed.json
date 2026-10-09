@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:51:36+00:00",
+  "generated_at": "2026-10-09T12:37:10+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,28 +11,36 @@
   ],
   "items": [
     {
-      "title": "RBI imposes monetary penalty on The Monghyr-Jamui Central Co-operative Bank Limited, Bihar",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63765",
-      "date": "2026-10-08",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63777",
+      "date": "2026-10-09",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1287DDBA2524AC0645F3AE8C32B836279237.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1299WSSBCEC507ADF86466BA01AB4AB32CBC189.PDF"
     },
     {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Sri Mahatma Basaveshwar Co-operative Bank Ltd., Afzalpur",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63764",
-      "date": "2026-10-08",
+      "title": "RBI cancels Certificate of Registration of 13 NBFCs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63773",
+      "date": "2026-10-09",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR128617D783FBCDA7467A89C606C48CC32F43.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1295F7E30DA434104EEA89A25FEE1B879CED.PDF"
     },
     {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – The Tiruvalla Urban Co-operative Bank Ltd., Tiruvalla, Pathanamthitta",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63763",
-      "date": "2026-10-08",
+      "title": "10 NBFCs surrender their Certificates of Registration to the RBI",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63772",
+      "date": "2026-10-09",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR128503F12BEB7ED644CDAF9052D7E8A1E35E.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1294A015668418224596A1F3F4D2F4467C34.PDF"
+    },
+    {
+      "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0",
+      "date": "2026-10-09",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT290D61DF2C36E9C4E04BF3619D3D462C893.PDF"
     },
     {
       "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
@@ -239,14 +247,6 @@
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
       "date": "2026-07-13",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued a Notification under Section 10(46) – Income Tax Exemption Granted to Mussoorie Dehradun Development Authority (Assessment Years 2022-23 & 2023-24).",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification%20No.%2073_0.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification%20No.%2073_0.pdf",
-      "date": "2026-07-06",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
     }
