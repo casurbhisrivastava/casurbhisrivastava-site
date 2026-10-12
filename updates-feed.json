@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:09:05+00:00",
+  "generated_at": "2026-10-12T14:29:09+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,22 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
+      "date": "2026-10-12",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
+      "date": "2026-10-12",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
     {
       "title": "Risk Management and Inter-Bank Dealings - Foreign Exchange Risk Reserve",
       "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13738&Mode=0",
@@ -25,14 +41,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/291NT8DE5483CA3F84609A0CA56720CD64103.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63777",
-      "date": "2026-10-09",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1299WSSBCEC507ADF86466BA01AB4AB32CBC189.PDF"
     },
     {
       "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
@@ -197,7 +205,7 @@
     {
       "title": "Online filing of ITR-6 for AY 2026-27 is available now.",
       "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
       "date": "2026-08-18",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
@@ -239,14 +247,6 @@
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
       "date": "2026-07-20",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 80/2026 [F. No. 275/19/2026-IT(B)], notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, ",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
-      "date": "2026-07-13",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
     }
