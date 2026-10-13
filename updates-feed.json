@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:29:09+00:00",
+  "generated_at": "2026-10-13T13:37:05+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,30 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Annual Returns in the form of GSTR-9/9C for FY 2025-26",
+      "link": "https://www.gst.gov.in/newsandupdates/read/677",
+      "date": "2026-10-13",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "FAQs in relation to recommendations of the 57th GST Council Meeting",
+      "link": "https://www.gst.gov.in/newsandupdates/read/676",
+      "date": "2026-10-13",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Risk Management and Inter-Bank Dealings",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
+      "date": "2026-10-12",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI293D62A07A6EF394B75BAB6BEBA6F159565.PDF"
+    },
     {
       "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax.",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
@@ -105,14 +129,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT284AC54C453B1964A66A31FB16A60EC6880.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Credit Valuation Adjustment Framework) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13729&Mode=0",
-      "date": "2026-10-07",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/474MD4DC544D5A93B4A8CA3ECBF1AD165EA13.PDF"
     },
     {
       "title": "Advisory on “Multistate Registration” Facility for GST Registration",
@@ -231,22 +247,6 @@
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
       "date": "2026-07-27",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT enhances taxpayer services by enabling taxpayers to view their Foreign Asset Information through the Annual Information Statement (AIS) .",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Annexure.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Annexure.pdf",
-      "date": "2026-07-20",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Hosting of note - regarding availability of Foreign Assets Information (CRS/FATCA) in Annual Information Statement (AIS) on the Income-tax e-Filing portal- Reg.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
-      "date": "2026-07-20",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
     }
