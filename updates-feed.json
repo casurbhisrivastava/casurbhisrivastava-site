@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:14:20+00:00",
+  "generated_at": "2026-10-15T10:54:07+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,14 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Scheduled Banks’ Statement of Position in India as on September 30, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63810",
+      "date": "2026-10-15",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1332426E0426F23B458ABBF950E28EB9C83D.PDF"
+    },
     {
       "title": "Annual Returns in the form of GSTR-9/9C for FY 2025-26",
       "link": "https://www.gst.gov.in/newsandupdates/read/677",
@@ -241,14 +249,6 @@
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
-    },
-    {
-      "title": "The Central Board of Direct Taxes (CBDT), vide Notification No. 97/2026 [F. No. 370142/11/2026-TPL], has notified the Income-tax (Third Amendment) Rules, 2026. The notification introduces Form ITR-BN and amends Rule 332 by inserting Appendix IV to govern returns relating to search and requisition ca",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
-      "date": "2026-07-27",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
     }
   ]
 }
