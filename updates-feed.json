@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:54:07+00:00",
+  "generated_at": "2026-10-16T10:45:00+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,14 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)",
+      "link": "https://www.gst.gov.in/newsandupdates/read/678",
+      "date": "2026-10-16",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
     {
       "title": "Scheduled Banks’ Statement of Position in India as on September 30, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63810",
@@ -238,14 +246,6 @@
       "title": "Gross and Net GST revenue collections for the month of July, 2026",
       "link": "https://www.gst.gov.in/newsandupdates/read/669",
       "date": "2026-08-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
-      "link": "https://www.gst.gov.in/newsandupdates/read/668",
-      "date": "2026-07-29",
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
