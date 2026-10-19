@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:26:28+00:00",
+  "generated_at": "2026-10-19T12:12:03+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,20 +11,28 @@
   ],
   "items": [
     {
-      "title": "RBI approves amalgamation of Indian branches of Emirates NBD Bank P.J.S.C. with RBL Bank Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63820",
-      "date": "2026-10-16",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
+      "date": "2026-10-19",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR13423877614C733144E982F11A756FCBD33F.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR13536883D9FCCB1A4ADBB91A8A01DA391BD2.PDF"
     },
     {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63819",
-      "date": "2026-10-16",
-      "source": "RBI Press Release",
+      "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+      "date": "2026-10-19",
+      "source": "RBI Notification",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1341WSSED16749D276749E2902F66665914BAE2.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT29576C2A2CDED3247308333EE2DE9383863.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13740&Mode=0",
+      "date": "2026-10-19",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/294NT8A37BD7CAFB1463E8FCD9E5CC9F4D45B.PDF"
     },
     {
       "title": "Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)",
@@ -131,30 +139,6 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2878E15A34193CE4896B33D99E242813E2E.PDF"
     },
     {
-      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Twelfth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13732&Mode=0",
-      "date": "2026-10-07",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2868A1091DB85D94644B6D9959F166A25F4.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
-      "date": "2026-10-07",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT285F1B1B8F939D2474485000725A49F259B.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13730&Mode=0",
-      "date": "2026-10-07",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT284AC54C453B1964A66A31FB16A60EC6880.PDF"
-    },
-    {
       "title": "Advisory on “Multistate Registration” Facility for GST Registration",
       "link": "https://www.gst.gov.in/newsandupdates/read/674",
       "date": "2026-10-01",
@@ -249,6 +233,22 @@
       "date": "2026-08-18",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of July, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/669",
+      "date": "2026-08-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
+      "link": "https://www.gst.gov.in/newsandupdates/read/668",
+      "date": "2026-07-29",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
     }
   ]
 }
