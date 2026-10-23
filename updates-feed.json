@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:11:55+00:00",
+  "generated_at": "2026-10-23T11:03:28+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,12 +11,20 @@
   ],
   "items": [
     {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Puducherry Co-operative Urban Bank Ltd",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63840",
-      "date": "2026-10-21",
+      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
+      "date": "2026-10-23",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/297NTF24A93A6BC7943F2A35FACCE28E4ABC3.PDF"
+    },
+    {
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63845",
+      "date": "2026-10-22",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR13625551E158B9D94B168395F687C991C567.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1367C2DFC52E397C4A30B04028C8B2D41D97.PDF"
     },
     {
       "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
@@ -129,14 +137,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT288675CF1D589A0489A814C572C2C3C58EA.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks – Prudential Norms on Capital Adequacy) Sixth Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13733&Mode=0",
-      "date": "2026-10-07",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT2878E15A34193CE4896B33D99E242813E2E.PDF"
     },
     {
       "title": "Advisory on “Multistate Registration” Facility for GST Registration",
