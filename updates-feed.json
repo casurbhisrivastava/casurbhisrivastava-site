@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:31:10+00:00",
+  "generated_at": "2026-10-27T11:38:53+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -7,9 +7,26 @@
   ],
   "errors": [
     "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (not well-formed (invalid token): line 15, column 70)",
+    "gst.gov.in: scraper ran but found 0 items -- see gst_debug.html artifact",
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
+      "date": "2026-10-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF"
+    },
+    {
+      "title": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
+      "date": "2026-10-27",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
     {
       "title": "Hon’ble Prime Minister of India inaugurates the Reserve Bank of India’s Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63862",
@@ -17,14 +34,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR138497619370A7424948A2D7BDDA409DB989.PDF"
-    },
-    {
-      "title": "RBI issues Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 on Minimum Capital Requirements for Operational Risk",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63858",
-      "date": "2026-10-23",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR13805D68475ED8C24E62BB01BB5C51E71C8C.PDF"
     },
     {
       "title": "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank",
@@ -67,30 +76,6 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/294NT8A37BD7CAFB1463E8FCD9E5CC9F4D45B.PDF"
     },
     {
-      "title": "Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)",
-      "link": "https://www.gst.gov.in/newsandupdates/read/678",
-      "date": "2026-10-16",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Annual Returns in the form of GSTR-9/9C for FY 2025-26",
-      "link": "https://www.gst.gov.in/newsandupdates/read/677",
-      "date": "2026-10-13",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "FAQs in relation to recommendations of the 57th GST Council Meeting",
-      "link": "https://www.gst.gov.in/newsandupdates/read/676",
-      "date": "2026-10-13",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
       "title": "Risk Management and Inter-Bank Dealings",
       "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
       "date": "2026-10-12",
@@ -131,38 +116,6 @@
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/291NT8DE5483CA3F84609A0CA56720CD64103.PDF"
     },
     {
-      "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13736&Mode=0",
-      "date": "2026-10-09",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT290D61DF2C36E9C4E04BF3619D3D462C893.PDF"
-    },
-    {
-      "title": "Recommendations of the 57th GST Council Meeting – Key Reforms",
-      "link": "https://www.gst.gov.in/newsandupdates/read/675",
-      "date": "2026-10-09",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on “Multistate Registration” Facility for GST Registration",
-      "link": "https://www.gst.gov.in/newsandupdates/read/674",
-      "date": "2026-10-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of September, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/673",
-      "date": "2026-10-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
       "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of I",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
@@ -195,30 +148,6 @@
       "category": "income-tax"
     },
     {
-      "title": "Advisory on use of version 3.3 of emSigner",
-      "link": "https://www.gst.gov.in/newsandupdates/read/672",
-      "date": "2026-09-19",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
-      "link": "https://www.gst.gov.in/newsandupdates/read/671",
-      "date": "2026-09-07",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of August, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/670",
-      "date": "2026-09-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
       "title": "CBDT has issued Notification No. 114/2026 [F. No. 370142/18/2026-TPL], notifying the rules and prescribed forms under the Foreign Assets of Small Taxpayers Disclosure Scheme, 2026.",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
@@ -235,20 +164,44 @@
       "category": "income-tax"
     },
     {
-      "title": "Online filing of ITR-6 for AY 2026-27 is available now.",
+      "title": "Online filing of ITR-6 for AY 2026-27 is available now. Pagination 1-10 of 61 items Next items Pagination First page Previous page 1 of 7 Pages Next page",
       "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
       "date": "2026-08-18",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
     },
     {
-      "title": "Gross and Net GST revenue collections for the month of July, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/669",
-      "date": "2026-08-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
+      "title": "The Central Board of Direct Taxes (CBDT), vide Notification No. 97/2026 [F. No. 370142/11/2026-TPL], has notified the Income-tax (Third Amendment) Rules, 2026. The notification introduces Form ITR-BN and amends Rule 332 by inserting Appendix IV to govern returns relating to search and requisition ca",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-97-2026.pdf",
+      "date": "2026-07-27",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBDT enhances taxpayer services by enabling taxpayers to view their Foreign Asset Information through the Annual Information Statement (AIS) .",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Annexure.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Annexure.pdf",
+      "date": "2026-07-20",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Hosting of note - regarding availability of Foreign Assets Information (CRS/FATCA) in Annual Information Statement (AIS) on the Income-tax e-Filing portal- Reg.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/OM_17.07.2026_Hosting%20of%20Note%20on%20CRS%20in%20AIS.pdf",
+      "date": "2026-07-20",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "CBDT has issued Notification No. 80/2026 [F. No. 275/19/2026-IT(B)], notifying that specified payments such as interest, dividends, professional fees, commission, brokerage, and other financial service-related income received by eligible IFSC Units shall be exempt from TDS under the Income-tax Act, ",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/Notification-80-2026.pdf",
+      "date": "2026-07-13",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
     }
   ]
 }
