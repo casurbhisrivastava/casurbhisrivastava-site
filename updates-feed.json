@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:19:53+00:00",
+  "generated_at": "2026-10-30T12:10:36+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,36 +11,36 @@
   ],
   "items": [
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Irinjalakuda Town Co-operative Bank Ltd., Kerala - Extension of period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63881",
-      "date": "2026-10-29",
+      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – October 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63894",
+      "date": "2026-10-30",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1404F71DA5FF959F4F5B9F09AA40860F67EF.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1416861145789FA74EA4957DE67E2E56A75F.PDF"
     },
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Lokapavani Mahila Sahakari Bank Niyamitha, Mandya - Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63878",
-      "date": "2026-10-28",
+      "title": "625 th Meeting of Central Board of the Reserve Bank of India",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63892",
+      "date": "2026-10-30",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR14005EDE2462C6BC4323A4D7CA2C685B171B.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1414A05F4B0E845E4FCCAAA529BDA1C2FE6D.PDF"
     },
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sonpeth Nagari Sahakari Bank Maryadit, Sonpeth, Dist. Parbhani – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63875",
-      "date": "2026-10-28",
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63890",
+      "date": "2026-10-30",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1397EE113824D6FF4F058ADDF54E16D312AF.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1413AFFA7B4425D04A3B995740A266028805.PDF"
     },
     {
-      "title": "Advisory – Scheduled Maintenance of e-Invoice Services (31 October – 1 November 2026)",
-      "link": "https://www.gst.gov.in/newsandupdates/read/679",
-      "date": "2026-10-28",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
+      "title": "Scheduled Banks’ Statement of Position in India as on October 15, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63887",
+      "date": "2026-10-30",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1409FD7DFBBB3EC54620941C53B5489CBB3F.PDF"
     },
     {
       "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
@@ -121,14 +121,6 @@
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
-    },
-    {
-      "title": "Risk Management and Inter-Bank Dealings",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13739&Mode=0",
-      "date": "2026-10-12",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI293D62A07A6EF394B75BAB6BEBA6F159565.PDF"
     },
     {
       "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax.",
@@ -249,6 +241,14 @@
       "date": "2026-08-18",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of July, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/669",
+      "date": "2026-08-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
     }
   ]
 }
