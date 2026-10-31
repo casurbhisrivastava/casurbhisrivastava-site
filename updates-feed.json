@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:10:36+00:00",
+  "generated_at": "2026-10-31T11:43:17+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -33,14 +33,6 @@
       "source": "RBI Press Release",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1413AFFA7B4425D04A3B995740A266028805.PDF"
-    },
-    {
-      "title": "Scheduled Banks’ Statement of Position in India as on October 15, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63887",
-      "date": "2026-10-30",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1409FD7DFBBB3EC54620941C53B5489CBB3F.PDF"
     },
     {
       "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
@@ -246,6 +238,14 @@
       "title": "Gross and Net GST revenue collections for the month of July, 2026",
       "link": "https://www.gst.gov.in/newsandupdates/read/669",
       "date": "2026-08-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
+      "link": "https://www.gst.gov.in/newsandupdates/read/668",
+      "date": "2026-07-29",
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
