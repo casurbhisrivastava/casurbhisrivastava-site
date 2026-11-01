@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:43:17+00:00",
+  "generated_at": "2026-11-01T12:43:05+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,62 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Advisory on Key Changes in the GST Registration Amendment Process",
+      "link": "https://www.gst.gov.in/newsandupdates/read/686",
+      "date": "2026-11-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on Enhancements Related to Composition Levy Functionality under GST",
+      "link": "https://www.gst.gov.in/newsandupdates/read/685",
+      "date": "2026-11-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "TDS Registration Advisory for Dealers in Scrap and Other Notified Goods",
+      "link": "https://www.gst.gov.in/newsandupdates/read/684",
+      "date": "2026-11-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on the Revised Process for Approval of Registration Cancellation application under Form GST REG-16",
+      "link": "https://www.gst.gov.in/newsandupdates/read/683",
+      "date": "2026-11-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on Simplified Registration Scheme under Rule 14B of the CGST Rules, 2017",
+      "link": "https://www.gst.gov.in/newsandupdates/read/682",
+      "date": "2026-11-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Advisory on Important Changes in FORM GST REG-01 for GST Registration",
+      "link": "https://www.gst.gov.in/newsandupdates/read/681",
+      "date": "2026-11-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
+    {
+      "title": "Gross and Net GST revenue collections for the month of October, 2026",
+      "link": "https://www.gst.gov.in/newsandupdates/read/680",
+      "date": "2026-11-01",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
     {
       "title": "Lending and Deposit Rates of Scheduled Commercial Banks – October 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63894",
@@ -190,62 +246,6 @@
       "title": "Advisory on use of version 3.3 of emSigner",
       "link": "https://www.gst.gov.in/newsandupdates/read/672",
       "date": "2026-09-19",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Enabling Filing of Appeals in Cases Involving NIL or Zero Demand Amount – reg.",
-      "link": "https://www.gst.gov.in/newsandupdates/read/671",
-      "date": "2026-09-07",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of August, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/670",
-      "date": "2026-09-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "CBDT has issued Notification No. 114/2026 [F. No. 370142/18/2026-TPL], notifying the rules and prescribed forms under the Foreign Assets of Small Taxpayers Disclosure Scheme, 2026.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-08/Notification%20114.pdf",
-      "date": "2026-09-01",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Offline utility of ITR-6 for AY 2026-27 is available now for filing.",
-      "link": "https://www.incometax.gov.in/iec/foportal/downloads/income-tax-returns",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-07/ITR%201_Schema%20change%20document_AY2026-27_V1.1.pdf",
-      "date": "2026-08-20",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Online filing of ITR-6 for AY 2026-27 is available now. Pagination 1-10 of 61 items Next items Pagination First page Previous page 1 of 7 Pages Next page",
-      "link": "https://www.incometax.gov.in/iec/foportal/latest-news",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
-      "date": "2026-08-18",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of July, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/669",
-      "date": "2026-08-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on Keeping on Hold the Proposed e-Way Bill Enhancements",
-      "link": "https://www.gst.gov.in/newsandupdates/read/668",
-      "date": "2026-07-29",
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
