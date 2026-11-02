@@ -1,254 +1,40 @@
 {
-  "generated_at": "2026-11-01T12:43:05+00:00",
-  "sources": [
-    "https://www.rbi.org.in/pressreleases_rss.xml",
-    "https://www.rbi.org.in/notifications_rss.xml",
-    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1"
-  ],
-  "errors": [
-    "https://www.pib.gov.in/ViewRss.aspx?reg=3&lang=1: malformed XML/RSS response (not well-formed (invalid token): line 15, column 70)",
-    "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
-  ],
+  "generated_at": "2026-11-02T05:20:49+00:00",
   "items": [
     {
-      "title": "Advisory on Key Changes in the GST Registration Amendment Process",
-      "link": "https://www.gst.gov.in/newsandupdates/read/686",
-      "date": "2026-11-01",
-      "source": "GST Portal (Official)",
+      "title": "CBIC notifications effective 1 Nov 2026: rate changes, reverse charge on waste and scrap, registration and TDS amendments",
+      "source": "CBIC",
       "category": "gst",
-      "pdf_link": null
+      "date": "01 Nov 2026",
+      "link": "https://cbic-gst.gov.in/"
     },
     {
-      "title": "Advisory on Enhancements Related to Composition Levy Functionality under GST",
-      "link": "https://www.gst.gov.in/newsandupdates/read/685",
-      "date": "2026-11-01",
-      "source": "GST Portal (Official)",
+      "title": "57th GST Council: Recommendations on arrest, prosecution, penalties, refunds",
+      "source": "PIB (GST Council)",
       "category": "gst",
-      "pdf_link": null
+      "date": "08 Oct 2026",
+      "link": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934&reg=48&lang=2"
     },
     {
-      "title": "TDS Registration Advisory for Dealers in Scrap and Other Notified Goods",
-      "link": "https://www.gst.gov.in/newsandupdates/read/684",
-      "date": "2026-11-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on the Revised Process for Approval of Registration Cancellation application under Form GST REG-16",
-      "link": "https://www.gst.gov.in/newsandupdates/read/683",
-      "date": "2026-11-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on Simplified Registration Scheme under Rule 14B of the CGST Rules, 2017",
-      "link": "https://www.gst.gov.in/newsandupdates/read/682",
-      "date": "2026-11-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on Important Changes in FORM GST REG-01 for GST Registration",
-      "link": "https://www.gst.gov.in/newsandupdates/read/681",
-      "date": "2026-11-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of October, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/680",
-      "date": "2026-11-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – October 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63894",
-      "date": "2026-10-30",
-      "source": "RBI Press Release",
+      "title": "RBI Monetary Policy: repo rate raised by 25 bps to 5.50%",
+      "source": "RBI",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1416861145789FA74EA4957DE67E2E56A75F.PDF"
+      "date": "07 Oct 2026",
+      "link": "https://www.rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx"
     },
     {
-      "title": "625 th Meeting of Central Board of the Reserve Bank of India",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63892",
-      "date": "2026-10-30",
-      "source": "RBI Press Release",
+      "title": "CBDT Circular 07/2026: audit-case ITR due date 21 Nov 2026 (audit report was due 21 Oct)",
+      "source": "Income Tax Dept",
+      "category": "income-tax",
+      "date": "28 Sep 2026",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf"
+    },
+    {
+      "title": "RBI loan recovery directions: calls 8 am–7 pm, recorded calls, certified agents — from 1 Jan 2027",
+      "source": "RBI",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1414A05F4B0E845E4FCCAAA529BDA1C2FE6D.PDF"
-    },
-    {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63890",
-      "date": "2026-10-30",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1413AFFA7B4425D04A3B995740A266028805.PDF"
-    },
-    {
-      "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
-      "date": "2026-10-27",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF"
-    },
-    {
-      "title": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
-      "date": "2026-10-27",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
-      "date": "2026-10-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-      "date": "2026-10-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298343573D91EA4465B8CFF54B27EC977D5.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
-      "date": "2026-10-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/297NTF24A93A6BC7943F2A35FACCE28E4ABC3.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-      "date": "2026-10-19",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT29576C2A2CDED3247308333EE2DE9383863.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Miscellaneous) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13740&Mode=0",
-      "date": "2026-10-19",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/294NT8A37BD7CAFB1463E8FCD9E5CC9F4D45B.PDF"
-    },
-    {
-      "title": "Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)",
-      "link": "https://www.gst.gov.in/newsandupdates/read/678",
-      "date": "2026-10-16",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Annual Returns in the form of GSTR-9/9C for FY 2025-26",
-      "link": "https://www.gst.gov.in/newsandupdates/read/677",
-      "date": "2026-10-13",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "FAQs in relation to recommendations of the 57th GST Council Meeting",
-      "link": "https://www.gst.gov.in/newsandupdates/read/676",
-      "date": "2026-10-13",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
-      "date": "2026-10-12",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
-      "date": "2026-10-12",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Recommendations of the 57th GST Council Meeting – Key Reforms",
-      "link": "https://www.gst.gov.in/newsandupdates/read/675",
-      "date": "2026-10-09",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on “Multistate Registration” Facility for GST Registration",
-      "link": "https://www.gst.gov.in/newsandupdates/read/674",
-      "date": "2026-10-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of September, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/673",
-      "date": "2026-10-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of I",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
-      "date": "2026-09-29",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
-      "date": "2026-09-24",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 120/2026 extending the registration deadline for Registered Valuers and Authorised Income-tax Practitioners to 31 March 2027 and introducing revised Forms 169 and 171.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
-      "date": "2026-09-24",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 3 of 2026 notifying the Procedure for registration of reporting person/entity and submission of Form No. 98 as per rule 160 of the Income-tax Rules, 2026.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "date": "2026-09-21",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Advisory on use of version 3.3 of emSigner",
-      "link": "https://www.gst.gov.in/newsandupdates/read/672",
-      "date": "2026-09-19",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
+      "date": "06 Aug 2026",
+      "link": "https://www.rbi.org.in/Scripts/NotificationUser.aspx"
     }
   ]
 }
