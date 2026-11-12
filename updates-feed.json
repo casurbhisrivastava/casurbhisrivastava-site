@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:36:27+00:00",
+  "generated_at": "2026-11-12T14:40:05+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -17,22 +17,6 @@
       "source": "RBI Notification",
       "category": "banking",
       "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/476MDDC5A297B05094F8096910FE97E1AD34D.PDF"
-    },
-    {
-      "title": "Supersession of Board of Directors of Abhyudaya Co-operative Bank Ltd., Mumbai - Extension of period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63951",
-      "date": "2026-11-09",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1473C7F31B117EC84361879F84C3B4426857.PDF"
-    },
-    {
-      "title": "Reserve Bank cancels Certificate of Registration of Gandhinagar Leasing and Finance Ltd.",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63949",
-      "date": "2026-11-09",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR147198D5E94CA4404186BBC665F85C0CA0FA.PDF"
     },
     {
       "title": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), vide Notification No. 141/2026 dated 4 N",
@@ -249,6 +233,22 @@
       "date": "2026-09-24",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
+    },
+    {
+      "title": "CBDT has issued Notification No. 3 of 2026 notifying the Procedure for registration of reporting person/entity and submission of Form No. 98 as per rule 160 of the Income-tax Rules, 2026.",
+      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
+      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
+      "date": "2026-09-21",
+      "source": "Income Tax Dept - News & e-Campaigns",
+      "category": "income-tax"
+    },
+    {
+      "title": "Advisory on use of version 3.3 of emSigner",
+      "link": "https://www.gst.gov.in/newsandupdates/read/672",
+      "date": "2026-09-19",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
     }
   ]
 }
