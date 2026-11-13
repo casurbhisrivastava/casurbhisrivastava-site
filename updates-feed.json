@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:40:05+00:00",
+  "generated_at": "2026-11-13T13:58:02+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,30 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "Reserve Bank of India imposes monetary penalty on One Mobikwik Systems Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63973",
+      "date": "2026-11-13",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR14965D64E40602AF40FC8A612C6E7051E49C.PDF"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63972",
+      "date": "2026-11-13",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1494WSSD1CECBCD43C042DFB1E3EBE0CCA98115.PDF"
+    },
+    {
+      "title": "Scheduled Banks’ Statement of Position in India as on October 31, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63971",
+      "date": "2026-11-13",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR14933D3F046793944702BDD6069D62555083.PDF"
+    },
     {
       "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
       "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
@@ -225,30 +249,6 @@
       "date": "2026-09-24",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 120/2026 extending the registration deadline for Registered Valuers and Authorised Income-tax Practitioners to 31 March 2027 and introducing revised Forms 169 and 171.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
-      "date": "2026-09-24",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 3 of 2026 notifying the Procedure for registration of reporting person/entity and submission of Form No. 98 as per rule 160 of the Income-tax Rules, 2026.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "date": "2026-09-21",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Advisory on use of version 3.3 of emSigner",
-      "link": "https://www.gst.gov.in/newsandupdates/read/672",
-      "date": "2026-09-19",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
     }
   ]
 }
