@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:51:01+00:00",
+  "generated_at": "2026-11-17T15:31:30+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,20 +11,20 @@
   ],
   "items": [
     {
-      "title": "RBI cancels Certificate of Registration of 49 NBFCs",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63979",
-      "date": "2026-11-16",
+      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
+      "date": "2026-11-17",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1501B081AAD0D9F54FF0ABA1145F8A96F900.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1510F9943DA6052E4B2398FCFE570340A8BC.PDF"
     },
     {
-      "title": "13 NBFCs and 1 HFC surrender their Certificates of Registration to the RBI",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63978",
-      "date": "2026-11-16",
-      "source": "RBI Press Release",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1500NBFC32170ACC94AB4981BD7D575C53002EDB.PDF"
+      "title": "Subject: Advisory on Implementation of e-Invoicing for RCM Domestic Supplies (RCMDOM) and Import of Services (RCMIMP) with effect from 1st January 2027",
+      "link": "https://www.gst.gov.in/newsandupdates/read/688",
+      "date": "2026-11-17",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
     },
     {
       "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
