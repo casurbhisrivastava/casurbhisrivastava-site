@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:17:37+00:00",
+  "generated_at": "2026-11-20T14:55:37+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,38 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI imposes monetary penalty on Fusion Finance Limited",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64015",
+      "date": "2026-11-20",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15371CFC7ACEA1EB441DAABD793CBC2F8C7D.PDF"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64013",
+      "date": "2026-11-20",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/HPR1525D737C9B08388459E8011026508C0A921.PDF"
+    },
+    {
+      "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
+      "date": "2026-11-20",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15316769362C74B84CFCBF6DD2C12A5DC8E6.PDF"
+    },
+    {
+      "title": "Advisory: Introduction of Metro Rail as an Additional Mode of Transport in the E-Way Bill System",
+      "link": "https://www.gst.gov.in/newsandupdates/read/689",
+      "date": "2026-11-20",
+      "source": "GST Portal (Official)",
+      "category": "gst",
+      "pdf_link": null
+    },
     {
       "title": "Subject: Advisory on Implementation of e-Invoicing for RCM Domestic Supplies (RCMDOM) and Import of Services (RCMIMP) with effect from 1st January 2027",
       "link": "https://www.gst.gov.in/newsandupdates/read/688",
@@ -217,38 +249,6 @@
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
-    },
-    {
-      "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of I",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
-      "date": "2026-09-29",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 121/2026 extends TDS reporting requirements for non-resident property transactions and updates Forms 132 & 141.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-121-2026.pdf",
-      "date": "2026-09-24",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 120/2026 extending the registration deadline for Registered Valuers and Authorised Income-tax Practitioners to 31 March 2027 and introducing revised Forms 169 and 171.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-no-120-2026.pdf",
-      "date": "2026-09-24",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 3 of 2026 notifying the Procedure for registration of reporting person/entity and submission of Form No. 98 as per rule 160 of the Income-tax Rules, 2026.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Notification-3-of-2026.pdf",
-      "date": "2026-09-21",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
     }
   ]
 }
