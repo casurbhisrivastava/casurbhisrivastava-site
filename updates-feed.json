@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:05:10+00:00",
+  "generated_at": "2026-11-23T17:29:34+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -11,28 +11,76 @@
   ],
   "items": [
     {
-      "title": "RBI imposes monetary penalty on Fusion Finance Limited",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64015",
-      "date": "2026-11-20",
+      "title": "Governor, Reserve Bank of India meets Managing Directors & Chief Executive Officers of select NBFCs, HFCs and Industry Representatives in Mumbai on November 23, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64032",
+      "date": "2026-11-23",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15371CFC7ACEA1EB441DAABD793CBC2F8C7D.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1554CCD9E0A8190945B5850A236DFFB5E12F.PDF"
     },
     {
-      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64013",
-      "date": "2026-11-20",
+      "title": "Governor, Reserve Bank of India meets Chairpersons and Managing Directors & Chief Executive Officers of select UCBs and Industry Representatives in Mumbai on November 23, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64031",
+      "date": "2026-11-23",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/HPR1525D737C9B08388459E8011026508C0A921.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15530CC45C3FF1644BD8844402C076202FF7.PDF"
     },
     {
-      "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
-      "date": "2026-11-20",
+      "title": "Reserve Bank (Securitisation Transactions) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64028",
+      "date": "2026-11-23",
       "source": "RBI Press Release",
       "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15316769362C74B84CFCBF6DD2C12A5DC8E6.PDF"
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1550828E203BA4C74AA7AF85F02B5E9E8618.PDF"
+    },
+    {
+      "title": "RBI issues Draft Amendment Directions for ‘Preventive Safeguards for Electronic Banking Transactions (EBTs)’",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64026",
+      "date": "2026-11-23",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR15481A16A331A8154221B1B3889AD4D0008D.PDF"
+    },
+    {
+      "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
+      "date": "2026-11-23",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR154776E60D974F0545EA975A0B550C301D87.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
+      "date": "2026-11-23",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT307C0BF88BB07734852972E54F8B576AAC7.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0",
+      "date": "2026-11-23",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3067514ABFAA5774374811512162FA39EB4.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
+      "date": "2026-11-23",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT30511C215AE336743B58993F87C02ECC002.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
+      "date": "2026-11-23",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3043637FDEB03CF4D13A0F337D17BF78F0B.PDF"
     },
     {
       "title": "Advisory: Introduction of Metro Rail as an Additional Mode of Transport in the E-Way Bill System",
@@ -147,44 +195,12 @@
       "pdf_link": null
     },
     {
-      "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
-      "date": "2026-10-27",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOT300F305FBB8AB71472391BE6B9C2D74EB35.PDF"
-    },
-    {
       "title": "CBDT has proposed the Income-tax (Seventh Amendment) Rules, 2026, introducing Rule 281A and new Form 173A for furnishing information to claim exemption on interest income and capital gains from Government securities under Schedule IV of the Income-tax Act, 2025.",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-137-2026.pdf",
       "date": "2026-10-27",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
-    },
-    {
-      "title": "Delegation of Compounding of certain Contraventions under FEMA, 1999 to Regional Offices of the Reserve Bank",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13745&Mode=0",
-      "date": "2026-10-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298AC9CBAC4415B41D5B6CE45FF58A5AB54.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-      "date": "2026-10-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT298343573D91EA4465B8CFF54B27EC977D5.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
-      "date": "2026-10-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/297NTF24A93A6BC7943F2A35FACCE28E4ABC3.PDF"
     },
     {
       "title": "Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under Reverse Charge Mechanism for Domestic Supplies from Unregistered Persons (RCMDOM) and Import of Services (RCMIMP)",
@@ -230,22 +246,6 @@
       "title": "Recommendations of the 57th GST Council Meeting – Key Reforms",
       "link": "https://www.gst.gov.in/newsandupdates/read/675",
       "date": "2026-10-09",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on “Multistate Registration” Facility for GST Registration",
-      "link": "https://www.gst.gov.in/newsandupdates/read/674",
-      "date": "2026-10-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of September, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/673",
-      "date": "2026-10-01",
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
