@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:27:28+00:00",
+  "generated_at": "2026-11-27T16:11:09+00:00",
   "sources": [
     "https://www.rbi.org.in/pressreleases_rss.xml",
     "https://www.rbi.org.in/notifications_rss.xml",
@@ -10,6 +10,102 @@
     "mca.gov.in: scraper ran but found 0 items -- see mca_debug.html artifact"
   ],
   "items": [
+    {
+      "title": "RBI Issues Amendment Directions on ‘Suspected Money Mule Accounts to Prevent Cyber-enabled Financial Frauds’",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64062",
+      "date": "2026-11-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR158441DB179AB5824577A7871B75C32B0702.PDF"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64057",
+      "date": "2026-11-27",
+      "source": "RBI Press Release",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR1579WSSC52BA5CE3F774F2BA07112A933DA2815.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13768&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3160034F4085AC24678A877596FB6913F30.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Urban Co-operative Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13767&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT31549F0D9FEE2FD4B3F82B48E08FEE4C6FD.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Regional Rural Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13766&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3145E619244785C4FBD902150185BB9994F.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Local Area Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13765&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3131A6E10F0F2D948FA91ED1E6CB60D6772.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Small Finance Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13764&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI3124A40B3EDFBCF4DAA920AC3E218C451BB.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13763&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT311F735490DD0924A92AEB17144557F391A.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13762&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD4797B5FE2A6E13040789D13068AEBF7A964.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13761&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD478B97A8B21B85D417E96D2FA9EDC2A2A8E.PDF"
+    },
+    {
+      "title": "Reserve Bank of India (Digital Payments – Card-based transaction) Directions, 2026",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13760&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/477MD27112026EF6EF971FB54489288F4B731B409D9CE.PDF"
+    },
+    {
+      "title": "Section 42(1) of the Reserve Bank of India Act, 1934 - Change in Daily Minimum Cash Reserve Maintenance Requirement",
+      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13759&Mode=0",
+      "date": "2026-11-27",
+      "source": "RBI Notification",
+      "category": "banking",
+      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/310NTFF0FFDF6AF554020849CBE9D36E4E36E.PDF"
+    },
     {
       "title": "Enhancements in Refund Application (FORM GST RFD-01)",
       "link": "https://www.gst.gov.in/newsandupdates/read/691",
@@ -25,38 +121,6 @@
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
-    },
-    {
-      "title": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
-      "date": "2026-11-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT307C0BF88BB07734852972E54F8B576AAC7.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0",
-      "date": "2026-11-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3067514ABFAA5774374811512162FA39EB4.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
-      "date": "2026-11-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT30511C215AE336743B58993F87C02ECC002.PDF"
-    },
-    {
-      "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
-      "date": "2026-11-23",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NT3043637FDEB03CF4D13A0F337D17BF78F0B.PDF"
     },
     {
       "title": "Advisory: Introduction of Metro Rail as an Additional Mode of Transport in the E-Way Bill System",
@@ -75,28 +139,12 @@
       "pdf_link": null
     },
     {
-      "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
-      "date": "2026-11-11",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/476MDDC5A297B05094F8096910FE97E1AD34D.PDF"
-    },
-    {
       "title": "CBDT has notified that no tax shall be deducted on dividend income paid by an International Financial Services Centre (IFSC) unit engaged in aircraft leasing to another IFSC unit engaged in aircraft leasing, subject to furnishing the prescribed Form No. 1(N), vide Notification No. 141/2026 dated 4 N",
       "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-11/Notification-No-141-2026.pdf",
       "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-11/Notification-No-141-2026.pdf",
       "date": "2026-11-06",
       "source": "Income Tax Dept - News & e-Campaigns",
       "category": "income-tax"
-    },
-    {
-      "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
-      "link": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
-      "date": "2026-11-05",
-      "source": "RBI Notification",
-      "category": "banking",
-      "pdf_link": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/475MDA65A2A40240B4510BB6301A33C9ECBFE.PDF"
     },
     {
       "title": "Revision in E-Way Bill and Consolidated E-Way Bill Numbering Formats w.e.f. 1 January 2027",
@@ -201,54 +249,6 @@
       "source": "GST Portal (Official)",
       "category": "gst",
       "pdf_link": null
-    },
-    {
-      "title": "CBDT Notification No. 133/2026 amends the 1988 notification to specify that Joint Commissioners (Appeals) and Additional Commissioners (Appeals) shall be subordinate to the jurisdictional Principal Chief Commissioner or Chief Commissioner of Income-tax.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-133-2026.pdf",
-      "date": "2026-10-12",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "CBDT has issued Notification No. 134/2026 dated 8 October 2026, notifying the Income-tax (Sixth Amendment) Rules, 2026, which introduce a revised Form 161 for filing applications for waiver of penalty under section 440(2) of the Income-tax Act, 2025.",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-10/Notification-no-134-2026.pdf",
-      "date": "2026-10-12",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
-    },
-    {
-      "title": "Recommendations of the 57th GST Council Meeting – Key Reforms",
-      "link": "https://www.gst.gov.in/newsandupdates/read/675",
-      "date": "2026-10-09",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Advisory on “Multistate Registration” Facility for GST Registration",
-      "link": "https://www.gst.gov.in/newsandupdates/read/674",
-      "date": "2026-10-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "Gross and Net GST revenue collections for the month of September, 2026",
-      "link": "https://www.gst.gov.in/newsandupdates/read/673",
-      "date": "2026-10-01",
-      "source": "GST Portal (Official)",
-      "category": "gst",
-      "pdf_link": null
-    },
-    {
-      "title": "As per Circular No.07/2026 dated 28th September,2026, the due dates for ITR and Audit Report are extended as below: Due date for filing of Income Tax Returns for AY 2026-27 is extended in the cases of persons mentioned at Sl.No.2 in the Table below Explanation2 to Sub-section (1) of Section 139 of I",
-      "link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
-      "pdf_link": "https://www.incometax.gov.in/iec/foportal/sites/default/files/2026-09/Circular-7-2026.pdf",
-      "date": "2026-09-29",
-      "source": "Income Tax Dept - News & e-Campaigns",
-      "category": "income-tax"
     }
   ]
 }
